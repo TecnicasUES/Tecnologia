@@ -1,7 +1,8 @@
 @charset "utf-8";
 .hola{
 text-align: center;
-color:blue;
+color:red;
 font-size:14pt;
-font-weight:bold; 
+font-weight:bold;
+
 }
