@@ -1,1 +1,31 @@
-@charset "utf-8";
+@charset "utf-8"; 
+
+
+-=clase 
+#=id 
+
+.hola{ 
+	 color:red;
+	 text-align: center; 
+	 font-size: 14pt;  
+	 font-weight: bold; 
+	 negrita 
+	} 
+#pollo{ 
+   text-align: right; 
+     font-weight: italic; 
+     font-size: 22pt 
+     color:blue;  
+
+
+.oreo{  
+	background:green 
+	width: 100%;
+	height: 50%;
+	float: right;
+	border: 1px solid #fff; 
+
+
+
+
+
