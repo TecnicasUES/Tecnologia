@@ -1,1 +1,31 @@
 @charset "utf-8";
+
+{;}
+
+
+.hola{
+	color: red;
+	text-align: center;
+	font-size: 64pt;
+	font-weight: bold;
+}
+
+#pollo{
+	text-align: right;
+	font-weight: italic;
+	font-size: 20pt;
+	color: blue;
+}
+
+.oreo{
+	background: green;
+	width: 100%;
+	height: 50%;
+	float: right;
+	border: 1px solid black;
+}
+
+.meller{
+	border-radius: 2px;
+}
+
