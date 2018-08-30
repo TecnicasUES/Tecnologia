@@ -13,22 +13,19 @@ body {
 	background: #FFBCA5;
 	height: 55px;
 	float:left;
-	border: 1px solid white;
 }
 
 .child1{
 	width: 55%;
 	height: 55px;
-	border: 1px solid white;
 	background: #8B5D9E;
 	float:left;
 }
 
 .child2{
-	width: 44.6%;
+	width: 45%;
 	float:left;
 	background: #C5B6CC;
-	border:1px solid white;
 	height: 55px;
 
 }
