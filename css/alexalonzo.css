@@ -19,7 +19,7 @@ body{
 	float: left;
 }
 .child2{
-	width: 44.6%;
+	width: 45%;
 	height: 45px;
 	background: #7dc5a4;
 	float: left;
@@ -37,25 +37,25 @@ body{
 	float: left;
 }
 .c{
-	width: 30%;
+	width: 27%;
 	height: 45px;
 	background: #225e76;
 	float: left;
 }
 .d{
-	width: 30%;
+	width: 19%;
 	height: 45px;
 	background: #844aba;
 	float: left;
 }
 .e{
-	width: 30%;
+	width: 27%;
 	height: 45px;
 	background: #ba4a95;
 	float: left;
 }
-.e{
-	width: 30%;
+.f{
+	width: 27%;
 	height: 45px;
 	background: #4a84ba;
 	float: left;
