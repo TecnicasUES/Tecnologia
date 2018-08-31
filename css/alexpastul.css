@@ -1,20 +1,77 @@
 @charset "utf-8";
 
-
-
-
-#pollo{
-	text-align: right;
-	font-weight: italic;
-	font-style: 22pt
-	color:blue;
-}
-
-
-.oreo{
-	background: green;
+body{
+	background: #23e2f3;
 	width: 100%;
-	height: 50%;
-	float: right;
-	border: 1px solid #fff;
+	height: auto;
+	font-family: arial;
+	margin: 0;
 }
+header{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #a7f323;
+}
+
+.child1{
+	width: 55%;
+	height: 60px;
+	float: left;
+	background: #f38f13;
+}
+
+.child2{
+	width: 45%;
+	height: 60px;
+	float: left;
+	background: #9d23f3;
+}
+
+.a{
+	width: 45%;
+	height: 60px;
+	float: left;
+	background: #619498;
+
+}
+
+.b{
+	width: 55%;
+	height: 60px;
+	float: left;
+	background: #bcde54;
+}
+
+
+.c{
+	width: 27%;
+	height: 60px;
+	float: left;
+	background: #bcde00;
+}
+
+.d{
+	width: 19%;
+	height: 60px;
+	float: left;
+	background: #d1a531;
+}
+.e{
+	width: 27%;
+	height: 60px;
+	float: left;
+	background: #baae54;
+}
+.f{
+	width: 27%;
+	height: 60px;
+	float: left;
+	background: #aadff4;
+}
+
+
+
+cef27
+
+d19
