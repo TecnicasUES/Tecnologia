@@ -13,23 +13,22 @@ body{
  	background: #c3db51;
  	height: 60px;
  	float: left;
- 	border: 1px solid blue;
+ 	
  }
 
  .child1{
  	width: 55%;
  	height:60px;
- 	border:1px solid black;
  	background: #FFB14C;
  	float:left;
  }
 
  .child2{
- 	width: 44.6%;
+ 	width: 45%;
  	float: left;
  	background: #FF9F93;
  	height: 60px;
- 	border:1px solid green;
+ 	
  }
 
  .a{
@@ -75,3 +74,40 @@ body{
  	background:#B255A7;
 
 }
+
+#padre{
+	width: 100%;
+	background: purple;
+	height:1500px;
+	float: left;
+}
+
+.child3{
+	width: 100%;
+	background: #FF70D7;
+	float: left;
+	height: 500px;
+}
+
+.child4{
+	width: 100%;
+	background: #6399FF;
+	float: left;
+	height: 650px;
+	margin-top: 10px;
+}
+
+.hijo1{
+	height: 650px;
+	width: 400px;
+	background:#8DFF63;
+	margin-left: 50px;
+}
+
+.hijo2{
+
+	
+
+}
+
+
