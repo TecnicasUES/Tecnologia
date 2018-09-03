@@ -71,3 +71,43 @@ body {
 	height: 55px;
 	background: #60A7EE;
 }
+
+.g{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #8089E8;
+}
+
+#articulos{
+	width: 100%;
+	background: #8CB5FF;
+	height: 650px;
+	float:left;
+}
+
+.h{
+	width: 100%;
+	float: left;
+	height: 20px;
+	background: #DF8CFF;
+}
+
+
+.i{
+	width: 27%;
+	float: left;
+	margin-left:60px;
+	height: 630px;
+	background: #AB99FF;
+}
+
+.i1{
+	width: 100%;
+	float: left;
+	margin-top: 315px;
+	height: 315px;
+	background: #8CDFFF;
+}
+
+
