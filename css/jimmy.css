@@ -72,3 +72,17 @@ header{
 	float: right;
 	background: #d7cc32;
 }
+
+section{
+	width: 100%;
+	height: 480px;
+	float: left;
+	background: #779a60;
+}
+
+.g{
+	width: 100%;
+	height: 470px;
+	float: left;
+	background: #c078a7;
+}
