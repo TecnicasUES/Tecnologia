@@ -65,7 +65,55 @@ header{
 }
 section{
 	width: 100%;
- 	height: 240px;
+ 	height: 300px;
  	float. left;
 	background: #58ff1e;
+}
+.child3{
+	width: 100%;
+ 	height: 300px;
+ 	float. left;
+	background: #12ff1e;
+}
+.g{
+	width: 7%;
+ 	height: 300px;
+ 	float. left;
+	background: #14ff1e;
+}
+.h{
+	width: 24%;
+ 	height: 300px;
+ 	float. left;
+	background: #12ff4e;
+}
+.i{
+	width: 7%;
+ 	height: 300px;
+ 	float. left;
+	background: #72ff1e;
+}
+.j{
+	width: 24%;
+ 	height: 300px;
+ 	float. left;
+	background: #62ff1e;
+}
+.k{
+	width: 7%;
+ 	height: 300px;
+ 	float. left;
+	background: #92ff1e;
+}
+.l{
+	width: 24%;
+ 	height: 300px;
+ 	float. left;
+	background: #88ff1e;
+}
+.m{
+	width: 7%;
+ 	height: 300px;
+ 	float. left;
+	background: #33ff1e;
 }
