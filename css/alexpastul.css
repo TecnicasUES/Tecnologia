@@ -48,30 +48,193 @@ header{
 	width: 27%;
 	height: 60px;
 	float: left;
-	background: #bcde00;
+	background: #d7a079;
 }
 
 .d{
 	width: 19%;
 	height: 60px;
 	float: left;
-	background: #d1a531;
+	background: #d1a53c;
 }
 .e{
 	width: 27%;
 	height: 60px;
 	float: left;
-	background: #baae54;
+	background: #889c79;
 }
 .f{
 	width: 27%;
 	height: 60px;
 	float: left;
-	background: #aadff4;
+	background: #ceb537;
+}
+
+.seccion1{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: #254f5b;
+}
+.barra1{
+	width: 100%;
+	height: 580px;
+	float: left;
+	background: #e89ec1;
+}
+.barra2{
+	width: 100%;
+	height: 20px;
+	float: left;
+	background: #76c78c;
 }
 
 
 
-cef27
+.abuelo{
+	width: 100%;
+	height: 660px;
+	float: left;
+	background: #80c2e4;
+}
+.papa{
+	width: 25%;
+	height: 660px;
+	float: left;
+	background: #254f5b
+}
 
-d19
+.hijo1{
+	width: 100%;
+	height: 50%;
+	float: left;
+	background: #1fabac;
+}
+.hijo2{
+	width: 100%;
+	height: 10%;
+	float: left;
+	background: #839aac;
+}
+.hijo3{
+	width: 100%;
+	height: 25%;
+	float: left;
+	background: #ae7763;
+}
+.hijo4{
+	width: 100%;
+	height: 15%;
+	float: left;
+	background: #254f5b;
+}
+.nieto1{
+	width: 30%;
+	height: 100%;
+	float: left;
+	background: #7e39a3;
+}
+.nieto2{
+	width: 40%;
+	height: 100%;
+	float: left;
+	background: #217a7c;
+}
+.nieto3{
+	width: 30%;
+	height: 100%;
+	float: left;
+	background: #7e39a3;
+}
+
+
+
+
+
+
+.seccion3{
+	width: 100%;
+	height: 660px;
+	float: left;
+	background: #254f5b;
+}
+.papa01{
+	width: 50%;
+	height: 100%;
+	float: left;
+	background: #38c5c4;
+}
+.papa02{
+	width: 50%;
+	height: 100%;
+	float: left;
+	background: #254f5b;
+}
+.hijo1depapa02{
+	width: 100%;
+	height: 18%;
+	float: left;
+	background: #2ec56b;
+}
+.hijo2depapa02{
+	width: 100%;
+	height: 18%;
+	float: left;
+	background: #254f5b;
+}
+.nieto1depapa02{
+	width: 45%;
+	height: 100%;
+	float: left;
+	background: #0a3947;
+}
+.nieto2depapa02{
+	width: 55%;
+	height: 100%;
+	float: left;
+	background: #95b37d;
+}
+.hijo3depapa02{
+	width: 100%;
+	height: 18%;
+	float: left;
+	background: #897a7f;
+}
+.hijo4depapa02{
+	width: 100%;
+	height: 18%;
+	float: left;
+	background: #0e4c5e;
+}
+.nieto3depapa02{
+	width: 35%;
+	height: 100%;
+	float: left;
+	background: #07776f;
+}
+.nieto4depapa02{
+	width: 25%;
+	height: 100%;
+	float: left;
+	background: #05a7d0;
+}
+.nieto5depapa02{
+	width: 40%;
+	height: 100%;
+	float: left;
+	background: #07776f;
+}
+.hijo5depapa02{
+	width: 100%;
+	height: 28%;
+	float: left;
+	background: #2aa961;
+}
+
+
+
+
+
+
+
+
