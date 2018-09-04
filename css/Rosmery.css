@@ -17,7 +17,7 @@ body{
 .child1{
 	width: 55%;
 	height: 60px;
-	background: #629398;
+	background: #46E9FF;
 	float: left; 
 }
 
@@ -49,7 +49,7 @@ body{
 	width: 19%;
 	float: left;
 	height: 60px;
-	background: #d6a238;
+	background: #c2effe;
 }
 .e{
 	width: 27%;
@@ -62,4 +62,28 @@ body{
 	float: left;
 	height: 60px;
 	background: #cbb442;
+}
+.g{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #fec2ee;
+}
+.h{
+	width: 100%;
+	float: left;
+	height: 40px;
+	background:  #60b47c;
+}
+.i{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background:  #6088b4;
+}
+.j{
+	width: 22%;
+	float: left;
+	height: 300px;
+	background:  #51b6c6;
 }
