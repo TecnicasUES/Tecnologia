@@ -44,3 +44,31 @@ header{
 	float: left;
 	background: #fff;
 }
+
+.c{
+	width: 26%;
+	height: 60px;
+	float: left;
+	background: #13d89d;
+}
+
+.d{
+	width: 22%;
+	height: 60px;
+	float: left;
+	background: #d49111;
+}
+
+.e{
+	width: 26%;
+	height: 60px;
+	float: left;
+	background: #87b17c;
+}
+
+.f{
+	width: 26%;
+	height: 60px;
+	float: right;
+	background: #d7cc32;
+}
