@@ -1,0 +1,185 @@
+@charset "utf-8";
+
+body {
+	background: #B1DAEE;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0; 
+}
+
+#menu{
+	width: 100%;
+	background: #FFBCA5;
+	height: 55px;
+	float:left;
+}
+
+.child1{
+	width: 55%;
+	height: 55px;
+	background: #8B5D9E;
+	float:left;
+}
+
+.child2{
+	width: 45%;
+	float:left;
+	background: #C5B6CC;
+	height: 55px;
+
+}
+
+.a{
+	width: 45%;
+	float: left;
+	height: 55px;
+	background: #E8AF97;
+}
+
+.b{
+	width: 55%;
+	float: left;
+	height: 55px;
+	background: #E88EB1;
+}
+
+.c{
+	width: 27%;
+	float: left;
+	height: 55px;
+	background: #FFCE9B;
+}
+
+.d{
+	width: 19%;
+	float: left;
+	height: 55px;
+	background: #75819E;
+}
+
+.e{
+	width: 27%;
+	float: left;
+	height: 55px;
+	background: #B1C3EE;
+}
+
+.f{
+	width: 27%;
+	float: left;
+	height: 55px;
+	background: #60A7EE;
+}
+
+.g{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #8089E8;
+}
+
+#articulos{
+	width: 100%;
+	background: #DEA6E8;
+	height: 650px;
+	float:left;
+}
+
+.h{
+	width: 100%;
+	float: left;
+	height: 20px;
+	background: #DF8CFF;
+}
+
+
+.i{
+	width: 27%;
+	float: left;
+	margin-left:60px;
+	height: 630px;
+	background: #AB99FF;
+}
+
+.i1{
+	width: 100%;
+	float: left;
+	margin-top: 315px;
+	height: 57px;
+	background: #8CDFFF;
+}
+
+.i2{
+	width: 100%;
+	float: left;
+	height: 200px;
+	background: #839CE8;
+}
+
+.i3{
+	width: 100%;
+	float: left;
+	height: 58px;
+	background: #FFA4BB;
+}
+ 
+ #marca{
+	width: 100%;
+	background: #FFE4AB;
+	height: 400px;
+	float:left;
+}
+
+.j{
+	width: 50%;
+	float: left;
+	height: 400px;
+	background: #E8A49C;
+}
+
+.k{
+	width: 50%;
+	float: left;
+	height: 400px;
+	background: #FFCFB9;
+}
+
+.k1{
+	width: 100%;
+	float: left;
+	margin-top: 80px;
+	height: 75px;
+	background: #73ECFF;
+}
+
+.k1a{
+	width: 100%;
+	float: left;
+	margin-left:50%;
+	height: 75px;
+	background: #8B7AFF;
+}
+
+.k2{
+	width: 100%;
+	float: left;
+	height: 75px;
+	background: #68CBE8;
+}
+
+.k3{
+	width: 100%;
+	float: left;
+	height: 75px;
+	background: #7093E8;
+}
+
+.k3a{
+	width: 30%;
+	float: left;
+	margin-left:35%;
+	margin-right:35%;
+	height: 75px;
+	background: #6EDBE8;
+}
