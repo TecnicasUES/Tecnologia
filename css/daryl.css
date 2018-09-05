@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-	background: #000; 
+	background: #6ae723; 
 	width:100%;
 	height: auto;
 	font-family: arial;
@@ -13,13 +13,12 @@ body{
 	background: #c3db51;
 	height: 60px;
 	float: left;
-	border: 1px solid red;
+	
 }
 
 .child1{
 	width: 55%;
 	height: 60px;
-	border:1px solid white;
 	background: #629398;
 	float: left; 	
 }
@@ -27,7 +26,6 @@ body{
 	width: 44.6%;
 	float: left;
 	background: #e89ec1;
-	border: 1px solid green;
 	height: 60px;
 }
 .a{
@@ -68,3 +66,72 @@ body{
 	height: 60px;
 	background:#cbb442;
 }
+.m2{
+	width: 100%;
+	float:left;
+	height: 300px;
+	background:#ff0000;
+}
+
+.m3{
+	width: 100%;
+    position: relative;
+    top:350px;
+	height: 350px;
+	background:#99ccff;
+}
+.m3a{
+    width: 100%;
+	position: absolute;
+	height: 10px;
+	background:#0073e6
+}
+.m3b{
+    width: 20%;
+	position: absolute;
+	top:10px;
+	left: 100px;
+	height: 350px;
+	background:#00264d
+}
+
+.m3b1{
+	width: 20%;
+	position: absolute;
+	top:200px;
+	left: 100px;
+	height: 150px;
+	background:#610457
+
+}
+
+.m3c{
+	width: 20%;
+	position: absolute;
+	top:10px;
+	left: 550px;
+	height: 350px;
+	background:#00264d
+
+}
+.m3d{
+	width: 20%;
+	position: absolute;
+	top:10px;
+	left: 1000px;
+	height: 350px;
+	background:#00264d
+}
+
+.m4{
+	width: 100%;
+    position: relative;
+    top:350px;
+	height: 350px;
+	background:#c0750f
+
+}
+
+
+
+
