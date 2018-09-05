@@ -71,7 +71,7 @@ body{
 }
 .h{
 	width: 100%;
-	background: #4DA34D;
+	background: #90D728;
 	height: 50px;
 	float: left;
 }
@@ -83,9 +83,10 @@ body{
 }
 .i{
 	width: 25%;
-	margin-left:9%;
+	margin-left:6%;
 	height: 600px;
 	background: #75F1DB;
+	float: left;
 }
 
 .i1{
@@ -120,41 +121,70 @@ body{
 	background: #7CF0AD;
 }
 
-.j{
-	width: 25%;
-	margin-left:9%;
-	height: 600px;
-	background: #75F1DB;
-}
-
-.j1{
+.seccion3{
 	width: 100%;
-	height: 45%;
+	background: #444766;
+	height: 400px;
 	float: left;
-	background: #EEF175;
-} 
+}	
+.j{
+	width: 50%;
+	height: 400px;
+	background: #617ad3;
+	float: left;
+}
+.j1{
+	width: 50%;
+	height: 400px;
+	background: #7A1E6F;
+	float: left;
+}
 .j2{
 	width: 100%;
-	height: 10%;
+	height: 76px;
+	background: #86E155;
 	float: left;
-	background: #D79EF5;
-} 
+}
 .j3{
 	width: 100%;
-	height: 35%;
+	height: 76px;
+	background: #F3E104;
 	float: left;
-	background: #F16F5D;
-} 
+}
 .j4{
-	width: 100%;
-	height: 10%;
+	width: 51%;
+	height: 76px;
+	background: #C3FEF5;
 	float: left;
-	background: #993BA7;
 }
 .j5{
-	width: 25%;
-	height: 100%;
+	width: 49%;
+	height: 76px;
+	background: #FEC3CF;
 	float: left;
-	margin-left: 40%;
-	background: #7CF0AD;
+}
+.j6{
+	width: 100%;
+	height: 76px;
+	background: #F13E95;
+	float: left;
+}
+.j7{
+	width: 100%;
+	height: 76px;
+	background: #FEB864;
+	float: left;
+}
+.j8{
+	width: 30%;
+	height: 76px;
+	background: #5293FE;
+	margin-left: 35%;
+	float: left;
+}
+.j9{
+	width: 100%;
+	height: 96px;
+	background: #E95F4C;
+	float: left;
 }
