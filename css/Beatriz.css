@@ -73,10 +73,18 @@ body{
 	background: #B255A7;
 }
 
+
+#carrusel{
+	width: 100%;
+	background: #00E9D5;
+	height: 350px;
+	float: left;
+}
+
 .g{  
 	width: 100%;
 	float:left;
-	height: 350px;
+	height: 345px;
 	background: #C23F0A;
 
 }
@@ -280,3 +288,174 @@ body{
 	background: #33C2A0;
 }
 
+#apartado2{
+	width: 100%;
+	background: #FFE9D5;
+	height: 350px;
+	float: left;
+}
+
+.child6{
+	width: 50%;
+	height: 350px;	
+	background: #DEB73A;
+	float: left;
+}
+
+.child7{
+	width: 50%;
+	height: 350px;	
+	background: #DEA23A;
+	float: right;
+}
+
+
+.ch6a{
+	width: 100%;
+	float:left;
+	height: 350px;
+	background: #E85939;
+	
+}
+
+.ch7a{
+	width: 100%;
+	float:left;
+	height: 70px;
+	background: #009EE9;
+	margin-top: 57px;
+}
+
+.ch7b{
+	width: 100%;
+	float:left;
+	height: 70px;
+	background: #00E9A4;
+}
+
+.ch7c{
+	width: 100%;
+	float:left;
+	height: 70px;
+	background: #C4E9A4;
+}
+
+.ch7a1{
+	width: 45%;
+	float:left;
+	height: 70px;
+	background: #5E2406;	
+}
+
+.ch7a2{
+	width: 55%;
+	float:left;
+	height: 70px;
+	background: #C74C0D;	
+}
+
+.ch7b1{
+	width: 35%;
+	float:left;
+	height: 70px;
+	background: #1189DE;	
+}
+
+.ch7b2{
+	width: 25%;
+	float:left;
+	height: 70px;
+	background: #9789DE;	
+}
+
+.ch7b3{
+	width: 40%;
+	float:left;
+	height: 70px;
+	background: #E289DE;	
+}
+
+#apartado3{
+	width: 100%;
+	background: #FFE9D5;
+	height: 400px;
+	float: left;
+}
+
+.child8{
+	width: 60%;
+	height: 400px;	
+	background: #E85350;
+	float: left;	
+}
+
+.child9{
+	width: 40%;
+	height: 400px;	
+	background: #ECFF66;
+	float:left;	
+}
+
+.ch8a{
+	width: 100%;
+	float:left;
+	height: 50px;
+	background: #F5D858;
+
+}
+
+.ch9a{
+	width: 100%;
+	float:left;
+	height: 70px;
+	background: #D49750;
+	margin-top: 50px;
+
+}
+
+.ch9b{
+	width: 100%;
+	float:left;
+	height: 70px;
+	background: #D49750;
+	margin-top: 50px;
+	
+}
+
+.ch9b1{
+	width: 20%;
+	float:right;
+	height: 70px;
+	background: #702D09;
+	margin-right: 45px;
+		
+}
+
+
+#fin{
+	width: 100%;
+	background: #F5D8DC;
+	height: 150px;
+	float: left;
+}
+
+.fin1{
+	width: 30%;
+	float:left;
+	height: 150px;
+	background: #5BD8DC;	
+}
+
+.fin2{
+	width: 70%;
+	float:left;
+	height: 150px;
+	background: #5B95DC;	
+}
+
+.fin2a{
+	width: 100%;
+	float:left;
+	height: 70px;
+	background: #F1EAB1;
+}
