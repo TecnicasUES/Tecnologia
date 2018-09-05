@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-	background: #80c3e1;
+	background: #a6a4d5;
 	width: 100%;
 	height: auto;
 	font-family: arial;
@@ -10,7 +10,7 @@ body{
 
 #menu{
 	width: 100%;
-	background: #c3db51;
+	background: #da9712;
 	height: 60px;
 	float: left;
 	
@@ -19,7 +19,7 @@ body{
 .child1{
 	width: 55%;
 	height: 60px;
-	background: #629398;
+	background: #de821d;
 	float: left;
 }
 
@@ -34,14 +34,14 @@ body{
 	width: 45%;
 	float: left;
 	height: 60px;
-	background: #3aa930;
+	background: #8a6a81;
 }
 
 .b{
 	width: 55%;
 	float: left;
 	height: 60px;
-	background: #b8de35;
+	background: #d5cc2f;
 
 }
 
@@ -49,14 +49,14 @@ body{
 	width: 27%;
 	float: left;
 	height: 60px;
-	background: #da9f75;
+	background: #f54307;
 }
 
 .d{
 	width: 19%;
 	float: left;
 	height: 60px;
-	background: #d6a238;
+	background: #f49d42;
 
 }
 
@@ -64,7 +64,7 @@ body{
 	width: 27%;
 	float: left;
 	height: 60px;
-	background: #859e77;
+	background: #b37248;
 
 }
 
@@ -72,6 +72,24 @@ body{
 	width: 27%;
 	float: left;
 	height: 60px;
-	background: #cbb442;
+	background: #df9319;
 
 }
+
+.g{
+	width: 100%;
+	float: left;
+	height: 400px;
+	background: #f177a8;
+
+}
+
+.h{
+	width: 100%;
+	float: left;
+	height: 50px;
+	background: #a4a989;
+
+}
+
+
