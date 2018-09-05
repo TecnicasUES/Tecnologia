@@ -31,61 +31,85 @@ body {
 	width: 45%;
 	float: left;
 	height: 45px;
-	background: #7dc5bd;
+	background: #80C603;
 }
 
 .b{
 	width: 55%;
 	float: left;
 	height: 45px;
-	background: #e89ec1;
-   
+	background: #FFC300;
 }
 
 .c{
 	width:27%;
 	float: left;
 	height: 45px;
-	background: #949dcf;
+	background: #900C3F;
 }
 
 .d{
 	width:19%;
 	float: left;
 	height: 45px;
-	background: #4aacba;
+	background: #CA5582;
 }
 
 .e{
 	width:27%;
 	float: left;
 	height: 45px;
-	background: #8e4aba;
+	background: #581845;
 }
 
 .f{
 	width:27%;
 	float: left;
 	height: 45px;
-	background: #ba4a95;
+	background: #157A91;
 }
 
 .hijounico{
 	width: 100%;
-	background: #f39d8b;
-	height: 45px;
+	background: #CCEC93;
+	height: 450px;
 	float: left;
 }
 
-.borde{
+#productos{
+	background: #BBE9DF;
 	width: 100%;
-	height: 15px;
-	background: #f9b816;
+	height: 525px;
 	float: left;
 }
-.prductos{
+
+.g{
+	width: 25%;
+	height: 500px;
+	float: left;
+	background: #03476D;
+	margin-left: 85px;
+}
+
+.h{
+	width: 25%;
+	height: 500px;
+	float: left;
+	background: #03476D;
+	margin-left: 75px;
+}
+
+.i{
+	width: 25%;
+	height: 500px;
+	float: left;
+	background: #03476D;
+	margin-left: 85px;	
+}
+
+#origen{
+	background: #A1ACD5;
 	width: 100%;
-	height: 55px;
-	background: #26cda5;
+	height: 450px;
 	float: left;
 }
