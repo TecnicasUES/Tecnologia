@@ -20,13 +20,6 @@ body{
 	background: #46E9FF;
 	float: left; 
 }
-
-.child2{
-	width: 45%;
-	float: left;
-	background: #e89ec1;
-	height: 60px;
-}
 .a{
 	width: 45%;
 	float: left;
@@ -38,6 +31,13 @@ body{
 	float: left;
 	height: 60px;
 	background: #b8de35;
+}
+
+.child2{
+	width: 45%;
+	float: left;
+	background: #e89ec1;
+	height: 60px;
 }
 .c{
 	width: 27%;
@@ -65,25 +65,96 @@ body{
 }
 .g{
 	width: 100%;
+	background: #F592E6;
+	height: 400px;
 	float: left;
-	height: 500px;
-	background: #fec2ee;
 }
 .h{
 	width: 100%;
+	background: #4DA34D;
+	height: 50px;
 	float: left;
-	height: 40px;
-	background:  #60b47c;
+}
+.seccion2{
+	width: 100%;
+	background: #86B0CF;
+	height: 600px;
+	float: left;
 }
 .i{
-	width: 100%;
-	float: left;
-	height: 500px;
-	background:  #6088b4;
+	width: 25%;
+	margin-left:9%;
+	height: 600px;
+	background: #75F1DB;
 }
-.j{
-	width: 22%;
+
+.i1{
+	width: 100%;
+	height: 45%;
 	float: left;
-	height: 300px;
-	background:  #51b6c6;
+	background: #EEF175;
+} 
+.i2{
+	width: 100%;
+	height: 10%;
+	float: left;
+	background: #D79EF5;
+} 
+.i3{
+	width: 100%;
+	height: 35%;
+	float: left;
+	background: #F16F5D;
+} 
+.i4{
+	width: 100%;
+	height: 10%;
+	float: left;
+	background: #993BA7;
+}
+.i5{
+	width: 25%;
+	height: 100%;
+	float: left;
+	margin-left: 40%;
+	background: #7CF0AD;
+}
+
+.j{
+	width: 25%;
+	margin-left:9%;
+	height: 600px;
+	background: #75F1DB;
+}
+
+.j1{
+	width: 100%;
+	height: 45%;
+	float: left;
+	background: #EEF175;
+} 
+.j2{
+	width: 100%;
+	height: 10%;
+	float: left;
+	background: #D79EF5;
+} 
+.j3{
+	width: 100%;
+	height: 35%;
+	float: left;
+	background: #F16F5D;
+} 
+.j4{
+	width: 100%;
+	height: 10%;
+	float: left;
+	background: #993BA7;
+}
+.j5{
+	width: 25%;
+	height: 100%;
+	float: left;
+	margin-left: 40%;
+	background: #7CF0AD;
 }
