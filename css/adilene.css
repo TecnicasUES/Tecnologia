@@ -92,4 +92,56 @@ body{
 
 }
 
+.seccion2{
+	width: 100%;
+	float: left;
+	height: 600px;
+	background: #a3a6db;
+}
 
+.i{
+	width: 25%;
+	float: left;
+	height: 600px;
+	background: #86b0cf;
+	margin-left: 6%
+}
+
+.i1{
+	width: 100%;
+	float: left;
+	height: 300px;
+	background: #44878d;
+}
+
+.i2{
+	width: 100%;
+	float: left;
+	height: 50px;
+	background: #9b7c8b;
+}
+
+.i3{
+	width: 100%;
+	float: left;
+	height: 180px;
+	background: #ca4c3e;
+
+}
+
+
+.i4{
+	width: 100%;
+	float: left;
+	height: 70px;
+	background: #aa3a74;
+}
+
+.i5{
+	width: 40%;
+	float: left;
+	height: 70px;
+	background: #695a61;
+	margin-left: 30%
+
+}
