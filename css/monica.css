@@ -127,21 +127,21 @@ body {
  #marca{
 	width: 100%;
 	background: #FFE4AB;
-	height: 400px;
+	height: 411px;
 	float:left;
 }
 
 .j{
 	width: 50%;
 	float: left;
-	height: 400px;
+	height: 411px;
 	background: #E8A49C;
 }
 
 .k{
 	width: 50%;
 	float: left;
-	height: 400px;
+	height: 411px;
 	background: #FFCFB9;
 }
 
@@ -182,4 +182,85 @@ body {
 	margin-right:35%;
 	height: 75px;
 	background: #6EDBE8;
+}
+
+ #contactanos{
+	width: 100%;
+	background: #9BB0E8;
+	height: 450px;
+	float:left;
+}
+
+.l{
+	width: 60%;
+	float: left;
+	height: 450px;
+	background: #A08DE8;
+}
+
+.l1{
+	width: 38%;
+	float: left;
+	margin-top: 100px;
+	margin-right:1%;
+	margin-left:1%;
+	height: 75px;
+	background: #FFC7A9;
+}
+
+.la1{
+	width: 58%;
+	float: left;
+	margin-top: 100px;
+	margin-right:1%;
+	margin-left:1%;
+	height: 75px;
+	background: #FFC7A9;
+}
+
+.l2{
+	width: 38%;
+	float: left;
+	margin-top: 5px;
+	margin-right:1%;
+	margin-left:1%;
+	height: 75px;
+	background: #FFC7A9;
+}
+
+.la2{
+	width: 58%;
+	float: left;
+	margin-top: 5px;
+	margin-right:1%;
+	margin-left:1%;
+	height: 75px;
+	background: #FFC7A9;
+}
+
+.l3{
+	width: 38%;
+	float: left;
+	margin-top: 10px;
+	margin-right:1%;
+	margin-left:1%;
+	height: 180px;
+	background: #FFC7A9;
+}
+
+.la3{
+	width: 58%;
+	float: left;
+	margin-top: 10px;
+	margin-right:1%;
+	margin-left:1%;
+	height: 180px;
+	background: #FFC7A9;
+}
+
+.m{
+	width: 40%;
+	float: left;
+	height: 450px;
+	background: #99ABFF;
 }
