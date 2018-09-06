@@ -100,49 +100,136 @@ body {
 
 .g{
 	width: 25%;
-	height: 500px;
+	height: 525px;
 	float: left;
 	background: #03476D;
 	margin-left: 85px;
 }
 
 .g1{
-	width: 25%;
+	width: 100%;
 	height: 200px;
-	float: left;
+	float: center;
 	background:  #33a69c;
-	margin-left: 85px;
 }
 
 .g2{
-	width: 25%;
-	height: 30px;
+	width: 100%;
+	height: 35px;
 	float: left;
-	background:  #00508f;
-	margin-left: 85px;
+	background:  #e97b80;
 }
 
 .g3{
-	width: 25%;
-	height: 150px;
+	width: 100%;
+	height: 250px;
 	float: left;
-	background:  #7ec313;
-	margin-left: 85px;
+	background:  #f5c7c9;
+}
+
+.g4{
+	width: 100%;
+	height: 85px;
+	float: left;
+	background: #6292da;
+}
+
+.g4a{
+	width: 25%;
+	height: 85px;
+	float: left;
+	background:  #4d68aa;
+	margin-left: 35%;
+	margin-right: 35%;
 }
 .h{
 	width: 25%;
-	height: 500px;
+	height: 525px;
 	float: left;
 	background: #03476D;
 	margin-left: 75px;
 }
 
+.h1{
+	width: 100%;
+	height: 200px;
+	float: center;
+	background:  #33a69c;
+}
+
+.h2{
+	width: 100%;
+	height: 35px;
+	float: left;
+	background:  #e97b80;
+}
+
+.h3{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background:  #f5c7c9;
+}
+
+.h4{
+	width: 100%;
+	height: 85px;
+	float: left;
+	background: #6292da;
+}
+
+.h4a{
+	width: 25%;
+	height: 85px;
+	float: left;
+	background:  #4d68aa;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+
 .i{
 	width: 25%;
-	height: 500px;
+	height: 525px;
 	float: left;
 	background: #03476D;
 	margin-left: 85px;	
+}
+
+.i1{
+	width: 100%;
+	height: 200px;
+	float: center;
+	background:  #33a69c;
+}
+
+.i2{
+	width: 100%;
+	height: 35px;
+	float: left;
+	background:  #e97b80;
+}
+
+.i3{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background:  #f5c7c9;
+}
+
+.i4{
+	width: 100%;
+	height: 85px;
+	float: left;
+	background: #6292da;
+}
+
+.i4a{
+	width: 25%;
+	height: 85px;
+	float: left;
+	background:  #4d68aa;
+	margin-left: 35%;
+	margin-right: 35%;
 }
 
 #origen{
@@ -150,4 +237,51 @@ body {
 	width: 100%;
 	height: 450px;
 	float: left;
+}
+.j{
+	background: #A1ACD5;
+	width: 100%;
+	height: 450px;
+	float: left;
+}
+
+.j1{
+	background: #9d5275;
+	width: 50%;
+	height: 450px;
+	float: left;
+}
+
+.j2{
+	background: #f89d22;
+	width: 100%;
+	height: 60px;
+	float: left;
+	margin-left: 50%;
+}
+
+.j2a{
+	background: #7b507a;
+	width: 100%;
+	height: 60px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 1px;
+}
+
+.j2b{
+	background: #563e55 ;
+	width: 50%;
+	height: 60px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 1%;
+}
+.j2c{
+	background: #5b1937;
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 50%;
 }
