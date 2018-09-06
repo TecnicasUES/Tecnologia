@@ -439,3 +439,24 @@ section{
 	margin-top: 15px;
 	background:#7e4f4f;
 }
+
+.mb1{
+	width: 70%;
+	height: 100%;
+	float: left;
+	background: #dfacac;
+}
+
+.mb2{
+	width: 20%;
+	height: 100%;
+	float: left;
+	background: #5a1f1f;
+}
+
+.mb3{
+	width: 10%;
+	height: 100%;
+	float: left;
+	background: #7b6565;
+}
