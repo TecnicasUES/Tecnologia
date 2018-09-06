@@ -15,14 +15,14 @@ body{
 	float:left;
 }
 
-.child1{
+.niño1{
 	width: 55%;
 	height: 60px;
 	background: #629398;
 	float: left;
 }
 
-.child2{
+.niño2{
 	width: 44.8%;
 	float: left;
 	background: #e89ec1;
@@ -70,4 +70,88 @@ body{
 	height: 60px;
 	background: #cbb442;
 }
+
+.niño3{
+	width: 100%;
+	float: left;
+	background: #ff7878;
+	height: 200px;
+
+}
+
+.niño4{
+	width: 100%;
+	float: left;
+	background: #809dfa;
+	height: 300px;
+
+}
+.g{
+	width: 100%;
+	float: left;
+	height: 300px;
+	background: #809dfa;
+}.g1{
+	width: 5%;
+	float: left;
+	height: 300px;
+	background: #e8da3b;
+}
+.g2{
+	width: 26.6%;
+	float: left;
+	height: 300px;
+	background: #3be8a5;
+}
+.g2a{
+	width: 100%;
+	float: left;
+	height: 150px;
+	background: #3be8a5;
+}
+.g2b{
+	width: 100%;
+	float: left;
+	height: 20px;
+	background: #909090;
+}
+.g2c{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #e2b75a;
+}
+.g2d{
+	width: 100%;
+	float: left;
+	height: 40px;
+	background: #9049d2;
+}
+.g2d1{
+	width: 33.33%;
+	float: left;
+	height: 40px;
+	background: #7b668e;
+}
+.g2d2{
+	width: 33.33%;
+	float: left;
+	height: 40px;
+	background: #25792f;
+}
+.g2d3{
+	width: 33.33%;
+	float: left;
+	height: 40px;
+	background: #7b668e;
+}
+.g3{
+	width: 5%;
+	float: left;
+	height: 300px;
+	background: #e8da3b;
+}
+
+
+
 
