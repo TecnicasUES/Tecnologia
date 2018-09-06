@@ -102,10 +102,16 @@ body {
 	background: #AB99FF;
 }
 
+.ia{
+	width: 100%;
+	float: left;
+	height: 315px;
+	background: #E87FB1;
+}
+
 .i1{
 	width: 100%;
 	float: left;
-	margin-top: 315px;
 	height: 57px;
 	background: #8CDFFF;
 }
