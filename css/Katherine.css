@@ -71,7 +71,15 @@ body{
 	float: left;
 	height: 50px;
 	background: #ba4a95;
- }
+}
+
+ .principal{
+ 	width: 100%;
+	float: left;
+	height: 600px;
+	background:#140535;
+}
+
 
  .portada{ 
  	width: 100%;
@@ -90,7 +98,7 @@ body{
 .parte2{
 	width: 100%;
 	float: left;
-	height: 650px;
+	height: 450px;
 	background:  #e3c2f3;
 }
 
@@ -104,15 +112,14 @@ body{
 
 .p2a{
 	width: 100%;
-	margin-top: 180px;
 	float: left;
-	height: 30px;
+	height: 202px;
 	background:#d294ef;
 }
 
 .p2b{
 	width: 100%;
-	height: 175px;
+	height: 202px;
 	float: left;
 	background: #F9B40B;
 }
@@ -124,5 +131,10 @@ body{
 	background: #093A4B;
 }
 
-  
+.p2d{ 
+	width: 100%;
+	height: 45px;
+	float: left;
+	background: #e0639a;
+}  
 
