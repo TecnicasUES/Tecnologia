@@ -74,12 +74,20 @@ body{
 	height: 240px;
     background:#fb8dc3;
 }
+
 .lineaverde{
 	float: left;
 	width: 100%;
 	height: 30px;
     background:#0ca700;
 }
+
+.cuadro3{
+	float: left;
+	width: 100%
+	height:300;
+}
+
 .azul1{
 	float: left;
 	width: 25%
