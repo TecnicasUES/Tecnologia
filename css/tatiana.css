@@ -256,3 +256,186 @@ section{
 	float: left;
 	background: #786da9;
 }
+
+.j{
+	width: 50%;
+	height: 240px;
+	float: left;
+	background:#9994ac;
+}
+
+.k{
+	width: 50%;
+	height: 240px;
+	float: left;
+	background: #94a4ac;
+}
+
+.ka{
+	width: 100%;
+	height: 20%;
+	float: left;
+	background: #2d9ad2;
+}
+
+.kb{
+	width: 100%;
+	height: 17%;
+	float: left;
+	background: #89173d;
+}
+
+.kc{
+	width: 100%;
+	height: 17%;
+	float: left;
+	background: #2dd277;
+}
+
+.kd{
+	width: 100%;
+	height: 17%;
+	float: left;
+	background: #962dd2;
+}
+
+.ke{
+	width: 100%;
+	height: 29%;
+	float: left;
+	background: #177d89;
+}
+
+.kb1{
+	width:50%;
+	height:100%;
+	float: left;
+	background: #17896a;
+}
+.kb2{
+	width:50%;
+	height:100%;
+	float: left;
+	background: #178942;
+}
+
+.kd1{
+	width:40%;
+	height:100%;
+	float: left;
+	background: #5f8917;
+}
+
+.kd2{
+	width:20%;
+	height:100%;
+	float: left;
+	background: #d1a60f;
+}
+
+.kd3{
+	width:40%;
+	height:100%;
+	float: left;
+	background: #5f8917;
+}
+
+.l{
+	width: 55%;
+	height: 360px;
+	float: left;
+	background:#415464;
+}
+
+.m{
+	width: 45%;
+	height: 360px;
+	float: left;
+	background:#d09412;
+}
+
+.la{
+	width: 44%;
+	height: 265px;
+	float: left;
+	margin-top: 75px;
+	margin-left: 0.5%;
+	background:transparent;
+}
+
+.la1{
+	width: 100%;
+	height: 25%;
+	float: left;
+	background:#2a8d26;
+}
+.la2{
+	width: 100%;
+	height: 25%;
+	float: left;
+	margin-top: 5px;
+	background:#1b5d18;
+}
+
+.la3{
+	width: 100%;
+	height: 45%;
+	float: left;
+	margin-top:10px;
+	background:#3a5d18;
+}
+
+.lb{
+	width: 53%;
+	height: 265px;
+	float: left;
+	margin-top: 75px;
+	margin-left: 1.5%;
+	background:transparent;
+}
+
+.lb1{
+	width: 100%;
+	height: 25%;
+	float: left;
+	background:#d5891c;
+}
+
+.lb2{
+	width: 100%;
+	height: 25%;
+	float: left;
+	margin-top: 5px;
+	background:#c46a1a;
+}
+
+.lb3{
+	width: 100%;
+	height: 45%;
+	float: left;
+	margin-top:10px;
+	background:#b8410c;
+}
+
+.lc{
+	width: 100%;
+	height: 20px;
+	float: left;
+	background:#e48c8c;
+}
+
+.ma{
+	width: 100%;
+	height: 75px;
+	float: left;
+	margin-top: 75px;
+	background:#b27e7e;
+}
+
+.mb{
+	width: 100%;
+	height: 75px;
+	float: left;
+	margin-top: 15px;
+	background:#7e4f4f;
+}
