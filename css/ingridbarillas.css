@@ -88,19 +88,11 @@ body{
 	background: #efce95;
 	margin-left: 6.25%; 
 }
-.prod2{
-	width: 25%;
+.p1{
+	width: 100%;
 	float: left;
-	height: 500px;
-	background: #efce95;
-	margin-left: 6.25%; 
-}
-.prod3{
-	width: 25%;
-	float: left;
-	height: 500px;
-	background: #efce95;
-	margin-left: 6.25%; 
+	height: 240px;
+	background: #0385e0; 
 }
 
 
