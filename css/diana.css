@@ -254,10 +254,9 @@ body {
 
 .j2{
 	background: #f89d22;
-	width: 100%;
-	height: 60px;
+	width: 50%;
+	height: 450px;
 	float: left;
-	margin-left: 50%;
 }
 
 .j2a{
@@ -265,8 +264,6 @@ body {
 	width: 100%;
 	height: 60px;
 	float: left;
-	margin-left: 2%;
-	margin-top: 1px;
 }
 
 .j2b{
@@ -274,8 +271,8 @@ body {
 	width: 50%;
 	height: 60px;
 	float: left;
-	margin-top: 15px;
-	margin-left: 1%;
+	margin-top: 10px;
+	
 }
 .j2c{
 	background: #5b1937;
