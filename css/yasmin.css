@@ -70,9 +70,7 @@ body{
 }
 .cuadrogrande1{
 	width: 100%;
-	float: left;
-	background: 1px solid pink;
 	height: 180px;
-
+    background:#800239;
 }
 
