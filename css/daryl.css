@@ -60,77 +60,51 @@ body{
 	height: 60px;
 	background:#859e77;
 }
-.f{
-	width: 27%;
+
+.sec2{
+	width: 100%;
+	float: left;
+	height:300px;
+	background:#33a4bd;
+}
+
+.sec3{
+	width: 100%;
+	float: left;
+	height:500px;
+	background:yellow;
+	
+}
+
+.sec31{
+	width: 100%;
+	float: left;
+	margin-top: 10px;
+	height:490px;
+	background:red;
+}
+
+.sec32{
+	width: 25%;
 	float:left;
-	height: 60px;
-	background:#cbb442;
+	margin-left: 40px;
+	height: 490px;
+	background:blue;
+
 }
-.m2{
-	width: 100%;
+.sec33{
+	width: 60%;
 	float:left;
-	height: 300px;
-	background:#ff0000;
-}
-
-.m3{
-	width: 100%;
-    position: relative;
-    top:350px;
-	height: 350px;
-	background:#99ccff;
-}
-.m3a{
-    width: 100%;
-	position: absolute;
-	height: 10px;
-	background:#0073e6
-}
-.m3b{
-    width: 20%;
-	position: absolute;
-	top:10px;
-	left: 100px;
-	height: 350px;
-	background:#00264d
-}
-
-.m3b1{
-	width: 20%;
-	position: absolute;
-	top:200px;
-	left: 100px;
-	height: 150px;
-	background:#610457
+	margin-left: 380px;
+	height: 490px;
+	background:green;
 
 }
 
-.m3c{
-	width: 20%;
-	position: absolute;
-	top:10px;
-	left: 550px;
-	height: 350px;
-	background:#00264d
 
-}
-.m3d{
-	width: 20%;
-	position: absolute;
-	top:10px;
-	left: 1000px;
-	height: 350px;
-	background:#00264d
-}
 
-.m4{
-	width: 100%;
-    position: relative;
-    top:350px;
-	height: 350px;
-	background:#c0750f
 
-}
+
 
 
 
