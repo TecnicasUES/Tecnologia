@@ -124,6 +124,15 @@ body {
 	background: #FFA4BB;
 }
  
+.i3a{
+	width: 30%;
+	float: left;
+	margin-left:35%;
+	margin-right:35%;
+	height: 58px;
+	background: #8CDFFF;
+}
+ 
  #marca{
 	width: 100%;
 	background: #FFE4AB;
@@ -154,7 +163,14 @@ body {
 }
 
 .k1a{
-	width: 100%;
+	width: 50%;
+	float: left;
+	height: 75px;
+	background: #B5FBFF;
+}
+
+.k1b{
+	width: 50%;
 	float: left;
 	margin-left:50%;
 	height: 75px;
@@ -186,20 +202,20 @@ body {
 
  #contactanos{
 	width: 100%;
-	background: #9BB0E8;
-	height: 450px;
+	background: #E8AFAE;
+	height: 485px;
 	float:left;
 }
 
 .l{
-	width: 60%;
+	width: 57%;
 	float: left;
 	height: 450px;
 	background: #A08DE8;
 }
 
 .l1{
-	width: 38%;
+	width: 36%;
 	float: left;
 	margin-top: 100px;
 	margin-right:1%;
@@ -209,7 +225,7 @@ body {
 }
 
 .la1{
-	width: 58%;
+	width: 60%;
 	float: left;
 	margin-top: 100px;
 	margin-right:1%;
@@ -219,7 +235,7 @@ body {
 }
 
 .l2{
-	width: 38%;
+	width: 36%;
 	float: left;
 	margin-top: 5px;
 	margin-right:1%;
@@ -229,7 +245,7 @@ body {
 }
 
 .la2{
-	width: 58%;
+	width: 60%;
 	float: left;
 	margin-top: 5px;
 	margin-right:1%;
@@ -239,7 +255,7 @@ body {
 }
 
 .l3{
-	width: 38%;
+	width: 36%;
 	float: left;
 	margin-top: 10px;
 	margin-right:1%;
@@ -249,7 +265,7 @@ body {
 }
 
 .la3{
-	width: 58%;
+	width: 60%;
 	float: left;
 	margin-top: 10px;
 	margin-right:1%;
@@ -259,8 +275,90 @@ body {
 }
 
 .m{
-	width: 40%;
+	width: 43%;
 	float: left;
-	height: 450px;
-	background: #99ABFF;
+	height: 485px;
+	background: #C9A7FF;
 }
+
+.m1{
+	width: 100%;
+	float: left;
+	margin-top: 95px;
+	height: 85px;
+	background: #E897E6;
+}
+
+.m2{
+	width: 100%;
+	float: left;
+	margin-top: 25px;
+	height: 85px;
+	background: #E897E6;
+}
+
+.ma2{
+	width: 30%;
+	float: left;
+	margin-right:10%;
+	margin-left:60%;
+	height: 85px;
+	background:#FFB6E8;
+}
+
+ #pie{
+	width: 100%;
+	background: #4E7DE8;
+	height: 195px;
+	float:left;
+}
+
+.piea{
+	width: 25%;
+	float: left;
+	height: 195px;
+	background: #53A9FF;
+}
+
+.pieb{
+	width: 0.5%;
+	float: left;
+	height: 195px;
+	background: #FFAE87;
+}
+
+.piec{
+	width: 74.5%;
+	float: left;
+	height: 195px;
+	background: #8292E8;
+}
+
+.piec1{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #84E0FF;
+}
+
+.piec1a{
+	width: 26%;
+	margin-left: 26%;
+	float: left;
+	height: 50px;
+	background: #FFD9C1;
+}
+
+.piec1b{
+	width: 15%;
+	margin-left: 3px;
+	float: left;
+	height: 50px;
+	background: #FFD9C1;
+}
+
+.piec2{
+	width: 100%;
+	float: left;
+	height: 105px;
+	background: #9598E8;
