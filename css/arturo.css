@@ -62,3 +62,21 @@ body{
 	height: 60px;
 	background: #cbb442;
 }
+#banner{
+	width: 100%;
+	background: #33fff6;
+	height: 350px;
+	float: left;
+}
+.banner2{
+	width: 100%;
+	background: #ffd433;
+	height: 05px;
+	float: left;
+}
+#seccion3{
+	width: 100%;
+	background: #ff7203;
+	height: 400px;
+	float: left;
+}
