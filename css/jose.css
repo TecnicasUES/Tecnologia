@@ -96,13 +96,21 @@ header{
 .p1{
 	width: 20%;
 	height: 500px;
-	position: relative; left: 20px;
+	margin-left: 6.5%;
 	background: #238c8d;
 }
 
 .p2{
 	width: 20%;
 	height: 500px;
-	position: relative; left: 50%;
+	margin-left: 6.5%;
+	background: #238c8d;
+
+}
+
+.p3{
+	width: 20%;
+	height: 500px;
+	margin-right: 6.5%;
 	background: #238c8d;
 }
