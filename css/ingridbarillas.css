@@ -81,3 +81,10 @@ body{
 	height: 500px;
 	background: #cbb442;
 }
+.prod1{
+	width: 25%;
+	float: left;
+	height: 560px;
+	background: #efce95;
+	margin: 6.25%; 
+}
