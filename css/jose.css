@@ -72,10 +72,37 @@ header{
 	background: #ceb537;
 }
 
-.child3{
+.cajarosa{
     width: 100%;
-    height: 400px;
+    height: 300px;
     float: left;
-    background: #f265a7
+    background: #f265a7;
 }
 
+.cajaturqueza{
+    width: 100%;
+    height: 10px;
+    float: left;
+    background: #35aa5a;
+}
+
+.celeste{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #9fc8dd;
+}
+
+.p1{
+	width: 20%;
+	height: 500px;
+	position: relative; left: 20px;
+	background: #238c8d;
+}
+
+.p2{
+	width: 20%;
+	height: 500px;
+	position: relative; left: 50%;
+	background: #238c8d;
+}
