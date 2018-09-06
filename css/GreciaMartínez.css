@@ -75,21 +75,21 @@ body{
 
 }
 
-#padre{
+#información{
 	width: 100%;
 	background: purple;
-	height:1500px;
+	height:2500px;
 	float: left;
 }
 
-.child3{
+.slideshowrosa{
 	width: 100%;
 	background: #FF70D7;
 	float: left;
 	height: 500px;
 }
 
-.child4{
+#premium{
 	width: 100%;
 	background: #6399FF;
 	float: left;
@@ -99,15 +99,248 @@ body{
 
 .hijo1{
 	height: 650px;
-	width: 400px;
+	width: 290px;
 	background:#8DFF63;
-	margin-left: 50px;
+	float:left;
+	margin-left:100px;
 }
+
+.dentrodehijo1{
+	height: 320px;
+	width: 290px;
+	background:#E8485A;
+	float:left;
+	
+}
+
+.dentrodehijo12{
+	height: 50px;
+	width: 290px;
+	background: #2725FF;
+	float: left;
+	margin-top: 320px;
+}
+
+.dentrodehijo13{
+	height: 230px;
+	width: 290px;
+	background: #E8A848;
+	float: left;
+	margin-top:30px;
+}
+
+.dentrodehijo14{
+	height: 100px;
+	width: 290px;
+	background: #8925E8;
+	float: left;
+	margin-top:200px;
+
+}
+
+.dentrodehijo15{
+	height: 100px;
+	width: 150px;
+	background: #FF1312;
+	float: left;
+	margin-top:0px;
+	margin-left: 70px;
+}
+
 
 .hijo2{
-
-	
+	height: 650px;
+	width: 290px;
+	background:#8DFF63;
+	float:left;
+	margin-left:140px;
 
 }
+
+.dentrodehijo21{
+	height: 320px;
+	width: 290px;
+	background:#E8485A;
+	float:left;
+}
+
+.dentrodehijo22{
+	height: 50px;
+	width: 290px;
+	background: #2725FF;
+	float: left;
+	margin-top: 320px;
+}
+
+.dentrodehijo23{
+	height: 230px;
+	width: 290px;
+	background: #E8A848;
+	float: left;
+	margin-top:30px;
+}
+
+.dentrodehijo24{
+	height: 100px;
+	width: 290px;
+	background: #8925E8;
+	float: left;
+	margin-top:200px;
+
+}
+
+.dentrodehijo25{
+	height: 100px;
+	width: 150px;
+	background: #FF1312;
+	float: left;
+	margin-top:0px;
+	margin-left: 70px;
+
+}
+
+
+.hijo3{
+	height: 650px;
+	width: 290px;
+	background:#8DFF63;
+	float:left;
+	margin-left:140px;
+
+}
+
+.dentrodehijo31{
+	height: 320px;
+	width: 290px;
+	background:#E8485A;
+	float:left;
+
+}
+
+.dentrodehijo32{
+	height: 50px;
+	width: 290px;
+	background: #2725FF;
+	float: left;
+	margin-top: 320px;
+
+}
+
+.dentrodehijo33{
+	height: 230px;
+	width: 290px;
+	background: #E8A848;
+	float: left;
+	margin-top:30px;
+
+}
+
+.dentrodehijo34{
+	height: 100px;
+	width: 290px;
+	background: #8925E8;
+	float: left;
+	margin-top:200px;
+
+}
+
+.dentrodehijo35{
+	height: 100px;
+	width: 150px;
+	background: #FF1312;
+	float: left;
+	margin-top:0px;
+	margin-left: 70px;
+}
+
+#banner{
+	height: 650px;
+	width: 100%;
+	background:#677E9C;
+	float: left;
+}
+
+.hijoa{
+	height: 650px;
+	width: 50%;
+	background:#EDD53B;
+	float: left;
+}
+
+.hijob{
+	height: 130px;
+	width: 50%;
+	background:#B471A4;
+	float: left;
+}
+
+.hijoc{
+	height: 110px;
+	width: 50%;
+	background:#52B45F;
+	float: left;
+}
+
+.dentrodehijoc{
+	height: 130px;
+	width: 45%;
+	background:#E029A0;
+	float: left;
+	margin-top: 0px;
+}
+
+.hijod{
+	height: 130px;
+	width: 50%;
+	background:#51DFE0;
+	float: left;
+
+}
+
+.hijoe{
+	height: 130px;
+	width: 50%;
+	background:#ED889A;
+	float: left;
+
+}
+
+.dentrodehijoe{
+	height: 130px;
+	width: 25%;
+	background:#F76B41;
+	float: left;
+	margin-left: 37%;
+
+}
+
+.hijof{
+	height: 150px;
+	width: 50%;
+	background:#838E9C;
+	float: left;
+	margin-left: 0%;
+
+}
+
+#contácto{
+	height: 664px;
+	width: 100%;
+	background:#F7B04C;
+	float: left;
+
+}
+
+.hijoa1{
+	height: 664px;
+	width: 55%;
+	background:#59C6ED;
+	float: left;
+
+
+
+
+
+
 
 
