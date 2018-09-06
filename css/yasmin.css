@@ -69,15 +69,37 @@ body{
 	background: #cbb442;
 }
 .cuadrorosa1{
+	float: left;
 	width: 100%;
 	height: 240px;
     background:#fb8dc3;
 }
 .lineaverde{
+	float: left;
 	width: 100%;
-	height: 15px;
+	height: 50px;
     background:#0ca700;
 }
-
+.azul1{
+	float: left;
+	width: 25%
+	height:250px;
+	background: #0d96f7;
+	margin: 6.25%;
+}
+.azul2{
+	float: left;
+	width: 25%
+	height:250px;
+	background: #0d96f7;
+	margin: 6.25%;
+}
+.azul3{
+	float: left;
+	width: 25%
+	height:250px;
+	background: #0d96f7;
+	margin: 6.25%;
+}
 
 
