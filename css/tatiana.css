@@ -19,48 +19,54 @@ header{
 	width: 55%;
 	height: 60px;
 	float: left;
-	background: #f38f23;
+	background: #e0592b;
 
 }
 .child2{
 	width: 45%;
 	height:60px;
 	float: left;
-	background: #9d23f3;
+	background: #973f54;
 }
 .a{
 	width: 45%;
 	height: 60px;
 	float: left;
-	background: #619498;
+	background: #ff5200;
 }
 .b{
 	width: 55%;
 	height: 60px;
 	float: left;
-	background: #bcde54;
+	background: #ecaa00;
 }
 .c{
 	width: 27%;
 	height: 60px;
 	float: left;
-	background: #b054;
+	background: #00ce7d;
 }
 .d{
 	width: 27%;
 	height: 60px;
 	float: left;
-	background: #0cde27;
+	background: #c7553b;
 }
 .e{
 	width: 19%;
 	height: 60px;
 	float: left;
-	background: #bade51;
+	background: #f0a055;
 }
 .f{
 	width: 27%;
 	height: 60px;
 	float: left;
-	background: #0bde54;
+	background: #7b98ac;
+}
+section{
+	width: 100%;
+	height: 275px;
+	float: left;
+	background: #c9a978;
 }
