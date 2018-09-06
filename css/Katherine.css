@@ -72,3 +72,57 @@ body{
 	height: 50px;
 	background: #ba4a95;
  }
+
+ .portada{ 
+ 	width: 100%;
+	float: left;
+	height: 400px;
+	background: #A3E4D7;
+}
+
+.p1{
+	width: 100%;
+	float: left;
+	height: 40px;
+	background: #45B39D;
+}
+
+.parte2{
+	width: 100%;
+	float: left;
+	height: 650px;
+	background: #F4D03F;
+}
+
+.p2{
+    width: 25%;
+	margin-left:50px;
+	float: left;
+	height: 450px;
+	background: #10F7BB;
+}
+
+.p2a{
+	width: 100%;
+	margin-top: 200px;
+	float: left;
+	height: 30px;
+	background:#FBB1F9;
+}
+
+.p2b{
+	width: 100%;
+	height: 175px;
+	float: left;
+	background: #F9B40B;
+}
+
+.p2c{
+	width: 100%;
+	height: 45px;
+	float: left;
+	background: #093A4B;
+}
+
+  
+
