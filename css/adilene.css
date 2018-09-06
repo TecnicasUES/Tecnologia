@@ -281,7 +281,7 @@ body{
 }
 
 .l3{
-	width: 50%;
+	width: 49%;
 	float: left;
 	height: 70px;
 	background: #4d8b88;
@@ -309,7 +309,6 @@ body{
 .seccion4{
 	width: 100%;
 	float: left;
-	height: 500px;
-	background: #779452;
-	
+	height: 400px;
+	background: 893238;
 }
