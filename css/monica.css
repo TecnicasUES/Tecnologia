@@ -97,7 +97,7 @@ body {
 .i{
 	width: 27%;
 	float: left;
-	margin-left:60px;
+	margin-left:5%;
 	height: 630px;
 	background: #AB99FF;
 }
@@ -216,75 +216,109 @@ body {
 .l{
 	width: 57%;
 	float: left;
-	height: 450px;
-	background: #A08DE8;
+	height: 485px;
+	background: #DAB0FF;
 }
 
 .l1{
-	width: 36%;
+	width: 100%;
 	float: left;
-	margin-top: 100px;
-	margin-right:1%;
-	margin-left:1%;
-	height: 75px;
-	background: #FFC7A9;
-}
-
-.la1{
-	width: 60%;
-	float: left;
-	margin-top: 100px;
-	margin-right:1%;
-	margin-left:1%;
-	height: 75px;
-	background: #FFC7A9;
+	height: 85px;
+	background: #E88B9D;
 }
 
 .l2{
-	width: 36%;
+	width: 100%;
 	float: left;
-	margin-top: 5px;
-	margin-right:1%;
-	margin-left:1%;
-	height: 75px;
-	background: #FFC7A9;
+	height: 355px;
+	background: #AD93E8;
 }
 
-.la2{
-	width: 60%;
+.hijol21{
+	width: 35%;
 	float: left;
-	margin-top: 5px;
-	margin-right:1%;
-	margin-left:1%;
-	height: 75px;
-	background: #FFC7A9;
+	height: 355px;
+	background: #81CFE8;
 }
 
+.lw1{
+	width: 95%;
+	float: left;
+	height: 75px;
+	margin-top: 2%;
+	margin-right: 2%;
+	margin-left: 3%;
+	background: #AD93E8;
+}
+
+.lw2{
+	width: 95%;
+	float: left;
+	height: 75px;
+	margin-top: 1%;
+	margin-right: 2%;
+	margin-left: 3%;
+	background: #AD93E8;
+}
+
+.lw3{
+	width: 95%;
+	float: left;
+	height: 180px;
+	margin-top: 3%;
+	margin-right: 2%;
+	margin-left: 3%;
+	background: #AD93E8;
+}
+
+.hijol22{
+	width: 65%;
+	float: left;
+	height: 355px;
+	background: #81CFE8;
+}
+
+.lw4{
+	width: 95%;
+	float: left;
+	height: 75px;
+	margin-top: 1%;
+	margin-right: 2%;
+	margin-left: 3%;
+	background: #AD93E8;
+}
+
+.lw5{
+	width: 95%;
+	float: left;
+	height: 75px;
+	margin-top: 0.5%;
+	margin-right: 2%;
+	margin-left: 3%;
+	background: #AD93E8;
+}
+
+.lw6{
+	width: 95%;
+	float: left;
+	height: 180px;
+	margin-top: 2%;
+	margin-right: 2%;
+	margin-left: 3%;
+	background: #AD93E8;
+}
 .l3{
-	width: 36%;
+	width: 100%;
 	float: left;
-	margin-top: 10px;
-	margin-right:1%;
-	margin-left:1%;
-	height: 180px;
-	background: #FFC7A9;
-}
-
-.la3{
-	width: 60%;
-	float: left;
-	margin-top: 10px;
-	margin-right:1%;
-	margin-left:1%;
-	height: 180px;
-	background: #FFC7A9;
+	height: 45px;
+	background: #BAFFF5;
 }
 
 .m{
 	width: 43%;
 	float: left;
 	height: 485px;
-	background: #C9A7FF;
+	background: #FFA3F1;
 }
 
 .m1{
@@ -292,7 +326,7 @@ body {
 	float: left;
 	margin-top: 95px;
 	height: 85px;
-	background: #E897E6;
+	background: #AEC2FF;
 }
 
 .m2{
@@ -300,7 +334,7 @@ body {
 	float: left;
 	margin-top: 25px;
 	height: 85px;
-	background: #E897E6;
+	background: #AEC2FF;
 }
 
 .ma2{
