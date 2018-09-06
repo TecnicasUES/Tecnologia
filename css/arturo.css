@@ -203,9 +203,57 @@ width: 50%;
 	height: 370px;
 	float: left;
 }
+.iii1{
+	width: 40%;
+	background:   #610985;
+	height: 70px;
+	float: left;
+	margin-left:0.5%;
+	margin-top: 10%;
+}
+.iii2{
+	width: 58.8%;
+	background:   #610985;
+	height: 70px;
+	float: left;
+	margin-left:0.5%;
+	margin-top: 10%;
+}
+.iii3{
+	width: 40%;
+	background:   #610985;
+	height: 70px;
+	float: left;
+	margin-left:0.5%;
+	margin-top: 0.5%;
+}
+.iii4{
+	width: 58.8%;
+	background:   #610985;
+	height: 70px;
+	float: left;
+	margin-left:0.5%;
+	margin-top: 0.5%;
+}
+.iii5{
+	width: 40%;
+	background:   #610985;
+	height: 100px;
+	float: left;
+	margin-left:0.5%;
+	margin-top: 1.5%;
+}
+.iii6{
+	width: 58.8%;
+	background:   #610985;
+	height: 100px;
+	float: left;
+	margin-left:0.5%;
+	margin-top: 1.5%;
+}
 .i2{
 	width: 50%;
-	background:   #bd1de4;
+	background: #bd1de4;
 	height: 400px;
 	float: left;
 }
