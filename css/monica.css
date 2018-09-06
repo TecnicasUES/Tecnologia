@@ -82,7 +82,7 @@ body {
 #articulos{
 	width: 100%;
 	background: #DEA6E8;
-	height: 650px;
+	height: 630px;
 	float:left;
 }
 
@@ -343,7 +343,7 @@ body {
 .piec1{
 	width: 100%;
 	float: left;
-	height: 90px;
+	height: 97.5px;
 	background: #84E0FF;
 }
 
@@ -366,5 +366,5 @@ body {
 .piec2{
 	width: 100%;
 	float: left;
-	height: 105px;
+	height: 97.5px;
 	background: #9598E8;
