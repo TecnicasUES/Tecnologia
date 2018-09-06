@@ -75,3 +75,9 @@ body{
 	height: 10px;
 	background: #0ca700;
 }
+.productos{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #cbb442;
+}
