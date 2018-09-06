@@ -288,7 +288,7 @@ body{
 }
 
 .celeste7{
-	width: 4%;
+	width: 3.5%;
 	height: 1000px;
 	float: left;
 	background: #9bddeb;
@@ -317,7 +317,7 @@ body{
 
 .a21{
 	width: 100%;
-	height: 100px;
+	height: 150px;
 	background: #4980d3;
 	float: left;
 }
@@ -376,4 +376,97 @@ body{
 	height: 100px;
 	background: #c777ae;
 	float: left;
+}
+
+.a25{
+	width: 100%;
+	height: 150px;
+	background: #74c8ad;
+	float: left;
+}
+
+.cuaverde{
+	width: 100%;
+	height: 725px;
+	background: #1c4035;
+	float: left;
+}
+
+.verde1{
+	width: 60%;
+	height: 725px;
+	background: #0a5411;
+	float: left;
+}
+
+.verde2{
+	width: 40%;
+	height: 725px;
+	background: #ddb23e;
+	float: left;
+}
+.v1{
+	width: 60%;
+	height: 725px;
+	background: #0a5411;
+	float: left;
+}
+
+.v1{
+	width: 100%;
+	height: 100px;
+	background: #93ad00;
+	float: left;
+}
+
+.v2{
+	width: 100%;
+	height: 575px;
+	background: #bceeec;
+	float: left;
+}
+
+.v3{
+	width: 100%;
+	height: 50px;
+	background: #979898;
+	float: left;
+}
+
+.v21{
+	width: 45%;
+	height: 575px;
+	background: #44cbed;
+	float: left;
+}
+
+.v22{
+	width: 55%;
+	height: 575px;
+	background: #51d3f4;
+	float: left;
+}
+
+.v211{
+	width: 100%;
+	height: 150px;
+	background: #a34f57;
+	float: left;
+	margin-top: 1%;
+}
+
+.v212{
+	width: 100%;
+	height: 150px;
+	background: #a34f57;
+	float: left;
+	margin-top: 1%;	 
+}
+
+.v213{
+	width: 100%;
+	height: 275px;
+	background: #a34f57;
+	float: left;
+	margin-top: 1%;	
 }
