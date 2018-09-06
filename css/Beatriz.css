@@ -77,14 +77,14 @@ body{
 #carrusel{
 	width: 100%;
 	background: #00E9D5;
-	height: 350px;
+	height: 400px;
 	float: left;
 }
 
 .g{  
 	width: 100%;
 	float:left;
-	height: 345px;
+	height: 392px;
 	background: #D9A553;
 
 }
@@ -383,105 +383,26 @@ body{
 }
 
 .child8{
-	width: 60%;
+	width: 40%;
 	height: 400px;	
-	background: #E85350;
-	float: left;	
+	background: #4B0CE8;
+	float:left;	
 }
 
 .child9{
-	width: 40%;
+	width: 60%;
 	height: 400px;	
 	background: #ECFF66;
 	float:left;	
 }
 
-.ch8a{
-	width: 100%;
-	float:left;
-	height: 60px;
-	background: #8A2A0C;
 
-}
-
-.ch8b{
-	width: 43%;
-	float:left;
-	height: 60px;
-	background: #B7BEB5;
-	margin-left: 2px;
-	margin-top: 2px;
-
-}
-
-.ch8c{
-	width: 55%;
-	float:right;
-	height: 60px;
-	background: #B7BEB5;
-	margin-left: 10px;
-	margin-right: 2px;
-	margin-top: 2px;
-
-}
-
-.ch8d{
-	width: 43%;
-	float:left;
-	height: 60px;
-	background: #B7BEB5;
-	margin-left: 2px;
-	margin-top: 2px;
-
-}
-
-.ch8e{
-	width: 55%;
-	float:right;
-	height: 60px;
-	background: #B7BEB5;
-	margin-left: 10px;
-	margin-right: 2px;
-	margin-top: 2px;
-
-}
-
-.ch8f{
-	width: 43%;
-	float:left;
-	height: 150px;
-	background: #B7BEB5;
-	margin-left: 2px;
-	margin-top: 10px;
-
-}
-
-.ch8g{
-	width: 55%;
-	float:right;
-	height: 150px;
-	background: #B7BEB5;
-	margin-left: 10px;
-	margin-right: 2px;
-	margin-top: 10px;
-
-}
-
-.ch8h{
-	width: 100%;
-	float:right;
-	height: 150px;
-	background: #E083F0;
-	margin-left: 10px;
-	
-}
 .ch9a{
 	width: 100%;
 	float:left;
 	height: 70px;
 	background: #D49750;
 	margin-top: 60px;
-
 }
 
 .ch9b{
@@ -489,8 +410,7 @@ body{
 	float:left;
 	height: 70px;
 	background: #D49750;
-	margin-top: 60px;
-	
+	margin-top: 60px;	
 }
 
 .ch9b1{
@@ -498,8 +418,7 @@ body{
 	float:right;
 	height: 70px;
 	background: #702D09;
-	margin-right: 45px;
-		
+	margin-right: 45px;	
 }
 
 
@@ -547,8 +466,7 @@ body{
 	float:left;
 	height: 40px;
 	background: #215BC4;
-	margin-right: 2px;
-			
+	border-right: 2px solid #8A49E3;			
 }
 
 .ch11a3{
@@ -556,8 +474,7 @@ body{
 	float:left;
 	height: 40px;
 	background: #215BC4;
-	margin-right: 2px;
-			
+	margin-right: 2px;		
 }
 
 .ch11a4{
@@ -565,8 +482,7 @@ body{
 	float:left;
 	height: 40px;
 	background: #215BC4;
-	margin-right: 2px;
-			
+	margin-right: 2px;		
 }
 
 
