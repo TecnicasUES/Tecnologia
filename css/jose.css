@@ -71,3 +71,11 @@ header{
 	float: left;
 	background: #ceb537;
 }
+
+.child3{
+    width: 100%;
+    height: 400px;
+    float: left;
+    background: #f265a7
+}
+
