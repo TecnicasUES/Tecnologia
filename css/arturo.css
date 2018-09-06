@@ -93,4 +93,52 @@ body{
 	height: 200px;
 	float: left;
 }
-
+.g2{
+	width: 100%;
+	background: #ff014a;
+	height: 20px;
+	float: left;
+}
+.g3{
+	width: 100%;
+	background: #01fff3;
+	height: 130px;
+	float: left;
+}
+.g4{
+	width: 100%;
+	background: #0180ff;
+	height: 50px;
+	float: left;
+}
+.gg1{
+	width: 35%;
+	background: #0701c4;
+	height: 50px;
+	float: left;
+	margin-left: 33.3%;
+}
+#seccion4{
+	width: 100%;
+	background:  #01c40d ;
+	height: 350px;
+	float: left;
+}
+.h1{
+	width: 50%;
+	background: #C70039;
+	height: 350px;
+	float: left;
+}
+.h2{
+width: 50%;
+	background: #01c4c1;
+	height: 350px;
+	float: left;
+}
+.hh1{
+	width: 100%;
+	background: #01c47d;
+	height: 80px;
+	float: left;
+}
