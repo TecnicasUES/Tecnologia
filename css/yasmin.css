@@ -68,9 +68,16 @@ body{
 	height: 60px;
 	background: #cbb442;
 }
-.cuadrogrande1{
+.cuadrorosa1{
 	width: 100%;
 	height: 240px;
     background:#fb8dc3;
 }
+.lineaverde{
+	width: 100%;
+	height: 20px;
+    background:#0ca700;
+}
+
+
 
