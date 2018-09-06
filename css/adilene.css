@@ -303,3 +303,29 @@ body{
 	height: 100px;
 	background: #779452;
 	margin-left: 50%
+
+}
+
+
+#seccion4{
+	width: 100%;
+	background: #3e383a;
+	height: 400px;
+	float: left;
+	
+}
+
+.child3{
+	width: 60%;
+	height: 400px;
+	background: #383934;
+	float: left;
+}
+
+.child4{
+	width: 40%;
+	float: right;
+	background: #6b9996;
+	height: 400px;
+}
+
