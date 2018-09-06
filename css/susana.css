@@ -70,6 +70,7 @@ header{
 	float: left;
 	background:  #615498;
 }
+
 .barras{
 	width: 100%;
 	height: 252px;
@@ -81,7 +82,7 @@ header{
 	width: 100%;
 	height: 240px;
 	float: left;
-	background: #e89ec1;
+	background: #d01d47;
 }
 
 .h{
@@ -105,6 +106,7 @@ header{
 	margin-left: 6.25%;
 	background: #4a96ba;
 }
+
 .i{
 	width: 100%;
 	height: 200px;
@@ -132,6 +134,7 @@ header{
 	float: left;
 	background: #593d79;
 }
+
 .l1{
 	width: 36%;
 	height: 36px;
@@ -139,6 +142,7 @@ header{
 	margin-left: 32%;
 	background: #357c79;
 }
+
 .cuadrado2{
 	width: 25%;
 	height: 400px;
@@ -154,7 +158,8 @@ header{
 	background: #1fabac;
 }
 
-.n{	width: 100%;
+.n{	
+	width: 100%;
 	height: 14px;
 	float: left;
 	background: #71a4a8;
@@ -173,6 +178,7 @@ header{
 	float: left;
 	background: #593d79;
 }
+
 .o1{
 	width: 36%;
 	height: 36px;
@@ -196,7 +202,8 @@ header{
 	background: #1fabac;
 }
 
-.q{	width: 100%;
+.q{	
+	width: 100%;
 	height: 14px;
 	float: left;
 	background: #71a4a8;
@@ -215,6 +222,7 @@ header{
 	float: left;
 	background: #593d79;
 }
+
 .s1{
 	width: 36%;
 	height: 36px;
@@ -223,7 +231,6 @@ header{
 	background: #357c79;
 }
 
-}
 .area2{
 	width: 100%;
 	height: 350px;
@@ -242,7 +249,7 @@ header{
 	width: 50%;
 	height: 350px;
 	float: left;
-	background: #4db57a;
+	background: #71b44e;
 }
 
 .cd1{
@@ -259,11 +266,12 @@ header{
 	float: left;
 	background: #2c5e6c;
 }
+
 .cd102{
 	width: 50%;
 	height: 58px;
 	float: left;
-	background: #95b37d;
+	background: #8faec9;
 }
 
 .cd2{
@@ -279,6 +287,7 @@ header{
 	float: left;
 	background: #2aada5;
 }
+
 .cd301{
 	width: 36%;
 	height: 59px;
@@ -287,7 +296,6 @@ header{
 	background: #14a6b5;
 }
 
-}
 .area3{
 	width: 100%;
 	height: 400px;
@@ -303,30 +311,60 @@ header{
 }
 
 .cuadradoa1{
-	width: 100%;
+	width: 48%;
 	height: 66px;
 	float: left;
 	margin-top: 7%;
-	margin-bottom: 1%;
-	background: #00a7cb;
+	margin-left: 1%;
+	background: #f0df7f;
 }
+
 .cuadradoa2{
-	width: 100%;
+	width: 48%;
 	height: 66px;
 	float: left;
-	margin-bottom: 1%;
-	background: #0199ba;
+	margin-left: 1%;
+	margin-top: 7%;
+	background: #f0df7f;
 }
 
 .cuadradoa3{
-	width: 100%;
-	height: 135px;
+	width: 48%;
+	height: 66px;
 	float: left;
-	margin-bottom: 1%;
-	background: #0289a6;
+	margin-top: 1%;
+	margin-left: 1%;
+	background: #d7c147;
 }
 
 .cuadradoa4{
+	width: 48%;
+	height: 66px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+	background: #d7c147;
+}
+
+.cuadradoa5{
+	width: 48%;
+	height: 145px;
+	float: left;
+	margin-top: 1%;
+	margin-left: 1%;
+	background: #9f8d26;
+}
+
+.cuadradoa6{
+	width: 48%;
+	height: 145px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+	background: #9f8d26;
+}
+
+.cuadradoa7{
 	width: 100%;
 	height: 20px;
 	float: left;
@@ -337,7 +375,7 @@ header{
 	width: 40%;
 	height: 400px;
 	float: left;
-	background: #26a29d;
+	background: #e69719;
 }
 
 .cuadradob1{
@@ -345,7 +383,7 @@ header{
 	height: 66px;
 	float: left;
 	margin-top: 10%;
-	background: #02abc8;
+	background: #ecafa6;
 }
 
 .cuadradob2{
@@ -353,7 +391,7 @@ header{
 	height: 66px;
 	float: left;
 	margin-top: 10%;
-	background: #01a1bc;
+	background: #ffcdc5;
 }
 
 .cuadradob201{
@@ -361,7 +399,7 @@ header{
 	height: 66px;
 	float: left;
 	margin-left: 60%;
-	background: #69439a;
+	background: #8e5e34;
 }
 
 .piedepagina{
