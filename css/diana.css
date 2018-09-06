@@ -69,12 +69,27 @@ body {
 	background: #157A91;
 }
 
+#cuerpo{
+	width: 100%;
+	background:  #6ba633;
+	height:600px;
+	float: left;
+}
+
 .hijounico{
 	width: 100%;
 	background: #CCEC93;
 	height: 450px;
 	float: left;
 }
+
+.borde{
+	width: 100%;
+	background:  #f78067;
+	height: 20px;
+	float: left;
+}
+
 
 #productos{
 	background: #BBE9DF;
@@ -91,6 +106,29 @@ body {
 	margin-left: 85px;
 }
 
+.g1{
+	width: 25%;
+	height: 200px;
+	float: left;
+	background:  #33a69c;
+	margin-left: 85px;
+}
+
+.g2{
+	width: 25%;
+	height: 30px;
+	float: left;
+	background:  #00508f;
+	margin-left: 85px;
+}
+
+.g3{
+	width: 25%;
+	height: 150px;
+	float: left;
+	background:  #7ec313;
+	margin-left: 85px;
+}
 .h{
 	width: 25%;
 	height: 500px;
