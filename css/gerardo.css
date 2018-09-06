@@ -78,16 +78,13 @@ body{
 	height: 500px;
 }
 
-#arti{
-	width: 100%;
-	height:650px;
-	background: #ce7a30;
-	float: left;
-}
-
 .h{
 	width: 100%;
 	float: left;
-	background: #e8dd2b;
-	height: 20px;
+	background: #0cec90;
+	height: 40px;
 }
+
+
+
+
