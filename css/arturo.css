@@ -120,7 +120,7 @@ body{
 }
 #seccion4{
 	width: 100%;
-	background:  #01c40d ;
+	background: #01c40d ;
 	height: 350px;
 	float: left;
 }
@@ -183,5 +183,29 @@ width: 50%;
 	width: 100%;
 	background: #fc97fe;
 	height: 80px;
+	float: left;
+}
+.seccion5{
+    width: 100%;
+	background:  #ffd100;
+	height: 400px;
+	float: left;	
+}
+.i1{
+	width: 50%;
+	background:   #009bff;
+	height: 400px;
+	float: left;
+}
+.ii1{
+	width: 100%;
+	background: #f8ff6c;
+	height: 370px;
+	float: left;
+}
+.i2{
+	width: 50%;
+	background:   #bd1de4;
+	height: 400px;
 	float: left;
 }
