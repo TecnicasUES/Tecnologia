@@ -20,7 +20,6 @@ body{
 .child1{
 	width: 55%;
 	height: 60px;
-	border:1px solid black;
 	background: #629398;
 	float: left;
 }
