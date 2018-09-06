@@ -70,3 +70,23 @@ header{
 	float: left;
 	background:  #615498;
 }
+.barras{
+	width: 100%;
+	height: 252px;
+	float: left;
+	background: #9d23f3;
+}
+
+.g{
+	width: 100%;
+	height: 240px;
+	float: left;
+	background: #e89ec1;
+}
+
+.h{
+	width: 100%;
+	height: 12px;
+	float: left;
+	background: #7cc5b1;
+}
