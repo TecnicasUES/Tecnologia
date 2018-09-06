@@ -138,7 +138,43 @@ width: 50%;
 }
 .hh1{
 	width: 100%;
-	background: #01c47d;
+	background:  #28f3a9;
+	height: 70px;
+	float: left;
+}
+.hh2{
+	width: 100%;
+	background:  #6c77ff;
+	height: 70px;
+	float: left;
+}
+.hhh1{
+	width: 50%;
+	background: #ff9b00;
+	height: 70px;
+	float: left;
+}
+.hhh2{
+	width: 50%;
+	background: #1700ff;
+	height: 70px;
+	float: left;
+}
+.hh3{
+	width: 100%;
+	background: #f8ff6c;
+	height: 70px;
+	float: left;
+}
+.hh4{
+	width: 100%;
+	background:  #00e4ff;
+	height: 60px;
+	float: left;
+}
+.hh5{
+	width: 100%;
+	background:  #fc97fe;
 	height: 80px;
 	float: left;
 }
