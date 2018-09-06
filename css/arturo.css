@@ -80,3 +80,17 @@ body{
 	height: 400px;
 	float: left;
 }
+.g{
+	width: 25%;
+	background: #8546f3;
+	height: 400px;
+	float: left;
+	margin-left: 6.25%;
+}
+.g1{
+	width: 100%;
+	background:  #f001ff ;
+	height: 200px;
+	float: left;
+}
+
