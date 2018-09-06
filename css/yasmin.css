@@ -77,7 +77,7 @@ body{
 .lineaverde{
 	float: left;
 	width: 100%;
-	height: 50px;
+	height: 30px;
     background:#0ca700;
 }
 .azul1{
@@ -85,21 +85,21 @@ body{
 	width: 25%
 	height:300px;
 	background: #0d96f7;
-	margin: 6.25px;
+	margin: left 6.25%;
 }
 .azul2{
 	float: left;
 	width: 25%
 	height:300px;
 	background: #0d96f7;
-	margin: 6.25px;
+	margin: left 6.25%;
 }
 .azul3{
 	float: left;
 	width: 25%
 	height:300px;
 	background: #0d96f7;
-	margin: 6.25px;
+	margin: left 6.25%;
 }
 
 
