@@ -170,6 +170,62 @@ header{
 	background: purple;
 }
 
+.child1j{
+	width: 100%;
+	height: 220px;
+	float: left;
+	background: green;
+}
+
+.child2j{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: gray;
+}
+
+.child3j{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: brown;
+}
+
+.child4j{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: purple;
+}
+
+.child1l{
+	width: 100%;
+	height: 220px;
+	float: left;
+	background: green;
+}
+
+.child2l{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: gray;
+}
+
+.child3l{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: brown;
+}
+
+.child4l{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: purple;
+}
+
 .alpha{
 	width: 30%;
 	height: 80px;
@@ -185,6 +241,48 @@ header{
 }
 
 .gamma{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: purple;
+}
+
+.alpha2{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: purple;
+}
+
+.beta2{
+	width: 40%;
+	height: 80px;
+	float: left;
+	background: green;
+}
+
+.gamma2{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: purple;
+}
+
+.alpha3{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: purple;
+}
+
+.beta3{
+	width: 40%;
+	height: 80px;
+	float: left;
+	background: green;
+}
+
+.gamma3{
 	width: 30%;
 	height: 80px;
 	float: left;
