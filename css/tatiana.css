@@ -6,7 +6,6 @@ body{
 	height: auto;
 	font-family: arial;
 	margin: 0;
-
 }
 header{
 	width: 100%;
@@ -14,13 +13,11 @@ header{
 	float: left;
 	background: #a7f323;
 }
-
 .child1{ 
 	width: 55%;
 	height: 60px;
 	float: left;
 	background: #e0592b;
-
 }
 .child2{
 	width: 45%;
@@ -66,125 +63,110 @@ header{
 }
 section{
 	width: 100%;
-	height: 1200px;
+	height: 1445px;
 	float: left;
 	background: #c9a978;
-
 }
-
 .child3{
 	width: 100%;
-	height: 240px;
+	height: 385px;
 	float: left;
 	background: #4b384c;
-
 }
-
 .child4{
 	width: 100%;
 	height: 10px;
 	float: left;
 	background: #081f2d;
 }
-
 .child5{
 	width: 100%;
-	height: 360px;
+	height: 450px;
 	float: left;
 	background: #41770d;
 }
-
 .g{
 	width: 25%;
-	height: 360px;
+	height: 100%;
 	float: left;
 	margin-left: 6.25%;
 	background: #7ba5de;
 }
-
 .h{
 	width: 25%;
-	height: 360px;
+	height: 100%;
 	float: left;
 	margin-left: 6.25%;
 	background: #7ba5de;
 }
-
 .i{
 	width: 25%;
-	height: 360px;
+	height: 100%;
 	float: left;
 	margin-left: 6.25%;
 	background: #7ba5de;
 }
-
 .ga{
 	width: 100%;
-	height: 180px;
-	margin-top: 180px;
+	height: 50%;
+	margin-top: 225px;
 	background: #ff6c00;
 }
-
 .ha{
 	width: 100%;
-	height: 180px;
-	margin-top: 180px;
+	height: 50%;
+	margin-top: 225px;
 	background: #ff6c00;
 }
-
 .ia{
 	width: 100%;
-	height: 180px;
-	margin-top: 180px;
+	height: 50%;
+	margin-top: 225px;
 	background: #ff6c00;
 }
 .ga1{
 	width: 100%;
-	height: 25px;
+	height: 20%;
 	background: #9cd64e;
 }
 .ga2{
 	width: 100%;
-	height: 105px;
+	height:60%;
 	background: #ced743;
 }
 .ga3{
 	width: 100%;
-	height: 50px;
+	height: 20%;
 	background: #d79a43;
 }
-
 .ha1{
 	width: 100%;
-	height:25px;
+	height:20%;
 	background: #9cd64e;
 }
-
 .ha2{
 	width: 100%;
-	height: 105px;
+	height: 60%;
 	background: #ced743;
 }
 .ha3{
 	width: 100%;
-	height: 50px;
+	height: 20%;
 	background: #d79a43;
 }
-
 .ia1{
 	width: 100%;
-	height:25px;
+	height:20%;
 	background: #9cd64e;
 }
-
 .ia2{
 	width: 100%;
-	height: 105px;
+	height: 60%;
 	background: #ced743;
 }
 .ia3{
 	width: 100%;
-	height: 50px;
+	height: 20%;
 	background: #d79a43;
 }
 .ga3a{
@@ -193,176 +175,154 @@ section{
 	float: left;
 	background: #d65d4c;
 }
-
 .ga3b{
 	width: 33.333%;
 	height: 100%;
 	float: left;
 	background: #b92a2a;
 }
-
 .ga3c{
 	width: 33.333%;
 	height: 100%;
 	float: left;
 	background: #d65d4c;
 }
-
 .ha3a{
 	width: 33.333%;
 	height: 100%;
 	float: left;
 	background: #d65d4c;
 }
-
 .ha3b{
 	width: 33.333%;
 	height: 100%;
 	float: left;
 	background: #b92a2a;
 }
-
 .ha3c{
 	width: 33.333%;
 	height: 100%;
 	float: left;
 	background: #d65d4c;
 }
-
 .ia3a{
 	width: 33.333%;
 	height: 100%;
 	float: left;
 	background: #d65d4c;
 }
-
 .ia3b{
 	width: 33.333%;
 	height: 100%;
 	float: left;
 	background: #b92a2a;
 }
-
 .ia3c{
 	width: 33.333%;
 	height: 100%;
 	float: left;
 	background: #d65d4c;
 }
-
 .child6{
 	width: 100%;
 	height: 240px;
 	float: left;
 	background: #786da9;
 }
-
 .j{
 	width: 50%;
 	height: 240px;
 	float: left;
 	background:#9994ac;
 }
-
 .k{
 	width: 50%;
 	height: 240px;
 	float: left;
 	background: #94a4ac;
 }
-
 .ka{
 	width: 100%;
-	height: 20%;
+	height: 45px;
 	float: left;
-	background: #2d9ad2;
-}
-
-.kb{
-	width: 100%;
-	height: 17%;
-	float: left;
+	margin-top: 45px;
 	background: #89173d;
 }
-
-.kc{
+.kb{
 	width: 100%;
-	height: 17%;
+	height: 45px;
 	float: left;
 	background: #2dd277;
 }
-
+.kc{
+	width: 100%;
+	height: 45px;
+	float: left;
+	background: #962dd2;
+}
 .kd{
 	width: 100%;
 	height: 17%;
 	float: left;
+	margin-bottom: 29%;
 	background: #962dd2;
 }
-
-.ke{
-	width: 100%;
-	height: 29%;
-	float: left;
-	background: #177d89;
-}
-
-.kb1{
+.ka1{
 	width:50%;
 	height:100%;
 	float: left;
 	background: #17896a;
 }
-.kb2{
+.ka2{
 	width:50%;
 	height:100%;
 	float: left;
 	background: #178942;
 }
-
-.kd1{
+.kc1{
 	width:40%;
 	height:100%;
 	float: left;
 	background: #5f8917;
 }
-
-.kd2{
+.kc2{
 	width:20%;
 	height:100%;
 	float: left;
 	background: #d1a60f;
 }
-
-.kd3{
+.kc3{
 	width:40%;
 	height:100%;
 	float: left;
 	background: #5f8917;
 }
-
+.child7{
+	width: 100%;
+	height: 360px;
+	float: left;
+	background: #efaf9e;
+}
 .l{
 	width: 55%;
-	height: 360px;
+	height: 100%;
 	float: left;
 	background:#415464;
 }
-
 .m{
 	width: 45%;
-	height: 360px;
+	height: 100%;
 	float: left;
 	background:#d09412;
 }
-
 .la{
 	width: 44%;
 	height: 265px;
 	float: left;
 	margin-top: 75px;
-	margin-left: 0.5%;
+	margin- left: 0.5%;
 	background:transparent;
 }
-
 .la1{
 	width: 100%;
 	height: 25%;
@@ -376,7 +336,6 @@ section{
 	margin-top: 5px;
 	background:#1b5d18;
 }
-
 .la3{
 	width: 100%;
 	height: 45%;
@@ -384,7 +343,6 @@ section{
 	margin-top:10px;
 	background:#3a5d18;
 }
-
 .lb{
 	width: 53%;
 	height: 265px;
@@ -393,14 +351,12 @@ section{
 	margin-left: 1.5%;
 	background:transparent;
 }
-
 .lb1{
 	width: 100%;
 	height: 25%;
 	float: left;
 	background:#d5891c;
 }
-
 .lb2{
 	width: 100%;
 	height: 25%;
@@ -408,7 +364,6 @@ section{
 	margin-top: 5px;
 	background:#c46a1a;
 }
-
 .lb3{
 	width: 100%;
 	height: 45%;
@@ -416,14 +371,12 @@ section{
 	margin-top:10px;
 	background:#b8410c;
 }
-
 .lc{
 	width: 100%;
 	height: 20px;
 	float: left;
 	background:#e48c8c;
 }
-
 .ma{
 	width: 100%;
 	height: 75px;
@@ -431,7 +384,6 @@ section{
 	margin-top: 75px;
 	background:#b27e7e;
 }
-
 .mb{
 	width: 100%;
 	height: 75px;
@@ -439,24 +391,33 @@ section{
 	margin-top: 15px;
 	background:#7e4f4f;
 }
-
 .mb1{
 	width: 70%;
 	height: 100%;
 	float: left;
 	background: #dfacac;
 }
-
 .mb2{
 	width: 20%;
 	height: 100%;
 	float: left;
 	background: #5a1f1f;
 }
-
 .mb3{
 	width: 10%;
 	height: 100%;
 	float: left;
 	background: #7b6565;
+}
+footer{
+width: 100%;
+height: 200px;
+float: left;
+background: #dbef9e;
+}
+.child8{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #3365cb;
 }
