@@ -39,6 +39,7 @@ section.middle1 {
 section.middle2 {
     height: 260px;
     width: 100%;
+     border: 2px solid #06661c;
 }
 
 section.middle3 {
@@ -139,7 +140,7 @@ section.middle3 {
 
 .g {
     background-color: #4aafc9;
-    border: 2px solid #06661c;
+    border: 1px solid #06661c;
     float: left;
     height: 50px;
     width: 42%;
@@ -147,7 +148,7 @@ section.middle3 {
 
 .h {
     background-color: #7ad4d6;
-    border: 2px solid #06661c;
+    border: 1px solid #06661c;
     float: left;
     height: 50px;
     width: 58%;
@@ -155,7 +156,7 @@ section.middle3 {
 
 .i {
     background-color: #4aafc9;
-    border: 2px solid #06661c;
+    border: 1px solid #06661c;
     float: left;
     height: 50px;
     width: 42%;
@@ -163,7 +164,7 @@ section.middle3 {
 
 .j {
     background-color: #7ad4d6;
-    border: 2px solid #06661c;
+    border: 1px solid #06661c;
     float: left;
     height: 50px;
     width: 58%;
@@ -171,7 +172,7 @@ section.middle3 {
 
 .k {
     background-color: #4aafc9;
-    border: 2px solid #06661c;
+    border: 1px solid #06661c;
     float: left;
     height: 100px;
     width: 42%;
@@ -179,7 +180,7 @@ section.middle3 {
 
 .l {
     background-color: #7ad4d6;
-    border: 2px solid #06661c;
+    border: 1px solid #06661c;
     float: left;
     height: 100px;
     width: 58%;
@@ -187,6 +188,7 @@ section.middle3 {
 
 #picture {
     background-color: #ee9ac6;
+     border: 1px solid #06661c;
     float: left;
     height: 200px;
     width: 100%;
@@ -210,6 +212,7 @@ section.middle3 {
 
 .top-box {
     background-color: #2cbf96;
+     border: 1px solid #06661c;
     height: 170px;
     width: 100%;
 }
@@ -222,6 +225,7 @@ section.middle3 {
 
 .bottom-box {
     background-color: #F9A610;
+     border: 1px solid #06661c;
     height: 120px;
     width: 100%;
 }
@@ -265,6 +269,7 @@ section.middle3 {
     float: right;
     height: 260px;
     width: 50%;
+     border: 1px solid #06661c;
 }
 
 .top-right1 {
@@ -445,7 +450,7 @@ section.middle3 {
 
 .link4 {
     background-color: #2233b6;
-    border-left: 2px;
+    border-left: 1px;
     border-color: #f6ff30;
     border-style: solid;
     float: left;
