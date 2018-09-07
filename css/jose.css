@@ -115,3 +115,32 @@ section{
 	margin-left: 10%;
 	background: #1a7b7c;
 }
+
+.l{
+	width: 20%;
+	height: 400px;
+	float: left;
+	margin-left: 10%;
+	background: #1a7b7c;
+}
+
+.j1{
+	width: 100%;
+	height: 200px;
+	margin-top: 200px;
+	background: #4b9e66;
+}
+
+.k1{
+	width: 100%;
+	height: 200px;
+	margin-top: 200px;
+	background: #4b9e66;
+}
+
+.l1{
+	width: 100%;
+	height: 200px;
+	margin-top: 200px;
+	background: #4b9e66;
+}
