@@ -1,0 +1,308 @@
+ *{
+  margin: 0;
+  padding: 0;
+}
+#contenedor {
+  float: left;
+  width: 100%;
+  height: 60px;
+  background: rgb(206, 164, 122);
+}
+.caja-1 {
+  height: 58px;
+  width: 16%;
+  float:left;
+  background: rgb(98, 147, 151);
+  border:1px solid black;
+}
+.caja-2 {
+  height: 58px;
+  width: 18%;
+  float:left;
+  background: rgb(195, 219, 83);
+  border:1px solid black;
+}
+.caja-3 {
+  height: 58px;
+  width: 17%;
+  float:left;
+  background: rgb(217, 159, 119);
+  border:1px solid black;
+}
+.caja-4 {
+  height: 58px;
+  width: 17%;
+  float:left;
+  background: rgb(215, 162, 50);
+  border:1px solid black;
+}
+.caja-5 {
+  height: 58px;
+  width: 15%;
+  float:left;
+  background: rgb(139, 155, 119);
+  border:1px solid black;
+}
+.caja-6 {
+  height: 58px;
+  width: 16%;
+  float:left;
+  background: rgb(208, 182, 46);
+  border:1px solid black;
+}
+.banner {
+  float: left;
+  width: 100%;
+  height: 300px;
+  background: rgb(232, 158, 193);
+  border:1px solid black;
+}
+article{
+  background: rgb(31, 171, 172);
+  width: 25%;
+  min-height: 400px; 
+  float: left;
+  margin-left: 6%;
+  margin-top: 5%;
+  border:1px solid black;
+}
+section{
+width: 100%;
+background: rgb(92, 202, 203);
+min-height: 100px;
+float: left;
+}
+.body-cont1{
+  width: 100%;
+  float: left;
+  height: 200px;
+  border-bottom: 1px solid black;
+}
+.body-cont2{
+  width: 100%;
+  float: left;
+  height: 50px;
+  border-bottom: 1px solid black;
+  background-color: rgb(114, 161, 167);
+  margin-top: 200px;
+}
+.body-cont3{
+  width: 100%;
+  float: left;
+  height: 90px;
+  border-bottom: 1px solid black;
+  background-color: rgb(175, 118, 99);
+  margin-top: 50px;
+}
+.body-cont4{
+  width: 100%;
+  float: left;
+  height: 60px;
+  background-color: rgb(134, 100, 150);
+  margin-top: 90px;
+  border-bottom: 1px solid black;
+}
+.body-cont5{
+  width: 33%;
+  float: left;
+  height: 59px;
+  background-color: rgb(60, 131, 133);
+  margin-top: 0px;
+  margin-left: 33%;
+  border-right: 1px solid black;
+  border-left: 1px solid black;  
+}
+.section-1{
+float: left;
+width: 100%;
+height: 325px;
+background-color: rgb(92, 202, 203);
+border-top:1px solid black;
+margin-top: 0px;
+}
+.section-2{
+float: right;
+width: 50%;
+height: 325px;
+background-color: rgb(70, 184, 122);
+border-left: 1px solid black;
+margin-top: 0px;
+}
+.box-1{
+  float:left;
+  width: 50%;
+  height: 60px;
+  background-color: rgb(93, 79, 91);
+  margin-top: 60px;
+}
+.box-2{
+  float:right;
+  width: 50%;
+  height: 60px;
+  background-color: rgb(149, 173, 127);
+  margin-top: 60px;
+}
+.box-3{
+  float:right;
+  width: 100%;
+  height: 60px;
+  background-color: rgb(140, 119, 126);
+  margin-top: 0px;
+}
+.box-4{
+  float:left;
+  width: 33%;
+  height: 60px;
+  background-color: rgb(63, 163, 163);
+  margin-top: 0px;
+}
+.box-5{
+  float:left;
+  width: 33%;
+  height: 60px;
+  background-color: rgb(37, 157, 192);
+  margin-top: 0px;
+}
+.box-6{
+  float:left;
+  width: 34%;
+  height: 60px;
+  background-color: rgb(63, 163, 163);
+  margin-top: 0px;
+}
+.section-3{
+float: left;
+width: 55%;
+height: 325px;
+background-color: rgb(25, 98, 89);
+border-top:1px solid black;
+margin-top: 0px;
+}
+.box-7{
+  float:left;
+  width: 49%;
+  height: 60px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 60px;
+}
+.box-8{
+  float:left;
+  width: 49%;
+  height: 60px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 60px;
+  margin-left: 15px;
+}
+.box-9{
+  float:left;
+  width: 49%;
+  height: 60px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 10px;
+}
+.box-10{
+  float:left;
+  width: 49%;
+  height: 60px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.box-11{
+  float:left;
+  width: 49%;
+  height: 125px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 10px;
+}
+.box-12{
+  float:left;
+  width: 49%;
+  height: 125px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.section-4{
+float: right;
+width: 45%;
+height: 350px;
+background-color: rgb(63, 184, 175);
+border-top:1px solid black;
+margin-top: 0px;
+}
+.box-13{
+  float:left;
+  width: 96%;
+  height: 60px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 60px;
+  border: 1px solid black;
+  margin-left: 2%;
+}
+.box-14{
+  float:left;
+  width: 55%;
+  height: 60px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 60px;
+  margin-left: 2%;
+  border: 1px solid black;
+}
+.box-15{
+  float:left;
+  width: 20%;
+  height: 60px;
+  background-color: rgb(102, 68, 154);
+  margin-top: 60px;
+  border: 1px solid black;
+}
+.box-16{
+  float:left;
+  width: 20%;
+  height: 60px;
+  background-color: rgb(3, 165, 204);
+  margin-top: 60px;
+  border: 1px solid black;
+}
+/*aqui comienza la ultima seccion de la pagina web*/
+.section-5{
+float: left;
+width: 30%;
+height: 200px;
+background-color: rgb(39, 75, 159);
+border-top:1px solid black;
+margin-top: 0px;
+}
+.section-6{
+float: left;
+width: 70%;
+height: 100px;
+background-color: rgb(38, 183, 144);
+border-top:1px solid black;
+margin-top: 0px;
+}
+.box-17{
+width: 25%;
+height: 50px;
+background-color: rgb(48, 65, 157); 
+float: left;
+margin-left: 25%; 
+border-right: 1px solid white; 
+}
+.box-18{
+width: 15%;
+height: 50px;
+background-color: rgb(48, 65, 157); 
+float: left; 
+border-right: 1px solid white; 
+}
+.section-7{
+float: left;
+width: 70%;
+height: 100px;
+background-color: rgb(80, 141, 144);
+border-top:1px solid black;
+margin-top: 0px;
+}
+
