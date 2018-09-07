@@ -454,3 +454,123 @@ header{
 	float: left;
 	background: lightblue;
 }
+
+.x{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: lightgreen;
+}
+
+.y{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: aqua;
+}
+
+.z{
+	width: 100%;
+	height: 30px;
+	float: left;
+	background: lightgreen;
+}
+
+.aa{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: aqua;
+}
+
+.child1aa{
+	width: 55%;
+	height: 72px;
+	float: left;
+	background: aqua;
+}
+
+.child2aa{
+	width: 25%;
+	height: 72px;
+	float: left;
+	background: darkgreen;
+}
+
+.child3aa{
+	width: 20%;
+	height: 72px;
+	float: left;
+	background: aqua;
+}
+
+.ab{
+	width: 100%;
+	height: 114px;
+	float: left;
+	background: lightgreen;
+}
+
+.child10{
+	width: 30%;
+	height: 200px;
+	float: left;
+	background: purple;
+}
+
+.child11{
+	width: 70%;
+	height: 200px;
+	float: left;
+	background: green;
+}
+
+.ac{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightgreen;
+}
+
+.ad{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightgreen;
+}
+
+.ae{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: gray;
+}
+
+.child1ac{
+	width: 20%;
+	height: 50px;
+	float: left;
+	background: lightgreen;
+}
+
+.child2ac{
+	width: 60%;
+	height: 50px;
+	float: left;
+	background: purple;
+}
+
+.child3ac{
+	width: 16%;
+	height: 50px;
+	float: left;
+	background: purple;
+	border: lightgreen 1px solid;
+}
+
+.child4ac{
+	width: 4%;
+	height: 50px;
+	float: left;
+	background: lightgreen;
+}
