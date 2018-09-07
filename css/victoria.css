@@ -16,9 +16,13 @@ body {
 }
 
 header {
-    float:  left;
     height:  60px;
     width:  100%;
+}
+
+footer {
+    height: 180px;
+    width: 100%;
 }
 
 section.top {
@@ -77,6 +81,18 @@ section.middle3 {
     float: right;
     height: 280px;
     width: 40%;
+}
+
+.child7 {
+    float: left;
+    height: 180px;
+    width: 35%;
+}
+
+.child8 {
+    float: right;
+    height: 180px;
+    width: 65%;
 }
 
 .a {
@@ -372,4 +388,67 @@ section.middle3 {
     background-color: #66ccaa;
     height: 90px;
     width: 100%;
+}
+
+.child7-left {
+    background-color: #2233b6;
+    height: 180px;
+    width: 100%;
+}
+
+.child8-top {
+    background-color: #f6ff30;
+    height: 90px;
+    width: 100%;
+}
+
+.child8-bottom {
+    background-color: #1c9a03;
+    height: 90px;
+    width: 100%;
+}
+
+.nav {
+    height: 60px;
+    left: 18%;
+    position: relative;
+    top: 0;
+    width: 66%;
+}
+
+.link1 {
+    background-color: #2233b6;
+    float: left;
+    height: 60px;
+    width: 33%;
+}
+
+.link2 {
+    background-color: #2233b6;
+    border-left: 1px;
+    border-color: #f6ff30;
+    border-style: solid;
+    float: left;
+    height: 60px;
+    width: 23%;
+}
+
+.link3 {
+    background-color: #2233b6;
+    border-left: 1px;
+    border-color: #f6ff30;
+    border-style: solid;
+    float: left;
+    height: 60px;
+    width: 22%;
+}
+
+.link4 {
+    background-color: #2233b6;
+    border-left: 2px;
+    border-color: #f6ff30;
+    border-style: solid;
+    float: left;
+    height: 60px;
+    width: 22%;
 }
