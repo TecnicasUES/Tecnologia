@@ -1,72 +1,375 @@
 @charset "utf-8";
 
-body{
-	background: #23e2f3;
+body {
+	background: yellow;
 	width: 100%;
 	height: auto;
 	font-family: arial;
-	margin: 0;
+	margin: 0; 
 }
 
 header{
-	width:100%;
-	height: 60px;
-	float: left;
+	width: 100%;
 	background: #a7f323;
+	height: 55px;
+	float:left;
 }
 
-.child1{
+.alfa{
 	width: 55%;
-	height: 60px;
-	float: left;
+	height: 55px;
 	background: #f38f23;
+	float:left;
 }
 
-.child2{
+.beta{
 	width: 45%;
-	height: 60px;
-	float: left;
+	float:left;
 	background: #9d23f3;
+	height: 55px;
+
 }
 
 .a{
 	width: 45%;
-	height: 60px;
 	float: left;
+	height: 55px;
 	background: #619498;
 }
 
 .b{
 	width: 55%;
-	height: 60px;
 	float: left;
+	height: 55px;
 	background: #bcde54;
 }
 
 .c{
 	width: 27%;
-	height: 60px;
 	float: left;
+	height: 55px;
 	background: #d99d85;
 }
 
 .d{
 	width: 19%;
-	height: 60px;
 	float: left;
+	height: 55px;
 	background: #d1a43d;
 }
 
 .e{
 	width: 27%;
-	height: 60px;
 	float: left;
+	height: 55px;
 	background: #8b9b76;
 }
 
 .f{
 	width: 27%;
-	height: 60px;
 	float: left;
+	height: 55px;
 	background: #ceb537;
+}
+
+.gamma{
+	width: 100%;
+	height: 170px;
+	background: #f38f23;
+	float:left;
+}
+
+.rayita{
+	width: 100%;
+	height: 20px;
+	background: #black;
+	float: left;
+}
+
+.g1{
+	width: 8%;
+	float: left;
+	height: 215px;
+	background: #619498;
+}
+
+.g2{
+	width: 24%;
+	float: left;
+	height: 215px;
+	background: #bcde54;
+}
+
+.g3{
+	width: 6%;
+	float: left;
+	height: 215px;
+	background: #619498;
+}
+
+.g4{
+	width: 24%;
+	float: left;
+	height: 215px;
+	background: #bcde54;
+}
+
+.g5{
+	width: 6%;
+	float: left;
+	height: 215px;
+	background: #619498;
+}
+
+.g6{
+	width: 24%;
+	float: left;
+	height: 215px;
+	background: #bcde54;
+}
+
+.g7{
+	width: 8%;
+	float: left;
+	height: 215px;
+	background: #619498;
+}
+
+
+
+.g2a{
+	width: 100%;
+	float: left;
+	height: 100px;
+	background: pink;
+}
+.g2b{
+	width: 100%;
+	float: left;
+	height: 20px;
+	background: #8A4C44;
+}
+.g2c{
+	width: 100%;
+	float: left;
+	height: 65px;
+	background: tomato;
+}
+.g2d{
+	width: 100%;
+	float: left;
+	height: 30px;
+	background: darkorange;
+}
+
+.g4a{
+	width: 100%;
+	float: left;
+	height: 100px;
+	background: pink;
+}
+.g4b{
+	width: 100%;
+	float: left;
+	height: 20px;
+	background: coral;
+}
+.g4c{
+	width: 100%;
+	float: left;
+	height: 65px;
+	background: tomato;
+}
+.g4d{
+	width: 100%;
+	float: left;
+	height: 30px;
+	background: darkorange;
+}
+
+.g6a{
+	width: 100%;
+	float: left;
+	height: 100px;
+	background: pink;
+}
+.g6b{
+	width: 100%;
+	float: left;
+	height: 20px;
+	background: coral;
+}
+.g6c{
+	width: 100%;
+	float: left;
+	height: 65px;
+	background: tomato;
+}
+.g6d{
+	width: 100%;
+	float: left;
+	height: 30px;
+	background: darkorange;
+}
+
+.first{
+	width: 50%;
+	float: left;
+	height: 170px;
+	background: moccasin;
+
+}
+
+.second{
+	width: 50%;
+	float: left;
+	height: 170px;
+	background: orange;
+
+}
+
+.second1{
+	width: 50%;
+	float: left;
+	height: 170px;
+	background: black;
+}
+
+
+.second2h{
+	width: 50%;
+	float: left;
+	height: 30px;
+	background: olive;
+	}
+
+.second3h{
+		width: 50%;
+	float: left;
+	height: 30px;
+	background: lightcyan;
+}
+
+.second4{
+	
+		width: 100%;
+	float: left;
+	height: 30px;
+	background: cadetblue;
+	
+}
+
+.second5h{
+	width: 35%;
+	float: left;
+	height: 30px;
+	background: steelblue;
+}
+
+.second8h{
+	width: 30%;
+	float: left;
+	height: 30px;
+	background: midnightblue;
+}
+
+.second7h{
+	width: 35%;
+	float: left;
+	height: 30px;
+	background: navy;
+}
+
+.second9h{
+	width: 100%;
+	float: left;
+	height: 50px;
+	background: peru;
+}
+
+.third{
+	width: 60%;
+	float: left;
+	height: 180px;
+	background: peru;
+
+}
+
+.fourth{
+	width: 40%;
+	float: left;
+	height: 180px;
+	background: lavender;
+}
+
+.g2d1{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.g2d2{
+	width: 36%;
+	float: left;
+	height: 30px;
+	background: blue;	
+	
+}
+
+.g2d3{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.g4d1{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.g4d2{
+	width: 36%;
+	float: left;
+	height: 30px;
+	background: blue;	
+	
+}
+
+.g4d3{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.g6d1{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.g6d2{
+	width: 36%;
+	float: left;
+	height: 30px;
+	background: blue;	
+	
+}
+
+.g6d3{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
 }
