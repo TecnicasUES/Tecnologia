@@ -71,56 +71,27 @@ header{
 	float: left; 
 	background:#af60a2; 
 }  
-.child4{ 
-	width: 100%; 
-	height: 400px; 
+
+#uno{ 
+	width:100%; 
+	height: 150px; 
 	float: left; 
-	background: blue; 
-} 
-.child5{ 
-	width: 100%; 
-	height: 700px; 
+	background:blue; 
+}
+
+#dos{ 
+	width:100%; 
+	height: 20px; 
 	float: left; 
-	background: #520644; 
-} 
-.g{ 
-	width: 100%;
-	height:500px; 
+	background:cadetblue; 
+}
+
+#tres{ width:100%; 
+	height: 150px; 
 	float: left; 
-	background: #3aaa35; 
-}  
-.child1h{ 
-	width: 50%; 
-	height:200px;
-	float: left; 
-	background:#3a74;  
-}  
-.child2h{ 
-	width: 50%; 
-	height: 80px; 
-	float: left; 
-	background:#243a74; 
-} 
-.child3h{ 
-	width: 100%;
-	height: 120px; 
-	float: left; 
-	background: #e6007e; 
-} 
-.child4h{ 
-	width: 100%; 
-	height: 25px; 
-	float: left; 
-	background: pink; 
-} 
-.i{ 
-	width: 100%; 
-	height: 600px; 
-	float: left; 
-	background: seagreen;
-} 
-.j{ 
-	width: 100%; 
-	height: 25px; 
-	float: left; 
-	background: lightseagreen;
+	background:skyblue; 
+}
+ 
+
+
+ 
