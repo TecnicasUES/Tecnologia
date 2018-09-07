@@ -93,6 +93,42 @@ header{
 	float: left;
 	background: #335589;
 }
+.h2{
+	width: 100%;
+	height: 20px;
+	float: left;
+	background: #335749;
+}
+.h3{
+	width: 100%;
+	height: 90px;
+	float: left;
+	background: #765589;
+}
+.h4{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #337489;
+}
+.childh41{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #111489;
+}
+.childh42{
+	width: 40%;
+	height: 40px;
+	float: left;
+	background: #337129;
+}
+.childh43{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #397489;
+}
 .i{
 	width: 7%;
 	height: 300px;
@@ -103,7 +139,49 @@ header{
 	width: 24%;
 	height: 300px;
 	float: left;
-	background: red;
+	background: blue;
+}
+.j1{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #335589;
+}
+.j2{
+	width: 100%;
+	height: 20px;
+	float: left;
+	background: #335749;
+}
+.j3{
+	width: 100%;
+	height: 90px;
+	float: left;
+	background: #765589;
+}
+.j4{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #337489;
+}
+.childj41{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #111489;
+}
+.childj42{
+	width: 40%;
+	height: 40px;
+	float: left;
+	background: #337129;
+}
+.childj43{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #397489;
 }
 .k{
 	width: 7%;
@@ -115,7 +193,49 @@ header{
 	width: 24%;
 	height: 300px;
 	float: left;
-	background: red;
+	background: blue;
+}
+.l1{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #335589;
+}
+.l2{
+	width: 100%;
+	height: 20px;
+	float: left;
+	background: #335749;
+}
+.l3{
+	width: 100%;
+	height: 90px;
+	float: left;
+	background: #765589;
+}
+.l4{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #337489;
+}
+.childl41{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #111489;
+}
+.childl42{
+	width: 40%;
+	height: 40px;
+	float: left;
+	background: #337129;
+}
+.childl43{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #397489;
 }
 .m{
 	width: 7%;
@@ -123,4 +243,3 @@ header{
 	float: left;
 	background: blue;
 }
-	
