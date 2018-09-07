@@ -72,11 +72,19 @@ header{
 	background: #ceb537;
 }
 
+#uno{
+	width: 100%;
+	height: 170px;
+	background: salmon;
+	float:left;
+}
+
 .gamma{
 	width: 100%;
 	height: 170px;
 	background: #f38f23;
 	float:left;
+
 }
 
 .rayita{
@@ -86,49 +94,49 @@ header{
 	float: left;
 }
 
-.g1{
+.gamma1{
 	width: 8%;
 	float: left;
 	height: 215px;
 	background: #619498;
 }
 
-.g2{
+.gamma2{
 	width: 24%;
 	float: left;
 	height: 215px;
 	background: #bcde54;
 }
 
-.g3{
+.gamma3{
 	width: 6%;
 	float: left;
 	height: 215px;
 	background: #619498;
 }
 
-.g4{
+.gamma4{
 	width: 24%;
 	float: left;
 	height: 215px;
 	background: #bcde54;
 }
 
-.g5{
+.gamma5{
 	width: 6%;
 	float: left;
 	height: 215px;
 	background: #619498;
 }
 
-.g6{
+.gamma6{
 	width: 24%;
 	float: left;
 	height: 215px;
 	background: #bcde54;
 }
 
-.g7{
+.gamma7{
 	width: 8%;
 	float: left;
 	height: 215px;
@@ -137,79 +145,151 @@ header{
 
 
 
-.g2a{
+.gamma2a{
 	width: 100%;
 	float: left;
 	height: 100px;
 	background: pink;
 }
-.g2b{
+.gamma2b{
 	width: 100%;
 	float: left;
 	height: 20px;
 	background: #8A4C44;
 }
-.g2c{
+.gamma2c{
 	width: 100%;
 	float: left;
 	height: 65px;
 	background: tomato;
 }
-.g2d{
+.gamma2d{
 	width: 100%;
 	float: left;
 	height: 30px;
 	background: darkorange;
 }
 
-.g4a{
+.gamma4a{
 	width: 100%;
 	float: left;
 	height: 100px;
 	background: pink;
 }
-.g4b{
+.gamma4b{
 	width: 100%;
 	float: left;
 	height: 20px;
 	background: coral;
 }
-.g4c{
+.gamma4c{
 	width: 100%;
 	float: left;
 	height: 65px;
 	background: tomato;
 }
-.g4d{
+.gamma4d{
 	width: 100%;
 	float: left;
 	height: 30px;
 	background: darkorange;
 }
 
-.g6a{
+.gamma6a{
 	width: 100%;
 	float: left;
 	height: 100px;
 	background: pink;
 }
-.g6b{
+.gamma6b{
 	width: 100%;
 	float: left;
 	height: 20px;
 	background: coral;
 }
-.g6c{
+.gamma6c{
 	width: 100%;
 	float: left;
 	height: 65px;
 	background: tomato;
 }
-.g6d{
+.gamma6d{
 	width: 100%;
 	float: left;
 	height: 30px;
 	background: darkorange;
+}
+
+.gamma2d1{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.gamma2d2{
+	width: 36%;
+	float: left;
+	height: 30px;
+	background: blue;	
+	
+}
+
+.gamma2d3{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.gamma4d1{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.gamma4d2{
+	width: 36%;
+	float: left;
+	height: 30px;
+	background: blue;	
+	
+}
+
+.gamma4d3{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.gamma6d1{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
+}
+
+.gamma6d2{
+	width: 36%;
+	float: left;
+	height: 30px;
+	background: blue;	
+	
+}
+
+.gamma6d3{
+	width: 32%;
+	float: left;
+	height: 30px;
+	background: peru;	
+	
 }
 
 .first{
@@ -302,74 +382,3 @@ header{
 	background: lavender;
 }
 
-.g2d1{
-	width: 32%;
-	float: left;
-	height: 30px;
-	background: peru;	
-	
-}
-
-.g2d2{
-	width: 36%;
-	float: left;
-	height: 30px;
-	background: blue;	
-	
-}
-
-.g2d3{
-	width: 32%;
-	float: left;
-	height: 30px;
-	background: peru;	
-	
-}
-
-.g4d1{
-	width: 32%;
-	float: left;
-	height: 30px;
-	background: peru;	
-	
-}
-
-.g4d2{
-	width: 36%;
-	float: left;
-	height: 30px;
-	background: blue;	
-	
-}
-
-.g4d3{
-	width: 32%;
-	float: left;
-	height: 30px;
-	background: peru;	
-	
-}
-
-.g6d1{
-	width: 32%;
-	float: left;
-	height: 30px;
-	background: peru;	
-	
-}
-
-.g6d2{
-	width: 36%;
-	float: left;
-	height: 30px;
-	background: blue;	
-	
-}
-
-.g6d3{
-	width: 32%;
-	float: left;
-	height: 30px;
-	background: peru;	
-	
-}
