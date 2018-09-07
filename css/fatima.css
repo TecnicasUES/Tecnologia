@@ -16,10 +16,10 @@ header{
 } 
 
 .child1{ 
-	width: 55%; 
+	width:55%; 
 	height: 60px; 
 	float: left; 
-	background: #f38f23; 
+	background:#f38f23; 
 } 
 
 .child2{ 
@@ -27,51 +27,61 @@ header{
 	width:45% 
 	height: 60px; 
 	float: left; 
-	background: #9d23f3; 
+	background:#9d23f3; 
 } 
 
 .a{ 
-    width: 45%; 
+    width:45%; 
     height: 60px; 
     float: left; 
-    background: #619498; 
+    background:#520644; 
 } 
 
 .b{ 
-	width: 45%; 
+	width:45%; 
 	height: 60px; 
 	float:left; 
-	background:  #bcde54; 
+	background:#a76700; 
 } 
 
 .c{ 
-	width: 27%; 
+	width:27%; 
 	height: 60px; 
 	float: left; 
-	background: #b09630 
+	background:#00497f; 
 } 
 
 .d{ 
-	width: 19%; 
+	width:19%; 
 	height: 60px; 
 	float: left; 
-	background: #299ba2   
+	background:#299ba2;   
 } 
 
 .e{ 
-	width: 27%; 
+	width:27%; 
 	height: 60px; 
 	float: left; 
-	background: #303a89 
+	background:#303a89; 
 } 
 
 .f{ 
-	width: 27%; 
+	width:27%; 
 	height: 60px; 
 	float: left; 
-	background: #6c418a 
-}
-
+	background:#af60a2; 
+}  
+.child4{ 
+	width: 100%; 
+	height: 400px; 
+	float: left; 
+	background: blue; 
+} 
+.child5{ 
+	width: 100%; 
+	height: 700px; 
+	float: left; 
+	background: #520644; 
 
 
 
