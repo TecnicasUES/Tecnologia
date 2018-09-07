@@ -76,7 +76,7 @@ header{
 	height: 360px;
 	float: left;
 	background: pink;
-	border: blue 3px solid;
+	border: blue 1px solid;
 }
 
 .child4{
@@ -98,6 +98,7 @@ header{
 	height: 500px;
 	float: left;
 	background: lightblue;
+	border: darkgreen 1px solid;
 }
 
 .h{
@@ -105,6 +106,7 @@ header{
 	height: 500px;
 	float: left;
 	background: green;
+	border: darkgreen 1px solid;
 }
 
 .i{
@@ -112,6 +114,7 @@ header{
 	height: 500px;
 	float: left;
 	background: lightblue;
+	border: darkgreen 1px solid;
 }
 
 .j{
@@ -119,6 +122,8 @@ header{
 	height: 500px;
 	float: left;
 	background: green;
+	border: darkgreen 1px solid;
+
 }
 
 .k{
@@ -126,6 +131,8 @@ header{
 	height: 500px;
 	float: left;
 	background: lightblue;
+	border: darkgreen 1px solid;
+
 }
 
 .l{
@@ -133,6 +140,7 @@ header{
 	height: 500px;
 	float: left;
 	background: green;
+	border: darkgreen 1px solid;
 }
 
 .m{
@@ -140,6 +148,7 @@ header{
 	height: 500px;
 	float: left;
 	background: lightblue;
+	border: darkgreen 1px solid;
 }
 
 .child1h{
@@ -147,6 +156,7 @@ header{
 	height: 220px;
 	float: left;
 	background: darkgreen;
+	border: darkgreen 1px solid;
 }
 
 .child2h{
@@ -154,6 +164,7 @@ header{
 	height: 50px;
 	float: left;
 	background: gray;
+	border: darkgreen 1px solid;
 }
 
 .child3h{
@@ -161,6 +172,7 @@ header{
 	height: 150px;
 	float: left;
 	background: brown;
+	border: darkgreen 1px solid;
 }
 
 .child4h{
@@ -168,6 +180,7 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .child1j{
@@ -175,6 +188,7 @@ header{
 	height: 220px;
 	float: left;
 	background: darkgreen;
+	border: darkgreen 1px solid;
 }
 
 .child2j{
@@ -182,6 +196,7 @@ header{
 	height: 50px;
 	float: left;
 	background: gray;
+	border: darkgreen 1px solid;
 }
 
 .child3j{
@@ -189,6 +204,7 @@ header{
 	height: 150px;
 	float: left;
 	background: brown;
+	border: darkgreen 1px solid;
 }
 
 .child4j{
@@ -196,6 +212,7 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .child1l{
@@ -203,6 +220,7 @@ header{
 	height: 220px;
 	float: left;
 	background: darkgreen;
+	border: darkgreen 1px solid;
 }
 
 .child2l{
@@ -210,6 +228,7 @@ header{
 	height: 50px;
 	float: left;
 	background: gray;
+	border: darkgreen 1px solid;
 }
 
 .child3l{
@@ -217,6 +236,7 @@ header{
 	height: 150px;
 	float: left;
 	background: brown;
+	border: darkgreen 1px solid;
 }
 
 .child4l{
@@ -224,6 +244,7 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .alpha{
@@ -231,6 +252,7 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .beta{
@@ -238,6 +260,7 @@ header{
 	height: 80px;
 	float: left;
 	background: darkgreen;
+	border: darkgreen 1px solid;
 }
 
 .gamma{
@@ -245,6 +268,7 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .alpha2{
@@ -252,6 +276,7 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .beta2{
@@ -259,6 +284,7 @@ header{
 	height: 80px;
 	float: left;
 	background: darkgreen;
+	border: darkgreen 1px solid;
 }
 
 .gamma2{
@@ -266,6 +292,7 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .alpha3{
@@ -273,6 +300,7 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .beta3{
@@ -280,6 +308,7 @@ header{
 	height: 80px;
 	float: left;
 	background: darkgreen;
+	border: darkgreen 1px solid;
 }
 
 .gamma3{
@@ -287,8 +316,15 @@ header{
 	height: 80px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
+.padrede6y7{
+	width: 100%;
+	height: 360px;
+	float: left;
+	background: lightgreen;
+}
 .child6{
 	width: 50%;
 	height: 360px;
@@ -308,6 +344,7 @@ header{
 	height: 60px;
 	float: left;
 	background: green;
+	border: darkgreen 1px solid;
 }
 
 .o{
@@ -315,6 +352,7 @@ header{
 	height: 60px;
 	float: left;
 	background: yellow;
+	border: darkgreen 1px solid;
 }
 
 .child1o{
@@ -336,6 +374,7 @@ header{
 	height: 60px;
 	float: left;
 	background: orange;
+	border: darkgreen 1px solid;
 }
 
 .q{
@@ -343,11 +382,20 @@ header{
 	height: 60px;
 	float: left;
 	background: lightblue;
+	border: darkgreen 1px solid;
 }
 
 .r{
 	width: 100%;
 	height: 120px;
+	float: left;
+	background: green;
+	border: darkgreen 1px solid;
+}
+
+.padrede8y9{
+    width: 100%;
+	height: 360px;
 	float: left;
 	background: green;
 }
@@ -356,8 +404,9 @@ header{
 	width: 60%;
 	height: 360px;
 	float: left;
-	background: lightgreen;
+	background: darkgreen;
 }
+
 
 .s{
 	width: 100%;
@@ -374,21 +423,19 @@ header{
 }
 
 .child1t{
-	width: 49%;
-	height: 72px;
-	float: left;
-	background: aqua;
-	border: darkgreen 1px solid;
-
-}
-
-.child2t{
 	width: 50%;
 	height: 72px;
 	float: left;
 	background: aqua;
 	border: darkgreen 1px solid;
+}
 
+.child2t{
+	width: 49%;
+	height: 72px;
+	float: left;
+	background: aqua;
+	border: darkgreen 1px solid;
 }
 
 .u{
@@ -399,21 +446,19 @@ header{
 }
 
 .child1u{
-	width: 49%;
-	height: 72px;
+	width: 50%;
+	height: 71px;
 	float: left;
 	background: aqua;
 	border: darkgreen 1px solid;
-
 }
 
 .child2u{
-	width: 50%;
-	height: 72px;
+	width: 49%;
+	height: 71px;
 	float: left;
 	background: aqua;
 	border: darkgreen 1px solid;
-
 }
 
 .v{
@@ -424,21 +469,19 @@ header{
 }
 
 .child1v{
+	width:50%;
+	height: 112px;
+	float: left;
+	background: aqua;
+	border: darkgreen 1px solid;
+}
+
+.child2v{
 	width: 49%;
 	height: 112px;
 	float: left;
 	background: aqua;
 	border: darkgreen 1px solid;
-
-}
-
-.child2v{
-	width: 50%;
-	height: 122px;
-	float: left;
-	background: aqua;
-	border: darkgreen 1px solid;
-
 }
 
 .w{
@@ -446,6 +489,7 @@ header{
 	height: 32px;
 	float: left;
 	background: pink;
+	border: darkgreen 1px solid;
 }
 
 .child9{
@@ -460,6 +504,7 @@ header{
 	height: 72px;
 	float: left;
 	background: lightgreen;
+	border: darkgreen 1px solid;
 }
 
 .y{
@@ -467,6 +512,7 @@ header{
 	height: 72px;
 	float: left;
 	background: aqua;
+	border: darkgreen 1px solid;
 }
 
 .z{
@@ -474,6 +520,7 @@ header{
 	height: 30px;
 	float: left;
 	background: lightgreen;
+	border: darkgreen 1px solid;
 }
 
 .aa{
@@ -481,6 +528,7 @@ header{
 	height: 72px;
 	float: left;
 	background: aqua;
+	border: darkgreen 1px solid;
 }
 
 .child1aa{
@@ -506,9 +554,17 @@ header{
 
 .ab{
 	width: 100%;
-	height: 114px;
+	height: 104px;
 	float: left;
 	background: lightgreen;
+	border: darkgreen 1px solid;
+}
+
+.padrede10y11{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: purple;
 }
 
 .child10{
@@ -544,6 +600,7 @@ header{
 	height: 100px;
 	float: left;
 	background: gray;
+	border: darkgreen 1px solid;
 }
 
 .child1ac{
@@ -551,6 +608,7 @@ header{
 	height: 50px;
 	float: left;
 	background: lightgreen;
+	border: darkgreen 1px solid;
 }
 
 .child2ac{
@@ -558,6 +616,7 @@ header{
 	height: 50px;
 	float: left;
 	background: purple;
+	border: darkgreen 1px solid;
 }
 
 .child3ac{
@@ -565,7 +624,8 @@ header{
 	height: 50px;
 	float: left;
 	background: purple;
-	border: lightgreen 1px solid;
+	margin: 2px;
+	border: darkgreen 1px solid;
 }
 
 .child4ac{
@@ -573,4 +633,26 @@ header{
 	height: 50px;
 	float: left;
 	background: lightgreen;
+	border: darkgreen 1px solid;
+}
+
+.corte1{
+	width: 50%;
+	height: 50px;
+	float: left;
+	background: purple;
+	border: darkgreen 1px solid;
+}
+.corte2{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: purple;
+	border: darkgreen 1px solid;
+}.corte3{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: purple;
+	border: darkgreen 1px solid;
 }
