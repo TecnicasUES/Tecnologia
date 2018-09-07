@@ -69,14 +69,14 @@ header{
  	height: 500px;
  	float: left;
  	background: green;
- 	border: 2px; color: lightgreen;
+ 	border: 1px; color: lightgreen;
 }
 .child31{
  	width: 100%;
  	height: 20px;
  	float: left;
  	background: #794621;
- 	border: 2px; color: black;
+ 	border: 1px; color: black;
 }
 .child4{
  	width: 100%;
@@ -100,19 +100,19 @@ header{
 	width: 100%;
 	height: 300px;
 	float: left;
-	background: #335589;
+	background: pink;
 }
 .h2{
 	width: 100%;
 	height: 35px;
 	float: left;
-	background: #335749;
+	background: hotpink;
 }
 .h3{
 	width: 100%;
 	height: 200px;
 	float: left;
-	background: #765589;
+	background: black;
 }
 .h4{
 	width: 100%;
@@ -122,19 +122,19 @@ header{
 }
 .childh41{
 	width: 30%;
-	height: 40px;
+	height: 70px;
 	float: left;
 	background: #111489;
 }
 .childh42{
 	width: 40%;
-	height: 40px;
+	height: 70px;
 	float: left;
 	background: #337129;
 }
 .childh43{
 	width: 30%;
-	height: 40px;
+	height: 70px;
 	float: left;
 	background: #397489;
 }
@@ -333,19 +333,19 @@ header{
 }
 .child614{
 	width: 100%;
- 	height: 40%;
+ 	height: 40px;            /*corregir aqui*/
  	float: left;
  	background: #884692;
 }
 .child6141{
 	width: 50%;
- 	height: 100%;
+ 	height: 100px;
  	float: left;
  	background: #111122;
 }
 .child6142{
 	width: 50%;
- 	height: 100%;
+ 	height: 100px;
  	float: left;
  	background: #777777;
 }
