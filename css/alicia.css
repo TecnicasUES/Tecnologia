@@ -12,6 +12,7 @@ header{
 	width: 100%;
 	height: 50px;
 	float: left;
+	border: 1px solid red;
 	background: #a7f323;
 }
 .child1{
@@ -62,3 +63,180 @@ header{
 	float: left;
 	background: #5559f5;
 }
+.bisabuelo{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #235646;
+}
+.hijo1{
+	width: 100%;
+	height: 475px;
+	float: left;
+	background: #4656;
+	}
+.hijo2{
+	width: 100%;
+	height: 25px;
+	float: left;
+	background: #459832;
+}
+.papa{
+width: 100%;
+height: 500px;
+float: left;
+background: #7962;
+}
+.primerhijo{
+	width: 25%;
+	height: 500px;
+	float: left;
+	margin-left: 4.25%;
+	background: #3665;
+}
+.nieto1{
+	width: 100%;
+	height: 250px;
+	float:left;
+	background: #7889
+}
+.nieto2{
+	width: 100%;
+	height: 25px;
+	float: left;
+	background: #3654
+}
+.nieto3{
+	width: 100%;
+	height: 175px;
+	float: left;
+	background: #5565;
+}
+.nieto4{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #446;
+}
+.binieto1{
+	width: 36%;
+	height: 50px;
+	float: left;
+	background: #235;
+}
+.binieto2{
+	width: 28%;
+	height: 50px;
+	float: left;
+	background: #784;
+}
+.binieto3{
+	width: 36%;
+	height: 50px;
+	float: left;
+	background: #235;
+}
+.segundohijo{
+	width: 25%;
+	height: 500px;
+	float: left;
+	margin-left: 4.25%;
+	background: #3665;
+}
+.nieto5{
+	width: 100%;
+	height: 250px;
+	float:left;
+	background: #7889
+}
+.nieto6{
+	width: 100%;
+	height: 25px;
+	float: left;
+	background: #3654
+}
+.nieto7{
+	width: 100%;
+	height: 175px;
+	float: left;
+	background: #5565;
+}
+.nieto8{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #446;
+}
+.binieto4{
+	width: 36%;
+	height: 50px;
+	float: left;
+	background: #235;
+}
+.binieto5{
+	width: 28%;
+	height: 50px;
+	float: left;
+	background: #784;
+}
+.binieto6{
+	width: 36%;
+	height: 50px;
+	float: left;
+	background: #235;
+}
+.tercerhijo{
+	width: 25%;
+	height: 500px;
+	float: left;
+	margin-left: 4.25%;
+	background: #3665;
+}
+.nieto9{
+	width: 100%;
+	height: 250px;
+	float:left;
+	background: #7889
+}
+.nieto10{
+	width: 100%;
+	height: 25px;
+	float: left;
+	background: #3654
+}
+.nieto11{
+	width: 100%;
+	height: 175px;
+	float: left;
+	background: #5565;
+}
+.nieto12{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #446;
+}
+.binieto7{
+	width: 36%;
+	height: 50px;
+	float: left;
+	background: #235;
+}
+.binieto8{
+	width: 28%;
+	height: 50px;
+	float: left;
+	background: #784;
+}
+.binieto9{
+	width: 36%;
+	height: 50px;
+	float: left;
+	background: #235;
+}
+
+
+
+
+
+
