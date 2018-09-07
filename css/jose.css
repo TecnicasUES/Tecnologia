@@ -239,3 +239,93 @@ section{
 	height: 60px;
 	background: #b4522e;
 }
+
+.l1ca{
+	width: 35%;
+	height: 60px;
+	float: left;
+	background: #562c69;
+}
+
+.l1cb{
+	width: 30%;
+	height: 60px;
+	float: left;
+	background: #38868a;
+}
+
+.l1cc{
+	width: 35%;
+	height: 60px;
+	float: left;
+	background: #562c69;
+}
+
+.caja2{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: #2bf9f7
+}
+
+.cuadroceleste{
+	width: 50%;
+	height: 400px;
+	float: left;
+	background: #53cfb0;
+}
+
+.cuadrovarios{
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+
+.cv1{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: #49b876;
+}
+
+.cv2{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: #09be00;
+}
+
+.cv3{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: #897880;
+	}
+
+.cv4{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #3fa3a3;
+}
+
+.cv5{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #2ee27c;
+}
+
+.cv2a{
+	width: 45%; 
+	height: 80px;
+	float: left;
+	background: #254f5b;
+}
+
+.cv2b{
+	width: 55%; 
+	height: 80px;
+	float: left;
+	background: #95b37d;
+}
