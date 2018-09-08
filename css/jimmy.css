@@ -69,7 +69,7 @@ header{
 .f{
 	width: 26%;
 	height: 60px;
-	float: right;
+	float: left;
 	background: #d7cc32;
 }
 
@@ -80,19 +80,21 @@ header{
 	background: #c078a7;
 	border: 1px solid blue;
 }
+
 .h{
 	width: 100%;
 	height: 10px;
 	float: left;
 	background: #34f6c2;
-
 }
+
 .torre1{
 	width: 100%;
 	height: 500px;
 	float: left;
 	background: #b18825;
 }
+
 .t1{
 	width: 27%;
 	height: 500px;
@@ -100,6 +102,7 @@ header{
 	margin-left: 4.75%;
 	background: #0daa83;
 }
+
 .t2{
 	width: 27%;
 	height: 500px;
@@ -107,6 +110,7 @@ header{
 	margin-left: 4.75%;
 	background: #0daa83;
 }
+
 .t3{
 	width: 27%;
 	height: 500px;
@@ -114,30 +118,35 @@ header{
 	margin-left: 4.75%;
 	background: #0daa83;
 }
+
 .t1h1{
 	width: 100%;
 	height: 250px;
 	float: left;
 	background: #28f30d;
 }
+
 .t1h2{
 	width: 100%;
 	height: 25px;
 	float: left;
 	background: #1963b7;
 }
+
 .t1h3{
 	width: 100%;
 	height: 150px;
 	float: left;
 	background: #942ebf;
 }
+
 .t1h4{
 	width: 100%;
 	height: 75px;
 	float: left;
 	background: #e43316;
 }
+
 .t1h4n{
 	width: 40%;
 	height: 75px;
@@ -145,30 +154,35 @@ header{
 	margin-left: 30%;
     background: #1e6708;
 }
+
 .t2h1{
 	width: 100%;
 	height: 250px;
 	float: left;
 	background: #28f30d;
 }
+
 .t2h2{
 	width: 100%;
 	height: 25px;
 	float: left;
 	background: #1963b7;
 }
+
 .t2h3{
 	width: 100%;
 	height: 150px;
 	float: left;
 	background: #942ebf;
 }
+
 .t2h4{
 	width: 100%;
 	height: 75px;
 	float: left;
 	background: #e43316;
 }
+
 .t2h4n{
 	width: 40%;
 	height: 75px;
@@ -176,30 +190,35 @@ header{
 	margin-left: 30%;
     background: #1e6708;
 }
+
 .t3h1{
 	width: 100%;
 	height: 250px;
 	float: left;
 	background: #28f30d;
 }
+
 .t3h2{
 	width: 100%;
 	height: 25px;
 	float: left;
 	background: #1963b7;
 }
+
 .t3h3{
 	width: 100%;
 	height: 150px;
 	float: left;
 	background: #942ebf;
 }
+
 .t3h4{
 	width: 100%;
 	height: 75px;
 	float: left;
 	background: #e43316;
 }
+
 .t3h4n{
 	width: 40%;
 	height: 75px;
@@ -207,18 +226,21 @@ header{
 	margin-left: 30%;
     background: #1e6708;
 }
+
 .cajaderecha{
 	width: 50%;
 	height: 470px;
 	float: left;
     background: #8da2e4;
 }
+
 .cajaizquierda{
 	width: 50%;
 	height: 470px;
 	float: left;
     background: #3692d9;
 }
+
 .cajita1{
 	width: 50%;
 	height: 60px;
@@ -226,6 +248,7 @@ header{
 	margin-top: 20%;
 	background: #073456;		
 }
+
 .cajita2{
 	width: 50%;
 	height: 60px;
@@ -233,6 +256,7 @@ header{
 	margin-top: 20%;
 	background: #86c50d;		
 }
+
 .cajita3{
 	width: 100%;
 	height: 60px;
@@ -240,6 +264,7 @@ header{
 	margin-bottom: 0px; 
     background: #af1669;
 }
+
 .cajita4{
 	width: 100%;
 	height: 60px;
@@ -247,6 +272,7 @@ header{
 	margin-bottom: 0px;
     background: #d6bd14; 
 }
+
 .cajita4n{
 	width: 25%;
 	height: 60px;
@@ -254,42 +280,87 @@ header{
 	margin-left: 37%;
     background: #6f3403; 
 }
+
 .seccion4{
 	width: 100%;
 	height: 500px;
 	float: left;
     background: #460d5e;
 }
+
 .cuadrito1{
 	width: 56%;
 	height: 455px;
 	float: left;
     background: #219107;
 }
-.hijito1{
-	width: 35%;
-	height: 90px;
-	float: left;
-	margin-top: 70px;
-	background: #073456;		
-}
-.hijito2{
-	width: 35%;
-	height: 90px;
-	float: left;
-	border-top-left: 71px;
-	background: #073456;		
-}
-.hijito3{
-	width: 63%;
-	height: 90px;
-	float: right;
-	margin-left: 60%;
-	background: #073456;		
-}
+
 .cuadrito2{
+	width: 44%;
+	height: 500px;
+	float: right;
+    background: #787770;
+}
+
+.cuadtito2h1{
+	width: 100%;
+	height: 85px;
+	float: left;
+	margin-top: 20%;
+	background: #86c50d;	
+}
+
+.cuadrito2h2{
+	width: 100%;
+	height: 85px;
+	float: left;
+	margin-top: 5%;
+	background: #062138;
+}
+
+.cuadrito2h2nbn{
+	width: 15%;
+	height: 85px;
+	float: left;
+	margin-left: 60%;
+    background: #187037; 
+}
+
+.cuadrito3{
 	width: 56%;
 	height: 45px;
 	float: left;
-    background: #787770;
+	margin-bottom: 1px;
+	background: #79b2e6;
+}
+
+footer{
+	width: 100%;
+	height: 285px;
+	float: left;
+    background: #eff6f2;
+}
+
+.ultimo1{
+	width: 25%;
+	height: 285px;
+	float: left;
+    background: #431ee1;
+}
+
+.ultimo2{
+	width: 74.5%;
+	height: 132px;
+	float: left;
+	margin-left:  0.3%;
+    background: #0ac3bc;
+    border: 1px solid blue;
+}
+
+.ultimo3{
+	width: 74.7%;
+	height: 150px;
+	float: left;
+	margin-left: 0.3%;
+    background: #1b4241;
 }
