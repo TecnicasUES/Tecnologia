@@ -423,9 +423,12 @@ section.middle3 {
 
 .link1 {
     background-color: #2233b6;
+    border-left: 1px;
+    border-color: #f6ff30;
+    border-style: solid;
     float: left;
     height: 60px;
-    width: 33%;
+    width: 23%;
 }
 
 .link2 {
