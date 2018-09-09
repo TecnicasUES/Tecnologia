@@ -254,7 +254,7 @@ header{
 	height: 60px;
 	float: left;
 	margin-top: 20%;
-	background: #86c50d;		
+	background: #86c50d;	
 }
 
 .cajita3{
@@ -278,7 +278,8 @@ header{
 	height: 60px;
 	float: left;
 	margin-left: 37%;
-    background: #6f3403; 
+    background: #6f3403;
+    border: 1px solid blue;
 }
 
 .seccion4{
@@ -295,6 +296,46 @@ header{
     background: #219107;
 }
 
+.cuadrito1h1{
+    width: 35%;
+	height: 75px;
+	float: left:
+	margin-left: 5%; 
+	margin-top: 17%;
+	margin-left: 1%;
+	background: #062138;
+}
+
+.cuadrito1h2{
+    width: 35%;
+	height: 75px;
+	float: left:
+	margin-left: 5%;  
+	margin-top: 0.5%;
+	margin-left: 1%; 
+	background: #062138;
+}
+
+.cuadrito1h3{
+    width: 35%;
+	height: 125px;
+	float: left:
+	margin-left: 5%;  
+	margin-top: 1.9%;
+	margin-left: 1%; 
+	background: #062138;
+}
+
+.cuadrito1h4{
+    width: 35%;
+	height: 75px;
+	float: right:
+	margin-right: 5%; 
+	margin-top: 17%;
+	margin-right: 1%;
+	background: #062138;
+}
+
 .cuadrito2{
 	width: 44%;
 	height: 500px;
@@ -303,19 +344,21 @@ header{
 }
 
 .cuadtito2h1{
-	width: 100%;
+	width: 99%;
 	height: 85px;
-	float: left;
+	float: right;
 	margin-top: 20%;
-	background: #86c50d;	
+	background: #86c50d;
+	border: 1px solid blue;	
 }
 
 .cuadrito2h2{
-	width: 100%;
+	width: 99%;
 	height: 85px;
-	float: left;
+	float: right;
 	margin-top: 5%;
 	background: #062138;
+	border: 1px solid blue;
 }
 
 .cuadrito2h2nbn{
@@ -357,6 +400,37 @@ footer{
     border: 1px solid blue;
 }
 
+.ultimo2h1{
+	width: 25%;
+	height: 60px;
+	float: left;
+	margin-left: 20%;
+    background: #1450d8; 
+}
+
+.ultimo2h2{
+	width: 13%;
+	height: 60px;
+	float: left;
+	margin-left: 0.5%;
+    background: #1450d8;
+}
+
+.ultimo2h3{
+	width: 13%;
+	height: 60px;
+	float: left;
+	margin-left: 0.5%;
+    background: #1450d8;
+}
+
+.ultimo2h4{
+	width: 13%;
+	height: 60px;
+	float: left;
+	margin-left: 0.5%;
+    background: #1450d8;
+}
 .ultimo3{
 	width: 74.7%;
 	height: 150px;
