@@ -355,26 +355,87 @@ body{
 }
 #datos{
 	width: 100%;
-	background: #c3db51;
-	height: 60px;
+	background: #FEADFE;
+	height: 45px;
 	float: left;
 }
 .tel{
-	width: 5%;
+	width: 4.5%;
 	background: #FFBE0F;
-	height: 60px;
+	height: 45px;
 	float: left;
-	margin-left: 55%;
+	margin-left: 59.5%;
 }
 .numeros{
-	width: 15%;
+	width: 14%;
 	background: #E60FFF;
-	height: 60px;
+	height: 45px;
 	float: left;
 }
-.separador{
-	width: 2%;
+.our{
+	width: 11%;
 	background: #FFBE0F;
-	height: 60px;
+	height: 45px;
+	float: left;
+}
+.singin{
+	width: 11%;
+	background: #C70039;
+	height: 45px;
+	float: left;
+}
+#menu{
+	width: 100%;
+	background: #00B8C7;
+	height: 110px;
+	float: left;
+}
+.cuadro{
+	width: 40%;
+	background: #C70039;
+	height: 110px;
+	float: left;
+}
+.logo{
+	width: 42%;
+	background: #D774FF  ;
+	height: 110px;
+	float: left;
+	margin-left: 10%;
+}
+.menua{
+	width: 60%;
+	background: #87FF74;
+	height: 110px;
+	float: left;
+}
+.home{
+	width: 12%;
+	background: #FDFF62;
+	height: 110px;
+	float: left;
+}
+.about{
+	width: 13%;
+	background: #FF6262;
+	height: 110px;
+	float: left;
+}
+.products{
+	width: 25%;
+	background: #00DCFF;
+	height: 110px;
+	float: left;
+}
+.experience{
+	width: 30%;
+	background: #F79AFF;
+	height: 110px;
+	float: left;
+}
+.contacto{
+	width: 20%;
+	background: #FDFF62;
+	height: 110px;
 	float: left;
 }
