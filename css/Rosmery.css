@@ -337,3 +337,44 @@ body{
 	float: left;
 	margin-left: 0.5%;
 }
+
+
+
+
+
+EJERCICIO 2
+
+
+
+body{
+	background: #80c3e1;
+	width: 100%
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+#datos{
+	width: 100%;
+	background: #c3db51;
+	height: 60px;
+	float: left;
+}
+.tel{
+	width: 5%;
+	background: #FFBE0F;
+	height: 60px;
+	float: left;
+	margin-left: 55%;
+}
+.numeros{
+	width: 15%;
+	background: #E60FFF;
+	height: 60px;
+	float: left;
+}
+.separador{
+	width: 2%;
+	background: #FFBE0F;
+	height: 60px;
+	float: left;
+}
