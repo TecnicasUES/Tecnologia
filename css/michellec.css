@@ -26,40 +26,46 @@ header{
 	background: #9d23f3;
 }
 .a{
-	width: 45%;
+	width: 44.6%;
 	height: 60px;
 	float: left;
 	background: #619498;
+	border: 1px solid #356c70;
 }
 .b{
 	width: 55%;
 	height: 60px;
 	float: left;
 	background: #bcde54;
+	border: 1px solid #819d2d;
 }
 .c{
 	width: 27%;
 	height: 60px;
 	float: left;
 	background: #d7a079;
+	border: 1px solid #b27244;
 }
 .d{
-	width: 19%;
+	width: 18.2%;
 	height: 60px;
 	float: left;
 	background: #889c79;
+	border: 1px solid #4c6d33;
 }
 .e{
 	width: 27%;
 	height: 60px;
 	float: left;
 	background: #d1a012;
+	border: 1px solid #7e6418;
 }
 .f{
 	width: 27%;
 	height: 60px;
 	float: left;
 	background: #d12456;
+	border: #6f102b;
 }
 section{
 	width: 100%;
@@ -69,15 +75,17 @@ section{
 }
 .child3{
 	width: 100%;
-	height: 390px;
+	height: 388px;
 	float: left;
 	background: #773143;
+	border: 1px solid pink;
 }
 .child4{
 	width: 100%;
-	height: 10px;
+	height: 8px;
 	float: left;
 	background: #571022;
+	border: 1px solid white;
 }
 .child5{
 	width: 100%;
@@ -87,24 +95,27 @@ section{
 }
 .g{
 	width: 24%;
-	height: 500px;
+	height: 498px;
 	float: left;
 	background: #399091;
 	margin-left: 7%;
+	border: 1px solid #074849;
 }
 .h{
 	width: 24%;
-	height: 500px;
+	height: 498px;
 	float: left;
 	background: #399091;
 	margin-left: 7%;
+	border: 1px solid #074849;
 }
 .i{
 	width: 24%;
-	height: 500px;
+	height: 498px;
 	float: left;
 	background: #399091;
 	margin-left: 7%;
+	border: 1px solid #074849;
 }
 .g1{
 	width: 100%;
@@ -147,6 +158,8 @@ section{
 	height: 30px;
 	float: left;
 	background: #5f8eab;
+	border-top: 1px solid #115077;
+	border-bottom: 1px solid #115077;
 }
 .g2b{
 	width: 100%;
@@ -159,12 +172,15 @@ section{
 	height: 50px;
 	float: left;
 	background: #993333;
+	border-top: 1px solid #4a0808;
 }
 .h2a{
 	width: 100%;
 	height: 30px;
 	float: left;
 	background: #5f8eab;
+	border-top: 1px solid #115077;
+	border-bottom: 1px solid #115077;
 }
 .h2b{
 	width: 100%;
@@ -177,12 +193,15 @@ section{
 	height: 50px;
 	float: left;
 	background: #993333;
+	border-top: 1px solid #4a0808;
 }
 .i2a{
 	width: 100%;
 	height: 30px;
 	float: left;
 	background: #5f8eab;
+	border-top: 1px solid #115077;
+	border-bottom: 1px solid #115077;
 }
 .i2b{
 	width: 100%;
@@ -195,27 +214,31 @@ section{
 	height: 50px; 
 	float: left;
 	background: #993333;
+	border-top: 1px solid #4a0808;
 }
 .g2c1{
 	width: 33.33%;
-	height: 100%;
+	height: 50px;
 	float: left;
 	margin-left: 33.33%;
 	background: #703333;
+	border: 1px solid #af7777;
 }
 .h2c1{
 	width: 33.33%;
-	height: 100%;
+	height: 50px;
 	float: left;
 	margin-left: 33.33%;
 	background: #703333;
+	border: 1px solid #af7777;
 }
 .i2c1{
 	width: 33.33%;
-	height: 100%;
+	height: 50px;
 	float: left;
 	margin-left: 33.33%;
 	background: #703333;
+	border: 1px solid #af7777;
 }
 .child6{
 	width: 100%;
@@ -224,22 +247,24 @@ section{
 	background: #4f80aa;
 }
 .j{
-	width: 50%;
+	width: 49.75%;
 	height: 350px;
 	float: left;
 	background: #63788b;
+	border: 1px solid #294c6c;
 }
 .k{
 	width: 50%;
 	height: 350px;
 	float: left;
 	background: #69bb97;
+	border: 1px solid #396b55;
 }
 .k1{
 	width: 100%;
 	height: 60px;
 	float: left;
-	margin-top: 13%;
+	margin-top: 85px;
 	background: #4a7f68;
 	float: left;
 }
@@ -248,31 +273,37 @@ section{
 	height: 60px;
 	background: #8b727e;
 	float: left;
+	border: 1px solid #6b4959;
 }
 .k3{
 	width: 100%;
 	height: 60px;
 	background: #508a79;
 	float: left;
+	border: 1px solid #295649;
 }
 .k1a{
 	width: 50%;
-	height: 100%;
+	height: 60px;
 	background: #38505b;
 	float: left;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
 }
 .k1b{
 	width: 50%;
-	height: 100%;
+	height: 60px;
 	background: #e2c241;
 	float: left;
+	border-top: 1px solid #5c4e15;
 }
 .k3a{
 	width: 26%;
-	height: 100%;
+	height: 60px;
 	margin-left: 37%;
 	background: #3187b6;
 	float: left;
+	border: 1px solid #0a3c57;
 }
 .child7{
 	width: 100%;
@@ -281,70 +312,79 @@ section{
 	background: #3c625c;
 }
 .l{
-	width: 55%;
+	width: 54.75%;
 	height: 400px;
 	float: left;
 	background: #7b5757;
+	border: 1px solid #452a2a;
 }
 .m{
 	width: 45%;
 	height: 400px;
 	float: left;
 	background: #9d6565;
+	border: 1px solid #592828;
 }
 .l1{
 	width: 45%;
-	height: 60px;
+	height: 58px;
 	float: left;
 	margin-top: 75px;
 	margin-left: 1.5%;
-	background: #5c3232
+	background: #5c3232;
+	border: 1px solid #ba7f7f;
 }
 .l2{
 	width: 50%;
-	height: 60px;
+	height: 58px;
 	float: left;
 	margin-top: 75px;
 	margin-left: 2%;
 	background: #5c3232;
+	border: 1px solid #ba7f7f;
 }
 .l3{
 	width: 45%;
-	height: 60px;
-	margin-top: 2%;
+	height: 58px;
+	margin-top: 5px;
 	margin-left: 1.5%;
 	float: left;
 	background: #5c3232;
+	border: 1px solid #ba7f7f;
 }
 .l4{
 	width: 50%;
-	height: 60px;
-	margin-top: 2%;
+	height: 58px;
+	margin-top: 5px;
 	margin-left: 2%;
 	float: left;
 	background: #5c3232;
+	border: 1px solid #ba7f7f;
 }
 .l5{
 	width: 45%;
-	height: 150px;
-	margin-top: 2%;
+	height: 148px;
+	margin-top: 10px;
 	margin-left: 1.5%;
 	float: left;
 	background: #5c3232;
+	border: 1px solid #ba7f7f;
 }
 .l6{
 	width: 50%;
-	height: 150px;
-	margin-top: 2%;
+	height: 148px;
+	margin-top: 10px;
 	margin-left: 2%;
 	float: left;
 	background: #5c3232;
+	border: 1px solid #ba7f7f;
 }
 .l7{
 	width: 100%;
-	height: 20px;
+	height: 40px;
 	float: left;
 	background: #c29861;
+	border: 1px solid #9b6928;
 }
 .m1{
 	width: 95%;
@@ -353,6 +393,7 @@ section{
 	margin-top: 10%;
 	margin-left: 2.5%;
 	background: #49739a;
+	border: 1px solid #153d63;
 }
 .m2{
 	width: 95%;
@@ -361,6 +402,7 @@ section{
 	margin-top: 10%;
 	margin-left: 2.5%;
 	background: #49739a;
+	border: 1px solid #153d63;
 }
 .m2a{
 	width: 20%;
@@ -368,6 +410,7 @@ section{
 	float: left;
 	margin-left: 65%;
 	background: #9a4982;
+	border: 1px solid #153d63;
 }
 footer{
 	width: 100%;
@@ -385,7 +428,7 @@ footer{
 	width: 30%;
 	height: 250px;
 	float: left;
-	background: #cea19d;
+	background: #162c55;
 }
 .o{
 	width: 70%;
@@ -397,11 +440,43 @@ footer{
 	width: 100%;
 	height: 125px;
 	float: left;
-	background: #e3a54d;
+	background: #1c5193;
 }
 .o2{
 	width: 100%;
 	height: 125px;
 	float: left;
 	background: #83b0cf;
+}
+.o1a{
+	width: 20%;
+	height: 65px;
+	float: left;
+	margin-left: 25%;
+	background: #1a395f;
+	border: 1px solid #5a779b;
+}
+.o1b{
+	width: 16%;
+	height: 65px;
+	float: left;
+	margin-left: 0.25%;
+	background: #1a395f;
+	border: 1px solid #5a779b;
+}
+.o1c{
+	width: 16%;
+	height: 65px;
+	float: left;
+	margin-left: 0.25%;
+	background: #1a395f;
+	border: 1px solid #5a779b;
+}
+.o1d{
+	width: 16%;
+	height: 65px;
+	float: left;
+	margin-left: 0.25%;
+	background: #1a395f;
+	border: 1px solid #5a779b;
 }
