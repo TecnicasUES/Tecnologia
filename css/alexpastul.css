@@ -13,49 +13,49 @@ header{
 	float: left;
 	background: #a7f323;
 }
-
 .child1{
 	width: 55%;
 	height: 60px;
 	float: left;
 	background: #f38f13;
 }
-
 .child2{
 	width: 45%;
 	height: 60px;
 	float: left;
 	background: #9d23f3;
 }
-
 .a{
 	width: 45%;
 	height: 60px;
 	float: left;
 	background: #619498;
-
+	border-width: 2px;
+	border-color: #0c5049;	
 }
-
 .b{
 	width: 55%;
 	height: 60px;
 	float: left;
 	background: #bcde54;
+	border-width: 2px;
+	border-color: #0c5049;
 }
-
-
 .c{
 	width: 27%;
 	height: 60px;
 	float: left;
 	background: #d7a079;
+	border-width: 2px;
+	border-color: #0c5049;
 }
-
 .d{
 	width: 19%;
 	height: 60px;
 	float: left;
 	background: #d1a53c;
+	border-width: 2px;
+	border-color: #0c5049;
 }
 .e{
 	width: 27%;
@@ -69,7 +69,6 @@ header{
 	float: left;
 	background: #ceb537;
 }
-
 .seccion1{
 	width: 100%;
 	height: 600px;
@@ -88,10 +87,6 @@ header{
 	float: left;
 	background: #76c78c;
 }
-
-
-
-
 .abuelo{
 	width: 100%;
 	height: 660px;
@@ -105,7 +100,6 @@ header{
 	margin-left: 6%;
 	background: #254f5b;
 }
-
 .hijo1{
 	width: 100%;
 	height: 330px;
@@ -148,10 +142,6 @@ header{
 	float: left;
 	background: #7e39a3;
 }
-
-
-
-
 .papab{
 	width: 25%;
 	height: 660px;
@@ -159,7 +149,6 @@ header{
 	margin-left: 6%;
 	background: #254f5b;
 }
-
 .hijob1{
 	width: 100%;
 	height: 330px;
@@ -202,9 +191,6 @@ header{
 	float: left;
 	background: #7e39a3;
 }
-
-
-
 .papac{
 	width: 25%;
 	height: 660px;
@@ -212,7 +198,6 @@ header{
 	margin-left: 6%;
 	background: #254f5b;
 }
-
 .hijoc1{
 	width: 100%;
 	height: 330px;
@@ -255,7 +240,6 @@ header{
 	float: left;
 	background: #7e39a3;
 }
-
 .seccion3{
 	width: 100%;
 	height: 600px;
@@ -334,9 +318,6 @@ header{
 	float: left;
 	background: #2aa961;
 }
-
-
-
 .seccion4{
 	width: 100%;
 	height: 550px;
@@ -347,11 +328,11 @@ header{
 	width: 60%;
 	height: 550px;
 	float: left;
-	background: #347a8e;
+	background: #0c5049;
 }
 .hijo1depapa001{
 	width: 100%;
-	height: 104px;
+	height: 105px;
 	float: left;
 	background: #0c5049;
 }
@@ -363,33 +344,41 @@ header{
 }
 .nieto1depapa001{
 	width: 40%;
-	height: 105px;
+	height: 102px;
 	float: left;
-	background: #06637a;
+	margin-top: 3px;
+	margin-left: 1%;
+	background: #00a5cd;
 }
 .nieto2depapa001{
-	width: 60%;
-	height: 105px;
+	width: 56%;
+	height: 102px;
 	float: left;
+	margin-top: 3px;
+	margin-left: 2%;
 	background: #03abc8;
 }
 .hijo3depapa001{
 	width: 100%;
-	height: 104px;
+	height: 105px;
 	float: left;
 	background: #0c5049;
 }
 .nieto3depapa001{
 	width: 40%;
-	height: 104%;
+	height: 100px;
 	float: left;
-	background: #068095;
+	margin-top: 4px;
+	margin-left: 1%;
+	background: #00a5cd;
 }
 .nieto4depapa001{
-	width: 60%;
-	height: 104px;
+	width: 56%;
+	height: 100px;
 	float: left;
-	background: #00a5cd;
+	margin-top: 4px;
+	margin-left: 2%;
+	background: #03abc8;
 }
 .hijo4depapa001{
 	width: 100%;
@@ -399,14 +388,18 @@ header{
 }
 .nieto5depapa001{
 	width: 40%;
-	height: 203px;
+	height: 185px;
 	float: left;
-	background: #06637a;
+	margin-top: 13px;
+	margin-left: 1%;
+	background: #00a5cd;
 }
 .nieto6depapa001{
-	width: 60%;
-	height: 203px;
+	width: 56%;
+	height: 185px;
 	float: left;
+	margin-top: 13px;
+	margin-left: 2%;
 	background: #03abc8;
 }	
 .hijo5depapa001{
@@ -422,29 +415,27 @@ header{
 	background: #3eb9b4;
 }
 .hijo1depapa002{
-	width: 100%;
+	width: 98%;
 	height: 104px;
 	float: left;
-	margin-top: 19%; 
+	margin-top: 100px;
+	margin-left: 2%;
 	background: #20b1ca;
 }
 .hijo2depapa002{
-	width: 100%;
+	width: 98%;
 	height: 104px;
 	float: left;
-	margin-top: 10%; 
+	margin-top: 55px; 
+	margin-left: 2%;
 	background: #20b1ca;
 }
 .nieto1depapa002{
 	width: 30%;
 	height: 104px;
-	margin-left: 45%;
+	margin-left: 50%;
 	background: #4a2a91;
 }
-
-
-
-
 .pie{
 	width: 100%;
 	height: 200px;
@@ -480,19 +471,22 @@ header{
 	width: 13%;
 	height: 75px;
 	float: left;
-	background: #254f5b;
+	margin-left: 0.5%;
+	background: #294c9d;
 }
 .bisnieto3{
 	width: 15%;
 	height: 75px;
 	float: left;
-	background: #d1a53c;
+	margin-left: 0.5%;
+	background: #294c9d;
 }
 .bisnieto4{
 	width: 15%;
 	height: 75px;
 	float: left;
-	background: #05a7d0;
+	margin-left: 0.5%;
+	background: #294c9d;
 }
 .nietopie2{
 	width: 100%;
