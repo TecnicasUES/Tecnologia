@@ -396,6 +396,43 @@ body{
 	float: left;	
 }
 
+.ch81{
+	width: 100%;
+	float:left;
+	height: 80px;
+	background: #E00CE8;
+			
+}
+
+.ch82{
+	width: 45%;
+	float:left;
+	height: 350px;
+	background: #A7FF63;
+	border-left:2px  solid #FFC263;
+	border-top: 2px  solid #FFC263;
+	border-bottom: 2px  solid #FFC263;
+				
+}
+
+.ch83{
+	width: 54.3%;
+	float:left;
+	height: 350px;
+	background: #A7FF63;
+	border-left:2px  solid #FFC263;
+	border-top: 2px  solid #FFC263;
+	border-bottom: 2px  solid #FFC263;
+				
+}
+
+
+.ch84{
+	width: 100%;
+	float:left;
+	height: 64px;
+	background: #FFFF99;			
+}
 
 #fin{
 	width: 100%;
