@@ -402,3 +402,247 @@ body {
 	float: left;
 	height: 97.5px;
 	background: #9598E8;
+}
+/*Ejercicio 2*/
+
+@charset "utf-8";
+
+#cuerpo{
+	background: #9FACE8;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+
+#menus{
+	width: 100%;
+	height: 115px;
+	float: left;
+	background: #E1AFFF;
+}
+
+.menu1{
+	width: 100%;
+	float: left;
+	height: 40px;
+	background: #B99FE8;
+}
+
+.m1a{
+	width: 61%;
+	float: left;
+	height: 40px;
+    background: #AFD2FF;
+}
+
+.m2a{
+	width: 39%;
+	float: left;
+	height: 40px;
+    background: #E1AFFF;
+}
+
+.simtel{
+	width: 9%;
+	height: 40px;
+	float: left;
+	background: #98E5FF;
+}
+
+.tel{
+	width: 40%;
+	height: 40px;
+	float: left;
+	background: #FFD6B1;
+}
+
+.partners{
+	width: 27%;
+	height: 40px;
+	float: left;
+	background: #FFE7C1;
+}
+
+.signin{
+	width: 20%;
+	height: 40px;
+	float: left;
+	background: #A8E8D6;
+}
+
+.menu2{
+	width: 100%;
+	float: left;
+	height: 75px;
+	background: #C1BBFF;
+}
+
+.clogo{
+	width: 15%;
+	height: 75px;
+	margin-left: 3%;
+	float: left;
+	background: #85C4E8;
+}
+
+.chome{
+	width: 6.5%;
+	height: 75px;
+	margin-left: 23%;
+	float: left;
+	background: #A6EAFF;
+}
+
+.cabout{
+	width: 8.5%;
+	height: 75px;
+	float: left;
+	background: #FFDFB8;
+}
+
+.cpys{
+	width: 15%;
+	height: 75px;
+	float: left;
+	background: #FAB4C9;
+}
+
+.cheavy{
+	width: 18%;
+	height: 75px;
+	float: left;
+	background: #AEE8E8;
+}
+
+.ccontact{
+	width: 9%;
+	height: 75px;
+	float: left;
+	background: #FFBABA;
+}
+
+.line1{
+	width: 100%;
+	float: left;
+	height: 10px;
+	background: #CCFFD9;
+}
+
+.line2{
+	width: 100%;
+	float: left;
+	height: 10px;
+	background: #A9DBD3;
+}
+
+#carrusel{
+	width: 100%;
+	float:left;
+	height: 425px;
+	background: #B9E4FF;
+}
+
+.textcarru{
+	width: 42%;
+	float:left;
+	margin-top:130px;
+	margin-left:3%;
+	margin-bottom:30px;
+	height: 275px;
+	background: #FFD5CE;
+}
+
+.ourservices{
+	width: 100%;
+	float:left;
+	height: 55px;
+	background: #D6FFE2;
+}
+
+.text1{
+	width: 100%;
+	float:left;
+	height: 165px;
+	background: #C1C4FA;
+}
+
+.cmore1{
+	width: 100%;
+	float:left;
+	height: 40px;
+	background: #B1DBD5;
+}
+
+.more1{
+	width: 15.5%;
+	float:left;
+	margin-left: 80%;
+	height: 40px;
+	background: #FFEED1;
+}
+
+.line3{
+	width: 100%;
+	float: left;
+	height: 8px;
+	background: #97BCDB;
+}
+
+#descripcion{
+	width: 100%;
+	float:left;
+	height: 275px;
+	background: #FACC98;
+}
+
+.ctext2{
+	width: 65%;
+	float:left;
+	height: 275px;
+	background: #FFB39C;
+}
+
+.titulo1{
+	width: 100%;
+	float:left;
+	margin-top: 25px;
+	height: 50px;
+	background: #A6C3E5;
+}
+
+.text2{
+	width: 100%;
+	float:left;
+	height: 132px;
+	background: #8AA2BF;
+}
+
+.cvermas1{
+	width: 100%;
+	float:left;
+	height: 50px;
+	background: #4F637F;
+}
+
+.vermas1{
+	width: 15%;
+	float:left;
+	margin-left:80%;
+	height: 50px;
+	background: #E5C791;
+}
+
+.image1{
+	width: 35%;
+	float:left;
+	height: 275px;
+	background: #DB8FA0;
+}
+
+#imagdescrip{
+	width: 100%;
+	float:left;
+	height: 675px;
+	background: #7692BF;
+}
