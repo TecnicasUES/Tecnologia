@@ -377,48 +377,23 @@ body{
 
 #apartado3{
 	width: 100%;
-	background: #FFE9D5;
-	height: 400px;
+	background: #F5D8DC;
+	height: 500px;
 	float: left;
 }
 
 .child8{
-	width: 40%;
-	height: 400px;	
-	background: #4B0CE8;
-	float:left;	
+	width: 60%;
+	height: 500px;	
+	background: #FFC263;
+	float: left;	
 }
 
 .child9{
-	width: 60%;
-	height: 400px;	
-	background: #ECFF66;
-	float:left;	
-}
-
-
-.ch9a{
-	width: 100%;
-	float:left;
-	height: 70px;
-	background: #D49750;
-	margin-top: 60px;
-}
-
-.ch9b{
-	width: 100%;
-	float:left;
-	height: 70px;
-	background: #D49750;
-	margin-top: 60px;	
-}
-
-.ch9b1{
-	width: 20%;
-	float:right;
-	height: 70px;
-	background: #702D09;
-	margin-right: 45px;	
+	width: 40%;
+	height: 500px;	
+	background: #FFB999;
+	float: left;	
 }
 
 
