@@ -355,7 +355,7 @@ body{
 }
 #datos{
 	width: 100%;
-	background: #FEADFE;
+	background: #FFFFFF;
 	height: 45px;
 	float: left;
 }
@@ -368,7 +368,7 @@ body{
 }
 .numeros{
 	width: 14%;
-	background: #E60FFF;
+	background: #8753BD;
 	height: 45px;
 	float: left;
 }
@@ -403,7 +403,7 @@ body{
 	float: left;
 	margin-left: 10%;
 }
-.menua{
+.menub{
 	width: 60%;
 	background: #87FF74;
 	height: 110px;
@@ -437,5 +437,110 @@ body{
 	width: 20%;
 	background: #FDFF62;
 	height: 110px;
+	float: left;
+}
+.barra1{
+	width: 100%;
+	background: #83FE7F;
+	height: 12px;
+	float: left;
+}
+.barra2{
+	width: 100%;
+	background:#B57FFE;
+	height: 12px;
+	float: left;
+}
+#seccion1{
+	width: 100%;
+	background: #FEC47F;
+	height:400px;
+	float: left;
+}
+.a{
+	width: 47%;
+	background:#2E3F73;
+	height: 400px;
+	float: left; 
+}
+.a1{
+	width: 100%;
+	background:#00FFEC;
+	height: 260px;
+	float: left; 
+	margin-top: 18%;
+}
+.a2{
+	width: 100%;
+	background:#F8A4FB;
+	height: 60px;
+	float: left; 
+}
+.a3{
+	width: 100%;
+	background:#FF9090;
+	height: 160px;
+	float: left; 
+}
+.a4{
+	width: 100%;
+	background:#FFF890;
+	height: 40px;
+	float: left; 
+}
+.a5{
+	width: 15%;
+	background:#17C1C1;
+	height: 40px;
+	float: left;
+	margin-left: 80%; 
+}
+#seccion2{
+	width: 100%;
+	height: 300px;
+	background: #173EC1;
+	float: left;
+}
+.cajab{
+	width: 65%;
+	height: 300px;
+	background: #34E4F9;
+	float: left;
+}
+.cajab1{
+	width: 100%;
+	height: 70px;
+	background: #C70039;
+	float: left;
+}
+.cajab2{
+	width: 100%;
+	height: 160px;
+	background: #FFFFFF;
+	float: left;
+}
+.cajab3{
+	width: 100%;
+	height:55px;
+	background: #BE81FE;
+	float: left;
+}
+.cajab4{
+	width: 15%;
+	height: 55px;
+	background: #C70039;
+	float: left;
+	margin-left: 81%;
+}
+.cajac{
+	width: 35%;
+	height: 300px;
+	background: #15225D;
+	float: left;
+}
+#seccion3{
+	width: 100%;
+	height: 700px;
+	background: #DEAEFF;
 	float: left;
 }
