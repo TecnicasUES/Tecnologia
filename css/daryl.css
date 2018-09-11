@@ -10,7 +10,7 @@ body{
 
 #menu{
 	width: 100%;
-	background: #c3db51;
+	background: gray;
 	height: 60px;
 	float: left;
 }
@@ -21,46 +21,42 @@ body{
 	float: left; 	
 }
 .child2{
-	width: 44.6%;
+	width: 45%;
 	float: left;
 	background: #e89ec1;
 	height: 60px;
 }
 .a{
-	width: 45%;
+	width: 50%;
 	float:left;
 	height: 60px;
 	background:#3aa930;
 }
 .b{
-	width: 27%;
+	width: 30%;
 	float:left;
 	height: 60px;
 	background:#b8de35;
 }
 .c{
-	width: 27%;
+	width: 35%;
 	float:left;
 	height: 60px;
 	background: #da9f75;
 }
 .d{
-	width: 19%;
+	width: 40%;
 	float:left;
 	height: 60px;
 	background:#b8de35;
 }
-.e{
-	width: 27%;
-	float:left;
-	height: 60px;
-	background:#859e77;
-}
+
 .sec2{
 	width: 100%;
 	float: left;
 	height:500px;
 	background:#33a4bd;
+	border: 700px border-color:blue;
 }
 .sec3{
 	width: 100%;
@@ -119,7 +115,7 @@ body{
 	float: left;
 	height:480px;
 	background: gray;
-	margin-left:6%
+	margin-left:6%;
 }
 
 .sech331{
@@ -159,7 +155,7 @@ body{
 	float: left;
 	height:480px;
 	background: gray;
-	margin-left:6%
+	margin-left:6%;
 }
 
 .sech341{
@@ -250,7 +246,7 @@ body{
 	float:left;
 	height:100px;
 	background:#63280C;
-	margin-left: 40%
+	margin-left: 40%;
 }
 .secn427{
 	width: 100%;
@@ -261,24 +257,121 @@ body{
 .sec5{
 	width: 100%;
 	float: left;
-	height: 700px;
-	background: #e0ff19;
+	height: 650px;
+	background: gray;
 }
-.sech5{
+.sech51{
 	width: 55%;
 	float:left;
-	height: 700px;
+	height: 600px;
 	background:#ff5419;
 }
-
+.secn51{
+	width: 100%;
+	float: left;
+	height: 100px;
+	background: black;
+}
+.secn52{
+	width: 100%;
+	float:left;
+	height: 100px;
+	background: violet;
+}
+.secn53{
+	width: 50%;
+	float:left;
+	height: 100px;
+	background: blue;
+	margin-left: 50%;
+}
+.secn54{
+	width: 100%;
+	float:left;
+	height: 100px;
+	background: red;
+}
+.secn55{
+	width:50%; 
+	float:left;
+	height: 100px;
+	background:white;
+	margin-left: 50%;
+}
+.secn56{
+	width: 100%;
+	float:left;
+	height: 300px;
+	background: cyan;
+}
+.secn57{
+	width: 50%;
+	float:left;
+	height: 300px;
+	background:salmon;
+	margin-left: 50%;
+}
 .sech52{
 	width: 45%;
-	float:left;
-	height: 700px;
-	background:blue;
-	margin-left: 55%
+	float: left;
+	height: 650px;
+	background: orange;
 }
-
+.secn521{
+	width: 100%;
+	float: left;
+	height: 100px;
+	background:indigo;
+}
+.secn523{
+	width: 100%;
+	float:left;
+	height:100px;
+	background:white
+}
+.secn524{
+	width: 100%;
+	float:left;
+	height: 50px;
+	background: gray
+}
+.secn525{
+	width: 100%;
+	float:left;
+	height:100px;
+	background: green;
+}
+.secn526{
+	width: 30%;
+	float:left;
+	height: 100px;
+	background:blue;
+	margin-left:50%;
+}
+.sec6{
+    width: 100%;
+	float: left;
+	height:400px;
+	background:red;
+}
+.sech61{
+	width: 40%;
+	float:left;
+	height:400px;
+	background:green;
+}
+.sech62{
+	width: 60%;
+	float:left;
+	height: 400px;
+	background:cadetblue;
+}
+.secn61{
+	width: 100%;
+	height:200px;
+	background: white;
+	float: left;
+}
 
 
 
