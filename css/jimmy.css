@@ -438,3 +438,18 @@ footer{
 	margin-left: 0.3%;
     background: #1b4241;
 }
+
+
+/*ejercicio 2*/
+
+
+@charset "utf-8";
+
+
+body{
+	background: blue;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin:0%;
+}
