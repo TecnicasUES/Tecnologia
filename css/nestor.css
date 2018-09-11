@@ -69,7 +69,7 @@ header{
  	height: 500px;
  	float: left;
  	background: green;
- 	border width: 2px; border-color: green;
+ 	border: 1px solid #000;
 }
 .child31{
  	width: 100%;
