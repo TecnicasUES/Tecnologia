@@ -78,3 +78,148 @@ body{
 
 
 }
+
+.chi3{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background:#EF7C73;
+	
+}
+
+.chi4{
+	width: 100%;
+	height: 16px;
+	float: left;
+	background:#99EF73;
+}
+
+.chi5{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background:#73EBEF;
+}
+
+.g{
+	width: 26%;
+	height: 500px;
+	float: left;
+	border: #034D0D 1px solid;
+	margin-left: 5.3%;
+	background:#1A9C12;
+	
+}
+
+.h{
+	width: 26%;
+	height: 500px;
+	float: left;
+	margin-right: 5.3%;
+	margin-left: 5.3%;
+	border:#034D0D 1px solid;
+    background:#1A9C12;
+	
+	
+}
+
+.i{
+	width: 26%;
+	height: 500px;
+	float: left;
+	border:#034D0D 1px solid;
+	margin-right: 5.3%;
+	background:#1A9C12;
+	
+}
+
+
+.chig{
+	width: 100%;
+	height: 220px;
+	float: left;
+	border:#034D0D 1px solid;
+	background: #047158;
+	
+}
+
+.chig1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	border:#034D0D 1px solid;
+	background:#98A099;
+	
+}
+
+.chig2{
+	width: 100%;
+	height: 150px;
+	float: left;
+	border: #034D0D 1px solid;
+	background:#AD5909;
+	
+}
+
+.chig3{
+	width: 100%;
+	height: 80px;
+	float: left;
+	border: #034D0D 1px solid;
+	background:#A30CCB;
+}
+
+.chi1h{
+	width: 100%;
+	height: 220px;
+	float: left;
+	border:#246104 1px solid;
+	background:#047158;
+}
+
+.chi2h{
+	width: 100%;
+	height: 50px;
+	float: left;
+	border: #246104 1px solid;
+	background:#98A099;
+}
+  .chi3h{
+	width: 100%;
+	height: 150px;
+	float: left;
+    border: #246104 1px solid;
+    background: #AD5909;
+
+}
+  .chi4h{
+	width: 100%;
+	height: 80px;
+	float: left;
+	border: #207106 1px solid;
+	background: #9219C4;
+}
+   .chii{
+	width: 100%;
+	height: 220px;
+	float: left;
+	border: #207106 1px solid;
+    background:#047158;
+}
+
+   .chi2i{
+	width: 100%;
+	height: 50px;
+	float: left;
+	border: #207106 1px solid;
+    background: #98A099;
+}
+    .chi3i{
+	 width: 100%;
+	 height: 150px;
+	 float: left;
+	 border: #207106 1px solid;
+     background: #AD5909;
+}
+
+
