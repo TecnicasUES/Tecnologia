@@ -540,7 +540,66 @@ body{
 }
 #seccion3{
 	width: 100%;
-	height: 700px;
-	background: #DEAEFF;
+	height: 800px;
+	background: #265D77;
 	float: left;
+}
+.cajad{
+	width: 29%;
+	height: 750px;
+	background: #358FB9;
+	float: left;
+	margin-top: 1.50%;
+	margin-left: 3.25%; 
+}
+.cajad1{
+	width: 100%;
+	height: 50px;
+	background: #EC7A8F;
+	float: left;
+}
+.cajad2{
+	width: 100%;
+	height: 250px;
+	background: #83FE7F;
+	float: left;
+}
+.cajad3{
+	width: 100%;
+	height: 50px;
+	background:#FFE73B;
+	float: left;
+}
+.cajad4{
+	width: 30%;
+	height: 50px;
+	background:#EC7A8F;
+	float: left;
+	margin-left: 70%;
+}
+.cajad5{
+	width: 100%;
+	height: 50px;
+	background: #EC7A8F;
+	float: left;
+	margin-top: 13%;
+}
+.cajad6{
+	width: 100%;
+	height: 250px;
+	background: #83FE7F;
+	float: left;
+}
+.cajad7{
+	width: 100%;
+	height: 50px;
+	background:#FFE73B;
+	float: left;
+}
+.cajad8{
+	width: 30%;
+	height: 50px;
+	background:#EC7A8F;
+	float: left;
+	margin-left: 70%;
 }
