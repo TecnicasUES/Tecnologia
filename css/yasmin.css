@@ -44,30 +44,35 @@ body{
 	height: 60px;
 	background: #b8de35;
 }
+
 .c{
 	width: 27%;
 	float: left;
 	height: 60px;
 	background: #da9f75;
 }
+
 .d{
 	width: 19%;
 	float: left;
 	height: 60px;
 	background: #859e77;
 }
+
 .e{
 	width: 27%;
 	float: left;
 	height: 60px;
 	background: #800239;
 }
+
 .f{
 	width: 27%;
 	float: left;
 	height: 60px;
 	background: #cbb442;
 }
+
 .cuadrorosa1{
 	float: left;
 	width: 100%;
@@ -84,43 +89,127 @@ body{
 
 .cuadro3{
 	float: left;
-	width: 100%;
-	height:400px;
+	width: 100%;;
+	background: #82c3e1;
 }
 
 .azul1{
 	float: left;
 	width: 25%;
-	height:400px;
+	height:500px;
 	background: #02253e;
 	margin-left: 6.25%;
 }
-.azul2{
-	float: left;
-	width: 25%;
-	height:400px;
-	background: #02253e;
-	margin-left: 6.25%;
-}
-.azul3{
-	float: left;
-	width: 25%;
-	height:400px;
-	background: #02253e;
-	margin-left: 6.25%;
-}
-.y1{
+
+.a1{
 	float: left;
 	width: 100%;
-	height:200px;
+	height:250px;
 	background: #0385e0;
 }
-.y2{
+
+.a2{
 	float: left;
 	width: 100%;
 	height:50px;
 	background: #a5ab00;
 }
+
+.a3{
+	float: left;
+	width: 100%;
+	height:150px;
+	background: #fc8012;
+}
+
+.a4{
+	float: left;
+	width: 100%;
+	height:75px;
+	background: #880abd;
+	
+}
+
+.a41{
+	width: 34%;
+	float: left;
+	height: 75px;
+	background: #06b575;
+	margin-left: 32%;
+}
+
+.azul2{
+	float: left;
+	width: 25%;
+	height:500px;
+	background: #02253e;
+	margin-left: 6.25%;
+}
+
+.aa1{
+	float: left;
+	width: 100%;
+	height:250px;
+	background: #0385e0;
+}
+
+.aa2{
+	float: left;
+	width: 100%;
+	height:50px;
+	background: #a5ab00;
+}
+
+.aa3{
+	float: left;
+	width: 100%;
+	height:150px;
+	background: #fc8012;
+}
+
+.aa4{
+	float: left;
+	width: 100%;
+	height:75px;
+	background: #880abd;
+}
+
+.azul3{
+	float: left;
+	width: 25%;
+	height:500px;
+	background: #02253e;
+	margin-left: 6.25%;
+}
+
+.aaa1{
+	float: left;
+	width: 100%;
+	height:250px;
+	background: #0385e0;
+}
+
+.aaa2{
+	float: left;
+	width: 100%;
+	height:50px;
+	background: #a5ab00;
+}
+
+.aaa3{
+	float: left;
+	width: 100%;
+	height:150px;
+	background: #fc8012;
+}
+
+.aaa4{
+	float: left;
+	width: 100%;
+	height:75px;
+	background: #880abd;
+}
+
 
 
 
