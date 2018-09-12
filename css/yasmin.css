@@ -104,14 +104,14 @@ body{
 .a1{
 	float: left;
 	width: 100%;
-	height:200px;
+	height:210px;
 	background: #0385e0;
 }
 
 .a2{
 	float: left;
 	width: 100%;
-	height:50px;
+	height:40px;
 	background: #a5ab00;
 }
 
@@ -149,14 +149,14 @@ body{
 .aa1{
 	float: left;
 	width: 100%;
-	height:200px;
+	height:210px;
 	background: #0385e0;
 }
 
 .aa2{
 	float: left;
 	width: 100%;
-	height:50px;
+	height:40px;
 	background: #a5ab00;
 }
 
@@ -193,14 +193,14 @@ body{
 .aaa1{
 	float: left;
 	width: 100%;
-	height:200px;
+	height:210px;
 	background: #0385e0;
 }
 
 .aaa2{
 	float: left;
 	width: 100%;
-	height:50px;
+	height:40px;
 	background: #a5ab00;
 }
 
@@ -241,9 +241,18 @@ body{
 }
 .cc1{
 	float: left;
-	width: 50%;
-	height:
+	width: 100%;
+	height:25%;
+	background: #03811d; 
 }
+
+.cc2{
+	float: left;
+	width: 100%;
+	height:25%;
+	background: #0a1310; 
+}
+
 
 
 
