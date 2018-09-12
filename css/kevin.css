@@ -94,11 +94,12 @@ header{
 }
 
 .g{
-	width: 5.5%;
+	width: 26%;
 	height: 500px;
 	float: left;
-	background: lightblue;
+	background: green;
 	border: darkgreen 1px solid;
+	margin-left: 5.3%;
 }
 
 .h{
@@ -107,47 +108,50 @@ header{
 	float: left;
 	background: green;
 	border: darkgreen 1px solid;
+	margin-right: 5.3%;
+	margin-left: 5.3%;
+
 }
 
 .i{
-	width: 5.5%;
-	height: 500px;
-	float: left;
-	background: lightblue;
-	border: darkgreen 1px solid;
-}
-
-.j{
 	width: 26%;
 	height: 500px;
 	float: left;
 	background: green;
 	border: darkgreen 1px solid;
-
+	margin-right: 5.3%;
 }
 
-.k{
-	width: 5.5%;
-	height: 500px;
-	float: left;
-	background: lightblue;
-	border: darkgreen 1px solid;
 
-}
-
-.l{
-	width: 26%;
-	height: 500px;
+.child1g{
+	width: 100%;
+	height: 220px;
 	float: left;
-	background: green;
+	background: darkgreen;
 	border: darkgreen 1px solid;
 }
 
-.m{
-	width: 5.5%;
-	height: 500px;
+.child2g{
+	width: 100%;
+	height: 50px;
 	float: left;
-	background: lightblue;
+	background: gray;
+	border: darkgreen 1px solid;
+}
+
+.child3g{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: brown;
+	border: darkgreen 1px solid;
+}
+
+.child4g{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: purple;
 	border: darkgreen 1px solid;
 }
 
@@ -183,7 +187,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child1j{
+.child1i{
 	width: 100%;
 	height: 220px;
 	float: left;
@@ -191,7 +195,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child2j{
+.child2i{
 	width: 100%;
 	height: 50px;
 	float: left;
@@ -199,7 +203,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child3j{
+.child3i{
 	width: 100%;
 	height: 150px;
 	float: left;
@@ -207,39 +211,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child4j{
-	width: 100%;
-	height: 80px;
-	float: left;
-	background: purple;
-	border: darkgreen 1px solid;
-}
-
-.child1l{
-	width: 100%;
-	height: 220px;
-	float: left;
-	background: darkgreen;
-	border: darkgreen 1px solid;
-}
-
-.child2l{
-	width: 100%;
-	height: 50px;
-	float: left;
-	background: gray;
-	border: darkgreen 1px solid;
-}
-
-.child3l{
-	width: 100%;
-	height: 150px;
-	float: left;
-	background: brown;
-	border: darkgreen 1px solid;
-}
-
-.child4l{
+.child4i{
 	width: 100%;
 	height: 80px;
 	float: left;
@@ -339,7 +311,7 @@ header{
 	background: green;
 }
 
-.n{
+.j{
 	width: 100%;
 	height: 60px;
 	float: left;
@@ -347,7 +319,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.o{
+.k{
 	width: 100%;
 	height: 60px;
 	float: left;
@@ -355,21 +327,21 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child1o{
+.child1k{
 	width: 50%;
 	height: 60px;
 	float: left;
 	background: black;
 }
 
-.child2o{
+.child2k{
 	width: 50%;
 	height: 60px;
 	float: left;
 	background: yellow;
 }
 
-.p{
+.l{
 	width: 100%;
 	height: 60px;
 	float: left;
@@ -377,7 +349,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.q{
+.m{
 	width: 100%;
 	height: 60px;
 	float: left;
@@ -385,7 +357,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.r{
+.n{
 	width: 100%;
 	height: 120px;
 	float: left;
@@ -408,83 +380,89 @@ header{
 }
 
 
+.o{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: darkgreen;
+}
+
+.p{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: darkgreen;
+}
+
+.child1p{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.child2p{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.q{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: darkgreen;
+}
+
+.child1q{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.child2q{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.r{
+	width: 100%;
+	height: 112px;
+	float: left;
+	background: darkgreen;
+}
+
+.child1r{
+	width: 49.5%;
+	height: 110px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.child2r{
+	width: 49.5%;
+	height: 110px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
 .s{
-	width: 100%;
-	height: 72px;
-	float: left;
-	background: darkgreen;
-}
-
-.t{
-	width: 100%;
-	height: 72px;
-	float: left;
-	background: darkgreen;
-}
-
-.child1t{
-	width: 50%;
-	height: 72px;
-	float: left;
-	background: aqua;
-	border: darkgreen 1px solid;
-}
-
-.child2t{
-	width: 49%;
-	height: 72px;
-	float: left;
-	background: aqua;
-	border: darkgreen 1px solid;
-}
-
-.u{
-	width: 100%;
-	height: 72px;
-	float: left;
-	background: darkgreen;
-}
-
-.child1u{
-	width: 50%;
-	height: 71px;
-	float: left;
-	background: aqua;
-	border: darkgreen 1px solid;
-}
-
-.child2u{
-	width: 49%;
-	height: 71px;
-	float: left;
-	background: aqua;
-	border: darkgreen 1px solid;
-}
-
-.v{
-	width: 100%;
-	height: 112px;
-	float: left;
-	background: darkgreen;
-}
-
-.child1v{
-	width:50%;
-	height: 112px;
-	float: left;
-	background: aqua;
-	border: darkgreen 1px solid;
-}
-
-.child2v{
-	width: 49%;
-	height: 112px;
-	float: left;
-	background: aqua;
-	border: darkgreen 1px solid;
-}
-
-.w{
     width: 100%;
 	height: 32px;
 	float: left;
@@ -499,7 +477,7 @@ header{
 	background: lightblue;
 }
 
-.x{
+.t{
 	width: 100%;
 	height: 72px;
 	float: left;
@@ -507,7 +485,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.y{
+.u{
 	width: 100%;
 	height: 72px;
 	float: left;
@@ -515,7 +493,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.z{
+.v{
 	width: 100%;
 	height: 30px;
 	float: left;
@@ -523,7 +501,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.aa{
+.w{
 	width: 100%;
 	height: 72px;
 	float: left;
@@ -531,28 +509,28 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child1aa{
+.child1w{
 	width: 55%;
 	height: 72px;
 	float: left;
 	background: aqua;
 }
 
-.child2aa{
+.child2w{
 	width: 25%;
 	height: 72px;
 	float: left;
 	background: darkgreen;
 }
 
-.child3aa{
+.child3w{
 	width: 20%;
 	height: 72px;
 	float: left;
 	background: aqua;
 }
 
-.ab{
+.x{
 	width: 100%;
 	height: 104px;
 	float: left;
@@ -581,21 +559,21 @@ header{
 	background: green;
 }
 
-.ac{
+.y{
 	width: 100%;
 	height: 50px;
 	float: left;
 	background: lightgreen;
 }
 
-.ad{
+.z{
 	width: 100%;
 	height: 50px;
 	float: left;
 	background: lightgreen;
 }
 
-.ae{
+.aa{
 	width: 100%;
 	height: 100px;
 	float: left;
@@ -603,7 +581,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child1ac{
+.child1y{
 	width: 20%;
 	height: 50px;
 	float: left;
@@ -611,7 +589,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child2ac{
+.child2y{
 	width: 60%;
 	height: 50px;
 	float: left;
@@ -619,7 +597,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child3ac{
+.child3y{
 	width: 16%;
 	height: 50px;
 	float: left;
@@ -628,7 +606,7 @@ header{
 	border: darkgreen 1px solid;
 }
 
-.child4ac{
+.child4y{
 	width: 4%;
 	height: 50px;
 	float: left;
