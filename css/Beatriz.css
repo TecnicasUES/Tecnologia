@@ -393,7 +393,8 @@ body{
 	width: 40%;
 	height: 500px;	
 	background: #FFB999;
-	float: left;	
+	float: left;
+
 }
 
 .ch81{
@@ -412,7 +413,7 @@ body{
 	border-left:2px  solid #FFC263;
 	border-top: 2px  solid #FFC263;
 	border-bottom: 2px  solid #FFC263;
-	border-right: 8px solid #FFC263;
+	border-right: 9px solid #FFC263;
 				
 }
 
@@ -443,7 +444,7 @@ body{
 .ch82c{
 	width: 100%;
 	float:left;
-	height: 173px;
+	height: 175px;
 	background: #44FF99;
 	border-left:1px  solid #FFC263;
 	border-right: 8px  solid #FFC263;
@@ -452,34 +453,24 @@ body{
 }
 
 .ch83{
-	width: 54.3%;
+	width: 54%;
 	float:left;
 	height: 350px;
 	background: #A7FF63;
-	border-left:2px  solid #FFC263;
+	border-left:1px  solid #FFC263;
 	border-top: 2px  solid #FFC263;
+	border-right: 2px  solid #FFC263;
 	border-bottom: 2px  solid #FFC263;
 				
 }
 
-.ch82{
-	width: 44%;
-	float:left;
-	height: 350px;
-	background: #A7FF63;
-	border-left:2px  solid #FFC263;
-	border-top: 2px  solid #FFC263;
-	border-bottom: 2px  solid #FFC263;
-	border-right: 8px solid #FFC263;
-				
-}
 
 .ch83a{
 	width: 100%;
 	float:left;
 	height: 80px;
 	background: #44FF99;
-	border-right: 8px  solid #FFC263;
+	border-right: 4px  solid #FFC263;
 	border-top: 1px  solid #FFC263;
 	border-bottom: 2px  solid #FFC263;
 				
@@ -490,7 +481,7 @@ body{
 	float:left;
 	height: 80px;
 	background: #44FF99;
-	border-right: 1px  solid #FFC263;
+	border-right: 4px  solid #FFC263;
 	border-top: 1px  solid #FFC263;
 	border-bottom: 6px  solid #FFC263;
 				
@@ -499,9 +490,9 @@ body{
 .ch83c{
 	width: 100%;
 	float:left;
-	height: 173px;
+	height: 175px;
 	background: #44FF99;
-	border-right: 1px  solid #FFC263;
+	border-right: 4px  solid #FFC263;
 	border-top: 6px  solid #FFC263;
 					
 }
@@ -512,6 +503,30 @@ body{
 	float:left;
 	height: 64px;
 	background: #FFFF99;			
+}
+
+.ch91{
+	width: 100%;
+	float:left;
+	height: 80px;
+	background: #A14E04;
+	margin-top: 82px;			
+}
+
+.ch92{
+	width: 100%;
+	float:left;
+	height: 80px;
+	background: #A14E04;
+	margin-top: 50px;			
+}
+
+.ch92a{
+	width: 25%;
+	float:right;
+	height: 80px;
+	background: #E3A96E;
+	margin-right: 80px;			
 }
 
 #fin{
@@ -543,13 +558,21 @@ body{
 			
 }
 
+.c11{
+	width: 100%;
+	float:right;
+	height: 40px;
+	background: #4CD9E3;
+			
+}
+
 .ch11a1{
 	width: 23%;
 	float:left;
 	height: 40px;
 	background: #215BC4;
-	margin-right: 2px;
-	margin-left: 190px
+	border-right: 2px solid #8A49E3;
+	margin-left: 190px;
 			
 }
 
@@ -566,7 +589,7 @@ body{
 	float:left;
 	height: 40px;
 	background: #215BC4;
-	margin-right: 2px;		
+	border-right: 	2px solid #8A49E3;		
 }
 
 .ch11a4{
@@ -574,7 +597,7 @@ body{
 	float:left;
 	height: 40px;
 	background: #215BC4;
-	margin-right: 2px;		
+	border-right: 	2px solid #8A49E3;
 }
 
 
