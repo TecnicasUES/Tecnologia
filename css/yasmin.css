@@ -239,11 +239,12 @@ body{
 	margin-left: 50%;
 	background: #03811d;
 }
-.cc1{
+
+.cc1espacio{
 	float: left;
 	width: 100%;
-	height:25%;
-	background: #03811d; 
+	height:20%;
+
 }
 
 .cc2{
@@ -295,6 +296,25 @@ body{
 	margin-right: 50%;
 	background: #095b53;
 }
+
+.cta1espacio{
+	float: left;
+	width: 100%;
+	height:75px;
+	
+	
+}
+
+.cta2{
+	float: left;
+	width: 38%;
+	height:75px;
+	background: #02abc8;
+	margin-left: 0.7%;
+	
+}
+
+
 
 
 
