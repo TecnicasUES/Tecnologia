@@ -282,6 +282,20 @@ body{
 	margin-left: 33.33%;
 }
 
+.cuadro5{
+	float: left;
+	width: 100%;
+	background: #82c3e1;
+}
+
+.cuadrostodosazules{
+	float: left;
+	width: 50%;
+	height: 400px;
+	margin-right: 50%;
+	background: #095b53;
+}
+
 
 
 
