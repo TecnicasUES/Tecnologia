@@ -39,7 +39,7 @@ section.middle1 {
 section.middle2 {
     height: 260px;
     width: 100%;
-     border: 2px solid #06661c;
+     
 }
 
 section.middle3 {
@@ -188,7 +188,6 @@ section.middle3 {
 
 #picture {
     background-color: #ee9ac6;
-     border: 1px solid #06661c;
     float: left;
     height: 200px;
     width: 100%;
@@ -212,7 +211,6 @@ section.middle3 {
 
 .top-box {
     background-color: #2cbf96;
-     border: 1px solid #06661c;
     height: 170px;
     width: 100%;
 }
@@ -225,7 +223,6 @@ section.middle3 {
 
 .bottom-box {
     background-color: #F9A610;
-     border: 1px solid #06661c;
     height: 120px;
     width: 100%;
 }
@@ -269,7 +266,7 @@ section.middle3 {
     float: right;
     height: 260px;
     width: 50%;
-     border: 1px solid #06661c;
+    
 }
 
 .top-right1 {
@@ -384,7 +381,7 @@ section.middle3 {
 }
 
 .child6-middle3 {
-    background-color: #4aafc9;
+    /*background-color: #4aafc9;*/
     height: 60px;
     width: 100%;
 }
@@ -459,4 +456,25 @@ section.middle3 {
     float: left;
     height: 60px;
     width: 22%;
+
+}
+.m{
+    background-color: #4aafc9;
+    height: 60px;
+    width: 60%;
+    float: left;
+
+}
+.n{
+    background-color: #668966;
+    height: 60px;
+    width: 25%;
+    float: left;
+    
+}
+.o{
+    background-color: #4aafc9;
+    height: 60px;
+    width: 15%;
+    float: left;
 }
