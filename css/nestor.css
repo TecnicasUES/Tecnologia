@@ -18,7 +18,6 @@ header{
  	height: 60px;
  	float: left;
  	background: #f38f23;
- 	border: 3px; color: blue;
 }
 
 .child2{
@@ -69,14 +68,12 @@ header{
  	height: 500px;
  	float: left;
  	background: green;
- 	border: 1px solid #000;
 }
 .child31{
  	width: 100%;
  	height: 20px;
  	float: left;
  	background: #794621;
- 	border-width: 2px; border-color: black;
 }
 .child4{
  	width: 100%;
@@ -136,7 +133,7 @@ header{
 	width: 30%;
 	height: 70px;
 	float: left;
-	background: #397722;
+	background: pink;
 }
 .i{
 	width: 7%;
@@ -190,7 +187,7 @@ header{
 	width: 30%;
 	height: 70px;
 	float: left;
-	background: #397722;
+	background: pink;
 }
 .k{
 	width: 7%;
@@ -244,7 +241,7 @@ header{
 	width: 30%;
 	height: 70px;
 	float: left;
-	background: #397722;
+	background: pink;
 }
 .m{
 	width: 7%;
@@ -256,7 +253,7 @@ header{
  	width: 100%;
  	height: 550px;
  	float: left;
- 	background: #121212;
+ 	background: beige;
 }
 .child51{
 	width: 50%;
@@ -268,13 +265,25 @@ header{
 	width: 50%;
  	height: 550px;
  	float: left;
- 	background: orange;
+ 	background: skyblue;
 }
 .child53{
+	width: 100%
+	height:48px;
+	float: left;
+	background: green;
+}
+.child52b{
 	width: 50%
 	height:48px;
 	float: left;
-	background: black;
+	background: white;
+}
+.child52c{
+	width: 50%
+	height:48px;
+	float: left;
+	background: green;
 }
 .child6{
  	width: 100%;
