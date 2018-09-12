@@ -24,11 +24,10 @@ body{
 }
 
 .child2{
-	width: 44.6%;
+	width: 44.9%;
 	float: left;
 	background: #e89ec1;
-	border: 1px solid green;
-	height: 60px;
+    height: 60px;
 }
 
 .a{
@@ -77,14 +76,14 @@ body{
 #carrusel{
 	width: 100%;
 	background: #00E9D5;
-	height: 400px;
+	height: 500px;
 	float: left;
 }
 
 .g{  
 	width: 100%;
 	float:left;
-	height: 392px;
+	height: 492px;
 	background: #D9A553;
 
 }
@@ -291,20 +290,20 @@ body{
 #apartado2{
 	width: 100%;
 	background: #FFE9D5;
-	height: 350px;
+	height: 400px;
 	float: left;
 }
 
 .child6{
 	width: 50%;
-	height: 350px;	
+	height: 400px;	
 	background: #DEB73A;
 	float: left;
 }
 
 .child7{
 	width: 50%;
-	height: 350px;	
+	height: 400px;	
 	background: #DEA23A;
 	float: right;
 }
@@ -313,7 +312,7 @@ body{
 .ch6a{
 	width: 100%;
 	float:left;
-	height: 350px;
+	height: 400px;
 	background: #E85939;
 	
 }
@@ -410,10 +409,10 @@ body{
 	float:left;
 	height: 350px;
 	background: #A7FF63;
-	border-left:2px  solid #FFC263;
-	border-top: 2px  solid #FFC263;
-	border-bottom: 2px  solid #FFC263;
-	border-right: 9px solid #FFC263;
+	margin-left:3% #FFC263;
+	margin-top: 3%  #FFC263;
+	margin-bottom: 3%  #FFC263;
+	margin-right: 3% #FFC263;
 				
 }
 
@@ -423,8 +422,8 @@ body{
 	height: 80px;
 	background: #44FF99;
 	border-left:1px  solid #FFC263;
-	border-right: 8px  solid #FFC263;
-	border-top: 1px  solid #FFC263;
+	border-right: 8px  solid  #FFC263;
+	border-top: 3px solid #FFC263;
 	border-bottom: 2px  solid #FFC263;
 				
 }
@@ -454,12 +453,12 @@ body{
 
 .ch83{
 	width: 54%;
-	float:left;
+	float:right;
 	height: 350px;
 	background: #A7FF63;
 	border-left:1px  solid #FFC263;
 	border-top: 2px  solid #FFC263;
-	border-right: 2px  solid #FFC263;
+	border-right: 1px solid #FFC263;
 	border-bottom: 2px  solid #FFC263;
 				
 }
@@ -501,7 +500,7 @@ body{
 .ch84{
 	width: 100%;
 	float:left;
-	height: 64px;
+	height: 67px;
 	background: #FFFF99;			
 }
 
@@ -572,7 +571,7 @@ body{
 	height: 40px;
 	background: #215BC4;
 	border-right: 2px solid #8A49E3;
-	margin-left: 190px;
+	margin-left: 18%;
 			
 }
 
