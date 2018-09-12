@@ -104,7 +104,7 @@ body{
 .a1{
 	float: left;
 	width: 100%;
-	height:250px;
+	height:200px;
 	background: #0385e0;
 }
 
@@ -118,7 +118,7 @@ body{
 .a3{
 	float: left;
 	width: 100%;
-	height:150px;
+	height:175px;
 	background: #fc8012;
 }
 
@@ -149,7 +149,7 @@ body{
 .aa1{
 	float: left;
 	width: 100%;
-	height:250px;
+	height:200px;
 	background: #0385e0;
 }
 
@@ -163,7 +163,7 @@ body{
 .aa3{
 	float: left;
 	width: 100%;
-	height:150px;
+	height:175px;
 	background: #fc8012;
 }
 
@@ -172,6 +172,14 @@ body{
 	width: 100%;
 	height:75px;
 	background: #880abd;
+}
+
+.aa41{
+	width: 34%;
+	float: left;
+	height: 75px;
+	background: #06b575;
+	margin-left: 32%;
 }
 
 .azul3{
@@ -185,7 +193,7 @@ body{
 .aaa1{
 	float: left;
 	width: 100%;
-	height:250px;
+	height:200px;
 	background: #0385e0;
 }
 
@@ -199,7 +207,7 @@ body{
 .aaa3{
 	float: left;
 	width: 100%;
-	height:150px;
+	height:175px;
 	background: #fc8012;
 }
 
@@ -208,6 +216,33 @@ body{
 	width: 100%;
 	height:75px;
 	background: #880abd;
+}
+
+.aaa41{
+	width: 34%;
+	float: left;
+	height: 75px;
+	background: #06b575;
+	margin-left: 32%;
+}
+
+.cuadro4{
+	float: left;
+	width: 100%;
+	background: #82c3e1;
+}
+
+.cuadrocolores{
+	float: left;
+	width: 50%;
+	height: 400px;
+	margin-left: 50%;
+	background: #03811d;
+}
+.cc1{
+	float: left;
+	width: 50%;
+	height:
 }
 
 
