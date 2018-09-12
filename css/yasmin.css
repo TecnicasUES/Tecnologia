@@ -219,9 +219,9 @@ body{
 }
 
 .aaa41{
-	width: 34%;
 	float: left;
-	height: 75px;
+    width: 34%;
+    height: 75px;
 	background: #06b575;
 	margin-left: 32%;
 }
@@ -249,9 +249,25 @@ body{
 .cc2{
 	float: left;
 	width: 100%;
-	height:25%;
+	height:80px;
 	background: #0a1310; 
 }
+
+.cc3{
+	float: left;
+	width: 50%;
+	height:80px;
+	background: #ded718;
+	margin-left: 50%;
+}
+
+.cc4{
+	float: left;
+	width: 100%;
+	height:80px;
+	background: #cd622d; 
+}
+
 
 
 
