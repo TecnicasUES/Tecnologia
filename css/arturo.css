@@ -62,7 +62,7 @@ body{
 	height: 60px;
 	background: #cbb442;
 }
-#banner{
+.banner{
 	width: 100%;
 	background: #33fff6;
 	height: 350px;
@@ -185,7 +185,7 @@ width: 50%;
 	height: 80px;
 	float: left;
 }
-.seccion5{
+#seccion5{
     width: 100%;
 	background:  #ffd100;
 	height: 400px;
