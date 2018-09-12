@@ -603,3 +603,159 @@ body{
 	float: left;
 	margin-left: 70%;
 }
+#seccion4{
+	width: 100%;
+	height: 350px;
+	background:#93FFC4;
+	float: left;
+}
+.cajae{
+	width: 35%;
+	height: 350px;
+	background:#900C3F;
+	float: left;
+}
+.cajaf{
+	width: 65%;
+	height: 350px;
+	background:#2CFEF5;
+	float: left;
+}
+.cajaf1{
+	width: 100%;
+	height: 50px;
+	background:#F7FF4C;
+	float: left;
+	margin-top: 5%;
+}
+.cajaf2{
+	width: 100%;
+	height: 220px;
+	background:#4CFF5F;
+	float: left;
+}
+.cajaf3{
+	width: 50%;
+	height: 220px;
+	background:#325AB4;
+	float: left;
+}
+.cajaf4{
+	width: 50%;
+	height: 220px;
+	background:#581845;
+	float: left;
+}
+#seccion5{
+	width: 100%;
+	height: 500px;
+	background:#581845;
+	float: left;
+}
+.cajag{
+	width: 60%;
+	height: 500px;
+	background:#F8BC6C;
+	float: left;
+}
+.cajag1{
+	width: 100%;
+	height: 80px;
+	background:#FFEE1F;
+	float: left;
+}
+.cajag2{
+	width: 100%;
+	height: 380px;
+	background:#2C2A68;
+	float: left;
+}
+.cajag3{
+	width: 35%;
+	height: 60px;
+	background:#FF91DF;
+	float: left;
+	margin-top: 2%;
+}
+.cajag4{
+	width: 65%;
+	height: 60px;
+	background:#92FFFF;
+	float: left;
+	margin-top: 2%;
+}
+.cajag5{
+	width: 35%;
+	height: 60px;
+	background:#FF91DF;
+	float: left;
+	margin-top: 5%;
+}
+.cajag6{
+	width: 65%;
+	height: 60px;
+	background:#92FFFF;
+	float: left;
+	margin-top: 5%;
+}
+.cajag7{
+	width: 35%;
+	height: 163px;
+	background:#FF91DF;
+	float: left;
+	margin-top: 5%;
+}
+.cajag8{
+	width: 65%;
+	height: 163px;
+	background:#92FFFF;
+	float: left;
+	margin-top: 5%;
+}
+.cajah{
+	width: 40%;
+	height: 500px;
+	background:#FC7764;
+	float: left;
+}
+.cajah2{
+	width: 100%;
+	height: 260px;
+	background:#83FE7F;
+	float: left;
+	margin-top: 15%;
+}
+.cajah3{
+	width: 100%;
+	height: 70px;
+	background:#8A35C5;
+	float: left;
+	margin-top: 5%;
+}
+.cajah4{
+	width: 40%;
+	height: 70px;
+	background:#A646E9;
+	float: left;
+}
+.cajah5{
+	width: 60%;
+	height: 70px;
+	background:#FCF13E;
+	float: left;
+}
+
+.cajah6{
+	width: 100%;
+	height: 70px;
+	background:#8A35C5;
+	float: left;
+	margin-top: 12%;
+}
+.cajah7{
+	width: 25%;
+	height: 70px;
+	background:#3EFCEE;
+	float: left;
+	margin-left: 60%;
+}
