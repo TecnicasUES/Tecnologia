@@ -420,7 +420,19 @@ body{
 	background:yellow;
 }
 
+#supermenu{
+	width: 100%;
+	background: black;
+	height: 60px;
+	float: left;
+}
 
+.p1menu{
+	width: 100%
+	background:gray;
+	height: 30px;
+	float: left;
+}
 
 
 
