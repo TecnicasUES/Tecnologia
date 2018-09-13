@@ -910,3 +910,95 @@ body{
 	float: left;
 	margin-left: 5%;
 }
+.la2{
+	width: 16%;
+	height: 50px;
+	background: #ff33e9;
+	float: left;
+}
+.la3{
+	width: 11%;
+	height: 50px;
+	background: #df7d14;
+	float: left;
+}
+.la4{
+	width: 8%;
+	height: 50px;
+	background: #df7d14;
+	float: left;
+	margin-left: 45%;
+}
+.la5{
+	width: 11%;
+	height: 50px;
+	background:  #731092;
+	float: left;
+}
+#menu2{
+	width: 100%;
+	height: 100px;
+	background:  #731092;
+	float: left;
+}
+.hijo1{
+	width: 45%;
+	height: 100px;
+	background:  #e6ef2b ;
+	float: left;
+}
+.la6{
+	width: 25%;
+	height: 100px;
+	background:   #7776c8;
+	float: left;
+	margin-left: 6%;
+}
+.hijo2{
+	width: 55%;
+	height: 100px;
+	background:   #861e3f;
+	float: left;
+}
+.la7{
+	width: 11%;
+	height: 100px;
+	background:    #19d2de;
+	float: left;
+}
+.la8{
+	width: 13%;
+	height: 100px;
+	background:  #1922de;
+	float: left;
+}
+.la9{
+	width: 13%;
+	height: 100px;
+	background:   #c3de19;
+	float: left;
+}
+.la10{
+	width: 13%;
+	height: 100px;
+	background:    #cc5fdf;
+	float: left;
+}
+.la11{
+	width: 11%;
+	height: 100px;
+	background:   #6cf3fe;
+	float: left;
+}
+.la12{
+	width: 18%;
+	height: 100px;
+	background:   #ebfa72;
+	float: left;
+}
+.la13{
+	width: 21%;
+	height: 100px;
+	background:    #050f8a;
+	float: left;
+}
