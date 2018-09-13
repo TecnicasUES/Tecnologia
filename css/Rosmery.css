@@ -881,3 +881,32 @@ body{
 	margin-left: 15%;
 }
 
+LABORATORIO
+
+
+body{
+	background: #80c3e1;
+	width: 100%
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+#menulab{
+	width: 100%;
+	height: 150px;
+	background: #33acff;
+	float: left;
+}
+.menu1{
+	width: 100%;
+	height: 50px;
+	background:  #33ff71;
+	float: left;
+}
+.la1{
+	width: 4%;
+	height: 50px;
+	background:    #6133ff;
+	float: left;
+	margin-left: 5%;
+}
