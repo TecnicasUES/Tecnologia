@@ -183,7 +183,7 @@
 	height:50px;
     background:#e3c2c1;
     margin-top: 5%;
-    margin-right: 4%
+    margin-right: 4%;
 }
 
 .ci3{
@@ -216,3 +216,9 @@
     margin-top: 5%;
     margin-right: 4%
 }
+
+.cuadroimagen2{
+	float: left;
+ 	width: 100%;
+ 	height:900px;
+    background:#cd5d02;
