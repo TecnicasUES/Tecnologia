@@ -244,3 +244,91 @@ body{
 	height: 600px;
 	float:left;
 }
+.dosimagenes{
+	width: 60%;
+	background: #578594;
+	height: 600px;
+	float:left;
+}
+.jugo{
+	width: 40%;
+	background: #0d5a73;
+	height: 600px;
+	float:left;
+}
+.libro{
+	width: 95%;
+	background: #a2b0b4;
+	height: 277.5px;
+	float:left;
+	margin-left: 5%;
+	margin-top: 25px;
+}
+.compu{
+	width: 95%;
+	background: #a2b0b4;
+	height: 250px;
+	float:left;
+	margin-left: 5%;
+	margin-top: 25px;
+}
+.libro1{
+	width: 60%;
+	background: #a2b0b4;
+	height: 277.5px;
+	float:left;
+}
+.libro2{
+	width: 40%;
+	background: #94dcf4;
+	height: 277.5px;
+	float:left;
+}
+.compu1{
+	width: 40%;
+	background: #94dcf4;
+	height: 250px;
+	float:left;
+}
+.compu2{
+	width: 60%;
+	background: #a2b0b4;
+	height: 250px;
+	float:left;
+}
+.libro21{
+	width: 20%;
+	background: #567492;
+	height: 30px;
+	float:left;
+	margin-left: 10%;
+	margin-top: 35px;
+}
+
+
+
+
+#cuadro4{
+	width: 100%;
+	background: #c6d7dd;
+	height: 250px;
+	float:left;
+}
+.cuadrito41{
+	width: 33.3%;
+	background: #2338b8;
+	height: 250px;
+	float:left;
+}
+.cuadrito42{
+	width: 33.3%;
+	background: #3b53e1;
+	height: 250px;
+	float:left;
+}
+.cuadrito43{
+	width: 33.3%;
+	background: #0823c3;
+	height: 250px;
+	float:left;
+}
