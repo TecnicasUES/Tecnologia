@@ -329,7 +329,7 @@ body{
 }
 
 .rrr11{
-	height:	182px;
+	height:	180px;
 	width: 100%;
 	float: left;
 	background: #d94a79;
@@ -347,19 +347,18 @@ body{
 .rrr112{
 	height: 100px;
 	width: 59%;
-	float: left;
+	float: right;
 	background: #8c1f50;
-	margin-left: 0.5%;
 	margin-top: 10%;
+	margin-right: 0.4%
 }
 
-.t{
-	height: 100px;
-	width: 40%;
+
+.rt{
+	height:	112.5px;
+	width: 100%;
 	float: left;
-	background: #8c1f50;
-	margin-top: 0.3%;
-	margin-left: 0.1%
+	background: #d94a79;
 }
 
 .rt12{
@@ -368,34 +367,41 @@ body{
 	float: left;
 	background: #8c1f50;
 	margin-top: 0.3%;
-	margin-left: 0.2%
+	margin-left: 0.1%
 }
 
 .rt13{
 	height: 100px;
-	width: 57%;
-	float: left;
+	width: 59%;
+	float: right;
 	background: #8c1f50;
-	margin-left: 0.5%;
 	margin-top: 0.3%;
+	margin-right: 0.4%
+}
+
+.rq{
+	height:	202.5px;
+	width: 100%;
+	float: left;
+	background: #d94a79;
 }
 
 .rq14{
-	height: px;
+	height: 197px;
 	width: 40%;
 	float: left;
 	background: #8c1f50;
-	margin-top: 0.5%;
-	margin-left: 0.2%
+	margin-top: 0.3%;
+	margin-left: 0.1%
 }
 
 .rq15{
-	height: px;
-	width: 40%;
-	float: left;
+	height: 197px;
+	width: 59%;
+	float: right;
 	background: #8c1f50;
-	margin-top: 0.5%;
-	margin-left: 0.2%
+	margin-top: 0.3%;
+	margin-right: 0.4%
 }
 
 
