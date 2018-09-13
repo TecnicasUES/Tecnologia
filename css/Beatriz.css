@@ -626,6 +626,67 @@ body{
 }
 
 
+.solo{
+	width: 65%;
+	float:left;
+	height: 45px;
+	background: #D40CE8;
+}
+
+.datos{
+	width: 35%;
+	float:left;
+	height: 45px;
+	background: #7253FA;
+}
+
+#primeraimagen{
+	width: 100%;
+	background: #750CE8;
+	height: 450px;
+	float: left;
+}
+
+#art1{
+	width: 100%;
+	background: #82DE66;
+	height: 250px;
+	float: left;
+}
+
+#art2{
+	width: 100%;
+	background: #E8AE26;
+	height: 680px;
+	float: left;
+}
+
+#art3{
+	width: 100%;
+	background: #62FAD5;
+	height: 250px;
+	float: left;
+}
+
+#art4{
+	width: 100%;
+	background: #E8AE6B;
+	height: 500px;
+	float: left;
+}
+
+#pie{
+	width: 100%;
+	background: #8495E8;
+	height: 250px;
+	float: left;
+}
+
+
+
+
+
+
 
 
 
