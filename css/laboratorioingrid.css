@@ -164,13 +164,33 @@ body{
 	background: #CC44C6;
 }
 .jugos{
-	width: 60%;
+	width: 100%;
 	float: left;
 	height: 500px;
-	background: #441204;
-
+	background: #5C2763;
 }
-/*.p1{
+.jugos{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #5C2763;
+}
+.maroc{
+	width: 60%;
+	float: left;
+	height: 200px;
+	background: #2E8225;
+	margin: 2%;
+}
+.hotel{
+	width: 60%;
+	float: left;
+	height: 200px;
+	background: #2E8225;
+	margin: 2%;
+}
+/*.
+p1{
 	width: 100%;
 	float: left;
 	height: 239px;
