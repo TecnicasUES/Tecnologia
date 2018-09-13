@@ -259,7 +259,7 @@ header{
 	width: 50%;
  	height: 550px;
  	float: left;
- 	background: red;
+ 	background: brown;
 }
 .child52{
 	width: 50%;
@@ -267,7 +267,7 @@ header{
  	float: left;
  	background: skyblue;
 }
-.child53{
+.child52a{
 	width: 100%
 	height:48px;
 	float: left;
@@ -342,7 +342,7 @@ header{
 }
 .child614{
 	width: 100%;
- 	height: 40px;            /*corregir aqui*/
+ 	height: 40px;            
  	float: left;
  	background: #884692;
 }
