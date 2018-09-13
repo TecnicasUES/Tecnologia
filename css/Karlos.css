@@ -1,0 +1,143 @@
+@charset "utf-8";
+
+body{
+	background: #000;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+
+#encabezado{
+	width: 100%;
+	background: #6f8409;
+	height: 65px;
+	float: left;
+}
+
+.hijo1{
+	height: 65px;
+	width: 65%;
+	float: left;
+	background: #c938af;
+}
+
+.z1{
+	height: 65px;
+	width: 30%;
+	float: left;
+	background: #4ae5f1;
+}
+
+.z2{
+	height: 65px;
+	width: 50%;
+	float: left;
+	background: #faef91;
+}
+
+.z3{
+	height: 65px;
+	width: 20%;
+	float: left;
+	background: #ee9860;
+}
+
+.hijo2{
+	height: 65px;
+	width: 35%;
+	float: left;
+	background: #faf191;
+}
+
+.y1{
+	height: 65px;
+	width: 20%;
+	float: left;
+	background: #d4582c;
+}
+
+.y2{
+	height: 65px;
+	width: 35%;
+	float: left;
+	background: #42df72;
+}
+
+.y3{
+	height: 65px;
+	width: 45%;
+	float: left;
+	background: #f41808;
+}
+
+.Secc2{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background: #f04596;
+}
+
+.x1{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background: #ec1c7f;
+}
+
+.x2{
+	height: 10px;
+	width: 100%;
+	float: left;
+	background: #9eeebc;
+}
+
+.Secc3{
+	height: 550px;
+	width: 100%;
+	float: left;
+	background: #80c2e5;
+}
+
+.w{
+	height: 550px;
+	width: 28%;
+	float: left;
+	background: #144646;
+	margin-left: 4%
+}
+
+.w1{
+	height: 275px;
+	width: 100%;
+	float: left;
+	background: #87f481;
+}
+
+.w2{
+	height: 27.5px;
+	width: 100%;
+	float: left;
+	background: #f4612b;
+}
+
+.w3{
+	height: 178.75px;
+	width: 100%;
+	float: left;
+	background: #c387df;
+}
+
+.w4{
+	height: 68.75px;
+	width: 100%;
+	float: left;
+	background: #253f41;
+}
+.ww1{
+	height: 68.75px;
+	width: 50%;
+	float: left;
+	background: #c2fbff;
+	margin-left: 25%
+}
