@@ -144,3 +144,27 @@ body{
 	background: #bf4545;
 	margin-left: 3%;
 }
+
+.g9{
+	width: 100%;
+	float: left;
+	height: 5px;
+	background: #842c2c;
+	margin-left: 0%;
+}
+
+.h{
+	width: 30%;
+	float: left;
+	height: 400px;
+	background: #998041;
+	margin-left: 8%;
+}
+
+.h1{
+	width: 30%;
+	float: left;
+	height: 400px;
+	background: #998041;
+	margin-left: 8%;
+}
