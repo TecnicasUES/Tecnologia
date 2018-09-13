@@ -635,3 +635,16 @@ body{
 	border: 1px solid black;
 	margin-left: 0.5%;
 }
+
+
+
+nuevo ejercicio 
+
+@charset "utf-8";
+
+body{
+	background: #bfbfbf;
+		width: 100%;
+		height: auto;
+		margin: 0;
+}
