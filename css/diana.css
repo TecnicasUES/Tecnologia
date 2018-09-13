@@ -142,6 +142,7 @@ body {
 	margin-left: 35%;
 	margin-right: 35%;
 }
+
 .h{
 	width: 25%;
 	height: 525px;
@@ -235,7 +236,7 @@ body {
 #origen{
 	background: #A1ACD5;
 	width: 100%;
-	height: 450px;
+	height: 750px;
 	float: left;
 }
 .j{
@@ -262,23 +263,64 @@ body {
 .j2a{
 	background: #7b507a;
 	width: 100%;
-	height: 60px;
+	height: 25%;
 	float: left;
 }
 
 .j2b{
-	background: #563e55 ;
-	width: 50%;
-	height: 60px;
-	float: left;
-	margin-top: 10px;
-	
-}
-.j2c{
-	background: #5b1937;
+	background: #B9A1D5;
 	width: 100%;
-	height: 50px;
+	height:17%;
 	float: left;
-	margin-top: 20px;
-	margin-left: 50%;
+}
+
+.j2b1{
+	background: #A1B9D5;
+	width: 50%;
+	height: 17%;
+	float: left;
+}
+
+.j2b2{
+    background: #EBB8EA;
+	width: 50%;
+	height: 17%;
+	float: left;
+}
+
+.j2c{
+	background: #7FC4B4;
+	width: 100%;
+	height: 17%;
+	float: left;
+}
+
+.j2c1{
+	width: 50%;
+	height: 17%;
+	float: left;
+	margin-left: 35%;
+	margin-right: 35%;
+	background:  #4d68aa;
+}
+
+.j2d{
+	background: #6C88BF;
+	width: 100%;
+	height: 17%;
+	float: left;
+}
+
+.jde{
+	background: #7b507a;
+	width: 100%;
+	height: 25%;
+	float: left;
+}
+
+#contactos{
+	background: #D5A1AE;
+	width: 100%;
+	height: 450px;
+	float: left;
 }
