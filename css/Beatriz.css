@@ -614,23 +614,19 @@ body{
 #contactos{
 	width: 100%;
 	background: #DEAA66;
-	height: 200px;
+	height: 120px;
 	float: left;
 }
 
 .hijo1{
 	width: 100%;
-	height: 100px;	
+	float:left;
+	height: 45px;
 	background: #8355FF;
-	float: left;	
 }
 
-.hijo1{
-	width: 100%;
-	height: 100px;	
-	background: #D40CE8;
-	float: left;	
-}
+
+
 
 
 
