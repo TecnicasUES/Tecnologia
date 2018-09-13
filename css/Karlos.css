@@ -463,3 +463,48 @@ body{
 	background: #faf3a0;
 }
 
+.o1{
+	height:	141px;
+	width: 100%;
+	float: left;
+	background: #9000ff;
+}
+
+.oo1{
+	height:	60px;
+	width: 27%;
+	float: left;
+	background: #fffac4;
+	margin-left: 28%;
+}
+
+.oo2{
+	height:	60px;
+	width: 14%;
+	float: left;
+	background: #fffac4;
+	margin-left: 0.3%;
+}
+
+.oo3{
+	height:	60px;
+	width: 16%;
+	float: left;
+	background: #fffac4;
+	margin-left: 0.3%;
+}
+
+.oo4{
+	height:	60px;
+	width: 16%;
+	float: left;
+	background: #fffac4;
+	margin-left: 0.3%;
+}
+
+.o2{
+	height:	159px;
+	width: 100%;
+	float: left;
+	background: #92bec0;
+}
