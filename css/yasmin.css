@@ -313,12 +313,31 @@ body{
 
 .cta3{
 	float: left;
-	width: 57%;
+	width: 56%;
 	height: 75px;
 	background: #02abc8;
-	margin-left: 0.9%;
-	
+	margin-left: 2%;
+}
+.cta4espacio{
+	float: left;
+	width: 100%;
+	height:6px;
+}
 
+.cta5{
+	float: left;
+	width: 40%;
+	height:75px;
+	background: #02abc8;
+	margin-left: 0.8%;	
+}
+
+.cta6{
+	float: left;
+	width: 56%;
+	height: 75px;
+	background: #02abc8;
+	margin-left: 2%;
 }
 
 
