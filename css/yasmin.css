@@ -300,13 +300,13 @@ body{
 .cta1espacio{
 	float: left;
 	width: 100%;
-	height:75px;		
+	height:80px;		
 }
 
 .cta2{
 	float: left;
 	width: 40%;
-	height:75px;
+	height:80px;
 	background: #02abc8;
 	margin-left: 0.8%;	
 }
@@ -314,7 +314,7 @@ body{
 .cta3{
 	float: left;
 	width: 56%;
-	height: 75px;
+	height: 80px;
 	background: #02abc8;
 	margin-left: 2%;
 }
@@ -340,4 +340,24 @@ body{
 	margin-left: 2%;
 }
 
+.cta7espacio{
+	float: left;
+	width: 100%;
+	height:8px;
+}
+
+.cta8{
+	float: left;
+	width: 40%;
+	height:150px;
+	background: #02abc8;
+	margin-left: 0.8%;	
+}
+
+.cta9{
+	float: left;
+	width: 56%;
+	height: 150px;
+	background: #02abc8;
+	margin-left: 2%;
 
