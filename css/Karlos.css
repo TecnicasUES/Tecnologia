@@ -185,3 +185,46 @@ body{
 	margin-left: 25%
 }
 
+.u{
+	height: 550px;
+	width: 28%;
+	float: left;
+	background: #144646;
+	margin-left: 4%
+}
+
+.u1{
+	height: 275px;
+	width: 100%;
+	float: left;
+	background: #87f481;
+}
+
+.u2{
+	height: 27.5px;
+	width: 100%;
+	float: left;
+	background: #f4612b;
+}
+
+.u3{
+	height: 178.75px;
+	width: 100%;
+	float: left;
+	background: #c387df;
+}
+
+.u4{
+	height: 68.75px;
+	width: 100%;
+	float: left;
+	background: #253f41;
+}
+
+.uu1{
+	height: 68.75px;
+	width: 50%;
+	float: left;
+	background: #c2fbff;
+	margin-left: 25%
+}
