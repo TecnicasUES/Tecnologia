@@ -11,13 +11,13 @@ body{
 #menu{
 	width: 100%;
 	background: #DF9D09;
-	height: 60px;
+	height: 50px;
 	float: left;
 }
 
 .child1{
 	width: 21%;
-	height: 60px;
+	height: 50px;
 	background: #629398;
 	float:left;
 }
@@ -25,39 +25,33 @@ body{
 .ourpartners{
 	width:15%;
 	float: left;
-	height: 60px;
+	height: 50px;
 	background: #3aa930;
 }
 .sing{
 	width: 9%;
 	float: right;
-	height: 60px;
+	height: 50px;
 	background: #b8de35;
 }
 .weito{
 	width: 1%;
 	float: right;
-	height: 60px;
+	height: 50px;
 	background: #3A2908;
 }
 .more{
 	width: 10%;
 	float: right;
-	height: 60px;
+	height: 50px;
 	background: #17c772;
 }
-.d{
-	width: 19%;
-	float: left;
-	height: 60px;
-	background: #d6a238;
-}
-.g_grande{
+.defree{
 	width: 100%;
-	height: 350px;
-	background: #7521cd;
+	height: 150px;
+	background: #73AA50;
 }
-.linea{
+/*.linea{
 	width: 100%;
 	height: 10px;
 	background: #0ca700;
@@ -66,14 +60,13 @@ body{
 	width: 100%;
 	float: left;
 	height: 500px;
-	background: #cbb442;
+	background: #cbb442;*/
 }
-.prod1{
+.cont{
 	width: 25%;
-	float: left;
-	height: 500px;
+	float: right;
+	height: 150px;
 	background: #b8de35;
-	margin-left: 6.25%; 
 }
 .p1{
 	width: 100%;
@@ -81,7 +74,7 @@ body{
 	height: 239px;
 	background: #0385e0; 
 }
-
+/*margin-left: 6.25%;*/ 
 
 
 
