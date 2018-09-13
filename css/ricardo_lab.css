@@ -160,31 +160,87 @@ body{
 }
 #cuadro2{
 	width: 100%;
-	height: 250px;
+	height: 300px;
 	float: left;
 	background: #c49d4c;	
 }
 .cuadrito1{
-	width: 30%;
+	width: 40%;
 	background: #ecc256;
-	height: 250px;
+	height: 300px;
 	float:left;
 }
 .cuadrito2{
-	width: 70%;
+	width: 60%;
 	background: #ffd467;
-	height: 250px;
+	height: 300px;
 	float:left;
 }
 .hijo1{
 	width: 50%;
 	background: #816e3f;
-	height: 250px;
+	height: 300px;
 	float:left;
 }
 .hijo2{
 	width: 50%;
 	background: #524527;
-	height: 250px;
+	height: 300px;
+	float:left;
+}
+.h1{
+	width: 100%;
+	background: #cf896a;
+	height: 50px;
+	float:left;
+}
+.h2{
+	width: 100%;
+	background: #62524b;
+	height: 200px;
+	float:left;
+}
+.h3{
+	width: 100%;
+	background: #b66440;
+	height: 50px;
+	float:left;
+}
+.h31{
+	width: 100%;
+	background: #702f13;
+	height: 50px;
+	float:left;
+	margin-left: 60%;
+}
+.hijo21{
+	width: 100%;
+	background: #b66440;
+	height: 50px;
+	float:left;
+}
+.hijo22{
+	width: 100%;
+	background: #443631;
+	height: 200px;
+	float:left;
+}
+.hijo23{
+	width: 100%;
+	background: #cf896a;
+	height: 50px;
+	float:left;
+}
+.hijo231{
+	width: 100%;
+	background: #702f13;
+	height: 50px;
+	float:left;
+	margin-left: 60%;
+}
+#cuadro3{
+	width: 100%;
+	background: #3b7689;
+	height: 600px;
 	float:left;
 }
