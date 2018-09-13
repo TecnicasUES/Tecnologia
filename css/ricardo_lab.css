@@ -57,3 +57,134 @@ body{
 	height: 50px;
 	float:left;
 }
+#menus{
+	width: 100%;
+	background: #f3eddd;
+	height: 75px;
+	float:left;
+}
+.m1{
+	width: 40%;
+	background: #ece8dd;
+	height: 75px;
+	float:left;
+}
+.m2{
+	width: 60%;
+	background: #dad7d1;
+	height: 75px;
+	float:left;
+}
+.log{
+	width: 30%;
+	background: #642323;
+	height: 75px;
+	float:left;
+	margin-left: 11%;
+}
+.home{
+	width: 10%;
+	background: #842323;
+	height: 75px;
+	float:left;
+}
+.us{
+	width: 10%;
+	background: #991717;
+	height: 75px;
+	float:left;
+}
+.brands{
+	width: 10%;
+	background: #b72f2f;
+	height: 75px;
+	float:left;
+}
+.corporate{
+	width: 20%;
+	background: #d13737;
+	height: 75px;
+	float:left;
+}
+.blog{
+	width: 7%;
+	background: #f75b5b;
+	height: 75px;
+	float:left;
+}
+.comunity{
+	width: 25%;
+	background: #b15151;
+	height: 75px;
+	float:left;
+}
+.contacto{
+	width: 13%;
+	background: #7e3a3a;
+	height: 75px;
+	float:left;
+}
+#cuadro1{
+	width: 100%;
+	background: #96bcae;
+	height: 600px;
+	float:left;
+}
+.c1{
+	width: 25%;
+	background: #869ca8;
+	height: 600px;
+	float:left;
+}
+.c2{
+	width: 75%;
+	background: #ccdee8;
+	height: 600px;
+	float:left;
+}
+.titulo{
+	width: 30%;
+	height: 30px;
+	float: left;
+	background: #a6d5ef;
+	margin-left: 15%;
+	margin-top: 100px;
+}
+.parrafo{
+	width: 80%;
+	height: 300px;
+	float: left;
+	background: #394f5b;
+	margin-left: 15%;
+	
+}
+#cuadro2{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background: #c49d4c;	
+}
+.cuadrito1{
+	width: 30%;
+	background: #ecc256;
+	height: 250px;
+	float:left;
+}
+.cuadrito2{
+	width: 70%;
+	background: #ffd467;
+	height: 250px;
+	float:left;
+}
+.hijo1{
+	width: 50%;
+	background: #816e3f;
+	height: 250px;
+	float:left;
+}
+.hijo2{
+	width: 50%;
+	background: #524527;
+	height: 250px;
+	float:left;
+}
