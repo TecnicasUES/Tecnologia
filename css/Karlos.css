@@ -441,3 +441,25 @@ body{
 	background: #7e6ab0;
 	margin-left: 55%;
 }
+
+#contactos{
+	height:	300px;
+	width: 100%;
+	float: left;
+	background: #5778b3;
+}
+
+.p{
+	height:	300px;
+	width: 30%;
+	float: left;
+	background: #2351bb;
+}
+
+.o{
+	height:	300px;
+	width: 70%;
+	float: left;
+	background: #faf3a0;
+}
+
