@@ -328,6 +328,30 @@ body{
 	background: #d94a79;
 }
 
+.rrr1{
+	height: 202.5px;
+	width: 100%;
+	float: left;
+	background: #d94a79;
+}
+
+.rrr111{
+	height: 100px;
+	width: 40%;
+	float: left;
+	background: #8c1f50;
+	margin-top: 10%;
+}
+
+.rrr112{
+	height: 100px;
+	width: 59%;
+	float: left;
+	background: #8c1f50;
+	margin-left: 0.5%;
+	margin-top: 10%;
+}
+
 .rr2{
 	height: 50px;
 	width: 100%;
@@ -340,4 +364,27 @@ body{
 	width: 40%;
 	float: left;
 	background: #357572;
+}
+
+.qq1{
+	height: 80px;
+	width: 100%;
+	float: left;
+	background: #02abc8;
+	margin-top: 13%;
+}
+.qq2{
+	height: 80px;
+	width: 100%;
+	float: left;
+	background: #02abc8;
+	margin-top: 7%;
+}
+
+.qqq21{
+	height: 80px;
+	width: 20%;
+	float: left;
+	background: #7e6ab0;
+	margin-left: 55%;
 }
