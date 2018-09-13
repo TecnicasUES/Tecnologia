@@ -61,19 +61,62 @@ body{
 	float: left;
 	height: 500px;
 	background: #cbb442;*/
-}
-.cont{
-	width: 25%;
+.cont1{
+	width: 9%;
 	float: right;
-	height: 150px;
+	height: 100px;
 	background: #b8de35;
+	margin-right: 2%
 }
-.p1{
+.cont2{
+	width: 8%;
+	float: right;
+	height: 100px;
+	background: #1D46DB;
+}
+.cont3{
+	width: 8%;
+	float: right;
+	height: 100px;
+	background: #08775A;
+}
+.cont4{
+	width: 8%;
+	float: right;
+	height: 100px;
+	background: #3F1504;
+}
+.cont5{
+	width: 8%;
+	float: right;
+	height: 100px;
+	background: #356B12;
+}
+.cont6{
+	width: 8%;
+	float: right;
+	height: 100px;
+	background: #D264D8;
+}
+.cont7{
+	width: 8%;
+	float: right;
+	height: 100px;
+	background: #0572CC;
+}
+.logo{
+	width: 12%;
+	float: left;
+	height: 100px;
+	background: #3F1504;
+	margin-left: 2%;
+}
+/*.p1{
 	width: 100%;
 	float: left;
 	height: 239px;
 	background: #0385e0; 
-}
+}*/
 /*margin-left: 6.25%;*/ 
 
 
