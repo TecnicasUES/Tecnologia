@@ -638,13 +638,68 @@ body{
 
 
 
-nuevo ejercicio 
-
-@charset "utf-8";
+EJERCICIO 2
 
 body{
-	background: #bfbfbf;
+	background: #80c3e1;
 		width: 100%;
 		height: auto;
+		font-family: arial;
 		margin: 0;
+}
+
+#datoss{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #473078;
+
+}
+
+.iconotel{
+	width: 5%;
+	height: 40px;
+	float: left;
+	margin-left: 60%;
+	background: #523986;
+}
+
+.numers{
+	width: 15%;
+	height: 40px;
+	float: left;
+	background: #6b4eaa;
+}
+
+.ours{
+	width: 13%;
+	height: 40px;
+	float: left;
+	background: #835adb;
+}
+
+.signin{
+	width: 7%;
+	height: 40px;
+	float: left;
+	background: #bda2f7;
+}
+
+#elmenu{
+	width: 100%;
+	height: 85px;
+	float: left;
+	background: #a2d4f9;
+}
+.menu1{
+	width: 35%;
+	height: 85px;
+	float: left;
+	background: #3e9fe6;
+}
+.menu2{
+	width: 65%;
+	height: 85px;
+	float: left;
+	background: #91a4b3;
 }
