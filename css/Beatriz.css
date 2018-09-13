@@ -600,3 +600,37 @@ body{
 }
 
 
+
+/*Ejercicio 2 Beatriz*/
+
+body{
+	background: #26E8C8;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+
+#contactos{
+	width: 100%;
+	background: #DEAA66;
+	height: 200px;
+	float: left;
+}
+
+.hijo1{
+	width: 100%;
+	height: 100px;	
+	background: #8355FF;
+	float: left;	
+}
+
+
+
+
+
+
+
+
+
+
