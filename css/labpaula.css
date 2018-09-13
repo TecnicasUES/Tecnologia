@@ -502,9 +502,238 @@ body{
 	background: #661f59;
 	float: left;
 }
+.n1{
+	width: 10%;
+	height: 250px;
+	background: #c840ae;
+	float: left;
+}
+.n2{
+	width: 80%;
+	height: 250px;
+	background: #661f59;
+	float: left;
+}
+.n3{
+	width: 10%;
+	height: 250px;
+	background: #c840ae;
+	float: left;
+}
 .o{
 	width: 40%;
 	height: 250px;
 	background: #c8c041;
+	float: left;
+}
+.o1{
+	width: 40%;
+	height: 250px;
+	background: #40c876;
+	float: left;
+}
+.o1a{
+	width: 100%;
+	height: 65px;
+	background: #40c876;
+	float: left;
+}
+.o1b{
+	width: 100%;
+	height: 40px;
+	background: #3f7dc8;
+	float: left;
+}
+.o1c{
+	width: 100%;
+	height: 40px;
+	background: #c8c041;
+	float: left;
+}
+.o1d{
+	width: 100%;
+	height: 40px;
+	background: #3f7dc8;
+	float: left;
+}
+.o1e{
+	width: 100%;
+	height: 65px;
+	background: #40c876;
+	float: left;
+}
+.o2{
+	width: 60%;
+	height: 250px;
+	background: #c840ae;
+	float: left;
+}
+
+.niño12{
+	width: 100%;
+	height: 500px;
+	background: #c8c341;
+	float: left;
+}
+.p{
+	width: 45%;
+	height: 500px;
+	background: #6440c8;
+	float: left;
+}
+.p1{
+	width: 15%;
+	height: 500px;
+	background: #c8c341;
+	float: left;
+}
+.p2{
+	width: 70%;
+	height: 500px;
+	background: #6440c8;
+	float: left;
+}
+.p2a{
+	width: 100%;
+	height: 40px;
+	background: #6440c8;
+	float: left;
+}
+.p2b{
+	width: 100%;
+	height: 46px;
+	background: #a640c8;
+	float: left;
+}
+.p2c{
+	width: 100%;
+	height: 46px;
+	background: #c741c8;
+	float: left;
+}
+.p2d{
+	width: 100%;
+	height: 46px;
+	background: #a640c8;
+	float: left;
+}
+.p2e{
+	width: 100%;
+	height: 46px;
+	background: #c741c8;
+	float: left;
+}
+.p2f{
+	width: 100%;
+	height: 46px;
+	background: #a640c8;
+	float: left;
+}
+.p2g{
+	width: 100%;
+	height: 46px;
+	background: #c741c8;
+	float: left;
+}
+.p2h{
+	width: 100%;
+	height: 46px;
+	background: #a640c8;
+	float: left;
+}
+.p2i{
+	width: 100%;
+	height: 46px;
+	background: #c741c8;
+	float: left;
+}
+.p2j{
+	width: 100%;
+	height: 46px;
+	background: #a640c8;
+	float: left;
+}
+.p2k{
+	width: 100%;
+	height: 46px;
+	background: #c741c8;
+	float: left;
+}
+.p3{
+	width: 15%;
+	height: 500px;
+	background: #c8c341;
+	float: left;
+}
+.q{
+	width: 55%;
+	height: 500px;
+	background: #409dc8;
+	float: left;
+}
+.q1{
+	width: 40%;
+	height: 500px;
+	background: #6cc841;
+	float: left;
+}
+.q1a{
+	width: 100%;
+	height: 35px;
+	background: #4158c8;
+	float: left;
+}
+.q1b{
+	width: 100%;
+	height: 35px;
+	background: #c89941;
+	float: left;
+}
+.q1c{
+	width: 100%;
+	height: 180px;
+	background: #6cc841;
+	float: left;
+}
+.q1d{
+	width: 100%;
+	height: 80px;
+	background: #7440c8;
+	float: left;
+}
+.q1e{
+	width: 100%;
+	height: 80px;
+	background: #c84940;
+	float: left;
+}
+.q1f{
+	width: 100%;
+	height: 90px;
+	background: #41c890;
+	float: left;
+}
+.q2{
+	width: 60%;
+	height: 500px;
+	background: #409dc8;
+	float: left;
+}
+.q2a{
+	width: 80%;
+	height: 500px;
+	background: #409dc8;
+	float: left;
+}
+.q2b{
+	width: 10%;
+	height: 15px;
+	background: #c0c83f;
+	float: left;
+}
+.q2c{
+	width: 10%;
+	height: 15px;
+	background: #40c85c;
 	float: left;
 }
