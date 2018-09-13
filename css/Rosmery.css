@@ -1220,7 +1220,7 @@ body{
 .ch14{
 	width: 50%;
 	height:300px;
-	background: #dc52d3;
+	background:  #9430de;
 	float: left;
 }
 .chh16{
@@ -1241,6 +1241,13 @@ body{
 .ch15{
 	width: 50%;
 	height:300px;
-	background: #dc52d3;
+	background:  #fce542;
 	float: left;
+}
+.chh18{
+	width: 35%;
+	height:300px;
+	background:  #f499ff;
+	float: left;
+	margin-left: 15%;
 }
