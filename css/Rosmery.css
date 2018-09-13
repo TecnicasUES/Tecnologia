@@ -1105,46 +1105,46 @@ body{
 }
 #section3{
 	width: 100%;
-	height:650px;
+	height:600px;
 	background:  #3b48b3;
 	float: left;
 }
 .ch7{
 	width: 58%;
-	height:650px;
+	height:600px;
 	background: #fef150;
 	float: left;
 }
 .ch8{
 	width: 100%;
-	height:325px;
+	height:300px;
 	background: #fef150;
 	float: left;
 
 }
 .chh9{
 	width: 55%;
-	height:325px;
+	height:300px;
 	background:   #abb2ff;
 	float: left;
 	margin-left: 5%;
 }
 .chh10{
 	width: 40%;
-	height:60px;
+	height:50px;
 	background:    #2dbf3a;
 	float: left;
-    margin-top: 10%;
+    margin-top: 12%;
 }
 .ch9{
 	width: 100%;
-	height:325px;
+	height:300px;
 	background: #53bdeb;
 	float: left;
 }
 .chh11{
 	width: 50%;
-	height:325px;
+	height:300px;
 	background:  #af53eb;
 	float: left;
 }
@@ -1164,25 +1164,83 @@ body{
 }
 .chh14{
 	width: 100%;
-	height:150px;
+	height:70px;
 	background:  #63971d;
 	float: left;
 }
 .chh15{
 	width: 50%;
-	height:325px;
+	height:300px;
 	background:  #ff5725;
 	float: left;
 }
 .ch10{
 	width: 42%;
-	height:650px;
+	height:600px;
 	background: #d4afff;
 	float: left;
 }
-.ch11{
+#section4{
 	width: 100%;
 	height:300px;
 	background:  #5fe740;
+	float: left;
+}
+.ch11{
+	width: 33.33%;
+	height:295px;
+	background: #ef133b;
+	float: left;
+	margin-top: 0.25%;
+	margin-bottom: 0.25%;
+}
+.ch12{
+	width: 33.33%;
+	height:295px;
+	background:   #1327ef;
+	float: left;
+	margin-top: 0.25%;
+	margin-bottom: 0.25%;
+}
+.ch13{
+	width: 33.33%;
+	height:295px;
+	background:   #ff662d;
+	float: left;
+	margin-top: 0.25%;
+	margin-bottom: 0.25%;
+}
+
+#section5{
+	width: 100%;
+	height:300px;
+	background:  #5fe740;
+	float: left;
+}
+.ch14{
+	width: 50%;
+	height:300px;
+	background: #dc52d3;
+	float: left;
+}
+.chh16{
+	width: 60%;
+	height:300px;
+	background:  #fdf379;
+	float: left;
+	margin-left: 20%;
+}
+.chh17{
+	width: 70%;
+	height:50px;
+	background:   #30ded6;
+	float: left;
+	margin-left: 30%;
+	margin-top: 20%;
+}
+.ch15{
+	width: 50%;
+	height:300px;
+	background: #dc52d3;
 	float: left;
 }
