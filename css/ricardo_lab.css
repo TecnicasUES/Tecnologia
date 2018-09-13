@@ -332,3 +332,10 @@ body{
 	height: 250px;
 	float:left;
 }
+#cuadro5{
+	width: 100%;
+	background: #918e45;
+	height: 250px;
+	float:left;
+	margin-top: 0.5%;
+}
