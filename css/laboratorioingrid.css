@@ -1,0 +1,103 @@
+@charset "utf-8";
+
+body{
+	background: #80c3e1;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+
+#menu{
+	width: 100%;
+	background: #c3db51;
+	height: 60px;
+	float: left;
+}
+
+.child1{
+	width: 55%;
+	height: 60px;
+	background: #629398;
+	float:left;
+}
+
+.child2{
+	width: 45%;
+	float: left;
+	background: #e89ec1;
+	height: 60px;
+}
+
+.a{
+	width:45%;
+	float: left;
+	height: 60px;
+	background: #3aa930;
+}
+.b{
+	width: 55%;
+	float: left;
+	height: 60px;
+	background: #b8de35;
+}
+.c{
+	width: 27%;
+	float: left;
+	height: 60px;
+	background: #17c772;
+}
+.d{
+	width: 19%;
+	float: left;
+	height: 60px;
+	background: #d6a238;
+}
+.e{
+	width: 27%;
+	float: left;
+	height: 60px;
+	background: #859e77;
+}
+.f{
+	width: 27%;
+	float: left;
+	height: 60px;
+	background: #cbb442;
+}
+.g_grande{
+	width: 100%;
+	height: 350px;
+	background: #7521cd;
+}
+.linea{
+	width: 100%;
+	height: 10px;
+	background: #0ca700;
+}
+.productos{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #cbb442;
+}
+.prod1{
+	width: 25%;
+	float: left;
+	height: 500px;
+	background: #b8de35;
+	margin-left: 6.25%; 
+}
+.p1{
+	width: 100%;
+	float: left;
+	height: 239px;
+	background: #0385e0; 
+}
+
+
+
+
+
+
+
