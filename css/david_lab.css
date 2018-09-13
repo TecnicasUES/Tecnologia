@@ -1,0 +1,189 @@
+ @charset "utf-8";
+
+body{
+	background: #ffffff;
+    width: 100%;
+    height:auto;
+    font-family: arial;
+    margin: 0;
+}
+
+#menu{
+	width: 100%;
+	background: #000000;
+	float:left;
+	height: 100px;
+}
+
+.header-a{
+	width: 100%;
+	background: #000000;
+	height: 40px;
+	float:left;
+}
+
+.a1{
+	width: 2%;
+	height: 40px;
+	float:left;
+	margin-left: 3%;
+	background: #676346;
+}
+
+.a2{
+	width: 7.5%;
+	height: 40px;
+	float:left;
+	background: #b29662;
+}
+
+.a3{
+	width: 6%;
+	height: 40px;
+	float:left;
+	background: #887145;
+}
+
+.a4{
+	width: 10%;
+	height: 40px;
+	float:left;
+	margin-left: 61.5%;
+	background: #5f4411;
+}
+
+.a5{
+	width: 10%;
+	height: 40px;
+	float:left;
+	background: #342c10;
+}
+.header-b{
+	width: 100%;
+	background: #a98a39;
+	min-height: 80px;
+	float:left;
+}
+
+.b1{
+	width: 20%;
+	height: 80px;
+	float:left;
+	margin-left: 10%;
+	background: #fdca25;
+}
+
+.b2{
+	width: 5%;
+	height: 80px;
+	float:left;
+	background: #291700;
+}
+
+.b3{
+	width: 8%;
+	height: 80px;
+	float:left;
+	background: #ff02d7;
+}
+
+.b4{
+	width: 5%;
+	height: 80px;
+	float:left;
+	background: #4f003e;
+}
+
+.b5{
+	width: 8%;
+	height: 80px;
+	float:left;
+	background: #00c844;
+}
+
+.b6{
+	width: 5%;
+	height: 70px;
+	float:left;
+	border: 2px solid #000000;
+}
+
+.header-c{
+	width: 100%;
+	height: 10px;
+	float:left;
+	background: #54adfd;
+}
+
+.header-d{
+	width: 100%;
+	height: 10px;
+	float:left;
+	background: #0163ba;
+}
+
+.section-a{
+	width: 100%;
+	min-height: 400px;
+	float:left;
+	background: #cecece;
+	margin-top: 35px;
+}
+
+.sa1{
+	width: 40%;
+	height: 250px;
+	float:left;
+	background: #000000;
+	margin-top: 10%;
+	margin-left: 2%;
+	margin-bottom: 2%; 
+}
+
+.sa1-1{
+	width: 20%;
+	height: 50px;
+	float:left;
+	background: #54adfd;
+	margin-top: 30%;
+	margin-left: 70%;
+	margin-bottom: 10%;
+	margin-right: 10%; 
+}
+
+.section-b{
+	width: 100%;
+	min-height: 300px;
+	float:left;
+	background: #0163ba;
+	border-top: 4px solid #000000;
+}
+
+.sb1{
+	width: 60%;
+	height: 240px;
+	float:left;
+	background: #083d6c;
+	margin-left: 3%;
+	margin-top: 3%;
+}
+
+.sb1-1{
+	width: 15%;
+	height: 40px;
+	float:left;
+	background: #083d6c;
+	border: 1px solid #ffffff;
+	margin-left: 75%;
+	margin-top: 20%;
+	margin-right: 10%;
+}
+
+.sb2{
+	width: 36.29%;
+	height: 295px;
+	float:left;
+	background: #cecece;
+	margin-top: 5px;
+	margin-left: 10px;
+}
