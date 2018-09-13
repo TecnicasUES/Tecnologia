@@ -10,40 +10,39 @@ body{
 
 #menu{
 	width: 100%;
-	background: #c3db51;
+	background: #DF9D09;
 	height: 60px;
 	float: left;
 }
 
 .child1{
-	width: 55%;
+	width: 21%;
 	height: 60px;
 	background: #629398;
 	float:left;
 }
 
-.child2{
-	width: 45%;
-	float: left;
-	background: #e89ec1;
-	height: 60px;
-}
-
-.a{
-	width:45%;
+.ourpartners{
+	width:15%;
 	float: left;
 	height: 60px;
 	background: #3aa930;
 }
-.b{
-	width: 55%;
-	float: left;
+.sing{
+	width: 9%;
+	float: right;
 	height: 60px;
 	background: #b8de35;
 }
-.c{
-	width: 27%;
-	float: left;
+.weito{
+	width: 1%;
+	float: right;
+	height: 60px;
+	background: #3A2908;
+}
+.more{
+	width: 10%;
+	float: right;
 	height: 60px;
 	background: #17c772;
 }
@@ -52,18 +51,6 @@ body{
 	float: left;
 	height: 60px;
 	background: #d6a238;
-}
-.e{
-	width: 27%;
-	float: left;
-	height: 60px;
-	background: #859e77;
-}
-.f{
-	width: 27%;
-	float: left;
-	height: 60px;
-	background: #cbb442;
 }
 .g_grande{
 	width: 100%;
