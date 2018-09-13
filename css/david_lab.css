@@ -130,6 +130,14 @@ body{
 	margin-top: 20px;
 }
 
+.sa1{
+	width: 30%;
+	min-height: 300px;
+	float:left;
+	background: #a11e59;
+	margin-top: 2%;
+}
+
 .setion-b{
 	width: 100%;
 	min-height: 250px;
@@ -148,6 +156,24 @@ body{
 	height: 250px;
 	float:left;
 	background: #5c0f3d;
+}
+
+.sb2-1{
+	width: 20%;
+	height: 50px;
+	float:left;
+	border: 1px solid #ffffff;
+	margin-top: 35%;
+	margin-left: 70%;
+}
+
+.sb3-1{
+	width: 20%;
+	height: 50px;
+	float:left;
+	border: 1px solid #ffffff;
+	margin-top: 35%;
+	margin-left: 70%;
 }
 
 .sb3{
@@ -171,7 +197,27 @@ body{
 	background: #026701;
 	margin-left: 2%;
 	margin-top: 1%;
-	margin-right: 43%;
+	margin-right: 3%;
+}
+
+.sc1-1{
+	width: 48%;
+	height: 200px;
+	float:left;
+	background: #ffffff;
+	margin-left: 1.5%;
+	margin-bottom: 1.5%;
+	margin-top: 1.5%;
+}
+
+.sc1-2{
+	width: 48%;
+	height: 200px;
+	float:left;
+	background: #114211;
+	margin-right: 1.5%;
+	margin-bottom: 1.5%;
+	margin-top: 1.5%;
 }
 
 .sc2{
@@ -181,9 +227,28 @@ body{
 	background: #026701;
 	margin-left: 2%;
 	margin-top: 1.5%;
-	margin-right: 43%;
+	margin-right: 3%;
 }
 
+.sc2-1{
+	width: 48%;
+	height: 200px;
+	float:left;
+	background: #ffffff;
+	margin-left: 1.5%;
+	margin-bottom: 1.5%;
+	margin-top: 1.5%;
+}
+
+.sc2-2{
+	width: 48%;
+	height: 200px;
+	float:left;
+	background: #114211;
+	margin-right: 1.5%;
+	margin-bottom: 1.5%;
+	margin-top: 1.5%;
+}
 .section-d{
 	width: 100%;
 	min-height: 250px;
