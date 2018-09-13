@@ -141,3 +141,47 @@ body{
 	background: #c2fbff;
 	margin-left: 25%
 }
+
+.v{
+	height: 550px;
+	width: 28%;
+	float: left;
+	background: #144646;
+	margin-left: 4%
+}
+
+.v1{
+	height: 275px;
+	width: 100%;
+	float: left;
+	background: #87f481;
+}
+
+.v2{
+	height: 27.5px;
+	width: 100%;
+	float: left;
+	background: #f4612b;
+}
+
+.v3{
+	height: 178.75px;
+	width: 100%;
+	float: left;
+	background: #c387df;
+}
+
+.v4{
+	height: 68.75px;
+	width: 100%;
+	float: left;
+	background: #253f41;
+}
+.vv1{
+	height: 68.75px;
+	width: 50%;
+	float: left;
+	background: #c2fbff;
+	margin-left: 25%
+}
+
