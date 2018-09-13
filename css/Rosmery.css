@@ -1103,3 +1103,80 @@ body{
 	float: left;
 	margin-left: 60%;
 }
+#section3{
+	width: 100%;
+	height:650px;
+	background:  #3b48b3;
+	float: left;
+}
+.ch7{
+	width: 58%;
+	height:650px;
+	background: #fef150;
+	float: left;
+}
+.ch8{
+	width: 58%;
+	height:325px;
+	background: #fef150;
+	float: left;
+
+}
+.chh9{
+	width: 55%;
+	height:325px;
+	background:   #abb2ff;
+	float: left;
+	margin-left: 5%;
+}
+.chh10{
+	width: 40%;
+	height:60px;
+	background:    #2dbf3a;
+	float: left;
+    margin-top: 10%;
+}
+.ch9{
+	width: 58%;
+	height:325px;
+	background: #53bdeb;
+	float: left;
+}
+.chh11{
+	width: 50%;
+	height:325px;
+	background:  #af53eb;
+	float: left;
+}
+.chh12{
+	width: 100%;
+	height:50px;
+	background: #d0cfcf;
+	float: left;
+	margin-top: 20%;
+}
+.chh13{
+	width: 18%;
+	height:50px;
+	background: #439df7;
+	float: left;
+	margin-left: 25%;
+}
+.chh14{
+	width: 100%;
+	height:150px;
+	background:  #63971d;
+	float: left;
+}
+.chh15{
+	width: 50%;
+	height:325px;
+	background:  #ff5725;
+	float: left;
+}
+.ch9{
+	width: 42%;
+	height:650px;
+	background:  #d4afff;
+	float: left;
+}
