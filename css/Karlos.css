@@ -243,10 +243,66 @@ body{
 	background: #2a706f;
 }
 
-.t2{
+.s2{
 	height: 350px;
 	width: 52%;
 	float: left;
 	background: #ba90db;
+}
 
+.ss1{
+	height: 70px;
+	width: 100%;
+	float: left;
+	background: #988dee;
+}
+
+.ss2{
+	height: 63px;
+	width: 100%;
+	float: left;
+	background: #7ae127;
+}
+
+.sss21{
+	height: 63px;
+	width: 47%;
+	float: left;
+	background: #f98be0;
+}
+
+.sss22{
+	height: 63px;
+	width: 53%;
+	float: left;
+	background: #9ee8eb;
+}
+
+.ss3{
+	height: 63px;
+	width: 100%;
+	float: left;
+	background: #7e9ad8;
+}
+
+.ss4{
+	height: 63px;
+	width: 100%;
+	float: left;
+	background: #e8db81;
+}
+
+.sss41{
+	height: 63px;
+	width: 30%;
+	float: left;
+	background: #aa0404;
+	margin-left: 33%
+}
+
+.ss5{
+	height: 91px;
+	width: 100%;
+	float: left;
+	background: #dc8484;
 }
