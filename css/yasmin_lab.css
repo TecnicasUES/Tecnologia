@@ -178,11 +178,12 @@
 }
 
 .ci23{
-	float: left;
-	width: 100%;
-	height:150px;
+	float: right;
+	width: 30%;
+	height:50px;
     background:#e3c2c1;
     margin-top: 5%;
+    margin-right: 4%
 }
 
 .ci3{
@@ -191,16 +192,27 @@
 	height:350px;
     background:#ef26d0;
 }
-.ci21caja{
-	float: left;
-	width: 100%;
-	height:30px;
-}
 
-.ci21{
+.ci31{
 	float: left;
 	width: 100%;
 	height:70px;
-    background:#e3c2c1;
+    background:#3108b5;
+    margin-top: 5%;
+}
+.ci32{
+	float: left;
+	width: 100%;
+	height:150px;
+    background:#3108b5;
+    margin-top: 5%;
 }
 
+.ci33{
+	float: right;
+	width: 30%;
+	height:50px;
+    background:#3108b5;
+    margin-top: 5%;
+    margin-right: 4%
+}
