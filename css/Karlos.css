@@ -228,3 +228,25 @@ body{
 	background: #c2fbff;
 	margin-left: 25%
 }
+
+.Secc4{
+	height: 350px;
+	width: 100%;
+	float: left;
+	background: #2f3f3f;
+}
+
+.t1{
+	height: 350px;
+	width: 48%;
+	float: left;
+	background: #2a706f;
+}
+
+.t2{
+	height: 350px;
+	width: 52%;
+	float: left;
+	background: #ba90db;
+
+}
