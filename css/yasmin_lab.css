@@ -232,6 +232,20 @@
     margin-left: 2%;
 }
 
+.cuail11{
+	float: left;
+	width: 55%;
+	height:300px;
+    background:#140127;
+}
+.cuail12{
+	float: left;
+	width: 45%;
+	height:100px;
+    background:#f6ef25;
+    margin-top:6%;
+}
+
 .cuai2{
 	float: left;
 	width: 50%;
@@ -239,4 +253,18 @@
     background:#6702cd;
     margin-top: 3%;
     margin-left: 2%;
+}
+.cuail21{
+	float: left;
+	width: 45%;
+	height:100px;
+    background:#f6ef25;
+    margin-top:6%;
+}
+.cuail22{
+	float: left;
+	width: 55%;
+	height:300px;
+    background:#140127;
+    
 }
