@@ -306,3 +306,38 @@ body{
 	float: left;
 	background: #dc8484;
 }
+
+.secc5{
+	height: 500px;
+	width: 100%;
+	float: left;
+	background: #00580a;
+}
+
+.r1{
+	height: 500px;
+	width: 60%;
+	float: left;
+	background: #81dfd6;
+}
+
+.rr1{
+	height: 450px;
+	width: 100%;
+	float: left;
+	background: #d94a79;
+}
+
+.rr2{
+	height: 50px;
+	width: 100%;
+	float: left;
+	background: #7b6782;
+}
+
+.q1{
+	height: 500px;
+	width: 40%;
+	float: left;
+	background: #357572;
+}
