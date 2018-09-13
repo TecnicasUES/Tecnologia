@@ -217,8 +217,26 @@
     margin-right: 4%
 }
 
-.cuadroimagen2{
+.cuadroimagen3{
 	float: left;
  	width: 100%;
- 	height:900px;
+ 	height:700px;
     background:#cd5d02;
+}
+.cuai1{
+	float: left;
+	width: 50%;
+	height:300px;
+    background:#6702cd;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.cuai2{
+	float: left;
+	width: 50%;
+	height:300px;
+    background:#6702cd;
+    margin-top: 3%;
+    margin-left: 2%;
+}
