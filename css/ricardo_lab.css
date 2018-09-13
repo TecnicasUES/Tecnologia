@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+body{
+	background: #a8a8a8;
+		width: 100%;
+		height: auto;
+		font-family: arial;
+		margin: 0;
+}
+#datoz{
+	width: 100%;
+	background: #f5efe1;
+	height: 50px;
+	float:left;
+}
+.datoz1{
+	width: 30%;
+	background: #e5e5e5;
+	height: 50px;
+	float:left;
+}
+.datos2{
+	width: 70%;
+	background: #e5e5e5;
+	height: 50px;
+	float:left;
+}
+.tel{
+	width: 15%;
+	background: #5b5b5b;
+	height: 50px;
+	float:left;
+	margin-left: 15%; 
+}
+.numeros{
+	width: 40%;
+	background: #757575;
+	height: 50px;
+	float:left;
+}
+.our{
+	width: 30%;
+	background: #8d8d8d;
+	height: 50px;
+	float:left;
+}
+.info{
+	width: 15%;
+	background: #8d8d8d;
+	height: 50px;
+	float:left;
+	margin-left: 70%; 
+}
+.sign{
+	width: 15%;
+	background: #626262;
+	height: 50px;
+	float:left;
+}
