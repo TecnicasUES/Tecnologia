@@ -155,3 +155,21 @@
  	height:350px;
     background:#d4342c;
 }
+.ci1{
+	float: left;
+	width: 33.33%;
+	height:350px;
+    background:#4a0301;
+}
+.ci2{
+	float: left;
+	width: 33.33%;
+	height:350px;
+    background:#dca371;
+}
+.ci3{
+	float: left;
+	width: 33.33%;
+	height:350px;
+    background:#ef26d0;
+}
