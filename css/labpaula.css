@@ -156,8 +156,355 @@ body{
 	float: left;
 }
 .niño6{
-	width: 30%;
+	width: 100%;
 	height: 250px;
 	background: #fca943;
+	float: left;
+}
+.e{
+	width: 40%;
+	height: 250px;
+	background: #fca943;
+	float: left;
+}
+
+.e1{
+	width: 10%;
+	height: 250px;
+	background: #a4c7cb;
+	float: left;
+}
+
+.e2{
+	width: 80%;
+	height: 250px;
+	background: #fdaa44;
+	float: left;
+}
+
+.f{
+	width: 60%;
+	height: 250px;
+	background: #a4c7cb;
+	float: left;
+}
+.f1{
+	width: 95%;
+	height: 250px;
+	background: #9aac70;
+	float: left;
+}
+
+.f2{
+	width: 5%;
+	height: 250px;
+	background: #a4c7cb;
+	float: left;
+}
+
+.niño7{
+	width: 100%;
+	height: 200px;
+	background: #63195e;
+	float: left;
+}
+
+.g{
+	width: 45%;
+	height: 200px;
+	background: #cd41c4;
+	float: left;
+}
+
+
+.h{
+	width: 55%;
+	height: 200px;
+	background: #e8cfb0;
+	float: left;
+}
+
+
+.h1{
+	width: 10%;
+	height: 200px;
+	background: #cacd42;
+	float: left;
+}
+
+
+.h2{
+	width: 35%;
+	height: 200px;
+	background: #4288cd;
+	float: left;
+}
+
+.h2a{
+	width: 100%;
+	height: 40px;
+	background: #4288cd;
+	float: left;
+}
+
+.h2b{
+	width: 100%;
+	height: 120px;
+	background: #1bc6cd;
+	float: left;
+}
+
+.h2c{
+	width: 100%;
+	height: 40px;
+	background: #4288cd;
+	float: left;
+}
+.h2c1{
+	width: 50%;
+	height: 40px;
+	background: #cca91b;
+	float: left;
+}
+.h2c2{
+	width: 50%;
+	height: 40px;
+	background: #cc1b38;
+	float: left;
+}
+
+.h3{
+	width: 10%;
+	height: 200px;
+	background: #cacd42;
+	float: left;
+}
+
+
+.h4{
+	width: 35%;
+	height: 200px;
+	background: #4288cd;
+	float: left;
+}
+
+.h4a{
+	width: 100%;
+	height: 40px;
+	background: #4288cd;
+	float: left;
+}
+
+.h4b{
+	width: 100%;
+	height: 120px;
+	background: #1bc6cd;
+	float: left;
+}
+
+.h4c{
+	width: 100%;
+	height: 40px;
+	background: #4288cd;
+	float: left;
+}
+.h4c1{
+	width: 50%;
+	height: 40px;
+	background: #cca91b;
+	float: left;
+}
+.h4c2{
+	width: 50%;
+	height: 40px;
+	background: #cc1b38;
+	float: left;
+}
+
+
+.h5{
+	width: 10%;
+	height: 200px;
+	background: #cacd42;
+	float: left;
+}
+
+.niño8{
+	width: 100%;
+	height: 10px;
+	background: #8899de;
+	float: left;
+}
+.niño9{
+	width: 100%;
+	height: 400px;
+	background: #40c8b0;
+	float: left;
+}
+.i{
+	width: 55%;
+	height: 400px;
+	background: #ead440;
+	float: left;
+}
+
+.i1{
+	width: 5%;
+	height: 400px;
+	background: #941596;
+	float: left;
+}
+
+.i2{
+	width: 95%;
+	height: 400px;
+	background: #ead440;
+	float: left;
+}
+
+.i2a{
+	width: 100%;
+	height: 180px;
+	background: #ead440;
+	float: left;
+}
+.i2a1{
+	width: 60%;
+	height: 180px;
+	background: #ead440;
+	float: left;
+}
+.i2a2{
+	width: 40%;
+	height: 180px;
+	background: #40c4ea;
+	float: left;
+}
+.i2a2a{
+	width: 100%;
+	height: 50px;
+	background: #40c4ea;
+	float: left;
+}
+.i2a2b{
+	width: 100%;
+	height: 50px;
+	background: #41eab1;
+	float: left;
+}
+.i2a2c{
+	width: 100%;
+	height: 80px;
+	background: #5c40ea;
+	float: left;
+}
+.i2b{
+	width: 100%;
+	height: 40px;
+	background: #89decb;
+	float: left;
+}
+.i2c{
+	width: 100%;
+	height: 180px;
+	background: #ead440;
+	float: left;
+}
+.i2c1{
+	width: 40%;
+	height: 180px;
+	background: #40c4ea;
+	float: left;
+}
+.i2c1a{
+	width: 100%;
+	height: 50px;
+	background: #40c4ea;
+	float: left;
+}
+.i2c1b{
+	width: 100%;
+	height: 50px;
+	background: #41eab1;
+	float: left;
+}
+.i2c1c{
+	width: 100%;
+	height: 80px;
+	background: #5c40ea;
+	float: left;
+}
+
+.i2c2{
+	width: 60%;
+	height: 180px;
+	background: #ead440;
+	float: left;
+}
+
+.j{
+	width: 45%;
+	height: 400px;
+	background: #a2de88;
+	float: left;
+}
+.j1{
+	width: 95%;
+	height: 400px;
+	background: #a2de88;
+	float: left;
+}
+.j2{
+	width: 5%;
+	height: 400px;
+	background: #941596;
+	float: left;
+}
+.niño10{
+	width: 100%;
+	height: 5px;
+	background: #d4bb9c;
+	float: left;
+}
+.niño11{
+	width: 100%;
+	height: 250px;
+	background: #40c8b0;
+	float: left;
+}
+.k{
+	width: 35%;
+	height: 250px;
+	background: #c8c341;
+	float: left;
+}
+.l{
+	width: 35%;
+	height: 250px;
+	background: #40c8b0;
+	float: left;
+}
+.m{
+	width: 30%;
+	height: 250px;
+	background: #6440c8;
+	float: left;
+}
+.niño11{
+	width: 100%;
+	height: 250px;
+	background: #c8c341;
+	float: left;
+}
+.n{
+	width: 60%;
+	height: 250px;
+	background: #661f59;
+	float: left;
+}
+.o{
+	width: 40%;
+	height: 250px;
+	background: #c8c041;
 	float: left;
 }
