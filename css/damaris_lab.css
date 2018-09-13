@@ -10,24 +10,24 @@ body{
 
 #menu{
 	width: 100%;
-	background: #c3db51;
+	background: #000;
 	height: 60px;
 	float: left;
 }
 
 
 .child1{
-	width: 55%;
+	width: 40%;
 	height: 60px;
 	background: #629398;
 	float: left;
 }
 
 .a{
-	width: 45%;
+	width: 20%;
 	float: left;
 	height: 60px;
-	background: #3aa930
+	background: #BF4545
 }
 
 
