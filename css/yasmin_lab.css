@@ -265,6 +265,13 @@
 	float: left;
 	width: 55%;
 	height:300px;
-    background:#140127;
-    
+    background:#140127;   
+}
+
+.imagenjugo{
+	float: right;
+	width: 46%;
+	height:700px;
+    background:#4f0000;
+
 }
