@@ -1002,3 +1002,104 @@ body{
 	background:    #050f8a;
 	float: left;
 }
+#section1{
+	width: 100%;
+	height: 650px;
+	background:  #eabeff;
+	float: left;
+}
+.ch1{
+	width: 27%;
+	height: 650px;
+	background:   #C70039;
+	float: left;
+}
+.ch2{
+	width: 100%;
+	height: 55px;
+	background:    #f2ff27;
+	float: left;
+	margin-top: 30%;
+}
+.ch3{
+	width: 100%;
+	height:250px;
+	background: #27fff5;
+	float: left;
+}
+#section2{
+	width: 100%;
+	height:300px;
+	background:  #264c75;
+	float: left;
+}
+.ch4{
+	width:35%;
+	height:300px;
+	background:   #d178e3;
+	float: left;
+}
+.ch5{
+	width: 32.5%;
+	height:300px;
+	background:  #91b4fa;
+	float: left;
+}
+.chh1{
+	width: 100%;
+	height:50px;
+	background: #fef64f;
+	float: left;
+	margin-top: 5%;
+}
+.chh2{
+	width: 100%;
+	height:160px;
+	background:  #fe4fa4;
+	float: left;
+}
+.chh3{
+	width: 100%;
+	height:50px;
+	background: #346bba;
+	float: left;
+}
+.chh4{
+	width: 28%;
+	height:50px;
+	background:  #fadc60;
+	float: left;
+	margin-left: 60%;
+}
+.ch6{
+	width: 32.5%;
+	height:300px;
+	background:   #c7fa60;
+	float: left;
+}
+.chh5{
+	width: 100%;
+	height:50px;
+	background:#bb142d;
+	float: left;
+	margin-top: 5%;
+}
+.chh6{
+	width: 100%;
+	height:160px;
+	background:   #02fff0;
+	float: left;
+}
+.chh7{
+	width: 100%;
+	height:50px;
+	background:  #f19696;
+	float: left;
+}
+.chh8{
+	width: 28%;
+	height:50px;
+	background:  #3b48b3;
+	float: left;
+	margin-left: 60%;
+}
