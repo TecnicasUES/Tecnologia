@@ -703,3 +703,40 @@ body{
 	float: left;
 	background: #91a4b3;
 }
+.logo{
+	width: 35%;
+	height: 85px;
+	float: left;
+	margin-left: 10%;
+	background: #ef772e;
+}
+.home{
+	width: 8%;
+	height: 85px;
+	float: left;
+	background: #3153d0;
+}
+.about{
+	width: 15%;
+	height: 85px;
+	float: left;
+	background: #0f33ba;
+}
+.service{
+	width: 25%;
+	height: 85px;
+	float: left;
+	background: #5b78e7;
+}
+.experi{
+	width: 32%;
+	height: 85px;
+	float: left;
+	background: #1e48e3;
+}
+.contact{
+	width: 20%;
+	height: 85px;
+	float: left;
+	background: #dd6f2c;
+}
