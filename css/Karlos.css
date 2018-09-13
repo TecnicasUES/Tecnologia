@@ -340,7 +340,7 @@ body{
 	width: 40%;
 	float: left;
 	background: #8c1f50;
-	margin-top: 10%;
+	margin-top: 80px;
 	margin-left: 0.1%;
 }
 
@@ -349,8 +349,7 @@ body{
 	width: 59%;
 	float: right;
 	background: #8c1f50;
-	margin-top: 10%;
-	margin-bottom:  0.1%;
+	margin-top: 80px;
 	margin-right: 0.4%;
 }
 
@@ -424,7 +423,7 @@ body{
 	width: 100%;
 	float: left;
 	background: #02abc8;
-	margin-top: 13%;
+	margin-top: 75px;
 	margin-left: 0.3%;
 }
 .qq2{
@@ -432,7 +431,7 @@ body{
 	width: 100%;
 	float: left;
 	background: #02abc8;
-	margin-top: 7%;
+	margin-top: 35px;
 	margin-left: 0.3%;
 }
 
