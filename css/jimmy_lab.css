@@ -259,5 +259,53 @@ body{
 	height: 250px;
 	float: left;
 	background: #24446a;
+}
 
+.lor3h1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #688593;
+}
+
+.lor3h1n1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	background: #38a8de;
+}
+
+.lor3h1n2{
+	width: 40%;
+	height: 50px;
+	float: left;
+	background: #2d86f0;
+}
+
+.lor3h2{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #010916;
+}
+
+.lor3h3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #cfd9e9;
+}
+
+.lor3h3n1{
+	width: 70%;
+	height: 50px;
+	float: left;
+	background: #5f6672;
+}
+
+.lor3h3n2{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: #035785;
 }
