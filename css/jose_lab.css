@@ -129,7 +129,7 @@ header{
 }
 section{
 	width: 100%;
-	height: 2100px;
+	height: 3100px;
 	float: left;
 	background: #FBFFC0;
 }
@@ -377,4 +377,28 @@ section{
 	height: 200px;
 	float: left;
 	background: #BF36F2;
+}
+.child6{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: #32276B;
+}
+.n{
+	width: 35%;
+	height: 600px;
+	float: left;
+	background: #78DB6A;
+}
+.o{
+	width: 35%;
+	height: 600px;
+	float: left;
+	background: #28631F;
+}
+.p{
+	width: 30%;
+	height: 600px;
+	float: left;
+	background: #78DB6A;
 }
