@@ -114,8 +114,35 @@
 	width: 9.28%;
 }
 .banner1{
-	background-color: #ee5828;
+	background-color: #ff7822;
 	float: left;
-	height: 40px;
-	width: 9.28%;
+	height: 350px;
+	width: 100%;
 }
+.banner2{
+	background-color: #33ffd1;
+	float: left;
+	height: 200px;
+	width: 100%;
+}
+.img{
+	background-color: #335eff;
+	float: left;
+	height: 200px;
+	width: 30%;
+	float: left;
+}
+.caj{
+	background-color: #a233ff;
+	height: 200px;
+	width: 35%;
+	float: left;
+}
+.c1{
+	background-color: #a5ff33;
+	float: left;
+	height: 30px;
+	width: 100%;
+
+}
+
