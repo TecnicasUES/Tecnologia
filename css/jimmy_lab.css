@@ -330,3 +330,30 @@ body{
 	float: left;
 	background: #cfb97f;
 }
+
+.ca1{
+	width: 40%;
+	height: 610px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 5px;
+	background: #ffffff;
+}
+
+.ca2{
+	width: 55%;
+	height: 300px;
+	float: right;
+	margin-right: 1%;
+	margin-top: 5px;
+	background: #ffffff;
+}
+
+.ca3{
+	width: 55%;
+	height: 280px;
+	float: right;
+	margin-right: 1%;
+	margin-top: 10px;
+	background: #ffffff;
+}
