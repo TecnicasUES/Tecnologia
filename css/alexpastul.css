@@ -854,3 +854,34 @@ header{
 	float: left;
 	background: #88A163;
 }
+.labsechijo1{
+	width: 35%;
+	height: 300px;
+	float: left;
+	background: #88A1D9;
+}
+.labsechijo2{
+	width: 65%;
+	height: 300px;
+	float: left;
+	background: #043B63;
+}
+.lab3nie1{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: #E69400;
+}
+.lab3bis1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin-top: 35px;
+	background: #47AF5B;
+}
+.lab3nie2{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: #FFB2C1;
+}
