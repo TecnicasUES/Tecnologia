@@ -115,3 +115,42 @@ header{
 	float: left;
 	background: turquoise;
 }
+#a1{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: lightcoral;
+}
+.banner{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: mediumaquamarine;
+}
+.cajaflot{
+	width: 50%;
+	height: 250px;
+	float: left;
+	background: royalblue;
+	margin-left: 5%;
+	margin-top: 55px;
+}
+.conocenos{
+	width: 20%;
+	height: 50px;
+	float: left;
+	background: rosybrown;
+}
+.texrell{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: goldenrod;
+}
+.mas{
+	width: 15%;
+	height: 50px;
+	float: left;
+	background: slategray;
+	margin-left: 85%;
+}
