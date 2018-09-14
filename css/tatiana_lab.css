@@ -85,3 +85,178 @@ header{
 	float: left;
 	background: #da6175;
 }
+.da{
+	width:13%;
+	height: 60px;
+	float: left;
+	background: #a7d3cd;
+}
+.db{
+	width:13%;
+	height: 60px;
+	float: left;
+	background: #d0a7d3;
+}
+.dc{
+	width:13%;
+	height: 60px;
+	float: left;
+	background: #d3b1a7;
+}
+.dd{
+	width:22%;
+	height: 60px;
+	float: left;
+	background: #bad3a7;
+}
+.de{
+	width:10%;
+	height: 60px;
+	float: left;
+	background: #8489de;
+}
+.df{
+	width:16%;
+	height: 60px;
+	float: left;
+	background: #a7d3cd;
+}
+.dg{
+	width:13%;
+	height: 60px;
+	float: left;
+	background: #c6db7f;
+}
+.child3{
+	width:100%;
+	height: 500px;
+	float: left;
+	background: #4fc7dc;
+}
+.f{
+	width:50%;
+	height: 500px;
+	float: left;
+	background: #4f74dc;
+}
+.fa{
+	width:93%;
+	height: 200px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 70px;
+	background: #7a75d8;
+}
+.g{
+	width:50%;
+	height: 500px;
+	float: left;
+	background: #4fdcc6;
+}
+.fa1{
+	width:100%;
+	height: 30px;
+	float: left;
+	background: #d4df9a;
+}
+.fa2{
+	width:100%;
+	height: 140px;
+	float: left;
+	background: #83951c;
+}
+.fa3{
+	width:100%;
+	height: 30px;
+	float: left;
+	background: #bede0d;
+}
+.fa3a{
+	width:20%;
+	height: 30px;
+	float: left;
+	margin-left: 80%;
+	background: #4f5d04;
+}
+.child4{
+	width:100%;
+	height: 300px;
+	float: left;
+	background: #c48223;
+}
+.h{
+	width:40%;
+	height: 300px;
+	float: left;
+	background: #e06342;
+}
+.i{
+	width:60%;
+	height: 300px;
+	float: left;
+	background: #e0de42;
+}
+.ia{
+	width:42.5%;
+	height: 300px;
+	float: left;
+	margin-left: 5%;
+	background: #e1ba90;
+}
+.ib{
+	width:42.5%;
+	height: 300px;
+	float: left;
+	margin-left: 5%;
+	background: #e1ba90;
+}
+.ia1{
+	width:100%;
+	height: 70px;
+	float: left;
+	background: #90e1ab;
+}
+.ia2{
+	width:100%;
+	height: 160px;
+	float: left;
+	background: #49ba6e;
+}
+.ia3{
+	width:100%;
+	height: 70px;
+	float: left;
+	background: #2d884b;
+}
+.ib1{
+	width:100%;
+	height: 70px;
+	float: left;
+	background: #90e1ab;
+}
+.ib2{
+	width:100%;
+	height: 160px;
+	float: left;
+	background: #49ba6e;
+}
+.ib3{
+	width:100%;
+	height: 70px;
+	float: left;
+	background: #2d884b;
+}
+.ia3a{
+	width:40%;
+	height: 70px;
+	float: left;
+	margin-left: 60%;
+	background: #00ff54;
+}
+.ib3a{
+	width:40%;
+	height: 70px;
+	float: left;
+	margin-left: 60%;
+	background: #00ff54;
+}
