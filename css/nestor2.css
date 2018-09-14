@@ -139,6 +139,37 @@ header{
 	float: left;
 	background: beige;
 }
+.child511{
+	width: 8%;
+	height: 500px;
+	float: left;
+	background: #525896;
+}
+.child512{
+	width: 92%;
+	height: 250px;
+	float: left;
+	background: #748799;
+}
+.child512{
+	width: 92%;
+	height: 220px;
+	float: left;
+	background: #336633;
+}
+.child512{
+	width: 92%;
+	height: 30px;
+	float: left;
+	background: #617334;
+}
+.child6{
+	width: 100%;
+	height: 5px;
+	float: left;
+	background: pink;
+}
+
 
 
 
