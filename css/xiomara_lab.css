@@ -15,23 +15,58 @@ header{
 	background: indianred;
 }
 
-#headersuperior{
+.espaciosuperior{
 	width: 100%;
-	height: 70%;
+	height: 70px;
 	float: left;
 	background: lightcoral;
 }
 
 .espblanco{
 	width: 50%;
-	height: 70%;
+	height: 70px;
+	float: left;
+	background: blue;
+}
+
+.icono{
+	width: 7%;
+	height: 70px;
 	float: left;
 	background: lightcoral;
 }
 
-.icono{
-	width: 100%;
-	height: 70%;
+.numerotel{
+	width: 17%;
+	height: 70px;
 	float: left;
-	background: lightcoral;
+	background: tomato;
+}
+
+.ourpartners{
+	width: 7%;
+	height: 70px;
+	float: left;
+	background: orange;
+}
+
+.moreinfo{
+	width: 8%;
+	height: 70px;
+	float: left;
+	background: plum;
+}
+
+.singin{
+	width: 7%;
+	height: 70px;
+	float: left;
+	background: magenta;
+}
+
+.espacioinferior{
+	width: 100%;
+	height: 80%;
+	float: left;
+	background: blueviolet;
 }
