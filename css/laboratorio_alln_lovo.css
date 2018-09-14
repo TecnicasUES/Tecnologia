@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+body {
+	background: yellow;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0; 
+}
+
+header {
+	background: blue;
+	width: 100%;
+	height: 70px;
+	float: left;
+
+}
+
+#headeruno {
+	background: peru;
+	width: 100%;
+	height: 30px;
+	float: left;
+}
+
+.hijoheader1 {
+	background: peachpuff;
+	width: 50%;
+	height: 30px;
+	float: left;
+}
+
+.hijoheader2 {
+	background: indianred;
+	width: 20%;
+	height: 30px;
+	float: left;
+}
+
+.hijoheader3 {
+	background: firebrick;
+	width: 11%;
+	height: 30px;
+	float: left;
+}
+
+.hijoheader4 {
+	background: deeppink;
+	width: 11%;
+	height: 30px;
+	float: left;
+}
+
+.hijoheader5 {
+	background: lightsalmon;
+	width: 8%;
+	height: 30px;
+	float: left;
+}
+
+#headerdos {
+	background: coral;
+	width: 100%;
+	height: 40px;
+	float: left;
+}
+
+.hijoheader11 {
+	background: aquamarine;
+	width: 12%;
+	height: 40px;
+	float: left;
+
+}
+
+.hijoheader22 {
+	background: darkorange;
+	width: 18%;
+	height: 40px;
+	float: left;
+
+}
+
+.hijoheader33 {
+	background: yellow;
+	width: 8%;
+	height: 40px;
+	float: left;
+
+}
+
+.hijoheader44 {
+	background: papayawhip;
+	width: 10%;
+	height: 40px;
+	float: left;
+
+}
+
+.hijoheader55 {
+	background: moccasin;
+	width: 10%;
+	height: 40px;
+	float: left;
+
+}
+
+.hijoheader66 {
+	background:  lavender;
+	width: 12%;
+	height: 40px;
+	float: left;
+
+}
+
+.hijoheader77 {
+	background: violet;
+	width: 8%;
+	height: 40px;
+	float: left;
+
+}
+
+.hijoheader88 {
+	background: orchid;
+	width: 10%;
+	height: 40px;
+	float: left;
+
+}
+
+.hijoheader99 {
+	background: fuchsia;
+	width: 12%;
+	height: 40px;
+	float: left;
+
+}
+
