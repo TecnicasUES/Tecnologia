@@ -117,13 +117,13 @@ header{
 }
 #a1{
 	width: 100%;
-	height: 600px;
+	height: 550px;
 	float: left;
 	background: lightcoral;
 }
 .banner{
 	width: 100%;
-	height: 600px;
+	height: 550px;
 	float: left;
 	background: mediumaquamarine;
 }
@@ -153,4 +153,10 @@ header{
 	float: left;
 	background: slategray;
 	margin-left: 85%;
+}
+#a2{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: sienna;
 }
