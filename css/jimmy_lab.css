@@ -309,3 +309,24 @@ body{
 	float: left;
 	background: #035785;
 }
+
+.perfumes{
+	width: 100%;
+	height: 650px;
+	float: left;
+	background: #ffffff;
+}
+
+.per1{
+	width: 100%;
+	height: 630px;
+	float: left;
+	background: #f3dec3;
+}
+
+.per2{
+	width: 100%;
+	height: 20px;
+	float: left;
+	background: #cfb97f;
+}
