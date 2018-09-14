@@ -352,11 +352,149 @@ header{
 	background: #000000;
 }
 
+.red1_1{
+	width: 28%;
+	height: 150px;
+	float: left;
+	background: #ffffff;
+	margin-top: 30px;
+	margin-left: 70px;
+}
 .red2{
 	width: 22%;
 	height: 100px;
 	float: left;
 	background: #119338;
 	margin-top: 45px;
-	margin-left: 70px;
+	margin-left: 50px;
+}
+
+.libros{
+	width: 100%;
+	height:200px;
+	float: left;
+	background: #bcbc19;
+}
+.libro1{
+	width: 33%;
+	height:200px;
+	float: left;
+	background: lime;
+}
+
+.libro2{
+	width: 33%;
+	height: 200px;
+	float: left;
+	background: #6d0909;
+}
+
+.libro3{
+	width: 34%;
+	height: 200px;
+	float: left;
+	background: #12889b;
+}
+
+.info{
+	width: 100%;
+	height: 550px;
+	float: left;
+	background: #636363;
+}
+
+.info1{
+	width: 45%;
+	height: 550px;
+	float: left;
+	background: #022337;
+}
+
+
+.info1_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 50px;
+	background: #ffffff;
+}
+
+.info2_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	background: #848484;
+}
+
+.info3_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	background: #ffffff;
+}
+
+.info4_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	background: #848484;
+}
+
+.info5_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	background: #ffffff;
+}
+
+.info6_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	background: #848484;
+}
+
+.info7_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left:60px;
+	background: #ffffff;
+}
+
+.info8_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	background: #848484;
+}
+
+.info9_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	background: #ffffff;
+}
+
+.info10_1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	margin-left: 60px;
+	background: #848484;
+}
+
+.info2{
+	width: 10%;
+	height: 30px;
+	float: right;
+	background: #fdfdfd;
 }
