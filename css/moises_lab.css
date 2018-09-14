@@ -70,3 +70,82 @@ header{
 	float: left;
 	background: #af9e0a;
 }
+
+.c{
+	width: 30%;
+	height: 100px;
+	float: left;
+	background: #fff;
+}
+
+.c_1{
+	width: 50%;
+	height: 100px;
+	float: left;
+	background: #839d0a;
+}
+
+.c_2{
+	width: 50%;
+	height: 100px;
+	float: left;
+	background: #4f5729;
+}
+
+.d{
+	width: 70%;
+	height: 100px;
+	float: left;
+	background: #000;
+}
+
+.d_1{
+	width: 14.2857%;
+	height: 100px;
+	float: left;
+	background: #c4ee00;
+}
+
+.d_2{
+	width: 14.2857%;
+	height: 100px;
+	float: left;
+	background: #747e44;
+}
+
+.d_3{
+	width: 14.2857%;
+	height: 100px;
+	float: left;
+	background: #447e59;
+}
+
+.d_4{
+	width: 14.2857%;
+	height: 100px;
+	float: left;
+	background: #44717e;
+}
+
+.d_5{
+	width: 14.2857%;
+	height: 100px;
+	float: left;
+	background: #4a447e;
+}
+
+.d_6{
+	width: 14.2857%;
+	height: 100px;
+	float: left;
+	background: #7e4461;
+}
+
+.d_7{
+	width: 14.2857%;
+	height: 100px;
+	float: left;
+	background: #35021b;
+}
+
+
