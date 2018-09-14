@@ -527,7 +527,7 @@ header{
 .child6b{
 	width: 35%;
 	height: 235px;
-	background: beige;
+	background: brown;
 	float: left;
 }
 .child6c{
@@ -548,3 +548,68 @@ header{
 	background: #195756;
 	float: left;
 }
+.child7{
+	width: 100%;
+	height: 75px;
+	background: #skyblue;
+	float: yellow;
+}
+.child7a{
+	width: 40%;
+	height: 75px;
+	background: #skyblue;
+	float: left;
+}
+.child7b{
+	width: 60%;
+	height: 75px;
+	background: #skyblue;
+	float: left;
+}
+.child71{
+	width: 15%;
+	height: 125px;
+	float: left;
+	background: #794613;
+}
+.child72{
+	width: 15%;
+	height: 125px;
+	float: left;
+	background: #773315;
+}
+.child73{
+	width: 13%;
+	height: 125px;
+	float: left;
+	background: #331754;
+}
+.child74{
+	width: 13%;
+	height: 125px;
+	float: left;
+	background: #234454;
+}
+.child75{
+	width: 15%;
+	height: 125px;
+	float: left;
+	background: #488854;
+}
+.child76{
+	width: 10%;
+	height: 125px;
+	float: left;
+	background: #044454;
+}
+.child77{
+	width: 10%;
+	height: 125px;
+	float: left;
+	background: #000454;
+}
+.child78{
+	width: 9%;
+	height: 125px;
+	float: left;
+	background: #044004;
