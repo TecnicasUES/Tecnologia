@@ -294,3 +294,37 @@ header{
 	background: #7ac9f2;
 }
 
+.perfume_1{
+	width: 40%;
+	height: 600px;
+	float: left;
+	background: #f5e9bf;
+}
+
+.perf_1{
+	width: 100%;
+	height: 560px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: #fff;
+}
+
+.perfume_2{
+	width: 60%;
+	height: 600px;
+	float: left;
+	background: #000;
+}
+
+.perf_2{
+	width: 100%;
+	height: 250px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background: #fff;
+}
+
