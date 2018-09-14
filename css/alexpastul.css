@@ -742,8 +742,6 @@ header{
 	float: left;
 	background: #57B892;
 }
-
-
 .labseccion1{
 	width: 100%;
 	height: 60px;
@@ -811,8 +809,6 @@ header{
 	float: left;
 	background: #104822;
 }
-
-
 .labsec02{
 	width: 100%;
 	height: 550px;
@@ -833,7 +829,6 @@ header{
 	margin-top: 100px;
 	background: #E7B665;
 }
-
 .lab2nieto2{
 	width: 100%;
 	height: 150px;
@@ -847,7 +842,6 @@ header{
 	float: left;
 	background: #E61065;
 }
-
 .labsec3{
 	width: 100%;
 	height: 300px;
@@ -898,7 +892,6 @@ header{
 	margin-left: 60%;
 	background: #96CB9B;
 }
-
 .lab3nie2{
 	width: 50%;
 	height: 300px;
@@ -931,7 +924,6 @@ header{
 	margin-left: 60%;
 	background: #73B62A;
 }
-
 .labsec4{
 	width: 100%;
 	height: 550px;
@@ -987,7 +979,6 @@ header{
 	margin-top: 13px;
 	background: #88A695;
 }
-
 .lab4niett2{
 	width: 100%;
 	height: 246px;
@@ -995,7 +986,6 @@ header{
 	margin-top: 13px;
 	background: #284395;
 }
-
 .lab4nn3{
 	width: 58%;
 	height: 220px;
@@ -1018,13 +1008,6 @@ header{
 	margin-top: 65px;
 	background: #D26913;
 }
-
-
-
-
-
-
-
 .lab4padre2{
 	width: 100%;
 	height: 20px;
@@ -1032,3 +1015,87 @@ header{
 	margin-top: 7px;
 	background: #A78A12;
 }
+.labsec5{
+	width: 100%;
+	height: 550px;
+	float: left;
+	background: #FFD1B2;
+}
+.lab501{
+	width: 100%;
+	height: 275px;
+	float: left;
+	background: #0A0B0D;
+}
+.lab5011{
+	width: 30%;
+	height: 275px;
+	float: left;
+	margin-left: 15%;
+	background: #1CFF91;
+}
+.lab50111{
+	width: 100%;
+	height: 60px;
+	float: left;
+	margin-top: 90px;
+	background: #93C01F;
+}
+.lab5012{
+	width: 20%;
+	height: 275px;
+	float: left;
+	margin-left: 6%;
+	background: #00908E;
+}
+.lab501122{
+	width: 100%;
+	height: 170px;
+	float: left;
+	margin-top: 50px;
+	background: #73902A;
+}	
+.lab502{
+	width: 100%;
+	height: 275px;
+	float: left;
+	background: #D7A49C;
+}
+.lab551{
+	width: 33.3%;
+	height: 275px;
+	float: left;
+	background: #210F1D;
+}
+.lab552{
+	width: 33.3%;
+	height: 275px;
+	float: left;
+	background: #E0B991;
+}
+.lab553{
+	width: 33.3%;
+	height: 275px;
+	float: left;
+	background: #D7A49C;
+}
+.labsec6{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: #2E2E2E;
+}
+.lab61{
+	width: 45%;
+	height: 600px;
+	float: left;
+	background: #52254A;
+}
+.lab62{
+	width: 55%;
+	height: 600px;
+	float: left;
+	background: #7E2500;
+}
+
+
