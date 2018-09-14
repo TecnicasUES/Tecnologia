@@ -109,5 +109,37 @@ header{
 	float: left;
 	background: #917485;
 }
+.child3{
+	width: 100%;
+	height: 5px;
+	float: left;
+	background: red;
+}
+.child4{
+	width: 100%;
+	height: 5px;
+	float: left;
+	background: pink;
+}
+.child5{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #747474;
+}
+.child51{
+	width: 500%;
+	height: 500px;
+	float: left;
+	background: skyblue;
+}
+.child51{
+	width: 50%;
+	height: 500px;
+	float: left;
+	background: beige;
+}
+
+
 
 
