@@ -1,0 +1,179 @@
+@charset "utf-8";
+
+body{
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+	background: #23e2f3;
+}
+
+header{
+	width: 100%;
+	height: 130px;
+	float: left;
+	background: #a7f323;
+}
+
+.a{
+	width: 60%;
+	height: 30px;
+	float: left;
+	background: #5c888b;
+}
+
+.b{
+	width: 40%;
+	height: 30px;
+	float: left;
+	background: #4F3D31;
+}
+
+.b_1{
+	width: 20%;
+	height: 30px;
+	float: left;
+	background: #9A7A62;
+}
+
+.b_2{
+	width: 30%;
+	height: 30px;
+	float: left;
+	background: #BF992F;
+}
+
+.b_3{
+	width: 25%;
+	height: 30px;
+	float: left;
+	background: #79906E;
+}
+
+.b_4{
+	width: 25%;
+	height: 30px;
+	float: left;
+	background: #E8CF38;
+}
+
+.c{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: #fff;
+}
+
+.c_1{
+	width: 50%;
+	height: 80px;
+	float: left;
+	background: #37459B;
+}
+
+.c_2{
+	width: 50%;
+	height: 80px;
+	float: left;
+	background: #7A509F;
+}
+
+.d{
+	width: 70%;
+	height: 80px;
+	float: left;
+	background: #000;
+}
+
+.d_1{
+	width: 12.5%;
+	height: 80px;
+	float: left;
+	background: #4EB7C4;
+}
+
+.d_2{
+	width: 12.5%;
+	height: 80px;
+	float: left;
+	background: #7ABB36;
+}
+
+.d_3{
+	width: 25%;
+	height: 80px;
+	float: left;
+	background: #9C8D6D;
+}
+
+.d_4{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: #86631D;
+}
+
+.d_5{
+	width: 20%;
+	height: 80px;
+	float: left;
+	background: #607A46;
+}
+
+.e{
+	width: 100%;
+	height: 10px;
+	float: left;
+	background: #4694D6;
+}
+
+.f{
+	width: 100%;
+	height: 10px;
+	float: left;
+	background: #305CAB;
+}
+
+.imagen{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #43AAA6;
+}
+
+.g{
+	width: 50%;
+	height: 350px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 120px;
+	background: #2A345E;
+}
+
+.g_1{
+	width: 100%;
+	height: 75px;
+	float: left;
+	background: #7676B9;
+}
+
+.g_2{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #4654A4;
+}
+
+.g_3{
+	width: 100%;
+	height: 75px;
+	float: left;
+	background: #273260;
+}
+
+.g_3_1{
+	width: 30%;
+	height: 75px;
+	float: right;
+	background: #181F41;
+}
