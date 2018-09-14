@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-	background: #23e2f3;
+	background: white;
 	width: 100%;
 	height: auto;
 	font-family: arial;
@@ -10,9 +10,9 @@ body{
 
 header{
 	width: 100%;
-	height: 60px;
+	height: auto;
 	float: left;
-	background: #fff;
+	background: white;
 }
 
 .child1{
@@ -627,10 +627,252 @@ header{
 	float: left;
 	background: purple;
 	border: darkgreen 1px solid;
-}.corte3{
+}
+
+.corte3{
 	width: 25%;
 	height: 50px;
 	float: left;
 	background: purple;
 	border: darkgreen 1px solid;
+}
+
+
+.dad1{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: white;
+}
+
+.son1{
+	width: 50%;
+	height: 40px;
+	float: left;
+	background: #89a5be;
+}
+
+.son2{
+	width: 50%;
+	height: 40px;
+	float: left;
+	background: white;	
+}
+
+.grandson1{
+	width: 35%;
+	height: 40px;
+	float: left;
+	background: #bfceda;
+}
+
+.grandson2{
+	width: 25%;
+	height: 40px;
+	float: left;
+	background: #c9e3f8;
+}
+
+.grandson3{
+	width: 15%;
+	height: 40px;
+	float: left;
+	background: #98caf4;
+}
+
+.grandson4{
+	width: 25%;
+	height: 40px;
+	float: left;
+	background: #60b0f5;
+}
+
+.dad2{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: #83bba7;
+}
+
+.son3{
+	width: 40%;
+	height: 80px;
+	float: left;
+	background: #83bba7;
+}
+
+.son4{
+	width: 60%;
+	height: 80px;
+	float: left;
+	background: #4a8776;
+}
+
+.grandson5{
+	width: 38%;
+	height: 80px;
+	float: left;
+	background: #a1bdc4;
+	margin-left: 2%;
+}
+
+.grandson6{
+	width: 60%;
+	height: 80px;
+	float: left;
+	background: #83bba7;
+}
+
+.grandson7{
+	width: 13%;
+	height: 80px;
+	float: left;
+	background: #4a8776;
+}
+
+.grandson8{
+	width: 13%;
+	height: 80px;
+	float: left;
+	background: #51ac9b;
+}
+
+.grandson9{
+	width: 13%;
+	height: 80px;
+	float: left;
+	background: #368979;
+}
+
+.grandson10{
+	width: 16%;
+	height: 80px;
+	float: left;
+	background: #2c6c5e;
+}
+
+.grandson11{
+	width: 13%;
+	height: 80px;
+	float: left;
+	background: #368979;
+}
+
+.grandson12{
+	width: 15%;
+	height: 80px;
+	float: left;
+	background: #56b09e;
+}
+
+.grandson13{
+	width: 17%;
+	height: 80px;
+	float: left;
+	background: #28685a;
+}
+
+.banner1{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: #687671;
+}
+
+.dad3{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #106c9b;
+}
+
+.son5{
+	width: 34%;
+	height: 300px;
+	float: left;
+	background: #106c9b;
+}
+
+.son6{
+	width: 33%;
+	height: 300px;
+	float: left;
+	background: #274161;
+}
+
+.son7{
+	width: 33%;
+	height: 300px;
+	float: left;
+	background: #152a43;
+}
+
+.grandson14{
+	width: 80%;
+	height: 50px;
+	float: left;
+	background: #8293a2;
+	margin-top: 30px;
+	margin-bottom:20px;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.grandson15{
+	width: 80%;
+	height: 110px;
+	float: left;
+	background: #8293a2;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.grandson16{
+	width: 20%;
+	height: 40px;
+	float: left;
+	background: #5c7086;
+	margin-top: 30px;
+	margin-bottom:20px;
+	margin-right: 10%;
+	margin-left: 70%;
+}
+
+
+.grandson17{
+	width: 80%;
+	height: 50px;
+	float: left;
+	background: #8293a2;
+	margin-top: 30px;
+	margin-bottom:20px;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.grandson18{
+	width: 80%;
+	height: 110px;
+	float: left;
+	background: #8293a2;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.grandson19{
+	width: 20%;
+	height: 40px;
+	float: left;
+	background: #5c7086;
+	margin-top: 30px;
+	margin-bottom:20px;
+	margin-right: 10%;
+	margin-left: 70%;
+}
+
+.dad4{
+	width: 80%;
+	height: 110px;
+	float: left;
+	background: #8293a2;
 }
