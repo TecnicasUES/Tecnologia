@@ -30,3 +30,39 @@ header{
 	float: left;
 	background: #94f7b5;
 }
+.a1{
+	width: 60%;
+	height: 50px;
+	float: left;
+	background: #000;
+}
+.a2{
+	width: 40%;
+	height: 150px;
+	float: left;
+	background: #6b6b6b;
+}
+.a2a{
+	width: 15%;
+	height: 50px;
+	float: left;
+	background: #01aefd;
+}
+.a2b{
+	width: 35%;
+	height: 50px;
+	float: left;
+	background: #05a4db;
+}
+.a2c{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: #01aefd;
+}
+.a2d{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: #05a4db;
+}
