@@ -35,7 +35,7 @@
 	float: left;
 }
 .partners {
-	width: 26%;
+	width: 24%;
 	height: 18px;
 	background-color: #48cc98;
 	float: left;
@@ -44,28 +44,72 @@
 	background-color: #48ff33;
 	float: left;
 	height: 18px;
-	width: 28%;
+	width: 20%;
 }
 .ultim {
-	background-color: #48ff33;
+	background-color: #78ab57;
 	float: left;
 	height: 18px;
-	width: 18%;
+	width: 20%;
 
 }
 .navigation {
-	background-color: #fff;
+	background-color: #45bb54;
 	height: 40px;
 	width: 100%;
 }
 
 .image {
-    background-color: #ccc;
-    border-color: #007;
+    background-color: #abc487;
 	float: left;
-	margin: 0.21% 2%;
-	height: 35px;
-	width: 14%;
+	height: 40px;
+	width: 15%;
 }
-
-.
+.c2{
+    background-color: #bbcd45;
+	float: left;
+	height: 40px;
+	width: 20%;
+}
+.c3{
+    background-color: #ccff78;
+	float: left;
+	height: 40px;
+	width: 9.28%;
+}
+.c4{
+    background-color: #bb5f43;
+	float: left;
+	height: 40px;
+	width: 9.28%;
+}
+.c5{
+    background-color: #dd5823;
+	float: left;
+	height: 40px;
+	width: 9.28%;
+}
+.c6{
+    background-color: #aa6589;
+	float: left;
+	height: 40px;
+	width: 9.28%;
+}
+.c7{
+    background-color: #dd5823;
+	float: left;
+	height: 40px;
+	width: 9.28%;
+}
+.c8{
+    background-color: #74ad67;
+	float: left;
+	height: 40px;
+	width: 9.28%;
+}
+.c9{
+    background-color: #ee5828;
+	float: left;
+	height: 40px;
+	width: 9.28%;
+}
