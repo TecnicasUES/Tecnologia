@@ -406,3 +406,109 @@ header {
 	float: left;
 }
 
+#locion {
+	background: peru;
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+
+.loc_left {
+	background: lightblue;
+	width: 45%;
+	height: 200px;
+	float: left;
+}
+
+.loc_left1 {
+	background: rosybrown;
+	width: 8%;
+	height: 200px;
+	float: left;
+}
+
+.loc_leftcenter {
+	background: cyan;
+	width: 84%;
+	height: 200px;
+	float: left;
+}
+
+.loc_centerup {
+	background: sandybrown;
+	width: 100%;
+	height: 25px;
+	float: left;
+}
+
+.loc_centercenter {
+	background: cyan;
+	width: 100%;
+	height: 150px;
+	float: left;
+}
+
+.loc_centerdown {
+	background: sandybrown;
+	width: 100%;
+	height: 25px;
+	float: left;
+}
+
+
+
+.loc_left_right {
+	background: rosybrown;
+	width: 8%;
+	height: 200px;
+	float: left;
+}
+
+.loc_right {
+	background: olive;
+	width: 55%;
+	height: 200px;
+	float: left;
+}
+
+.loc_upper {
+	background: olive;
+	width: 100%;
+	height: 90px;
+	float: left;
+}
+
+.loc_downer {
+	background: teal;
+	width: 100%;
+	height: 110px;
+	float: left;
+}
+
+#chero {
+	background: blue;
+	width: 100%;
+	height: 120px;
+	float: left;
+}
+
+#revistas {
+	background: peachpuff;
+	width: 100%;
+	height: 120px;
+	float: left;
+}
+
+#info {
+	background: purple;
+	width: 100%;
+	height: 250px;
+	float: left;
+}
+
+footer {
+	background: yellowgreen;
+	width: 100%;
+	height: 100px;
+	float: left;
+}
