@@ -500,3 +500,84 @@ header{
 	margin-left: 80%;
 	background: #234cbf;
 }
+footer{
+	width:100%;
+	height: 200px;
+	float: left;
+	background: #ec7a2e;
+}
+.child9{
+	width:100%;
+	height: 200px;
+	float: left;
+	background: #e39e6f;
+}
+.u{
+	width:30%;
+	height: 180px;
+	float: left;
+	background:#d4aabd;
+}
+.v{
+	width:70%;
+	height: 180px;
+	float: left;
+	background:#d379a1 ;
+}
+.w{
+	width:100%;
+	height: 20px;
+	float: left;
+	background:#c61765;
+}
+.ua{
+	width:60%;
+	height: 100px;
+	float: left;
+	margin-left: 20%;
+	background:#6b2946;
+}
+.ub{
+	width:60%;
+	height: 50px;
+	float: left;
+	margin-left: 20%;
+	background:#ff5ea6;
+}
+.va{
+	width:25%;
+	height: 180px;
+	float: left;
+	background:#5eb9ff;
+}
+.vb{
+	width:25%;
+	height: 180px;
+	float: left;
+	background:#2075b7;
+}
+.vc{
+	width:25%;
+	height: 180px;
+	float: left;
+	background:##5eb9ff;
+}
+.vd{
+	width:25%;
+	height: 180px;
+	float: left;
+	background:#2075b7;
+}
+.wa{
+	width:30%;
+	height: 20px;
+	float: left;
+	background:#20b7b5;
+}
+.wb{
+	width:70%;
+	height: 20px;
+	float: left;
+	background:#a1fffe;
+}
+
