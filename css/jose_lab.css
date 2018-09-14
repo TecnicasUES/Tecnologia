@@ -263,3 +263,32 @@ section{
 	float: right;
 	background: #FF6464;
 }
+.child4{
+	width: 100%;
+	height: 500px;
+	float: right;
+	background: #66C1FF;
+}
+.i{
+	width: 40%;
+	height: 450px;
+	float: left;
+	margin-left: 2.5%;
+	margin-top: 10px;
+	background: #D64EDD;
+}
+.j{
+	width: 52.5%;
+	height: 450px;
+	float: left;
+	margin-left: 2.5%;
+	margin-top: 10px;
+	background: #D64EDD;
+}
+.k{
+	width: 100%;
+	height: 30px;
+	float: left;
+	margin-top: 10px;
+	background: #404CE2;
+}
