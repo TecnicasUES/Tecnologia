@@ -303,13 +303,118 @@ body{
 	background:#1FB91F;
     }
    .k{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background:#FBDE3C;
+
+}   
+
+
+   .hi1k{
 	width: 50%;
 	height: 60px;
 	float: left;
-	margin-left: 50%;
-	background:#FBDE3C;
+	background:#090909;
+}
+   .l{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #F95F58;
 
 }
+   .m{
+	width: 30%;
+	height: 60px;
+	float: left;
+	margin-left: 35%;
+	margin-right:35%;
+	background: #58B7F9;
+}
+   .n{
+	width: 100%;
+	height: 120px;
+	float: left;
+	background: #40B236;
+	
+}
+
+   .grande{
+    width: 100%;
+	height: 400px;
+	float: left;
+	background: #C3F90C;
+}
+    
+   .hi8{
+	width: 60%;
+	height: 400px;
+	float: left;
+	background:#03734E;
+}
+   .o{
+	width: 100%;
+	height: 72px;
+	float: left;
+	border: #083201 1px solid;
+	background: #03734E;
+}
+   .p{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: #0A8D42;
+}
+
+   .hip{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	margin-left: : 0.25%;
+	margin-right: 0.25%;
+    background: #02B44E;
+}
+    .hi1p{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+    margin-left: : 0.25%;
+	margin-right: 0.25%;
+    background:#08DE63;
+ 
+}
+   .q{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: #1E7643;
+}
+
+.hiq{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+    .hiq1{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	margin-left: : 0.25%;
+	margin-right: 0.25%;
+	background:#1BB6B2; 
+}
+   .t{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: #73FA48;
+	}
+
+
 
 
 
