@@ -13,7 +13,6 @@ header {
 	width: 100%;
 	height: 70px;
 	float: left;
-
 }
 
 #headeruno {
@@ -70,7 +69,6 @@ header {
 	width: 12%;
 	height: 40px;
 	float: left;
-
 }
 
 .hijoheader22 {
@@ -78,7 +76,6 @@ header {
 	width: 18%;
 	height: 40px;
 	float: left;
-
 }
 
 .hijoheader33 {
@@ -86,7 +83,6 @@ header {
 	width: 8%;
 	height: 40px;
 	float: left;
-
 }
 
 .hijoheader44 {
@@ -94,7 +90,6 @@ header {
 	width: 10%;
 	height: 40px;
 	float: left;
-
 }
 
 .hijoheader55 {
@@ -102,7 +97,6 @@ header {
 	width: 10%;
 	height: 40px;
 	float: left;
-
 }
 
 .hijoheader66 {
@@ -110,7 +104,6 @@ header {
 	width: 12%;
 	height: 40px;
 	float: left;
-
 }
 
 .hijoheader77 {
@@ -118,7 +111,6 @@ header {
 	width: 8%;
 	height: 40px;
 	float: left;
-
 }
 
 .hijoheader88 {
@@ -126,7 +118,6 @@ header {
 	width: 10%;
 	height: 40px;
 	float: left;
-
 }
 
 .hijoheader99 {
@@ -230,8 +221,6 @@ header {
 	float: left;	
 }
 
-
-
 .left2b {
 	background: green;
 	width: 100%;
@@ -247,14 +236,12 @@ header {
 }
 
 
-
 .left3 {
 	background: midnightblue;
 	width: 100%;
 	height: 125px;
 	float: left;	
 }
-
 
 
 .right {
@@ -455,8 +442,6 @@ header {
 	float: left;
 }
 
-
-
 .loc_left_right {
 	background: rosybrown;
 	width: 8%;
@@ -492,9 +477,93 @@ header {
 	float: left;
 }
 
+.cherin {
+	background: midnightblue;
+	width: 60%;
+	height: 120px;
+	float: left;
+}
+
+.cherin1 {
+	background: brown;
+	width: 33%;
+	height: 120px;
+	float: left;
+}
+
+.cherin2 {
+	background: midnightblue;
+	width: 34%;
+	height: 120px;
+	float: left;
+}
+
+.cherin2up {
+	background: midnightblue;
+	width: 10%;
+	height: 10px;
+	float: left;
+}
+
+.cherin2center {
+	background: gray;
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+
+.cherin2down {
+	background: midnightblue;
+	width: 100%;
+	height: 10px;
+	float: left;
+}
+
+.cherin3 {
+	background: brown;
+	width: 33%;
+	height: 120px;
+	float: left;
+}
+
+.jeibu {
+	background: skyblue;
+	width: 20%;
+	height: 120px;
+	float: left;
+}
+
+.space_jeibu {
+	background: yellow;
+	width: 20%;
+	height: 120px;
+	float: left;
+}
+
 #revistas {
 	background: peachpuff;
 	width: 100%;
+	height: 120px;
+	float: left;
+}
+
+.revistas1 {
+	background: deepskyblue;
+	width: 33%;
+	height: 120px;
+	float: left;
+}
+
+.revistas2 {
+	background: mediumblue;
+	width: 34%;
+	height: 120px;
+	float: left;
+}
+
+.revistas3 {
+	background: midnightblue;
+	width: 33%;
 	height: 120px;
 	float: left;
 }
@@ -509,6 +578,20 @@ header {
 footer {
 	background: yellowgreen;
 	width: 100%;
+	height: 100px;
+	float: left;
+}
+
+#hitler1 {
+	background: aquamarine;
+	width: 40%;
+	height: 100px;
+	float: left;
+}
+
+#hitler2 {
+	background: darkolivegreen;
+	width: 60%;
 	height: 100px;
 	float: left;
 }
