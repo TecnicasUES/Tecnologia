@@ -28,44 +28,45 @@ header{
 	float: left; 
 	background:indigo; 
 } 
-  .a{ 
+  .one{ 
     width:45%; 
     height: 60px; 
     float: left; 
     background:fuchsia; 
 } 
 
-.b{ 
+.two{ 
 	width:45%; 
 	height: 60px; 
 	float:left; 
 	background:lavender; 
 } 
 
-.c{ 
+.tree{ 
 	width:55%; 
 	height: 60px; 
 	float: left; 
 	background:mediumpurple; 
 } 
 
-.d{ 
+.four{ 
 	width:20%; 
 	height: 60px; 
 	float: left; 
 	background:darkmagenta;   
 } 
 
-.e{ 
+.five{ 
 	width:27%; 
 	height: 60px; 
 	float: left; 
 	background:mediumturquoise; 
 } 
 
-.f{ 
+.six{ 
 	width:45%; 
 	height: 60px; 
 	float: left; 
-	background:steelblue; 
+	background:steelblue;  
+}
 
