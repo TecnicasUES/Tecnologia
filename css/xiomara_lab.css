@@ -57,61 +57,61 @@ header{
 }
 .espacioinferior{
 	width: 100%;
-	height: 80%;
+	height: 80px;
 	float: left;
 	background: blueviolet;
 }
 .logo{
-	width: 100%;
-	height: 70%;
+	width: 10%;
+	height: 80px;
 	float: left;
-	background: lightcoral;
+	background: slateblue;
 }
 .espacio{
-	width: 100%;
-	height: 70%;
+	width: 27%;
+	height: 80px;
 	float: left;
-	background: lightcoral;
+	background: lime;
 }
 .home{
-	width: 100%;
-	height: 70%;
+	width: 9%;
+	height: 80px;
 	float: left;
-	background: lightcoral;
+	background: seagreen;
 }
 .knowus{
-	width: 100%;
-	height: 70%;
+	width: 9%;
+	height: 80px;
 	float: left;
-	background: lightcoral;
+	background: teal;
 }
 .brands{
-	width: 100%;
-	height: 70%;
+	width: 9%;
+	height: 80px;
 	float: left;
-	background: lightcoral;
+	background: steelblue;
 }
 .corporate{
-	width: 100%;
-	height: 70%;
+	width: 9%;
+	height: 80px;
 	float: left;
-	background: lightcoral;
+	background: tan;
 }
 .blog{
-	width: 100%;
-	height: 70%;
+	width: 9%;
+	height: 80px;
 	float: left;
-	background: lightcoral;
+	background: brown;
 }
 .comunity{
-	width: 100%;
-	height: 70%;
+	width: 9%;
+	height: 80px;
 	float: left;
-	background: lightcoral;
+	background: gray;
 }
 .contact{
-	width: 100%;
-	height: 70%;
+	width: 9%;
+	height: 80px;
 	float: left;
-	background: ;
+	background: turquoise;
 }
