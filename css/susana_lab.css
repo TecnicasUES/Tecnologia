@@ -1,12 +1,181 @@
 @charset "utf-8";
 
 body{
-	background: # ;
+	background: #B2B2B2;
 	width: 100%;
 	height: auto;
 	font-family: arial;
 	margin: 0;
 }
 header{
-	width: 100%
+	width: 100%;
+	height: auto;
+	float: left;
+	background: #D37171; 
 }
+.child1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #446BAA;
+}
+.a{
+	width: 50%;
+	height: 50px;
+	float: left;
+	background: #B21F1F;
+}
+.b{
+	width: 50%;
+	height: 50px;
+	float: left;
+	background: #B21F1F;
+}
+.b1{
+	width: 10%;
+	height: 50px;
+	float: left;
+	background: #6A3C75;
+}
+.b2{
+	width: 45%;
+	height: 50px;
+	float: left;
+	background: #3C3C75;
+}
+.b3{
+	width: 15%;
+	height: 50px;
+	float: left;
+	background: #3C6F75;
+}
+.b4{
+	width: 15%;
+	height: 50px;
+	float: left;
+	background: #3C755E;
+}
+.b5{
+	width: 15%;
+	height: 50px;
+	float: left;
+	background: #55753C;
+}
+.child2{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #446BAA;
+}
+.c{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: #446BAA;
+}
+.c1{
+	width: 30%;
+	height: 80px;
+	float: left;
+	margin-left: 7%;
+	background: #6D91C6;
+}
+.d{
+	width: 70%;
+	height: 80px;
+	float: left;
+	background: #95C9B1;
+}
+.d1{
+	width: 20%;
+	height: 80px;
+	float: left;
+	background: #E8AD28;
+}
+.d2{
+	width: 15%;
+	height: 80px;
+	float: left;
+	background: #628721;
+}
+.d3{
+	width: 15%;
+	height: 80px;
+	float: left;
+	background: #56A8A6;
+}
+.d4{
+	width: 15%;
+	height: 80px;
+	float: left;
+	background: #568BA8;
+}
+.d5{
+	width: 5%;
+	height: 80px;
+	float: left;
+	background: #646AE2;
+}
+.d6{
+	width: 15%;
+	height: 80px;
+	float: left;
+	background: #AB64E2;
+}
+.d7{
+	width: 15%;
+	height: 80px;
+	float: left;
+	background: #BA49B5;
+}
+section{
+	width: 100%;
+	height: auto;
+	float: left;
+	background: #A9A9AA; 
+}
+.child3{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #446493;
+}
+.e{
+	width: 60%;
+	height: 500px;
+	float: left;
+	background: #A7B3C6;
+}
+.e1{
+	width: 90%;
+	height: 200px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 70px;
+	background: #1F6321;
+}
+.e1a{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #4A6340;
+}
+.e1b{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #66AA88;
+}
+.e1c{
+	width: 100%;
+	height: 0px;
+	float: left;
+	background: #0F3F34;
+}
+.f{
+	width: 40%;
+	height: 500px;
+	float: left;
+	background: #294977;
+}
+	
