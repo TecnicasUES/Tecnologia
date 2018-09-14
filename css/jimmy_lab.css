@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+
+body{
+	background: blue;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0%;
+}
+
+.hea{
+	width: 100%;
+	height: 25px;
+	float: left;
+	background: #ffffff; 
+}
+
+.hea1{
+	width: 50%;
+	height: 25px;
+	float: left;
+	background: #373737;
+}
+
+.hea2{
+	width: 50%;
+	height: 25px;
+	float: left;
+	background: #9f9d9d;
+}
+
+.hea2h1{
+	width: 
+}
