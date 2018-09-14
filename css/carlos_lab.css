@@ -315,3 +315,45 @@ header{
 	margin-left: 50%;
 	background: #853b18;
 }
+.bloque3{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: blue;
+}
+.b3h1{
+	width: 45%;
+	height: 200px;
+	float: left;
+	background: #ad1ca1; 
+}
+.b3h2{
+	width: 55%;
+	height: 200px;
+	float: left;
+	background: #601cad; 
+}
+.bloque4{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: blue;
+}
+.b4h1{
+	width: 33.33%;
+	height: 200px;
+	float: left;
+	background: #221423; 
+}
+.b4h2{
+	width: 33.33%;
+	height: 200px;
+	float: left;
+	background: #d5b791; 
+}
+.b4h3{
+	width: 33.33%;
+	height: 200px;
+	float: left;
+	background: #c8a19a; 
+}
