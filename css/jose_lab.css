@@ -1,1 +1,80 @@
 @charset "utf-8";
+body{
+	background: #BDE1FF;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+header{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #FBFFC0;
+}
+.child{
+	width: 100%;
+	height: 35px;
+	float: left;
+	background: #4A75FF;
+}
+.a{
+	width: 50%;
+	height: 35px;
+	float: left;
+	background: #4DFFFA;
+}
+.b{
+	width: 50%;
+	height: 35px;
+	float: left;
+	background:#F252FF;
+}
+.b1{
+	width: 10%;
+	height: 35px;
+	float: left;
+	background:#9902AA;
+}
+.b2{
+	width: 25%;
+	height: 35px;
+	float: left;
+	background:#B734E2;
+}
+.b3{
+	width: 20%;
+	height: 35px;
+	float: left;
+	background:#9902AA;
+}
+.b4{
+	width: 18%;
+	height: 35px;
+	float: left;
+	background:#B734E2;
+}
+.b5{
+	width: 27%;
+	height: 35px;
+	float: left;
+	background:#9902AA;
+}
+.child1{
+	width: 100%;
+	height: 115px;
+	float: left;
+	background: #4A75FF;
+}
+.c{
+	width: 40%;
+	height: 115px;
+	float: left;
+	background: #FFFA50;
+}
+.d{
+	width: 60%;
+	height: 115px;
+	float: left;
+	background: #A8A12A;
+}
