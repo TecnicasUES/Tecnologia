@@ -470,6 +470,20 @@ header {
 	float: left;
 }
 
+#linea {
+	background: moccasin;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
+.lineal {
+	background: moccasin;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
 #chero {
 	background: blue;
 	width: 100%;
@@ -575,6 +589,62 @@ header {
 	float: left;
 }
 
+.info1 {
+	background: purple;
+	width: 100%;
+	height: 30px;
+	float: left;
+}
+
+.info11 {
+	background: gray;
+	width: 15%;
+	height: 30px;
+	float: right;
+}
+
+.info2 {
+	background: purple;
+	width: 100%;
+	height: 220px;
+	float: left;
+}
+
+.info21 {
+	background: navy;
+	width: 10%;
+	height: 220px;
+	float: left;
+}
+
+.info22 {
+	background: blue;
+	width: 25%;
+	height: 220px;
+	float: left;
+}
+
+.info23 {
+	background: navy;
+	width: 15%;
+	height: 220px;
+	float: left;
+}
+
+.info24 {
+	background: blue;
+	width: 30%;
+	height: 220px;
+	float: left;
+}
+
+.info25 {
+	background: navy;
+	width: 20%;
+	height: 220px;
+	float: left;
+}
+
 footer {
 	background: yellowgreen;
 	width: 100%;
@@ -589,9 +659,200 @@ footer {
 	float: left;
 }
 
+.hit11 {
+	background: maroon;
+	width: 15%;
+	height: 100px;
+	float: left;
+}
+
+.hit12 {
+	background: oldlace;
+	width: 70%;
+	height: 100px;
+	float: left;
+}
+
+.hit12a {
+	background: aqua;
+	width: 100%;
+	height: 20px;
+	float: left;
+}
+
+.hit12b {
+	background: navy;
+	width: 100%;
+	height: 40px;
+	float: left;
+}
+
+.hit_a {
+	background: navy;
+	width: 20%;
+	height: 40px;
+	float: left;
+}
+
+.hit_b {
+	background: orchid;
+	width: 60%;
+	height: 40px;
+	float: left;
+}
+
+.hit_c {
+	background: navy;
+	width: 20%;
+	height: 40px;
+	float: left;
+}
+
+.hit12c {
+	background: midnightblue;
+	width: 100%;
+	height: 25px;
+	float: left;
+}
+
+.hit12d {
+	background: oldlace;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
+.hit13 {
+	background: maroon;
+	width: 15%;
+	height: 100px;
+	float: left;
+}
+
 #hitler2 {
 	background: darkolivegreen;
 	width: 60%;
 	height: 100px;
+	float: left;
+}
+
+.hitler2a {
+	background: gray;
+	width: 25%;
+	height: 70px;
+	float: left;
+}
+
+.hitler2a1 {
+	background: tan;
+	width: 100%;
+	height: 20px;
+	float: left;
+}
+
+.hitler2a2 {
+	background: sienna;
+	width: 100%;
+	height: 50px;
+	float: left;
+}
+
+.hitler2b {
+	background: lightgray;
+	width: 25%;
+	height: 70px;
+	float: left;
+}
+
+.hitler2b1 {
+	background: red;
+	width: 100%;
+	height: 30px;
+	float: left;
+}
+
+.hitler2b2 {
+	background: peachpuff;
+	width: 100%;
+	height: 40px;
+	float: left;
+}
+
+.hitler2c {
+	background: gray ;
+	width: 25%;
+	height: 70px;
+	float: left;
+}
+
+.hitler2d {
+	background: lightgray;
+	width: 25%;
+	height: 70px;
+	float: left;
+}
+
+
+
+.hitler22 {
+	background: brown;
+	width: 100%;
+	height: 30px;
+	float: left;
+}
+
+.hitler221 {
+	background: brown;
+	width: 12.5%;
+	height: 30px;
+	float: left;
+}
+
+.hitler222 {
+	background: rosybrown;
+	width: 12.5%;
+	height: 30px;
+	float: left;
+}
+
+.hitler223 {
+	background: sandybrown;
+	width: 12.5%;
+	height: 30px;
+	float: left;
+}
+
+.hitler224 {
+	background: brown;
+	width: 12.5%;
+	height: 30px;
+	float: left;
+}
+
+.hitler225 {
+	background: rosybrown;
+	width: 12.5%;
+	height: 30px;
+	float: left;
+}
+
+.hitler226 {
+	background: sandybrown;
+	width: 12.5%;
+	height: 30px;
+	float: left;
+}
+
+.hitler227 {
+	background: brown;
+	width: 12.5%;
+	height: 30px;
+	float: left;
+}
+
+.hitler228 {
+	background: rosybrown;
+	width: 12.5%;
+	height: 30px;
 	float: left;
 }
