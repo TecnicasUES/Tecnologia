@@ -202,3 +202,95 @@ header{
 	background: #181F41;
 }
 
+
+.columnas{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #fff;
+}
+
+.colum_1{
+	width: 33.33%;
+	height: 300px;
+	float: left;
+	background: #ffde00;
+}
+
+.colum_2{
+	width: 33.33%;
+	height: 300px;
+	float: left;
+	background: #035a87;
+}
+
+.column_2_1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #7676B9;
+}
+
+.column_2_1_1{
+	width: 40%;
+	height: 50px;
+	float: left;
+	background: #085ae0;
+}
+
+.column_2_2{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #4654A4;
+}
+
+.column_2_3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #273260;
+}
+
+.column_2_3_1{
+	width: 40%;
+	height: 50px;
+	float: right;
+	background: #7ac9f2;
+}
+
+.colum_3{
+	width: 33.33%;
+	height: 300px;
+	float: left;
+	background: #0a99e3;
+}
+
+.column_3_1_1{
+	width: 40%;
+	height: 50px;
+	float: left;
+	background: #085ae0;
+}
+
+.column_3_2{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #4654A4;
+}
+
+.column_3_3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #273260;
+}
+
+.column_3_3_1{
+	width: 40%;
+	height: 50px;
+	float: right;
+	background: #7ac9f2;
+}
+
