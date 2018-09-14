@@ -183,14 +183,92 @@ header{
 	background: #ae4521;
 }
 .g2{
-	width: 33.333333%;
+	width: 66.66666%;
 	height: 475px;
 	float: left;
-	background: #78dd69;
+	background: #aa2465;
 }
-.g3{
-	width: 33.333333%;
-	height: 475px;
+.g21{
+	width: 100%;
+	height: 50px;
 	float: left;
-	background: #a5a816;
+	background: violet;
+}
+.g22{
+	width: 100%;
+	height: 425px;
+	float: left;
+	background: yellow;
+}
+.g22a{
+	width: 50%;
+	height: 425px;
+	float: left;
+	background: beige;
+}
+.g22b{
+	width: 50%;
+	height: 425px;
+	float: left;
+	background: #975aa3;
+}
+.g22a1{
+	width: 60%;
+	height: 75px;
+	float: left;
+	background: #9bccc3;
+}
+.g22a2{
+	width: 40%;
+	height: 75px;
+	float: left;
+	background: #9c5111;
+}
+.g22a3{
+	width: 100%;
+	height:275px;
+	float: left;
+	background: #74cc25;
+}
+.g22a4{
+	width: 60%;
+	height: 75px;
+	float: left;
+	background: #9bccc3;
+}
+.g22a5{
+	width: 40%;
+	height: 75px;
+	float: left;
+	background: #9c5111;
+}
+.g22b1{
+	width: 60%;
+	height: 75px;
+	float: left;
+	background: pink;
+}
+.g22b2{
+	width: 40%;
+	height: 75px;
+	float: left;
+	background: red;
+}
+.g22b3{
+	width: 100%;
+	height:275px;
+	float: left;
+	background: blue;
+}
+.g22b4{
+	width: 60%;
+	height: 75px;
+	float: left;
+	background: pink;
+}
+.g22b5{
+	width: 40%;
+	height: 75px;
+	float: left;
+	background: red;
 }
