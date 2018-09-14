@@ -7,66 +7,111 @@ body{
 	font-family: arial;
 	margin: 0;
 }
-
 header{
 	width: 100%;
 	height: 150px;
 	float: left;
 	background: indianred;
 }
-
 .espaciosuperior{
 	width: 100%;
 	height: 70px;
 	float: left;
 	background: lightcoral;
 }
-
 .espblanco{
 	width: 50%;
 	height: 70px;
 	float: left;
 	background: blue;
 }
-
 .icono{
 	width: 7%;
 	height: 70px;
 	float: left;
 	background: lightcoral;
 }
-
 .numerotel{
 	width: 17%;
 	height: 70px;
 	float: left;
 	background: tomato;
 }
-
 .ourpartners{
 	width: 7%;
 	height: 70px;
 	float: left;
 	background: orange;
 }
-
 .moreinfo{
 	width: 8%;
 	height: 70px;
 	float: left;
 	background: plum;
 }
-
 .singin{
 	width: 7%;
 	height: 70px;
 	float: left;
 	background: magenta;
 }
-
 .espacioinferior{
 	width: 100%;
 	height: 80%;
 	float: left;
 	background: blueviolet;
+}
+.logo{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: lightcoral;
+}
+.espacio{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: lightcoral;
+}
+.home{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: lightcoral;
+}
+.knowus{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: lightcoral;
+}
+.brands{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: lightcoral;
+}
+.corporate{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: lightcoral;
+}
+.blog{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: lightcoral;
+}
+.comunity{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: lightcoral;
+}
+.contact{
+	width: 100%;
+	height: 70%;
+	float: left;
+	background: ;
 }
