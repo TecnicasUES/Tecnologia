@@ -78,3 +78,114 @@ header{
 	float: left;
 	background: #A8A12A;
 }
+.c1{
+	width: 35%;
+	height: 115px;
+	float: left;
+	margin-left: 5%;
+	background: #F252FF;
+}
+.d1{
+	width: 15%;
+	height: 115px;
+	float: left;
+	background: #6300FF;
+}
+.d2{
+	width: 15%;
+	height: 115px;
+	float: left;
+	background: #09AEC9;
+}
+.d3{
+	width: 15%;
+	height: 115px;
+	float: left;
+	background: #6300ff;
+}
+.d4{
+	width: 19%;
+	height: 115px;
+	float: left;
+	background: #09AEC9;
+}
+.d5{
+	width: 10%;
+	height: 115px;
+	float: left;
+	background: #6300ff;
+}
+.d6{
+	width: 13%;
+	height: 115px;
+	float: left;
+	background: #09AEC9;
+}
+.d7{
+	width: 13%;
+	height: 115px;
+	float: left;
+	background: #6300ff;
+}
+section{
+	width: 100%;
+	height: 2100px;
+	float: left;
+	background: #FBFFC0;
+}
+.child2{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #ABFF52;
+}
+.e{
+	width: 55%;
+	height: 500px;
+	float: left;
+	background: #FF7900;
+}
+.f{
+	width: 45%;
+	height: 500px;
+	float: left;
+	background: #FF1D68;
+}
+.e1{
+	width: 94%;
+	height: 150px;
+	float: left;
+	margin-left: 4%;
+	margin-top: 70px;
+	background: #FF99E5;
+}
+.child3{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #F252FF;
+}
+.g{
+	width: 40%;
+	height: 300px;
+	float: left;
+	background: #FF0000;
+}
+.h{
+	width: 60%;
+	height: 300px;
+	float: left;
+	background: #FFF800;
+}
+.h1{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: #58FF00;
+}
+.h2{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: #B192FC;
+}
