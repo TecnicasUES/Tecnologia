@@ -189,10 +189,24 @@
 	width: 69%;
 	margin: 3.5px;
 }
+.cc{
+	background-color: #34dd59;
+	float: right;
+	height: 108px;
+	width: 50%;
+	margin: 3.5px;
+
+}
 .img4{
 	background-color: #54dc87;
 	float: right;
 	height: 115px;
 	width: 69%;
+	margin: 3.5px;
+}
+.cc1{
+	background-color: #67dc34;
+	height: 108px;
+	width: 50%;
 	margin: 3.5px;
 }
