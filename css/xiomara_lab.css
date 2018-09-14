@@ -288,3 +288,24 @@ header{
 	margin-left: 1%;
 	margin-top: 22px;
 }
+.thor{
+	width: 57%;
+	height: 522px;
+	float: left;
+	background: steelblue;
+	margin-top: 22px;
+	margin-left: 1%;
+}
+.thorcito{
+	width: 100%;
+	height: 270px;
+	float: left;
+	background: darkturquoise;
+}
+.thorsito2{
+	width: 100%;
+	height: 270px;
+	float: left;
+	background: blue;
+	margin-top: 22px;
+}
