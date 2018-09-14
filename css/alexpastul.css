@@ -738,7 +738,119 @@ header{
 }
 .nietolab5{
 	width: 25%;
-	height: 50px;
+	height: 60px;
 	float: left;
 	background: #57B892;
+}
+
+
+.labseccion1{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #F3E600;
+}
+.sec1{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: #B44090;
+}
+.hijosec1{
+	width: 20%;
+	height: 60px;
+	float: left;
+	margin-left: 10%;
+	background: #65378C;
+}
+.sec2{
+	width: 60%;
+	height: 60px;
+	float: left;
+	background: #0A7E35;
+}
+.hijo1sec2{
+	width: 12%;
+	height: 60px;
+	float: left;
+	background: #5DB463;
+}
+.hijo2sec2{
+	width: 12%;
+	height: 60px;
+	float: left;
+	background: #4E398E;
+}
+.hijo3sec2{
+	width: 10%;
+	height: 60px;
+	float: left;
+	background: #9EC419;
+}
+.hijo4sec2{
+	width: 10%;
+	height: 60px;
+	float: left;
+	background: #3A2680;
+}
+.hijo5sec2{
+	width: 11%;
+	height: 60px;
+	float: left;
+	background: #D17511;
+}
+.hijo6sec2{
+	width: 25%;
+	height: 60px;
+	float: left;
+	background: #C0D000;
+}
+.hijo7sec2{
+	width: 20%;
+	height: 60px;
+	float: left;
+	background: #104822;
+}
+
+
+.labsec02{
+	width: 100%;
+	height: 550px;
+	float: left;
+	background: #5D3863;
+}
+.lab2abuelo1{
+	width: 45%;
+	height: 550px;
+	float: left;
+	margin-left: 5%;
+	background: #E83A66;
+}
+.lab2nieto1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin-top: 100px;
+	background: #E7B665;
+}
+
+.lab2nieto2{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #274194;
+}
+
+.lab2nieto3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #E61065;
+}
+
+.labsec3{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #88A163;
 }
