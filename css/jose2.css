@@ -7,5 +7,26 @@ body{
 	margin: 0;
 }
 header{
-	
+	width: 100%;
+	height: auto;
+	float: left;
+	background: #95e0f9;
+}
+.child{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #95e0f9;
+}
+.a{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #bccace;
+}
+.b{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #94f7b5;
 }
