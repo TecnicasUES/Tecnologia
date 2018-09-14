@@ -547,3 +547,46 @@ footer{
 	float: left;
 	background: #873015;
 }
+.t1{
+	width: 13%;
+	height: 50px;
+	float: left;
+	margin-left: 5%;
+	background: #F7A441;
+}
+.t2{
+	width: 13%;
+	height: 50px;
+	float: left;
+	background: #D8984A;
+}
+.t3{
+	width: 13%;
+	height: 50px;
+	float: left;
+	background: #A3733A;
+}
+.t4{
+	width: 13%;
+	height: 50px;
+	float: left;
+	background: #684923;
+}
+.t5{
+	width: 13%;
+	height: 50px;
+	float: left;
+	background: #F9AF55;
+}
+.t6{
+	width: 13%;
+	height: 50px;
+	float: left;
+	background: #382814;
+}
+.t7{
+	width: 13%;
+	height: 50px;
+	float: left;
+	background: #1C140A;
+}
