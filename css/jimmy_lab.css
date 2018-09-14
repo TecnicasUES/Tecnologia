@@ -156,12 +156,12 @@ body{
 	height: 200px;
 	float: left;
 	margin-left: 5%;
-	margin-top: 60px;
-	background: #f10606;
+	margin-top: 80px;
+	background: #0574ab;
 }
 
 .imgh1{
-	width: 10%;
+	width: 20%;
 	height: 50px;
 	float: left;
 	background: #fbfffe;
@@ -169,26 +169,67 @@ body{
 
 .imgh2{
 	width: 95%;
-	height: 100px;
+	height: 110px;
 	float: left;
 	background: #7d8482;
 }
 
 .imgh3{
-	width: 10%;
-	height: 40px;
+	width: 15%;
+	height: 30px;
 	float: right;
-	margin-top: 10px;
+	margin-top: 5px;
 	margin-right: 5%;
 	background: #274f86;
 }
 
-.imagenh2{
+.lorem{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background: #b0dff5;
+}
+
+.lor1{
+	width: 40%;
+	height: 250px;
+	float: left;
+	background: #258ec6;
+}
+
+
+.lor2{
 	width: 30%;
 	height: 250px;
-	float: right;
-	margin-top: 20px;
-	margin-right: 35%;
-	background: #89c0c5;
+	float: left;
+	background: #0b1521;
+}
+
+
+.lor2h1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #fafafb;
+}
+
+.lor2hin1{
+	width: 70%;
+	height: 50px;
+	float: left;
+	background: #a0bde0;
+}
+.lor2h2{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #a7adb4;
+}
+
+.lor3{
+	width: 30%;
+	height: 250px;
+	float: left;
+	background: #24446a;
 
 }
