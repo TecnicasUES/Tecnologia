@@ -147,3 +147,79 @@ section{
 	float: left;
 	background: #db8b5e;
 }
+.e2{
+	width: 100%;
+	height: 160px;
+	float: left;
+	background: #560e89;
+}
+.e3{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #127f77;
+}
+.e3a{
+	width: 25%;
+	height: 40px;
+	float: left;
+	background: #5f9b97;
+	margin-left: 75%;
+}
+.hijo6{
+	width: 100%;
+	height: 5px;
+	float: left;
+	background: #000000
+}
+.hijo7{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background: #0263bb;
+}
+.f{
+	width: 60%;
+	height: 250px;
+	float: left;
+	background: #829bbf;
+}
+.g{
+	width: 40%;
+	height: 245px;
+	float: left;
+	background: #cecece;
+	margin-top: 5px;
+}
+.f1{
+	width: 90%;
+	height: 250px;
+	float: left;
+	background: #3f6b70;
+	margin-left: 7%;
+}
+.f1a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #66cc66;
+}
+.f1b{
+	width: 100%;
+	height: 130px;
+	float: left;
+	background: #5ca0ea;
+}
+.f1c{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #e2ca88;
+}
+.f1c1{
+	width: 25%;
+	height: 60px;
+	float: left;
+	background: #6d6935;
+	margin-left: 75%;
+}
