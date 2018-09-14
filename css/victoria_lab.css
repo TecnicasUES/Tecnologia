@@ -127,7 +127,6 @@
 }
 .img{
 	background-color: #335eff;
-	float: left;
 	height: 200px;
 	width: 30%;
 	float: left;
@@ -170,4 +169,16 @@
 	height: 140px;
 	width: 100%;
 }
-
+.banner3{
+	background-color: #c94792;
+	float: left;
+	height: 250px;
+	width: 100%;
+}
+.img2{
+	background-color: #474dc9;
+	float: left;
+	height: 230px;
+	width: 29%;
+	margin: 10px 10px;
+}
