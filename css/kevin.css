@@ -781,7 +781,7 @@ header{
 
 .dad3{
 	width: 100%;
-	height: 200px;
+	height: 300px;
 	float: left;
 	background: #106c9b;
 }
@@ -870,9 +870,53 @@ header{
 	margin-left: 70%;
 }
 
-.dad4{
-	width: 80%;
-	height: 110px;
+.dad04{
+	width: 100%;
+	height: 600px;
 	float: left;
-	background: #8293a2;
+	background: #f2e7bc;
+}
+
+.son8{
+	width: 40%;
+	height: 600px;
+	float: left;
+	background: #f2e7bc;
+}
+
+.son9{
+	width: 60%;
+	height: 600px;
+	float: left;
+	background: #f2e7bc;
+}
+
+.grandson20{
+	width: 90%;
+	height: 560px;
+	float: left;
+	background: #ffffff;
+	margin-top: 20px;
+	margin-bottom:20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.grandson21{
+	width: 95%;
+	height: 270px;
+	float: left;
+	background: #b7b7b7;
+	margin-top: 20px;
+	margin-bottom:20px;
+	margin-right: 5%;
+}
+
+.grandson22{
+	width: 95%;
+	height: 270px;
+	float: left;
+	background: #b7b7b7;
+	margin-bottom:20px;
+	margin-right: 5%;
 }
