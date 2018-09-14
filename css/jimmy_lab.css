@@ -214,11 +214,19 @@ body{
 }
 
 .lor2hin1{
-	width: 70%;
+	width: 60%;
 	height: 50px;
 	float: left;
 	background: #a0bde0;
 }
+
+.lor2hin2{
+	width: 40%;
+	height: 50px;
+	float: left;
+	background: #4896f4;
+}
+
 .lor2h2{
 	width: 100%;
 	height: 150px;
@@ -226,6 +234,26 @@ body{
 	background: #a7adb4;
 }
 
+.lor2h3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #01567f;
+}
+
+.lor2hin3{
+	width: 70%;
+	height: 50px;
+	float: left;
+	background: #919495;
+}
+
+.lor2hin4{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: #72c8f2;
+}
 .lor3{
 	width: 30%;
 	height: 250px;
