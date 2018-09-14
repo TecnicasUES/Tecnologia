@@ -153,11 +153,35 @@ section{
 }
 .e1{
 	width: 94%;
-	height: 150px;
+	height: 250px;
 	float: left;
 	margin-left: 4%;
 	margin-top: 70px;
 	background: #FF99E5;
+}
+.e1a{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #0025FF;
+}
+.e1b{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #859CFF;
+}
+.e1c{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #0025FF;
+}
+.e1c1{
+	width: 35%;
+	height: 50px;
+	float: right;
+	background: #409BBF;
 }
 .child3{
 	width: 100%;
@@ -178,14 +202,64 @@ section{
 	background: #FFF800;
 }
 .h1{
-	width: 50%;
+	width: 42.5%;
 	height: 300px;
 	float: left;
+	margin-left: 5%;
 	background: #58FF00;
 }
 .h2{
-	width: 50%;
+	width: 42.5%;
 	height: 300px;
 	float: left;
+	margin-left: 5%;
 	background: #B192FC;
+}
+.h1a{
+	width: 100%;
+	height: 75px;
+	float: left;
+	background: #0080FF;
+}
+.h1b{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #9B962C;
+}
+.h1c{
+	width: 100%;
+	height: 75px;
+	float: left;
+	background: #0080FF;
+}
+.h2a{
+	width: 100%;
+	height: 75px;
+	float: left;
+	background: #9B962C;
+}
+.h2b{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #0080FF;
+}
+.h2c{
+	width: 100%;
+	height: 75px;
+	float: left;
+	background: #9B962C;
+}
+.h1c1{
+	width: 35%;
+	height: 75px;
+	float: right;
+	background: #FF6464;
+}
+.h2c1{
+	width: 35%;
+	height: 75px;
+	float: right;
+	background: #FF6464;
 }
