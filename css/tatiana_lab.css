@@ -394,3 +394,109 @@ header{
 	float: left;
 	background: #a2c403;
 }
+.r{
+	width:40%;
+	height: 600px;
+	float: left;
+	background: #7c7eaa;
+}
+.s{
+	width:30%;
+	height: 600px;
+	float: left;
+	background: #4448a9;
+}
+.t{
+	width:30%;
+	height: 600px;
+	float: left;
+	background: #040ca7;
+}
+.ra{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0c43f;
+}
+.rb{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0923f;
+}
+.rc{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0c43f;
+}
+.rd{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0923f;
+}
+.re{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0c43f;
+}
+.rf{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0923f;
+}
+.rg{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0c43f;
+}
+.rh{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0923f;
+}
+.ri{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0c43f;
+}
+.rj{
+	width:100%;
+	height: 60px;
+	float: left;
+	background: #e0923f;
+}
+.sa{
+	width:80%;
+	height: 60px;
+	float: left;
+	margin-left: 20%;
+	margin-top: 40px;
+	background: #c4e357;
+}
+.sb{
+	width:80%;
+	height: 500px;
+	float: left;
+	margin-left: 20%;
+	background: #899f3e;
+}
+.ta{
+	width:100%;
+	height: 40px;
+	float: left;
+	background: #4a71e2;
+}
+.ta1{
+	width:20%;
+	height: 40px;
+	float: left;
+	margin-left: 80%;
+	background: #234cbf;
+}
