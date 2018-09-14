@@ -171,9 +171,131 @@ header {
 	float: left;
 }
 
+.sec_two1 {
+	background: peachpuff;
+	width: 15%;
+	height: 150px;
+	float: left;
+}
+
+.sec_two2 {
+	background: peru;
+	width: 70%;
+	height: 150px;
+	float: left;
+}
+
+.sec_two2a {
+	background: olive;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
+.sec_two2b {
+	background: darkcyan;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
+.beta1 {
+	background: darkcyan;
+	width: 45%;
+	height: 15px;
+	float: left;
+}
+
+.beta2 {
+	background: red;
+	width: 55%;
+	height: 15px;
+	float: left;
+}
+
+.sec_two2c {
+	background: aqua;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
+.sec_two2d {
+	background: yellowgreen;
+	width: 100%;
+	height: 60px;
+	float: left;
+}
+
+.sec_two2e {
+	background: teal;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
+.sec_two2f {
+	background: forestgreen;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
+.f1 {
+	background: forestgreen;
+	width: 75%;
+	height: 15px;
+	float: left;
+}
+
+.f2 {
+	background: purple;
+	width: 25%;
+	height: 15px;
+	float: left;
+}
+
+
+.sec_two2g {
+	background: darkseagreen;
+	width: 100%;
+	height: 15px;
+	float: left;
+}
+
+.sec_two3 {
+	background: peachpuff;
+	width: 15%;
+	height: 150px;
+	float: left;
+}
+
+
 .sec_three {
-	background: paleturquoise;
+	background: darkgreen;
 	width: 30%;
 	height: 150px;
 	float: left;
 }
+
+.sec_three1 {
+	background: mediumaquamarine;
+	width: 15%;
+	height: 150px;
+	float: left;
+}
+
+.sec_three2 {
+	background: peru;
+	width: 70%;
+	height: 150px;
+	float: left;
+}
+
+.sec_three3 {
+	background: mediumaquamarine;
+	width: 15%;
+	height: 150px;
+	float: left;
+}
+
