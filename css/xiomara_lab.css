@@ -160,3 +160,111 @@ header{
 	float: left;
 	background: sienna;
 }
+.child1{
+	width: 34%;
+	height: 300px;
+	float: left;
+	background: peru;
+}
+.imagen{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: goldenrod;
+}
+.child2{
+	width: 33%;
+	height: 300px;
+	float: left;
+	background: darkgoldenrod;
+}
+.texa{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: cornflowerblue;
+}
+.uno{
+	width: 60%;
+	height: 100px;
+	float: left;
+	background: pink;
+}
+.dos{
+	width: 40%;
+	height: 100px;
+	float: left;
+	background: red;
+}
+.texm{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: mediumslateblue;
+}
+.texb{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: deepskyblue;
+}
+.one{
+	width: 70%;
+	height: 50px;
+	float: left;
+	background: purple;
+}
+.two{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: teal;
+}
+.child3{
+	width: 33%;
+	height: 300px;
+	float: left;
+	background: tan;
+}
+.arriba{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: green;
+}
+.juan{
+	width: 60%;
+	height: 100px;
+	float: left;
+	background: blue;
+}
+.tu{
+	width: 40%;
+	height: 100px;
+	float: left;
+	background: goldenrod;
+}
+.medio{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: springgreen;
+}
+.bajo{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: indigo;
+}
+.pedro{
+	width: 70%;
+	height: 50px;
+	float: left;
+	background: purple;
+}
+.jose{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: pink;
+}
