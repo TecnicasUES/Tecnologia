@@ -879,9 +879,156 @@ header{
 	margin-top: 35px;
 	background: #47AF5B;
 }
+.lab3bis2{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #27471F;
+}
+.lab3bis3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #160C1A;
+}
+.lab3bisbis1{
+	width: 30%;
+	height: 50px;
+	float: left;
+	margin-left: 60%;
+	background: #96CB9B;
+}
+
 .lab3nie2{
 	width: 50%;
 	height: 300px;
 	float: left;
-	background: #FFB2C1;
+	background: #E59300;
+}
+.lab3bis4{
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin-top: 35px;
+	background: #72C6D2;
+}
+.lab3bis5{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #55AF31;
+}
+.lab3bis6{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #E23000;
+}
+.lab3bisbis2{
+	width: 30%;
+	height: 50px;
+	float: left;
+	margin-left: 60%;
+	background: #73B62A;
+}
+
+.labsec4{
+	width: 100%;
+	height: 550px;
+	float: left;
+	background: #FAE1C6;
+}
+.lab4padre1{
+	width: 100%;
+	height: 505px;
+	float: left;
+	margin-top: 10px;
+	background: #3F4898;
+}
+.lab4hijo1{
+	width: 35%;
+	height: 505px;
+	float: left;
+	margin-left: 1%;
+	background: #74C4BA;
+}
+.lab4hijo2{
+	width: 62%;
+	height: 490px;
+	float: left;
+	margin-left: 1%;
+	background: #66B661;
+}
+.lab4niett1{
+	width: 100%;
+	height: 246px;
+	float: left;
+	background: #8DD1E5;
+}
+.lab4nn1{
+	width: 38%;
+	height: 220px;
+	float: left;
+	margin-top: 13px;
+	margin-left: 2%;
+	background: #7CBD6B;
+}
+.lab4nnn1{
+	width: 100%;
+	height: 80px;
+	float: left;
+	margin-top: 70px;
+	background: #D5D915;
+}
+.lab4nn2{
+	width: 58%;
+	height: 220px;
+	float: left;
+	margin-top: 13px;
+	background: #88A695;
+}
+
+.lab4niett2{
+	width: 100%;
+	height: 246px;
+	float: left;
+	margin-top: 13px;
+	background: #284395;
+}
+
+.lab4nn3{
+	width: 58%;
+	height: 220px;
+	float: left;
+	margin-top: 13px;
+	margin-left: 2%;
+	background: #484394;
+}
+.lab4nn4{
+	width: 38%;
+	height: 220px;
+	float: left;
+	margin-top: 13px;
+	background: #54160B;
+}
+.lab4nnn2{
+	width: 100%;
+	height: 55px;
+	float: left;
+	margin-top: 65px;
+	background: #D26913;
+}
+
+
+
+
+
+
+
+.lab4padre2{
+	width: 100%;
+	height: 20px;
+	float: left;
+	margin-top: 7px;
+	background: #A78A12;
 }
