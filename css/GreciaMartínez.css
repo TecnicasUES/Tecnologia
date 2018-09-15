@@ -411,3 +411,120 @@ body{
 	float: left;
 	margin-left: 0.5%
 }
+
+
+
+
+tarea2g
+
+
+#menu{
+	width: 100%;
+ 	background: #c3db51;
+ 	height: 140px;
+ 	float: left;
+ 	
+}
+
+.franja1{
+	width: 100%;
+ 	background:#E8B10C;
+ 	height: 28%;
+ 	float: left;
+}
+
+.hijoa{
+	width: 5%;
+ 	background:#FFCE86;
+ 	height: 100%;
+ 	float: left;
+ 	margin-left: 65%;
+}
+
+.hijob{
+	width: 13%;
+ 	background:#E682E8;
+ 	height: 100%;
+ 	float: left;
+ 	margin-left: 0%;
+}
+
+.hijoc{
+	width: 8.5%;
+ 	background:#9547FF;
+ 	height: 100%;
+ 	float: left;
+ 	margin-left: 0%;
+}
+
+.hijod{
+	width: 8.5%;
+ 	background:#7A6340;
+ 	height: 100%;
+ 	float: left;
+ 	margin-left: 0%;
+}
+
+.logo{
+	width: 15%;
+ 	background:#C2C9FF;
+ 	height: 72%;
+ 	float: left;
+ 	margin-left: 4%;
+}
+
+.home{
+	width: 7%;
+ 	background:#FF4E34;
+ 	height: 72%;
+ 	float: left;
+ 	margin-left: 23%;
+}
+
+.aboutus{
+	width: 10%;
+ 	background:#DA78E8;
+ 	height: 72%;
+ 	float: left;
+ 	margin-left:0%;
+}
+
+.productandservices{
+    width: 15%;
+ 	background:#39A854;
+ 	height: 72%;
+ 	float: left;
+ 	margin-left:0%;
+}
+
+.experience{
+	width: 17%;
+ 	background:#E83CC0;
+ 	height: 72%;
+ 	float: left;
+ 	margin-left:0%;
+}
+
+.contact{
+	width: 9%;
+ 	background:#FFDF34;
+ 	height: 72%;
+ 	float: left;
+ 	margin-left:0%;
+}
+
+.borde1{
+	width: 100%;
+ 	background:#3745B7;
+ 	height: 8%;
+ 	float: left;
+ 	margin-left:0%;
+}
+
+.borde2{
+	width: 100%;
+ 	background:#E84A32;
+ 	height: 8%;
+ 	float: left;
+ 	margin-left:0%;
+}
