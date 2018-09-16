@@ -123,6 +123,7 @@ section{
 	height:500px;
 	float: left;
 	background: #a9a8a8; 
+	border-bottom: 2px solid #000000;
 }
 .e{
 	width: 50%;
@@ -174,6 +175,7 @@ section{
 	height:300px;
 	float: left;
 	background: #888888; 
+	border-top: 2px solid #0163ba;
 }
 .g{
 	width: 70%;
@@ -212,4 +214,315 @@ section{
 	height:300px;
 	float: left;
 	background: #476784;
+}
+.child5{
+	width: 100%;
+	height: 800px;
+	float: left;
+	background: #60919d; 
+}
+.i{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: #ffffff; 
+}
+.i1{
+	width: 30%;
+	height: 350px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 25px;
+	background: #61989b; 
+}
+.i1a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #9fcbec; 
+}
+.i1a01{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: #0363b9; 
+}
+.i1b{
+	width: 100%;
+	height: 230px;
+	float: left;
+	background: #73acd7; 
+}
+.i1c{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #5a93be; 
+}
+.i1c01{
+	width: 30%;
+	height: 60px;
+	float: left;
+	margin-left: 70%;
+	background: #0163ba; 
+}
+.i2{
+	width: 30%;
+	height: 350px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 25px;
+	background: #61989b; 
+}
+.i2a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #9fcbec; 
+}
+.i2a01{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: #0363b9; 
+}
+.i2b{
+	width: 100%;
+	height: 230px;
+	float: left;
+	background: #73acd7; 
+}
+.i2c{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #5a93be; 
+}
+.i2c01{
+	width: 30%;
+	height: 60px;
+	float: left;
+	margin-left: 70%;
+	background: #0163ba; 
+}
+.i3{
+	width: 30%;
+	height: 350px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 25px;
+	background: #61989b; 
+}
+.i3a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #9fcbec; 
+}
+.i3a01{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: #0363b9; 
+}
+.i3b{
+	width: 100%;
+	height: 230px;
+	float: left;
+	background: #73acd7; 
+}
+.i3c{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #5a93be; 
+}
+.i3c01{
+	width: 30%;
+	height: 60px;
+	float: left;
+	margin-left: 70%;
+	background: #0163ba; 
+}
+.j{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: #ffffff; 
+}
+.j1{
+	width: 30%;
+	height: 350px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 25px;
+	background: #61989b; 
+}
+.j1a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #9fcbec; 
+}
+.j1a01{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: #0363b9; 
+}
+.j1b{
+	width: 100%;
+	height: 230px;
+	float: left;
+	background: #73acd7; 
+}
+.j1c{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #5a93be; 
+}
+.j1c01{
+	width: 30%;
+	height: 60px;
+	float: left;
+	margin-left: 70%;
+	background: #0163ba; 
+}
+.j2{
+	width: 30%;
+	height: 350px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 25px;
+	background: #61989b; 
+}
+.j2a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #9fcbec; 
+}
+.j2a01{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: #0363b9; 
+}
+.j2b{
+	width: 100%;
+	height: 230px;
+	float: left;
+	background: #73acd7; 
+}
+.j2c{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #5a93be; 
+}
+.j2c01{
+	width: 30%;
+	height: 60px;
+	float: left;
+	margin-left: 70%;
+	background: #0163ba; 
+}
+.j3{
+	width: 30%;
+	height: 350px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 25px;
+	background: #61989b; 
+}
+.j3a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #9fcbec; 
+}
+.j3a01{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: #0363b9; 
+}
+.j3b{
+	width: 100%;
+	height: 230px;
+	float: left;
+	background: #73acd7; 
+}
+.j3c{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #5a93be; 
+}
+.j3c01{
+	width: 30%;
+	height: 60px;
+	float: left;
+	margin-left: 70%;
+	background: #0163ba; 
+}
+.child6{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #9f7a4c; 
+}
+.k{
+	width: 30%;
+	height: 300px;
+	float: left;
+	background: #f3d9c8; 
+}
+.l{
+	width: 70%;
+	height: 300px;
+	float: left;
+	background: #9f876f; 
+}
+.l1{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: #0163ba; 
+}
+.l1a{
+	width: 90%;
+	height: 50px;
+	float: left;
+	margin-left: 4%;
+	margin-top: 20px;
+	background: #3583c8; 
+}
+.l1a01{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: #ffffff; 
+}
+.l1b{
+	width: 90%;
+	height: 200px;
+	float: left;
+	margin-left: 4%;
+	background: #1f407a; 
+}
+.l2{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: #0160b3; 
+}
+.l2a{
+	width: 40%;
+	height: 100px;
+	float: left;
+	margin-left: 10%;
+	margin-top: 75px;
+	background: #ffffff; 
 }
