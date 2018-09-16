@@ -73,7 +73,7 @@ header{
 	height:100px;
 	float: left;
 	margin-left: 10%;
-	background: #124372;
+	background: #0064ba;
 }
 .d{
 	width: 60%;
@@ -85,31 +85,31 @@ header{
 	width: 10%;
 	height:100px;
 	float: left;
-	background: #c6ecea;
+	background: #d9fefc;
 }
 .d2{
 	width: 15%;
 	height:100px;
 	float: left;
-	background: #88c8c4;
+	background: #b0e5e2;
 }
 .d3{
 	width: 20%;
 	height:100px;
 	float: left;
-	background: #56a29d;
+	background: #95d3d0;
 }
 .d4{
 	width: 35%;
 	height:100px;
 	float: left;
-	background: #307a75;
+	background: #76bfbb;
 }
 .d5{
 	width: 20%;
 	height:100px;
 	float: left;
-	background: #195753;
+	background: #56a5a1;
 }
 section{
 	width: 100%;
@@ -122,6 +122,94 @@ section{
 	width: 100%;
 	height:500px;
 	float: left;
-	background: #cfcfcf; 
+	background: #a9a8a8; 
 }
-
+.e{
+	width: 50%;
+	height:500px;
+	float: left;
+	background: #cfcfcf;
+}
+.e1{
+	width: 90%;
+	height:300px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 170px;
+	background: #453f3f;
+}
+.e101{
+	width: 100%;
+	height:62px;
+	float: left;
+	background: #fefefe;
+}
+.e102{
+	width: 100%;
+	height: 175px;
+	float: left;
+	background: #615a5a;
+}
+.e103{
+	width: 100%;
+	height:63px;
+	float: left;
+	background: #3f3939;
+}
+.e103a{
+	width: 20%;
+	height:50px;
+	float: left;
+	margin-left: 80%;
+	background: #7bc9ef;
+}
+.f{
+	width: 50%;
+	height:500px;
+	float: left;
+	background: #cfcfcf;
+}
+.child4{
+	width: 100%;
+	height:300px;
+	float: left;
+	background: #888888; 
+}
+.g{
+	width: 70%;
+	height:300px;
+	float: left;
+	background: #0163ba;
+}
+.g1{
+	width: 100%;
+	height: 63px;
+	float: left;
+	background: #d5e8fa;
+}
+.g2{
+	width: 100%;
+	height: 175px;
+	float: left;
+	background: #0163ba;
+}
+.g3{
+	width: 100%;
+	height: 62px;
+	float: left;
+	background: #185d9a;
+}
+.g3a{
+	width: 20%;
+	height: 50px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 78%;
+	background: #ffffff;
+}
+.h{
+	width: 30%;
+	height:300px;
+	float: left;
+	background: #476784;
+}
