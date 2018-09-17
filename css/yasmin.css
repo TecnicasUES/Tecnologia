@@ -229,6 +229,7 @@ body{
 .cuadro4{
 	float: left;
 	width: 100%;
+	height: 400px;
 	background: #82c3e1;
 }
 
@@ -280,6 +281,7 @@ body{
 .cuadro5{
 	float: left;
 	width: 100%;
+	height: 400px;
 	background: #82c3e1;
 }
 
@@ -290,7 +292,6 @@ body{
 	margin-right: 50%;
 	background: #095b53;		
 }
-
 .cta2{
 	float: left;
 	width: 40%;
@@ -350,7 +351,4 @@ body{
 	height:35px;
 	background: #6176a1;
 }
-.cuadrohermanos
-
-
 
