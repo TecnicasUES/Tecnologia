@@ -287,11 +287,16 @@ body{
 
 .cuadrostodosazules{
 	float: left;
-	width: 50%;
+	width: 60%;
 	height: 400px;
-	margin-right: 50%;
 	background: #095b53;		
 }
+.cuadrogemelos{
+	float: left;
+	width: 40%;
+	height: 400px;
+	background: #03811d;
+}		
 .cta2{
 	float: left;
 	width: 40%;
