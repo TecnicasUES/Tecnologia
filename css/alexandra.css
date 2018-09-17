@@ -407,12 +407,184 @@ body{
 	margin-right: 0.25%;
 	background:#1BB6B2; 
 }
+	.r{
+	width: 100%;
+	height: 116px;
+	float: left;
+	background: #124402;
+
+}
+
+	.s{
+    width: 100%;
+	height: 32px;
+	float: left;
+	background: #FC66B3;
+
+
+}
+	.hir{
+	width: 49.5%;
+	height: 110px;
+	float: left;
+	margin-left: :0.25%;
+	margin-right:0.25%; 
+    background: #51D6A6;
+
+
+
+
+
+}
    .t{
 	width: 100%;
 	height: 72px;
 	float: left;
-	background: #73FA48;
+	background: #0727A9 ;
+}
+
+.hinu{
+	width: 40%;
+	height: 360px;
+	float: left;
+	background: #F6BA7D;
+}
+   .u{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: #0FABD2;
+}
+
+    .v{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #67FCB6;
+	
+}
+
+    .w{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: #37E1BF;
+	
+}
+ 
+
+
+  .hiw2{
+	width: 20%;
+	height: 72px;
+	float: left;
+	background: #035EB9;
+}
+   .x{
+	width: 100%;
+	height: 104px;
+	float: left;
+	background: #62FA46;
+}
+    .raai{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: purple;
+}
+
+.ra1{
+	width: 30%;
+	height: 200px;
+	float: left;
+	background: green;
+}
+
+.ra2{
+	width: 70%;
+	height: 200px;
+	float: left;
+	background: green;
+}
+
+.y{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightgreen;
+}
+
+.z{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightgreen;
+}
+
+.z1{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: gray;
 	}
+
+.ni1{
+	width: 20%;
+	height: 50px;
+	float: left;
+	background: lightgreen;
+	}
+
+.ni2{
+	width: 60%;
+	height: 50px;
+	float: left;
+	background: purple;
+	}
+
+.ni3{
+	width: 16%;
+	height: 50px;
+	float: left;
+	background: purple;
+	margin: 2px;
+	}
+
+.ni4{
+	width: 4%;
+	height: 50px;
+	float: left;
+	background: lightgreen;
+	}
+
+.sec1{
+	width: 50%;
+	height: 50px;
+	float: left;
+	background: purple;
+	}
+.sec2{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: purple;
+	border: darkgreen 1px solid;
+}.sec3{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: purple;
+	border: darkgreen 1px solid;
+}
+
+
+
+
+
+
+
+
+
 
 
 
