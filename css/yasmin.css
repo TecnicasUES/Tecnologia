@@ -294,10 +294,10 @@ body{
 .cta2{
 	float: left;
 	width: 40%;
-	height:80px;
+	height:60px;
 	background: #02abc8;
 	margin-left: 0.8%;
-	margin-top: 5%;		
+	margin-top: 11%;		
 }
 
 .cta3{
@@ -306,23 +306,25 @@ body{
 	height: 60px;
 	background: #02abc8;
 	margin-left: 2%;
-	margin-top: 5%;	
+	margin-top: 11%;	
 }
 
 .cta5{
 	float: left;
 	width: 40%;
-	height:80px;
+	height: 60px;
 	background: #02abc8;
-	margin-top: 4%;		
+	margin-left: 0.8%;
+	margin-top: 1%;
 }
 
 .cta6{
 	float: left;
 	width: 56%;
-	height: 75px;
+	height: 60px;
 	background: #02abc8;
 	margin-left: 2%;
+	margin-top: 1%;
 }
 
 .cta8{
@@ -331,6 +333,7 @@ body{
 	height:150px;
 	background: #02abc8;
 	margin-left: 0.8%;	
+	margin-top: 2%;
 }
 
 .cta9{
@@ -339,6 +342,7 @@ body{
 	height: 150px;
 	background: #02abc8;
 	margin-left: 2%;
+	margin-top: 2%;
 }
 .cta10{
 	float: left;
