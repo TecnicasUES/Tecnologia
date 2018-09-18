@@ -281,7 +281,7 @@ body{
 .cuadro5{
 	float: left;
 	width: 100%;
-	height: 400px;
+	height: 418px;
 	background: #82c3e1;
 }
 
@@ -381,4 +381,15 @@ body{
 	background: #604896;
 	margin-left:60%;		
 }
-
+.cuadrofinal{
+	float: left;
+	width: 100%;
+	height: 300px;
+	background: #82c3e1;
+}
+.cuadromorado{
+	float: left;
+	width: 30%;
+	height: 300px;
+	background: #294c9d;		
+}
