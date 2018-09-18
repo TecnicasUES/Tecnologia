@@ -288,13 +288,13 @@ body{
 .cuadrostodosazules{
 	float: left;
 	width: 60%;
-	height: 400px;
+	height: 418px;
 	background: #095b53;		
 }
 .cuadrogemelos{
 	float: left;
 	width: 40%;
-	height: 400px;
+	height: 418px;
 	background: #cc8f8f;
 }	
 
@@ -315,6 +315,47 @@ body{
 	margin-left: 2%;
 	margin-top: 11%;	
 }
+.cta3{
+	float: left;
+	width: 40%;
+	height: 60px;
+	background: #02abc8;
+	margin-left: 0.8%;
+	margin-top: 1%;
+}
+
+.cta4{
+	float: left;
+	width: 56%;
+	height: 60px;
+	background: #02abc8;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+
+.cta5{
+	float: left;
+	width: 40%;
+	height:150px;
+	background: #02abc8;
+	margin-left: 0.8%;	
+	margin-top: 2%;
+}
+
+.cta6{
+	float: left;
+	width: 56%;
+	height: 150px;
+	background: #02abc8;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+.cta7{
+	float: left;
+	width: 100%;
+	height:35px;
+	background: #6176a1;
+}
 
 .cg1{
 	float: left;
@@ -324,4 +365,14 @@ body{
 	margin-left: 0.6%;
 	margin-top: 16.55%;		
 }
+.cg2{
+	float: left;
+	width: 100%;
+	height:60px;
+	background: #02abc8;
+	margin-left: 0.6%;
+	margin-top: 10%;		
+}
+
+
 
