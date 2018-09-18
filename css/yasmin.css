@@ -20,7 +20,7 @@ body{
 .child1{
 	width: 55%;
 	height: 60px;
-	background: #629398;
+	background: #1b88a2;
 	float: left;
 }
 
@@ -32,14 +32,14 @@ body{
 }
 
 .a{
-	width: 45%;
+	width: 40%;
 	float: left;
 	height: 60px;
 	background: #3aa930;
 }
 
 .b{
-	width: 55%;
+	width: 60%;
 	float: left;
 	height: 60px;
 	background: #b8de35;
@@ -53,10 +53,10 @@ body{
 }
 
 .d{
-	width: 19%;
+	width: 17%;
 	float: left;
 	height: 60px;
-	background: #859e77;
+	background: #913508;
 }
 
 .e{
@@ -64,13 +64,6 @@ body{
 	float: left;
 	height: 60px;
 	background: #800239;
-}
-
-.f{
-	width: 27%;
-	float: left;
-	height: 60px;
-	background: #cbb442;
 }
 
 .cuadrorosa1{
