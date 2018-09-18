@@ -401,9 +401,37 @@ body{
 	background: #36d8af;		
 }
 
-.cuadroverdeoscuro{
+.cuadrom1{
 	float: left;
-	width: 100%;
-	height: 150px;
-	background: #51736a;		
+	width: 35%;
+	height:60px;
+	background: #294c9d;
+	margin-left: 15%;		
 }
+
+.cuadrom2{
+	float: left;
+	width: 15%;
+	height:60px;
+	background: #294c9d;
+	margin-left: 0.4%;		
+}
+
+.cuadrom3{
+	float: left;
+	width: 15%;
+	height:60px;
+	background: #294c9d;
+	margin-left: 0.4%;		
+}
+
+.cuadrom4{
+	float: left;
+	width: 15%;
+	height:60px;
+	background: #294c9d;
+	margin-left: 0.4%;		
+}
+
+
+
