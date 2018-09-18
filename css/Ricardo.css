@@ -743,7 +743,19 @@ body{
 
 .linea1{
 	width: 100%;
-	height: 15px;
+	height: 10px;
 	float: left;
-	background: #868686;
+	background: #f8c513;
+}
+.linea2{
+	width: 100%;
+	height: 10px;
+	float: left;
+	background: #055ab7;
+}
+#ourservices{
+	width: 100%;
+	height: 650px;
+	float: left;
+	background: #99a4b0;
 }
