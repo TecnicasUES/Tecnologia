@@ -759,3 +759,23 @@ body{
 	float: left;
 	background: #99a4b0;
 }
+.our1{
+	width: 45%;
+	height: 650px;
+	float: left;
+	background: #d1baa4;
+}
+.our2{
+	width: 55%;
+	height: 650px;
+	float: left;
+	background: #8b837b;
+}
+.uno{
+	width: 95%;
+	height: 400px;
+	float: left;
+	background: #4c3373;
+	margin-left: 5%;
+	margin-top: 200px;
+}
