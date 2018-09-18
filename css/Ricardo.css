@@ -763,13 +763,13 @@ body{
 	width: 45%;
 	height: 650px;
 	float: left;
-	background: #d1baa4;
+	background: #cbcbcb;
 }
 .our2{
 	width: 55%;
 	height: 650px;
 	float: left;
-	background: #8b837b;
+	background: #868686;
 }
 .uno{
 	width: 95%;
@@ -778,4 +778,66 @@ body{
 	background: #4c3373;
 	margin-left: 5%;
 	margin-top: 200px;
+}
+.uno1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #8f52ea;
+}
+.uno2{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #4700b2;
+}
+.uno3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #280a54;
+}
+.ourserv{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: #a2c111;
+}
+.letras{
+	width: 92%;
+	height: 300px;
+	float: left;
+	background: #460fe3;
+}
+.more{
+	width: 18%;
+	height: 50px;
+	float: left;
+	background: #a2c111;
+	margin-left: 79%;
+	margin-right: 3%;
+}
+.linea3{
+	width: 100%;
+	height: 5px;
+	float: left;
+	background: #00162b;
+}
+#seccion4{
+	width: 100%;
+	height: 350px;
+	float: left;
+	background: #c6802d;
+}
+.cuatro1{
+	width: 68%;
+	height: 350px;
+	float: left;
+	background: #18768d;
+}
+.cuatro2{
+	width: 32%;
+	height: 350px;
+	float: left;
+	background: #07414f;
 }
