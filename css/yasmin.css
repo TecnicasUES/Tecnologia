@@ -353,7 +353,7 @@ body{
 .cta7gris{
 	float: left;
 	width: 100%;
-	height:34px;
+	height:35px;
 	background: #6176a1;
 }
 
@@ -431,6 +431,14 @@ body{
 	height:60px;
 	background: #294c9d;
 	margin-left: 0.4%;		
+}
+
+.cuadroverdeoscuro{
+	float: left;
+	width: 100%;
+	height: 150px;
+	background: #364944;
+	margin-top: 9.5%;			
 }
 
 
