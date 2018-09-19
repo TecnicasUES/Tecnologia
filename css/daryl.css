@@ -864,8 +864,57 @@ body{
 }
 .gigasegmento{
 width: 100%;
-height:400px;
+height:300px;
 float: left;
 background: gray;
 }
+.gigahijo1{
+	width: 40%;
+	height:300px;
+	float: left;
+	background: red;
+}
+.gigahijo2{
+	width: 60%;
+	height:300px;
+	float: left;
+	background: yellow;
+}
+.n1giga2{
+	width: 100%;
+	height:75px;
+	float: left;
+	background:#041042;
+}
+.n2giga2{
+	width: 40%;
+	height:75px;
+	float: left;
+	background:#343E67;
+}
+.n3giga2{
+	width: 50%;
+	height:225px;
+	float: left;
+	background:#1EA59F;
+}
+.n4giga2{
+	width: 50%;
+	height:225px;
+	float: left;
+	background:#391EA5;
+}
+.n5giga2{
+	width: 100%;
+	height:100px;
+	float: left;
+	background:#A51E5B;
+}
+.n6giga3{
+	width: 40%;
+	height:100px;
+	float: left;
+	background:yellow;
+}
 
+}
