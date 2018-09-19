@@ -1120,6 +1120,64 @@ body{
 	float: left;
 }
 
+.fotograf{
+	width: 35%;
+	float:left;
+	height: 275px;
+	background: #FFE9C2;
+	
+}
+
+.acercade{
+	width: 65%;
+	float:left;
+	height: 275px;
+	background: #500CE8;
+	
+}
+
+.textolargo{
+	width: 45%;
+	float:left;
+	height: 275px;
+	background: #0DE4FF;
+	
+}
+
+.textolargo1{
+	width: 100%;
+	float:left;
+	height: 50px;
+	background: #0DC2FF;
+	
+}
+
+.textolargo2{
+	width: 100%;
+	float:left;
+	height: 225px;
+	background: #08AEA3;
+	
+}
+
+
+.textocorto{
+	width: 55%;
+	float:left;
+	height: 275px;
+	background: #0D7DFF;
+	
+}
+
+.textocorto1{
+	width: 100%;
+	float:left;
+	height: 100px;
+	background: #0AD9CB;
+	margin-top: 10.5%
+	
+}
+
 #art4{
 	width: 100%;
 	background: #E8AE6B;
@@ -1127,12 +1185,168 @@ body{
 	float: left;
 }
 
+.contactanos{
+	width: 100%;
+	float:left;
+	height: 60px;
+	background: #0F037A;
+	
+}
+
+.conta1{
+	width: 25%;
+	float:left;
+	height: 440px;
+	background: #0F0333;
+
+	
+}
+
+.conta1a{
+	width: 90%;
+	float:left;
+	height: 70px;
+	background: #D9CECB;
+	margin-top: 10%;
+	margin-left: 10%		
+}
+
+.conta1b{
+	width: 90%;
+	float:left;
+	height: 70px;
+	background: #D9CECB;
+	margin-top: 5%;
+	margin-left: 10%		
+}
+
+.conta1c{
+	width: 90%;
+	float:left;
+	height: 150px;
+	background: #D9CECB;
+	margin-top: 5%;
+	margin-left: 10%		
+}
+
+.conta2{
+	width: 40%;
+	float:left;
+	height: 440px;
+	background: #0F0333;
+	
+}
+
+.conta2a{
+	width: 90%;
+	float:left;
+	height: 70px;
+	background: #D9CECB;
+	margin-top: 6%;
+	margin-left: 5%		
+}
+
+.conta2b{
+	width: 90%;
+	float:left;
+	height: 70px;
+	background: #D9CECB;
+	margin-top: 3.5%;
+	margin-left: 5%		
+}
+
+.conta2c{
+	width: 90%;
+	float:left;
+	height: 150px;
+	background: #D9CECB;
+	margin-top: 3.5%;
+	margin-left: 5%		
+}
+
+
+.conta3{
+	width: 15%;
+	float:left;
+	height: 440px;
+	background: #0F0333;
+	
+}
+
+.conta3a{
+	width: 98%;
+	float:left;
+	height: 70px;
+	background: #D9CECB;
+	margin-top:15%;
+	
+}
+
+
+.conta4{
+	width: 20%;
+	float:left;
+	height: 440px;
+	background: #0F0333;
+	
+}
+
+.conta4a{
+	width: 80%;
+	float:left;
+	height: 70px;
+	background: #D9CECB;
+	margin-top: 11%;
+	margin-left: 6%;	
+}
+
+.conta4b{
+	width: 80%;
+	float:left;
+	height: 70px;
+	background: #D9CECB;
+	margin-top: 20%;
+	margin-left: 6%;
+		
+}
+
+.send{
+	width: 60%;
+	float:right;
+	height: 70px;
+	background: #2A2AD9;
+	
+		
+}
+
+
 #pie{
 	width: 100%;
 	background: #8495E8;
 	height: 275px;
 	float: left;
 }
+
+.pie-a{
+	width: 40%;
+	float:left;
+	height: 275px;
+	background: #4687C2;
+	
+		
+}
+
+.pie-b{
+	width: 60%;
+	float:left;
+	height: 275px;
+	background: #3E20C4;
+	
+		
+}
+
+
+
 
 
 
