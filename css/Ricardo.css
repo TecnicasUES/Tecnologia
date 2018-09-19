@@ -841,3 +841,42 @@ body{
 	float: left;
 	background: #07414f;
 }
+.ipsum{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #234eef;
+}
+.letras2{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background: #92c5eb;
+}
+.vermas{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #1e3485;
+}
+.ip{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: #d17819;
+	margin-left: 5%;
+}
+.leter{
+	width: 93%;
+	height: 250px;
+	float: left;
+	background: #5f8aa9;
+	margin-left: 5%;
+}
+.ver{
+	width: 18%;
+	height: 50px;
+	float: left;
+	background: #d17819;
+	margin-left: 80%;
+}
