@@ -648,8 +648,9 @@ body {
 }
 
 .lineimage3{
-	width: 35%;
+	width: 25%;
 	float:left;
 	height: 675px;
 	background: #DB8FA0;
+	margin-left: 5%;
 }
