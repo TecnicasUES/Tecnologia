@@ -1133,3 +1133,69 @@ body{
 	margin-left: 8%;
 	margin-top: 60px;
 }
+#seccion7{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: #131b1a;
+}
+.sec1{
+	width: 60%;
+	height: 600px;
+	float: left;
+	background: #131b1a;
+}
+.sec2{
+	width: 40%;
+	height: 600px;
+	float: left;
+	background: #131b1a;
+}
+.sec11{
+	width: 100%;
+	height:85px;
+	float: left;
+	background: #080f0e;
+}
+.sec21{
+	width: 100%;
+	height:515px;
+	float: left;
+	background: #080f0e;
+}
+.sec211{
+	width: 40%;
+	height:515px;
+	float: left;
+	background: #080f0e;
+}
+.sec221{
+	width: 60%;
+	height:515px;
+	float: left;
+	background: #132523;
+}
+.name{
+	width: 25%;
+	height: 35px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 35%;
+	margin-top: 10px;
+}
+.email{
+	width: 30%;
+	height: 35px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 35%;
+	margin-top: 150px;
+}
+.masage{
+	width: 45%;
+	height: 35px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 35%;
+	margin-top: 125px;
+}
