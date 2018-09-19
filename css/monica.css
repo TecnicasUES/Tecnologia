@@ -647,6 +647,22 @@ body {
 	background: #7692BF;
 }
 
+.lineimage1{
+	width: 25%;
+	float:left;
+	height: 675px;
+	background: #DB8FA0;
+	margin-left: 5%;
+}
+
+.lineimage2{
+	width: 25%;
+	float:left;
+	height: 675px;
+	background: #DB8FA0;
+	margin-left: 5%;
+}
+
 .lineimage3{
 	width: 25%;
 	float:left;
