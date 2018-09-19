@@ -644,14 +644,14 @@ body{
 	width: 20%;
 	float:right;
 	height: 45px;
-	background: #4CE9FF;
+	background: #113DF0;
 }
 
 .ourP{
 	width: 25%;
 	float:right;
 	height: 45px;
-	background: #4CE9FF;
+	background: #113DF0;
 	margin-right: 0.5%
 }
 
@@ -659,7 +659,7 @@ body{
 	width: 54%;
 	float:right;
 	height: 45px;
-	background: #4CE9FF;
+	background: #113DF0;
 	margin-right: 0.5%
 }
 
@@ -667,7 +667,7 @@ body{
 	width: 100%;
 	float:right;
 	height: 80px;
-	background: #D3F5AE;
+	background: #E6F1FF;
 	
 }
 
@@ -684,7 +684,7 @@ body{
 	width: 6.7%;
 	float:left;
 	height: 80px;
-	background: #F5D7B4;
+	background: #7B1FA1;
 	margin-left: 25%;
 	
 }
@@ -693,7 +693,7 @@ body{
 	width: 10%;
 	float:left;
 	height: 80px;
-	background: #F5D784;
+	background: #A946B0;
 	
 }
 
@@ -701,7 +701,7 @@ body{
 	width: 15%;
 	float:left;
 	height: 80px;
-	background: #F5D74A;
+	background: #B54BF0;
 	
 }
 
@@ -709,7 +709,7 @@ body{
 	width: 17%;
 	float:left;
 	height: 80px;
-	background: #F2D411;
+	background: #B877FF;
 	
 }
 
@@ -717,7 +717,7 @@ body{
 	width: 7.3%;
 	float:left;
 	height: 80px;
-	background: #F2D474;
+	background: #DFA4FF;
 	
 }
 
@@ -1344,6 +1344,68 @@ body{
 	
 		
 }
+
+.pie-c{
+	width: 100%;
+	float:left;
+	height: 80px;
+	background: #83D8DE;
+	
+		
+}
+
+.p-a{
+	width: 10%;
+	float:left;
+	height: 45px;
+	background: #1110F0;
+	margin-left: 10%
+	
+		
+}
+
+.p-b{
+	width: 16%;
+	float:left;
+	height: 45px;
+	background: #1110F0;
+	margin-left: 0.5%
+	
+		
+}
+
+.p-c{
+	width: 20%;
+	float:left;
+	height: 45px;
+	background: #1110F0;
+	margin-left: 0.5%
+	
+		
+}
+
+.p-d{
+	width: 30%;
+	float:left;
+	height: 45px;
+	background: #1110F0;
+	margin-left: 0.5%
+	
+		
+}
+
+.p-e{
+	width: 10%;
+	float:left;
+	height: 45px;
+	background: #1110F0;
+	margin-left: 0.5%
+	
+		
+}
+
+
+
 
 
 
