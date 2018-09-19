@@ -10,63 +10,26 @@ body{
 
 #menu{
 	width: 100%;
-	background: #c3db51;
+	background: #9d9413;
 	height: 40px;
 	float:left;
 }
 
 .niño1{
-	width: 60 %;
+	width: 100%;
 	height: 40px;
 	background: #9d9413;
 	float: left;
-}
+} 
 .a{
 	width: 60%;
+	height: 40px;
+	background: #9d9413;
 	float: left;
-	background: #ffae14;
-	height: : 64px;
-
-}
+} 
 .b{
 	width: 40%;
+	height: 40px;
+	background: #ffae14;
 	float: left;
-	background: #e89ec1;
-	height: : 40px;
-
-}
-.b1{
-	width: 20%;
-	float: left;
-	background: #e89ec1;
-	height: : 40px;
-
-}
-.b2{
-	width: 10%;
-	float: left;
-	background: #e89ec1;
-	height: : 40px;
-
-}
-.b3{
-	width: 10%;
-	float: left;
-	background: #e89ec1;
-	height: : 40px;
-
-}
-.niño2{
-	width: 44.8%;
-	float: left;
-	background: #e89ec1;
-	height: : 60px;
-
-}
-
-.a{
-	width: 45%;
-	float: left;
-	height: : 60px;
-	background: #3aa930;
-}
+} 
