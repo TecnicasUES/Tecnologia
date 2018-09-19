@@ -178,8 +178,35 @@ section{
 	margin-left: 80%;
 	float: left;
 }
-
-
+.child6{
+	background:#1A1C35;
+	width: 100%;
+	height:10px;
+	float: left;
+}
+.child7{
+	background:#A83F3F;
+	width: 100%;
+	height:250px;
+	float: left;
+}
+.f{
+	background:#3FA871;
+	width: 70%;
+	height:250px;
+	float: left;
+}
+.g{
+	background:#3F82A8;
+	width: 30%;
+	height:250px;
+	float: left;
+}
 
 E28181
+
+3F82A8
+
+4EA83F
 A83F3F
+3F46A8
