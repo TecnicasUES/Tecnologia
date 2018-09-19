@@ -640,7 +640,6 @@ body {
 	background: #DB8FA0;
 }
 
-
 #imagdescrip{
 	width: 100%;
 	float:left;
@@ -648,3 +647,9 @@ body {
 	background: #7692BF;
 }
 
+.lineimage3{
+	width: 35%;
+	float:left;
+	height: 675px;
+	background: #DB8FA0;
+}
