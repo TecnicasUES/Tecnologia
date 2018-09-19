@@ -1173,29 +1173,98 @@ body{
 	width: 60%;
 	height:515px;
 	float: left;
-	background: #132523;
+	background: #080f0e;
 }
 .name{
 	width: 25%;
-	height: 35px;
+	height: 30px;
 	float: left;
 	background: #a2d4f9;
 	margin-left: 35%;
-	margin-top: 10px;
+	margin-top: 20px;
 }
 .email{
 	width: 30%;
-	height: 35px;
+	height: 30px;
 	float: left;
 	background: #a2d4f9;
 	margin-left: 35%;
-	margin-top: 150px;
+	margin-top: 115px;
 }
 .masage{
-	width: 45%;
-	height: 35px;
+	width: 41%;
+	height: 30px;
 	float: left;
 	background: #a2d4f9;
 	margin-left: 35%;
 	margin-top: 125px;
 }
+.cuadroname{
+	width: 92%;
+	height: 75px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 8%;
+	
+}
+.cuadroemail{
+	width: 92%;
+	height: 75px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 8%;
+	margin-top: 75px;
+}
+.cuadromasage{
+	width: 92%;
+	height: 160px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 8%;
+	margin-top: 75px;
+}
+.contactanos{
+	width: 35%;
+	height: 50px;
+	float: left;
+	background: #e76a1e;
+	margin-left: 14%;
+	margin-top: 15px;
+}
+.se2{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #080f0e;
+}
+.se22{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: #080f0e;
+}
+.fhone{
+	width: 15%;
+	height: 30px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 20%;
+	margin-top: 97px;
+}
+.cuadrofhone{
+	width: 40%;
+	height: 75px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 10%;
+	margin-top: 85px;
+}
+.send{
+	width: 20%;
+	height: 80px;
+	float: left;
+	background: #a2d4f9;
+	margin-left: 65%;
+	margin-top: 55px;
+}
+
