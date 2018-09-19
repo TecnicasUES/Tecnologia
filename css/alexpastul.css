@@ -696,7 +696,286 @@ header{
 	float: left;
 	background: #668898;
 }
-
+.blo401{
+	width: 65%;
+	height: 660px;
+	float: left;
+	background: #B86EAA;
+}
+.blo4011{
+	width: 100%;
+	height: 100px;
+	float: left;
+	margin-top: 90px;
+	background: #016174;
+}
+.blo40111{
+	width: 30%;
+	height: 100px;
+	float: left;
+	margin-left: 5%;
+	background: #028C38;
+}
+.blo4012{
+	width: 100%;
+	height: 340px;
+	float: left;
+	background: #43BDD8;
+}.blo4013{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #213A8F;
+}
+.blo40131{
+	width: 30%;
+	height: 100px;
+	float: left;
+	margin-left: 65%;
+	background: #82BB26;
+}
+.blo402{
+	width: 35%;
+	height: 660px;
+	float: left;
+	background: #39AA35;
+}
+.blo4021{
+	width: 100%;
+	height: 10px;
+	float: left;
+	background: #8B4F14;
+}.blo4022{
+	width: 100%;
+	height: 650px;
+	float: left;
+	background: #F9B215;
+}
+#bloque5{
+	width: 100%;
+	height: 660px;
+	float: left;
+	background: #D7D7D7;
+}
+.blo501{
+	width: 25%;
+	height: 660px;
+	float: left;
+	margin-left: 6%;
+	background: #FF8C2F;
+}
+.blo5011{
+	width: 100%;
+	height: 40px;
+	float: left;
+	margin-top: 35px;
+	background: #D74915;
+}
+.blo50111{
+	width: 45%;
+	height: 40px;
+	float: left;
+	background: #6AEB00;
+}
+.blo5012{
+	width: 100%;
+	height: 235px;
+	float: left;
+	background: #D7DA00;
+}
+.blo50121{
+	width: 100%;
+	height: 45px;
+	float: left;
+	margin-top: 190px;
+	background: #3A1700;
+}
+.blo501211{
+	width: 40%;
+	height: 45px;
+	float: left;
+	margin-left: 60%;
+	background: #B4C800;
+}
+.blo5021{
+	width: 100%;
+	height: 40px;
+	float: left;
+	margin-top: 40px;
+	background: #00FBC6;
+}
+.blo50211{
+	width: 45%;
+	height: 40px;
+	float: left;
+	background: #519900;
+}
+.blo5022{
+	width: 100%;
+	height: 235px;
+	float: left;
+	background: #FFBE46;
+}
+.blo50221{
+	width: 100%;
+	height: 45px;
+	float: left;
+	margin-top: 190px;
+	background: #002CE3;
+}
+.blo502211{
+	width: 40%;
+	height: 45px;
+	float: left;
+	margin-left: 60%;
+	background: #CD00FB;
+}
+.blo0501{
+	width: 25%;
+	height: 660px;
+	float: left;
+	margin-left: 6%;
+	background: #FF8C2F;
+}
+.blo05011{
+	width: 100%;
+	height: 40px;
+	float: left;
+	margin-top: 35px;
+	background: #D74915;
+}
+.blo050111{
+	width: 45%;
+	height: 40px;
+	float: left;
+	background: #6AEB00;
+}
+.blo05012{
+	width: 100%;
+	height: 235px;
+	float: left;
+	background: #D7DA00;
+}
+.blo050121{
+	width: 100%;
+	height: 45px;
+	float: left;
+	margin-top: 190px;
+	background: #3A1700;
+}
+.blo0501211{
+	width: 40%;
+	height: 45px;
+	float: left;
+	margin-left: 60%;
+	background: #B4C800;
+}
+.blo05021{
+	width: 100%;
+	height: 40px;
+	float: left;
+	margin-top: 40px;
+	background: #00FBC6;
+}
+.blo050211{
+	width: 45%;
+	height: 40px;
+	float: left;
+	background: #519900;
+}
+.blo05022{
+	width: 100%;
+	height: 235px;
+	float: left;
+	background: #FFBE46;
+}
+.blo050221{
+	width: 100%;
+	height: 45px;
+	float: left;
+	margin-top: 190px;
+	background: #002CE3;
+}
+.blo0502211{
+	width: 40%;
+	height: 45px;
+	float: left;
+	margin-left: 60%;
+	background: #CD00FB;
+}
+.bl501{
+	width: 25%;
+	height: 660px;
+	float: left;
+	margin-left: 6%;
+	background: #FF8C2F;
+}
+.bl5011{
+	width: 100%;
+	height: 40px;
+	float: left;
+	margin-top: 35px;
+	background: #D74915;
+}
+.bl50111{
+	width: 45%;
+	height: 40px;
+	float: left;
+	background: #6AEB00;
+}
+.bl5012{
+	width: 100%;
+	height: 235px;
+	float: left;
+	background: #D7DA00;
+}
+.bl50121{
+	width: 100%;
+	height: 45px;
+	float: left;
+	margin-top: 190px;
+	background: #3A1700;
+}
+.bl501211{
+	width: 40%;
+	height: 45px;
+	float: left;
+	margin-left: 60%;
+	background: #B4C800;
+}
+.bl5021{
+	width: 100%;
+	height: 40px;
+	float: left;
+	margin-top: 40px;
+	background: #00FBC6;
+}
+.bl50211{
+	width: 45%;
+	height: 40px;
+	float: left;
+	background: #519900;
+}
+.bl5022{
+	width: 100%;
+	height: 235px;
+	float: left;
+	background: #FFBE46;
+}
+.bl50221{
+	width: 100%;
+	height: 45px;
+	float: left;
+	margin-top: 190px;
+	background: #002CE3;
+}
+.bl502211{
+	width: 40%;
+	height: 45px;
+	float: left;
+	margin-left: 60%;
+	background: #CD00FB;
+}
 
 
 /*laboratorio1*/
