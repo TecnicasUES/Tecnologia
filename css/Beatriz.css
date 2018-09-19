@@ -755,6 +755,59 @@ body{
 	
 }
 
+.imagenc1{
+	width: 45%;
+	float:left;
+	height: 433px;
+	background: #5AC2EC;
+	
+}
+
+.ventana{
+	width: 90%;
+	float:left;
+	height: 300px;
+	background: #2D706A;
+	margin-left: 4.8%;
+	margin-right:5%;
+	margin-top: 19%;
+	
+}
+
+.cuadro1{
+	width: 100%;
+	float:left;
+	height: 28px;
+	background: #53D1C6;
+	margin-top: 3%;
+	
+}
+
+.cuadro2{
+	width: 100%;
+	float:left;
+	height: 187px;
+	background: #53D1C6;
+	margin-top: 2%;
+	
+}
+
+.cuadro3{
+	width: 100%;
+	float:left;
+	height: 28px;
+	background: #53D1C6;
+	margin-top: 2%;
+	
+}
+
+.more{
+	width: 16%;
+	float:right;
+	height: 28px;
+	background: #2A34E8;
+	margin-right: 2%;	
+}
 
 #art1{
 	width: 100%;
@@ -762,6 +815,54 @@ body{
 	height: 275px;
 	float: left;
 }
+
+.lorem{
+	width: 65%;
+	float:left;
+	height: 275px;
+	background: #2A60E8;
+}
+
+.ipsum{
+	width: 100%;
+	float:left;
+	height: 30px;
+	background: #EBEDC2;
+	margin-top: 1.6%;
+}
+
+.textoc{
+	width: 100%;
+	float:left;
+	height: 155px;
+	background: #EBEDC2;
+	margin-top: 1%;
+}
+
+.botonver{
+	width: 100%;
+	float:left;
+	height: 40px;
+	background: #EBEDC2;
+	margin-top: 1%;
+}
+
+.b-ver{
+	width: 15%;
+	float:right;
+	height: 40px;
+	background: #0CA3E8;
+	margin-right: 4%;
+}
+
+
+.imag{
+	width: 35%;
+	float:left;
+	height: 275px;
+	background: #C5EBEC;
+}
+
 
 #art2{
 	width: 100%;
