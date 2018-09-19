@@ -613,7 +613,7 @@ body{
 
 #contactos{
 	width: 100%;
-	background: #DEAA66;
+	background: #D3F5AE;
 	height: 120px;
 	float: left;
 }
@@ -622,7 +622,7 @@ body{
 	width: 100%;
 	float:left;
 	height: 45px;
-	background: #8355FF;
+	background: #14040D;
 }
 
 
@@ -630,22 +630,131 @@ body{
 	width: 65%;
 	float:left;
 	height: 45px;
-	background: #D40CE8;
+	background: #14040D;
 }
 
 .datos{
 	width: 35%;
 	float:left;
 	height: 45px;
-	background: #7253FA;
+	background: #14040D;
 }
+
+.signin{
+	width: 20%;
+	float:right;
+	height: 45px;
+	background: #4CE9FF;
+}
+
+.ourP{
+	width: 25%;
+	float:right;
+	height: 45px;
+	background: #4CE9FF;
+	margin-right: 0.5%
+}
+
+.num{
+	width: 54%;
+	float:right;
+	height: 45px;
+	background: #4CE9FF;
+	margin-right: 0.5%
+}
+
+.hijo2{
+	width: 100%;
+	float:right;
+	height: 80px;
+	background: #D3F5AE;
+	
+}
+
+.logo{
+	width: 15%;
+	float:left;
+	height: 80px;
+	background: #427CD2;
+	margin-left: 4%;
+	
+}
+
+.home{
+	width: 6.7%;
+	float:left;
+	height: 80px;
+	background: #F5D7B4;
+	margin-left: 25%;
+	
+}
+
+.about{
+	width: 10%;
+	float:left;
+	height: 80px;
+	background: #F5D784;
+	
+}
+
+.products{
+	width: 15%;
+	float:left;
+	height: 80px;
+	background: #F5D74A;
+	
+}
+
+.heavy{
+	width: 17%;
+	float:left;
+	height: 80px;
+	background: #F2D411;
+	
+}
+
+.contact{
+	width: 7.3%;
+	float:left;
+	height: 80px;
+	background: #F2D474;
+	
+}
+
 
 #primeraimagen{
 	width: 100%;
-	background: #750CE8;
+	background: #050424;
 	height: 450px;
 	float: left;
 }
+
+
+
+.linea1{
+	width: 100%;
+	float:left;
+	height: 7px;
+	background: #6ED6E8;
+	
+}
+
+.linea2{
+	width: 100%;
+	float:left;
+	height: 7px;
+	background: #221DE8;
+	
+}
+
+.imagenc{
+	width: 100%;
+	float:left;
+	height: 433px;
+	background: #C5EBEC;
+	
+}
+
 
 #art1{
 	width: 100%;
