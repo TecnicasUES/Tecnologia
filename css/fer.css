@@ -285,4 +285,44 @@ header{
 	background: #5ebdac;
 }
 
+.p2{
+	width: 50%;
+	height: 500px;
+	float: left;
+	background: #000000;
+}
 
+.p2_a{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #4cb57a;
+}
+
+.p2_b_1{
+	width: 50%;
+	height: 100px;
+	float: left;
+	background: #254f5b;
+}
+
+.p2_b_2{
+	width: 50%;
+	height: 100px;
+	float: left;
+	background: #95b37d;
+}
+
+.p2_c{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #8c777e;
+}
+
+.p2_d{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #ffffff;
+}
