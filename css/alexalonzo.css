@@ -263,9 +263,57 @@ body{
 	background: #625370;
 	float: left;
 }
-.d1{
+.base6{
+	width: 50%;
+	height: 200px;
+	background: #85b2cb;
+	float: left;
+}
+.e1{
 	width: 100%;
 	height: 50px;
 	background: #857494;
+	float: left;
+}
+.base7{
+	width: 50%;
+	height: 200px;
+	background: #e64949;
+	float: left;
+}
+.f1{
+	width: 100%;
+	height: 50px;
+	background: #e5944d;
+	float: left;
+}
+.f2{
+	width: 30%;
+	height: 50px;
+	background: #812f5c;
+	float: left;
+}
+.f3{
+	width: 30%;
+	height: 50px;
+	background: #9d4a77;
+	float: left;
+}
+.f4{
+	width: 20%;
+	height: 50px;
+	background: #b46690;
+	float: left;
+}
+.f5{
+	width: 20%;
+	height: 50px;
+	background: #cb85ab;
+	float: left;
+}
+.base8{
+	width: 50%;
+	height: 100px;
+	background: #85b2cb;
 	float: left;
 }
