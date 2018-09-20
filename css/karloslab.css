@@ -342,3 +342,60 @@ body{
 	height: 300px;
 	float: left;
 }
+
+.yyy{
+	width: 100%;
+	background: #6c6863;
+	height: 10px;
+	float: left;
+	margin-top: 65px;
+}
+
+
+.pc{
+	width: 100%;
+	background: #182875;
+	height: 250px;
+	float: left;
+}
+
+.pc1{
+	width: 15%;
+	background: #e8ccb0;
+	height: 200px;
+	float: left;
+	margin-left: 50%;
+	margin-top: 25px;
+}
+
+
+.i{
+	width: 100%;
+	background: #5a9992;
+	height: 190px;
+	float: left;
+}
+
+.i1{
+	width: 33.33%;
+	background: #241323;
+	height: 188px;
+	float: left;
+	margin-top: 2px
+}
+
+.i2{
+	width: 33.33%;
+	background: #d5b791;
+	height: 188px;
+	float: left;
+	margin-top: 2px
+}
+
+.i3{
+	width: 33.34%;
+	background: #c8a19a;
+	height: 188px;
+	float: left;
+	margin-top: 2px
+}
