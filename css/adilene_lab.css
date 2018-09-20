@@ -244,4 +244,59 @@ body{
 	margin-top: 20px;
 }
 
+.seccion3{
+	width: 100%;
+	background: #f5e9bf;
+	height: 600px;
+	float: left;
+}
 
+.hijo1{
+	width: 40%;
+	background: #6c3644;
+	height: 600px;
+	float: left;
+}
+.perfume{
+	width: 90%;
+	background: #9556c3;
+	height: 560px;
+	float: left;
+	margin-left: 2.5%;
+	margin-top: 20px;
+}
+
+.hijo2{
+	width: 59%;
+	background: #2e86b6;
+	height: 600px;
+	float: left;
+	margin-left: 1%
+}
+
+.h1{
+	width: 95%;
+	background: #a4818b;
+	height: 255px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 20px;
+}
+
+.h2{
+	width: 95%;
+	background: #a4818b;
+	height: 255px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 22px;
+}
+
+.hh1{
+	width: 50%;
+	background: #771a87;
+	height: 200px;
+	float: right;
+	margin-right: : 2.5%;
+	margin-top: 50px;
+}
