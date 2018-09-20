@@ -133,6 +133,14 @@ body{
 	float: left;
 }
 
+.cca1{
+	width: 30%;
+	background: #80fdf9;
+	height: 45px;
+	float: left;
+	margin-left: 15px;
+}
+
 .ccb{
 	width: 100%;
 	background: #6464a7;
@@ -145,6 +153,15 @@ body{
 	background: #342166;
 	height: 67.5px;
 	float: left;
+}
+
+.ccc1{
+	width: 15%;
+	background: #5ba5a7;
+	height: 55px;
+	float: left;
+	margin-top: 7px;
+	margin-left: 84%;
 }
 
 
