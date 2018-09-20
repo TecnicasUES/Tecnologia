@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body{
+	width: 100%;
+	background: #cc1a1a;
+	height: auto;
+	font-family: calibri;
+	float: left;
+	margin: 0%;
+}
+
+#menu{
+	width: 100%;
+	background: #670808;
+	height: 95px;
+	float: left;
+}
+
+.child1{
+	width: 100%;
+	background: #c89f9f;
+	height: 45px;
+	float: left;
+
+}
+
+.cellimage{
+	width: 3%;
+	background: #f26161;
+	height: 45px; 
+	float: left;
+	margin-left: 45%;
+}
+
+.cellphone{
+	width: 10%;
+	background: #a89797;
+	height: 45px ;
+	float: left;
+	margin-left: 1%;
+}
+
+.ourpartners{
+	width: 10%
+	background:;
+	height: ;
+	float: ;
+	margin-left: 
+}
+
+.moreinfo{
+	width: 10%
+	background:;
+	height: ;
+	float: ;
+	margin-left: 
+}
+
+.signin{
+	width: 10%
+	background:;
+	height: ;
+	float: ;
+	margin-left: 
+}
