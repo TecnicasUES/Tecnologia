@@ -1162,10 +1162,107 @@ header{
 }
 #fot{
 	width: 100%;
-	height: 150px;
+	height: 200px;
 	float: left;
 	background: #AE9DF4;
 }
+.fot1{
+	width: 40%;
+	height: 120px;
+	float: left;
+	margin-top: 20px;
+	background: #8C72B1;
+}
+.fot11{
+	width: 35%;
+	height: 120px;
+	float: left;
+	margin-left: 27%;
+	background: #0088FF;
+}
+.fot111{
+	width: 100%;
+	height: 70px;
+	float: left;
+	background: #0088FF;
+}
+.fot112{
+	width: 33%;
+	height: 50px;
+	float: left;
+	background: #3DBAEC;
+}
+.fot113{
+	width: 33%;
+	height: 50px;
+	float: left;
+	background: #6AC0AE;
+}
+.fot114{
+	width: 34%;
+	height: 50px;
+	float: left;
+	background: #73F1A8;
+}
+.fot2{
+	width: 60%;
+	height: 166px;
+	float: left;
+	margin-top: 20px;
+	background: #4E9A9B;
+}
+.fot21{
+	width: 100%;
+	height: 45px;
+	float: left;
+	background: #4C7DBF;
+}
+.fot211{
+	width: 15%;
+	height: 45px;
+	float: left;
+	background: #0160A3;
+}
+.fot212{
+	width: 15%;
+	height: 45px;
+	float: left;
+	background: #50C0DC;
+}
+.fot213{
+	width: 25%;
+	height: 45px;
+	float: left;
+	background: #5AB88F;
+}
+.fot214{
+	width: 30%;
+	height: 45px;
+	float: left;
+	background: #4EBBB4;
+}
+.fot215{
+	width: 15%;
+	height: 45px;
+	float: left;
+	background: #9EC64F;
+}
+.fot22{
+	width: 95%;
+	height: 5px;
+	float: left;
+	margin-left: 5%;
+	background: #30509F;
+}
+.fot23{
+	width: 100%;
+	height: 45px;
+	float: left;
+	margin-top: 60px;
+	background: #46ABE1;
+}
+
+
 /*laboratorio1*/
 
 .head1lab{
