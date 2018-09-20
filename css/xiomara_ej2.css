@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+body{
+	background: #blue;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+header{
+	width: 100%;
+	height: 160px;
+	float: left;
+	background: pink;
+}
+.head1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: indianred;
+}
+.hijo1{
+	width: 56%;
+	height: 50px;
+	float: left;
+	background: lightcoral;
+}
+.hijo2{
+	width: 44%;
+	height: 50px;
+	float: left;
+	background: crimson;
+}
+.telefono{
+	width: 48%;
+	height: 50px;
+	float: left;
+	background: pink;
+}
+.icono{
+	width: 17%;
+	height: 50px;
+	float: left;
+	background: hotpink;
+}
+.partners{
+	width: 26%;
+	height: 50px;
+	float: left;
+	background: salmon;
+}
+.singin{
+	width: 18%;
+	height: 50px;
+	float: left;
+	background: indianred;
+}
+.head2{
+	width: 100%;
+	height: 110px;
+	float: left;
+	background: darkred;
+}
+.parte1{
+	width: 35%;
+	height: 120px;
+	float: left;
+	background: tomato;
+}
+.logotipo{
+	width: 40%;
+	height: 96px;
+	float: left;
+	background: darkorange;
+	margin-left: 5%;
+	margin-top: 10px;
+}
+.parte2{
+	width: 65%;
+	height: 120px;
+	float: left;
+	background: peachpuff;
+}
+.home{
+	width: 12%;
+	height: 120px;
+	float: left;
+	background: palevioletred;
+}
+.about{
+	width: 13%;
+	height: 120px;
+	float: left;
+	background: deeppink;
+}
+.ps{
+	width: 25%;
+	height: 120px;
+	float: left;
+	background: firebrick;
+}
+.oil{
+	width: 30%;
+	height: 120px;
+	float: left;
+	background: papayawhip;
+}
+.contact{
+	width: 20%;
+	height: 120px;
+	float: left;
+	background: plum;
+}
