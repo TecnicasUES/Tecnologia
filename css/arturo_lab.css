@@ -7,14 +7,38 @@ body{
 	margin: 0;
 }
 #menu1{
-	width: 100%;
-	background: #c3db51;
-	height: 60px;
-	float: left;
+	width:100%;
+	background:#c3db51;
+	height:45px;
+	float:left;
 }
-.child1{
-	width: 55%;
-	height: 60px;
-	background: #629398;
-	float: left;
+.hijo1{
+	width:10%;
+	height:45px;
+	background:#ff0404;
+	float:left;
+	margin-left:50%;
+}
+.hijo2{
+	width:10%;
+	height:45px;
+	background:#06ffff;
+	float:left;
+}.hijo3{
+	width:10%;
+	height:45px;
+	background:#062bff ;
+	float:left;
+}
+.hijo4{
+	width:10%;
+	height:45px;
+	background:#a406ff;
+	float:left;
+}
+.hijo5{
+	width:10%;
+	height:45px;
+	background:#ff065c;
+	float:left;
 }
