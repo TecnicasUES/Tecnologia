@@ -118,7 +118,7 @@ body{
 }
 
 .cc3{
-	width: 40%;
+	width: 40.5%;
 	background: #6b3735;
 	height: 225px;
 	float: left;
@@ -126,12 +126,27 @@ body{
 	margin-top: 125px;
 }
 
-.{
+.cca{
 	width: 100%;
-	background: #5979ae;
-	height: 10px;
+	background: #6aa961;
+	height: 45px;
 	float: left;
 }
+
+.ccb{
+	width: 100%;
+	background: #6464a7;
+	height: 112.5px;
+	float: left;
+}
+
+.ccc{
+	width: 100%;
+	background: #342166;
+	height: 67.5px;
+	float: left;
+}
+
 
 .cc4{
 	width: 100%;
