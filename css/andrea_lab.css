@@ -10,8 +10,8 @@ body{
 }
 #menu{
 	width: 100%;
-	background: #eda6a6;
-	height: 95px;
+	background: #ef68e8;
+	height: 87px;
 	float: left;
 }
 .datos{
@@ -21,11 +21,11 @@ body{
 	float: left;
 }
 .tel{
-	width: 3%;
+	width: 24%;
 	background: #2f004a;
 	height: 45px;
 	float: left;
-	margin-left: 53%;
+	margin-left: 33%;
 }
 .celarea{
 	width: 15%;
@@ -58,9 +58,79 @@ body{
 	margin-left: 1%;
 }
 .inicio{
+	width: 100%;
+	background: #eda6a6;
+	height: 76px;
+	float: left;
 
 }
 .logotipo{
-	width: 20%;
-	background:;
+	width: 12%;
+	background: #635e9f;
+	height: 76px;
+	float: left;
+	margin-left: 9%;
+}
+.home{
+	width: 8%;
+	background: #635e9f;
+	height: 76px;
+	float: left;
+	margin-left: 23%;
+}
+.knowus{
+	width: 8%;
+	background: #47a8d4;
+	height: 76px;
+	float: left;
+	margin-left: 0%;
+}
+.brans{
+	width: 8%;
+	background: #6bc8aa;
+	height: 76px;
+	float: left;
+	margin-left: 0%;
+}
+.corporate{
+	width: 8%;
+	background: #7b057e;
+	height: 76px;
+	float: left;
+	margin-left: 0%;
+}
+.blog{
+	width: 8%;
+	background: #47a8d4;
+	height: 76px;
+	float: left;
+	margin-left: 0%;
+}
+.commiunity{
+	width: 8%;
+	background: #eb3de1;
+	height: 76px;
+	float: left;
+	margin-left: 0%;
+}
+.contact{
+	width: 8%;
+	background: #6bc8aa;
+	height: 76px;
+	float: left;
+	margin-left: 0%;
+}
+.caja1{
+	width: 100%;
+	background: #003770;
+	height: 400px;
+	float: left;
+}
+.cajatitulo{
+	width: 12%;
+	background: #635e9f;
+	height: 76px;
+	float: left;
+	margin-left: 9%;
+	margin-top: 9px
 }
