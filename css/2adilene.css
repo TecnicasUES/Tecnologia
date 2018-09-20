@@ -6,9 +6,10 @@ body{
 	height: auto;
 	font-family: arial;
 	float: left;
+	margin: 0%;
 }
 
-#menu{
+.menu{
 	width: 100%;
 	background: #453f3f;
 	height: 90px;
@@ -111,3 +112,154 @@ body{
 	float: left;
 	margin-left: 1%;
 }
+
+.larguito1{
+	width: 100%;
+	background: #fbd283;
+	height: 10px;
+	float: left;
+}
+
+.larguito2{
+	width: 100%;
+	background: #9c9d58;
+	height: 10px;
+	float: left;
+}
+
+.seccion1{
+	width: 100%;
+	background: #fe9c53;
+	height: 400px;
+	float: left;
+}
+
+.a{
+	width: 100%;
+	background: #fe9c53;
+	height: 80px;
+	float: left;
+}
+
+.box{
+	width: 40%;
+	background: #c73b0b;
+	height: 300px;
+	float: left;
+	margin-left: 4%;
+}
+
+.boxmargin{
+	width: 96%;
+	background: #c73b0b;
+	height: 10px;
+	float: left;
+	margin-left: 4%;
+}
+.box1name{
+	width: 30%;
+	background: #7a0f00;
+	height: 60px;
+	float: left;
+	margin-left: 4%;
+	
+}
+
+.box2texto{
+	width: 85%;
+	background: #eb8c00;
+	height: 150px;
+	float: left;
+	margin-left: 4%;
+	
+}
+
+.boxmargin2{
+	width: 96%;
+	background: #c73b0b;
+	height: 20px;
+	float: left;
+	margin-left: 4%;
+
+}
+
+.box3boton{
+	width: 15%;
+	background: #978e43;
+	height: 40px;
+	float: left;
+	margin-left: 80%;
+	
+}
+
+.seccion2{
+	width: 100%;
+	background: #230203;
+	height: 300px;
+	float: left;
+}
+
+.larguito3{
+	width: 100%;
+	background: #7a0f00;
+	height: 10px;
+	float: left;
+}
+
+.box1{
+	width: 60%;
+	background: #f02d35;
+	height: 290px;
+	float: left;
+	
+}
+
+.box1margin{
+	width: 96%;
+	background: #f02d35;
+	height: 10px;
+	float: left;
+	margin-left: 4%;
+}
+
+.box1name1{
+	width: 30%;
+	background: #7a0f00;
+	height: 60px;
+	float: left;
+	margin-left: 4%;
+	
+}
+
+.box2texto1{
+	width: 85%;
+	background: #eb8c00;
+	height: 150px;
+	float: left;
+	margin-left: 4%;
+	
+}
+
+.box1margin21{
+	width: 96%;
+	background: #f02d35;
+	height: 10px;
+	float: left;
+	margin-left: 4%;
+
+}
+
+.box13boton{
+	width: 15%;
+	background: #fe9c53;
+	height: 50px;
+	float: left;
+	margin-left: 80%;
+	
+}
+
+.box2{
+	width: 40%;
+	background: #978e43;
+	height: 290px;
+	float: left;
