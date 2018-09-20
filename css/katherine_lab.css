@@ -1,0 +1,167 @@
+@charset "utf-8";	
+
+body
+{
+	background: #097161 ;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+
+#info{
+	width: 100%;
+	background: #949dcf;
+	height: 30px; 
+	float:left;
+	
+}
+
+.caja1{
+	width: 50%;
+	height: 30px;
+	background: #3cd3bc;
+	float:left;
+}
+
+ .caja2{
+	width: 35%;
+	height: 30px;
+	background: #1289ec;
+	float:left;
+}
+
+.icono{
+	width: 10%;
+	height: 30px;
+	background: #ba8fe1;
+	float:left;
+}
+
+.caja3{
+	width: 30%;
+	height: 30px;
+	background: #9d61d1;
+	float:right;
+	
+}
+
+
+.caja4{
+	width: 30%;
+	height: 30px;
+	background: #166774;
+	float:right;
+	
+}
+
+
+.caja5{
+	width: 20%;
+	height: 30px;
+	background: #53e86c;
+	float:right;
+	
+}	
+
+#menu{
+	width: 100%;
+	height: 70px;
+	background: #c0f492;
+	float:left;
+	
+}	
+
+.logo{
+	width: 15%;
+	height: 70px;
+	background: #53e86c;
+	float:left;
+	
+}	
+	
+.cajavacia{
+	width: 20%;
+	height: 70px;
+	background:  #0c5463;
+	float:left;
+	
+}	
+.home{
+	width:8%;
+	height:70px;
+	background: #f45317;
+	float:left;
+		
+}
+
+.know{
+	width:9%;
+	height:70px;
+	background: #0c2b63;
+	float:left;
+	
+		
+}			
+
+.brands{
+	width:9%;
+	height:70px;
+	background: #1f0c63;
+	float:left;
+			
+}		
+
+.corporate{
+	width:9%;
+	height:70px;
+	background: #580c63;
+	float:left;
+			
+}	
+
+.blog{
+	width:10%;
+	height:70px;
+	background:#2c262d;
+	float:left;
+			
+}	
+
+.comunity{
+	width:10%;
+	height:70px;
+	background:#a5339c;
+	float:left;
+			
+}	
+
+.contact{
+	width:10%;
+	height:70px;
+	background: #5ba533;
+	float:left;
+			
+}	
+
+#portada{
+	width: 100%;
+	height:250px;
+	background: #33a587;
+	float:left;
+	
+}
+
+.portada1{
+	width:60%;
+	height:250px;
+	background: #1e2e96;
+	float:left;
+}	
+
+.portada1a{
+	width:100%;
+	height:50px;
+	background: #383d5b;
+	float:left;	
+}	
