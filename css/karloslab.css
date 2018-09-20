@@ -328,3 +328,17 @@ body{
 	margin-left: 3%;
 	margin-top: 25px;
 }
+
+.yya2{
+	width: 55%;
+	background: #fa8d45;
+	height: 300px;
+	float: left;
+}
+
+.yyb2{
+	width: 45%;
+	background: #ecccac;
+	height: 300px;
+	float: left;
+}
