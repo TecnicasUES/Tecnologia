@@ -140,3 +140,11 @@ body{
  	float: left;	
 	background:purple;
 	}
+
+.caja{
+
+	width: 100%;
+ 	height: 500px;
+ 	float: left;	
+	background:#B434F9;
+	}
