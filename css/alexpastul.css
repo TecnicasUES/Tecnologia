@@ -1017,18 +1017,154 @@ header{
 	background: #C69500;
 }
 .bl622{
-	width: 17%;
-	height: 300px;
-	float: left;
-	margin-left: 7%;
-	background: #FFDB18;
-}
-.bl6221{
-	width: 100%;
+	width: 53%;
 	height: 100px;
 	float: left;
 	margin-top: 80px;
+	background: #FFDB18;
+}
+.bl6221{
+	width: 45%;
+	height: 100px;
+	float: left;
+	margin-left: 13%;
 	background: #F8AC16;
+}
+#bloque7{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #18639B;
+}
+.bl71{
+	width: 50%;
+	height: 500px;
+	float: left;
+	margin-left: 8%;
+	background: #5EC4E8;
+}
+.bl711{
+	width: 100%;
+	height: 60px;
+	float: left;
+	margin-top: 28px;
+	background: #70C0A6;
+}
+.bl7111{
+	width: 43%;
+	height: 60px;
+	float: left;
+	background: #BAFF62;
+}
+.bl7112{
+	width: 57%;
+	height: 60px;
+	float: left;
+	background: #8DA40A;
+}
+.bl712{
+	width: 100%;
+	height: 65px;
+	float: left;
+	margin-top: 28px;
+	background: #70B854;
+}
+.bl7121{
+	width: 33%;
+	height: 65px;
+	float: left;
+	background: #E7E670;
+}
+.bl7122{
+	width: 67%;
+	height: 65px;
+	float: left;
+	background: #A2C617;
+}
+.bl713{
+	width: 100%;
+	height: 65px;
+	float: left;
+	margin-top: 40px;
+	background: #005537;
+}
+.bl7131{
+	width: 33%;
+	height: 65px;
+	float: left;
+	background: #FEF28B;
+}
+.bl7132{
+	width: 67%;
+	height: 65px;
+	float: left;
+	background: #68A12F;
+}
+.bl714{
+	width: 100%;
+	height: 120px;
+	float: left;
+	margin-top: 40px;
+	background: #5A9900;
+}
+.bl7141{
+	width: 33%;
+	height: 120px;
+	float: left;
+	background: #DCE8B6;
+}
+.bl7142{
+	width: 67%;
+	height: 120px;
+	float: left;
+	background: #3E7930;
+}
+.bl72{
+	width: 42%;
+	height: 210px;
+	float: left;
+	margin-top: 117px;
+	background: #2C4E9D;
+}
+.bl721{
+	width: 100%;
+	height: 65px;
+	float: left;
+	background: #059939;
+}
+.bl7211{
+	width: 25%;
+	height: 65px;
+	float: left;
+	margin-left: 15%;
+	background: #4AC2F1;
+}
+.bl7212{
+	width: 40%;
+	height: 65px;
+	float: left;
+	margin-left: 4%;
+	background: #ACCAEC;
+}
+.bl722{
+	width: 100%;
+	height: 87px;
+	float: left;
+	margin-top: 50px;
+	background: #294A21;
+}
+.bl7221{
+	width: 25%;
+	height: 87px;
+	float: left;
+	margin-left: 59%;
+	background: #0AFFC4;
+}
+#fot{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #AE9DF4;
 }
 /*laboratorio1*/
 
