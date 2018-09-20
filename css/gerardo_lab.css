@@ -307,3 +307,34 @@ body{
 	height: 400px;
 	float: left;
 }
+
+.caja2{
+	width: 66.7%;
+	background: #fbd45c;
+	height: 250px;
+	float: left;
+}
+
+.caja3{
+	width: 30%;
+	background: #7c682b;
+	height: 245px;
+	float: left;
+	margin-left: 67%;
+}
+
+.caja4{
+	width: 66.7%;
+	background: #fbd45c;
+	height: 250px;
+	float: left;
+	margin-top: 10px;
+}
+
+.caja5{
+	width: 30%;
+	background: #7c682b;
+	height: 245px;
+	float: left;
+	margin-left: 8%;
+}
