@@ -135,6 +135,20 @@ body{
 	margin-left: 1%;
 }
 
+.ge1{
+	width: 55%;
+	margin-left: left;
+	background: red;
+	height: 600px;
+}
+
+.ge2{
+	width: 44%;
+	margin-left: left;
+	background: blue;
+	height: 600px;
+}
+
 .seccion1{
 	width: 100%;
 	background: #002b57;
@@ -143,7 +157,7 @@ body{
 }
 
 .cajatexto2{
-	width: 47%;
+	width: 90%;
 	background:#47719c;
 	height: 200px;
 	float: left;
@@ -210,10 +224,86 @@ body{
 	margin-top: 30px;
 }
 
+.cajaboton3{
+	width: 35%;
+	background:#394b86;
+	height: 45px;
+	float: left;
+	margin-left: 10%;
+}
+
+.cajatexto7{
+	width: 100%;
+	background:#6b696e;
+	height: 250px;
+	float: left;
+}
+
+.cajaboton4{
+	width: 25%;
+	background:#394b86;
+	height: 45px;
+	float: left;
+	margin-left: 70%;
+}
+
 .cajatexto10{
 	width: 33.3%;
 	background:#ca0bec;
 	height: 340px;
 	float: left;
 	margin-top: 30px;
+}
+
+.cajaboton5{
+	width: 35%;
+	background:#394b86;
+	height: 45px;
+	float: left;
+	margin-left: 10%;
+}
+
+.cajatexto11{
+	width: 100%;
+	background:#ede785;
+	height: 250px;
+	float: left;
+}
+
+.cajaboton6{
+	width: 25%;
+	background:#394b86;
+	height: 45px;
+	float: left;
+	margin-left: 70%;
+}
+
+.seccion3{
+	width: 100%;
+	background: #e6dc71;
+	height: 500px;
+	float: left;
+}
+
+.caja1{
+	width: 33.3%;
+	background:red;
+	height: 500px;
+	float: left;
+}
+
+.imagen2{
+	width: 90%;
+	background:#958a1a;
+	height: 472px;
+	float: left;
+	margin-left: 4%;
+	margin-top: 10px;
+}
+
+.seccion4{
+	width: 100%;
+	background: #5ada63;
+	height: 400px;
+	float: left;
 }
