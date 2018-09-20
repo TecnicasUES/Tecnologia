@@ -214,3 +214,200 @@ body {
 	margin-right:37.5%;
 		}
 
+#contactos{
+	width: 100%;
+	float: left;
+	height:490px;
+	background: #5BD4AD;
+}
+
+.son1{
+	width: 60%;
+	float: left;
+	height:490px;
+	background: #D6D6D6;
+}
+
+.mini1{
+	width: 100%;
+	float: left;
+	height:100px;
+	background: #787FFF;
+}
+
+.mini2{
+	width: 100%;
+	float: left;
+	height:330px;
+	background: #5BD4AD;
+}
+
+.mini3{
+	width: 100%;
+	float: left;
+	height:60px;
+	background: #343749;
+}
+
+.mi1{
+	width: 40%;
+	float: left;
+	height:330px;
+	background: #CBFF5F;
+}
+
+.m1{
+	width: 95%;
+	float: left;
+	height:70px;
+	background: #61D47B;
+	margin-left: 3%;
+	margin-top: 10px; 
+}
+
+.m2{
+	width: 95%;
+	float: left;
+	height:70px;
+	background: #61D47B;
+	margin-left: 3%;
+	margin-top: 10px; 
+}
+
+.m3{
+	width: 95%;
+	float: left;
+	height:148px;
+	background: #61D47B;
+	margin-left: 3%;
+	margin-top: 15px; 
+}
+
+
+
+.mi2{
+	width: 60%;
+	float: left;
+	height:330px;
+	background: #CBFF5F;
+}
+
+.n1{
+	width: 95%;
+	float: left;
+	height:70px;
+	background: #61D47B;
+	margin-left: 3%;
+	margin-top: 10px; 
+}
+
+.n2{
+	width: 95%;
+	float: left;
+	height:70px;
+	background: #61D47B;
+	margin-left: 3%;
+	margin-top: 10px; 
+}
+
+.n3{
+	width: 95%;
+	float: left;
+	height:148px;
+	background: #61D47B;
+	margin-left: 3%;
+	margin-top: 15px; 
+}
+
+
+
+
+.son2{
+	width: 40%;
+	float: left;
+	height:490px;
+	background: #AFFC63;
+}
+
+.s1{
+	width: 100%;
+	float: left;
+	height:90px;
+	background: #2167FF;
+	margin-top:80px;
+}
+
+.s2{
+	width: 100%;
+	float: left;
+	height:90px;
+	background: #1DDF70;
+	 margin-top:50px;
+}
+
+.bt{
+	width: 25%;
+	float: left;
+	height:90px;
+	background: #DE8E21;
+	 margin-left:60%;
+	}
+
+#foot{
+	width: 100%;
+	float: left;
+	height:200px;
+	background: #5047C1;
+	}
+
+
+.foot1{
+	width: 30%;
+	float: left;
+	height:200px;
+	background: #228B7E;
+	}
+
+.foot2{
+	width: 0.6%;
+	float: left;
+	height:200px;
+	background: #FAFFFA;
+	}
+
+.foot3{
+	width: 69.4%;
+	float: left;
+	height:200px;
+	background: #A3FFA5;
+	}	
+
+.foot3a{
+	width: 100%;
+	float: left;
+	height:97px;
+	background: #339DFF;
+	}	
+
+.foot3am{
+	width: 26%;
+	float: left;
+	height:50px;
+	background: #9532FF;
+	margin-left:26%;
+	}	
+
+.foot3an{
+	width: 14%;
+	float: left;
+	height:50px;
+	background: #9532FF;
+	margin-left:0.2%;
+	}	
+
+.foot3b{
+	width: 100%;
+	float: left;
+	height:100px;
+	background: #4A4B4B;
+	}	
