@@ -255,3 +255,30 @@ body {
 	height: 30px;
 	float:right;
 	}
+
+	
+
+#mar {
+	background: #CF8E3D;
+	width: 100%;
+	height: 400px;
+	float:left;
+	}
+
+	#imagine {
+	background: #A56FD9;
+	width: 100%;
+	height: 370px;
+	float:left;
+	}
+
+	.im1 {
+	background: #CF6544;
+	width: 100%;
+	height: 370px;
+	float:left;
+    margin-top:;
+    margin left:;
+    margin-right:; 
+
+	}
