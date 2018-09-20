@@ -48,58 +48,58 @@ body{
 	background: #ac2d23;
 	float: right;
 }
-.bottom: {
+.bottom{
 	width: 100%;
-	height: 90px;
-	background: #7dc5a4;
-	float: left;
+	height: 45px;
+	background: #929fa7;
+	float: right;
 }
 .xx1{
 	width: 10%;
 	height: 45px;
 	background: #255e84;
-	float: left;
+	float: right;
 }
 .xx2{
 	width: 10%;
 	height: 45px;
 	background: #316d95;
-	float: left;
+	float: right;
 }
 .xx3{
 	width: 10%;
 	height: 45px;
 	background: #4280a9;
-	float: left;
+	float: right;
 }
 .xx4{
 	width: 10%;
 	height: 45px;
 	background: #5694bd;
-	float: left;
+	float: right;
 }
 .xx5{
 	width: 10%;
 	height: 45px;
 	background: #6ea8ce;
-	float: left;
+	float: right;
 }
 .xx6{
 	width: 10%;
 	height: 45px;
 	background: #82b8dc;
-	float: left;
+	float: right;
 }
 .xx7{
 	width: 10%;
 	height: 45px;
 	background: #90c5e8;
-	float: left;
+	float: right;
 }
 .xx8{
 	width: 10%;
 	height: 45px;
-	background: #a0c9e5;
+	background: #6a8292;
 	float: left;
 }
 .banner{
