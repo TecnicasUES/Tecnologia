@@ -728,6 +728,50 @@ body {
 .titulo{
 	width: 100%;
 	float:left;
-	height: 80px;
+	height: 75px;
 	background: #D1F0FF;
+}
+
+.primertexto{
+	margin-top: 75px;
+	width: 50%;
+	float:left;
+	height: 225px;
+	background: #E8C5BC;
+}
+
+.segundotexto{
+    margin-top: 75px;
+	width: 50%;
+	float:left;
+	height: 225px;
+	background: #FFE2C6;
+}
+
+#contactanos{
+	width: 100%;
+	float:left;
+	height: 500px;
+	background: #4B679C;
+}
+
+.contac{
+	width: 100%;
+	float:left;
+	height: 80px;
+	background: #8BCEEB;
+}
+
+.cname{
+	width: 55%;
+	float:left;
+	height: 420px;
+	background: #BF8C9E;
+}
+
+.cphone{
+	width: 45%;
+	float:left;
+	height: 420px;
+	background: #9697BF;
 }
