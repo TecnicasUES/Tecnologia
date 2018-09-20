@@ -752,3 +752,24 @@ body{
 	float: left;
 }
 
+.fw{
+	width: 70%;
+	background: #2a2607;
+	height: 62.5px;
+	float: left;
+	margin-left: 10%;
+}
+
+.fw1{
+	width: 100%;
+	background: #1ab7c5;
+	height: 62.5px;
+	float: left;
+}
+
+.fw2{
+	width: 100%;
+	background: #1ab7c5;
+	height: 62.5px;
+	float: left;
+}
