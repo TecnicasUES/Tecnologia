@@ -449,7 +449,7 @@ header{
 		width: 25%;
 		height: 75px;
 		float: left;
-		margin-left: 180px;
+		margin-left: 25%;
 		background: #c1eb31;
 	}
 	.cs2{
@@ -470,3 +470,35 @@ header{
 		float: left;
 		background: #58691b;
 	}
+	.prueba{
+		width: 100%;
+		height: 1000px;
+		float: left;
+		background: yellow;
+	}
+.ph1{
+	width: 100%;
+	height: 900px;
+	float: left;
+	background: red;
+}
+.ph2{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: black;
+}
+.pn1{
+	width: 25%;
+	height: 100px;
+	float: left;
+	background: blue;
+	margin-left: 75%;
+}
+.ps{
+	width: 50%;
+	height:100px;
+	float: left;
+	background: red;
+	margin-left:50%;
+}
