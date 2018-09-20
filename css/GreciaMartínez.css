@@ -415,116 +415,241 @@ body{
 
 
 
-tarea2g
+ejercicio2
 
+@charset "utf-8";
 
-#menu{
+#body2{
+	background: #FFF5AF;
 	width: 100%;
- 	background: #c3db51;
- 	height: 140px;
- 	float: left;
- 	
+	height:auto;
+	font-family:arial;
+	margin: 0;
+ }
+
+
+#fran1{
+	background:#0D5DFF;
+	width:100%;
+	height:40px;
+	float: left;
 }
 
-.franja1{
-	width: 100%;
- 	background:#E8B10C;
- 	height: 28%;
- 	float: left;
-}
-
-.hijoa{
+.icono1{
+	background:#E87B0C;
 	width: 5%;
- 	background:#FFCE86;
- 	height: 100%;
- 	float: left;
- 	margin-left: 65%;
+	height:100%;
+	float: left;
+	margin-left: 60%;
 }
 
-.hijob{
-	width: 13%;
- 	background:#E682E8;
- 	height: 100%;
- 	float: left;
- 	margin-left: 0%;
+.telefono{
+	background:#94FEFF;
+	width: 15%;
+	height:100%;
+	float: left;
+	margin-left:0%;
+
 }
 
-.hijoc{
-	width: 8.5%;
- 	background:#9547FF;
- 	height: 100%;
- 	float: left;
- 	margin-left: 0%;
+.ourpartners{
+	background:#FF60DE;
+	width: 12%;
+	height:100%;
+	float: left;
+	margin-left:0%;
 }
 
-.hijod{
-	width: 8.5%;
- 	background:#7A6340;
- 	height: 100%;
- 	float: left;
- 	margin-left: 0%;
+#fran2{
+	background:#E84E28;
+	width:100%;
+	height:95px;
+	float: left;
+
 }
 
 .logo{
-	width: 15%;
- 	background:#C2C9FF;
- 	height: 72%;
- 	float: left;
- 	margin-left: 4%;
+	background:#FFE5BC;
+	width: 12%;
+	height:71px;
+	float: left;
+	margin-left: 3%;
+	
+
 }
 
 .home{
+	background:#FFA427;
 	width: 7%;
- 	background:#FF4E34;
- 	height: 72%;
- 	float: left;
- 	margin-left: 23%;
+	height:71px;
+	float: left;
+	margin-left:22%;
+	
 }
 
 .aboutus{
+	background:#FF6AA1;
 	width: 10%;
- 	background:#DA78E8;
- 	height: 72%;
- 	float: left;
- 	margin-left:0%;
+	height:71px;
+	float: left;
+	margin-left:0%;
 }
 
-.productandservices{
-    width: 15%;
- 	background:#39A854;
- 	height: 72%;
- 	float: left;
- 	margin-left:0%;
+.products{
+	background:#81C3FF;
+	width: 18%;
+	height:71px;
+	float: left;
+	margin-left:0%;
 }
 
 .experience{
-	width: 17%;
- 	background:#E83CC0;
- 	height: 72%;
- 	float: left;
- 	margin-left:0%;
+	background:#BC89E8;
+	width: 19%;
+	height:71px;
+	float: left;
+	margin-left:0%;
+
 }
 
 .contact{
+	background:#E88B5A;
 	width: 9%;
- 	background:#FFDF34;
- 	height: 72%;
- 	float: left;
- 	margin-left:0%;
+	height:71px;
+	float: left;
+	margin-left:0%;
+
 }
 
-.borde1{
+.linea1{
+	background: #9E6BC4;
 	width: 100%;
- 	background:#3745B7;
- 	height: 8%;
- 	float: left;
- 	margin-left:0%;
+	height:12px;
+	float: left;
+	margin-left:0%;
+
 }
 
-.borde2{
+.linea2{
+	background: #FFCC1E;
 	width: 100%;
- 	background:#E84A32;
- 	height: 8%;
- 	float: left;
- 	margin-left:0%;
+	height:12px;
+	float: left;
+	margin-left:0%;
 }
+
+#part1{
+	background: #3FA69b;
+	width: 100%;
+	height:520px;
+	float: left;
+	margin-left:0%;
+}
+
+.ourservices{
+	background: #d97b59;
+	width: 43%;
+	height:300px;
+	float: left;
+	margin-left:3%;
+	margin-top: 14%;
+
+}
+
+.titulo{
+	background: #f2caa7;
+	width: 100%;
+	height:50px;
+	float: left;
+	
+} 
+
+.texto{
+	background: #592d23;
+	width: 100%;
+	height:170px;
+	float: left;
+}
+
+.more{
+	background: #6f7356;
+	width: 22%;
+	height:80px;
+	float: left;
+	margin-left: 70%
+}
+
+#parte2{
+	background: #a8c771;
+	width: 100%;
+	height:260px;
+	float: left;
+	margin-left:0%;
+	margin-top:5px;
+}
+
+.cajacontexto{
+	background:#B27A8B;
+	width: 50%;
+	height:260px;
+	float: left;
+	margin-left:0%;
+	
+}
+
+
+.titulo2{
+	background: #e7c572;
+	width: 100%;
+	height:40px;
+	float: left;
+	margin-top:30px;
+
+}
+
+.texto2{
+	background: #b4714c;
+	width: 100%;
+	height:145px;
+	float: left;
+	margin-left:0%
+
+}
+
+
+.vermas{
+	background:#C88D6E;
+	width: 100%;
+	height:54px;
+	float: left;
+	margin-left:0%
+}
+
+.boton{
+	background:#494B76;
+	width: 18%;
+	height:54px;
+	float: left;
+	margin-left:75%
+}
+
+
+#galeria{
+	background: #757E8D;
+	width: 100%;
+	height:700px;
+	float: left;
+	margin-left:0%
+}
+
+.imagen {
+	background: #BFAD75;
+	width: 25%;
+	height:300px;
+	float: left;
+	margin-top: 20px;
+	margin-left:5%
+}
+
+}
+
