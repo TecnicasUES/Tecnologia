@@ -116,3 +116,63 @@ body{
 	height: 70px;
 	float: left;
 }
+
+.l{
+	width: 100%;
+	background: #dfb789;
+	height: 600px;
+	float: left;
+}
+
+.l1{
+	width: 100%;
+	background: #2b6c70;
+	height: 600px;
+	float: left;
+}
+
+.l1{
+	width: 40.5%;
+	background: #e58f2a;
+	height: 225px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 100px;
+}
+
+.ll1{
+	width: 100%;
+	background: #2b6c70;
+	height: 56.25px;
+	float: left;
+}
+
+.ll2{
+	width: 20%;
+	background: #0eeaf8;
+	height: 56.25px;
+	float: left;
+}
+
+.lc{
+	width: 100%;
+	background: #17263c;
+	height: 112.5px;
+	float: left;
+}
+
+.lc1{
+	width: 100%;
+	background: #287249;
+	height: 56.25px;
+	float: left;
+}
+
+.lc2{
+	width: 10%;
+	background: #132878;
+	height: 50px;
+	float: left;
+	margin-left: 85%;
+	margin-top: 2.5px;
+}
