@@ -15,7 +15,7 @@ body{
  	float: left;
   }
 
-  .menu2{
+  .hijo1{
   	width: 100%;
  	background: #00A388;
  	height: 38px;
@@ -56,5 +56,63 @@ body{
 	width: 8%;
  	background: #B6FFF8;
  	height: 38px;
+ 	float: left;
+}
+
+
+.logo{
+	width: 15%;
+ 	background: #EB6896;
+ 	height:72px;
+ 	float: left;
+ }
+.home{
+	width: 5%;
+ 	background: #46698D;
+ 	height:72px;
+ 	float: left;
+ 	margin-left: 33%;
+}
+
+.knowus{
+	width: 7%;
+ 	background: #BA93CC;
+ 	height:72px;
+ 	float: left;
+ }
+
+ .brands{
+ 	width: 8%;
+ 	background: #F0DFA7;
+ 	height:72px;
+ 	float: left;
+}
+
+.corporate{
+	width: 8%;
+ 	background: #C18265;
+ 	height:72px;
+ 	float: left;
+
+}
+
+.blog{
+	width: 6%;
+ 	background: #C2B099;
+ 	height:72px;
+ 	float: left;
+}
+
+.comunity{
+	width: 9.5%;
+ 	background: #FFBAB3;
+ 	height:72px;
+ 	float: left;
+}
+
+.contact{
+	width: 8.5%;
+ 	background: #E8C7A3;
+ 	height:72px;
  	float: left;
 }
