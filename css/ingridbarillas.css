@@ -224,7 +224,7 @@ body{
 	height: 70px;
 	background: #47d584;
 }
-/*sep. cuadro2*/
+/*separar. cuadro2*/
 .cder2{
 	width: 100%;
 	float: right;
@@ -235,7 +235,6 @@ body{
 	width: 100%;
 	float: left;
 	height: 180px;
-	background: red;
 }
 .cder2aa{
 	width: 50%;
@@ -249,13 +248,17 @@ body{
 	height: 60px;
 	background: #a1df6f;
 }
-.cder2b{
-	width: 100%;
+.cder3c{
+	width: 50%;
 	float: right;
 	height: 60px;
 	background: #cf5480;
 }
+
 /*fincuadro2*/
+
+
+
 .cder3{
 	width: 100%;
 	float: right;
