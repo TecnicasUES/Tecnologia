@@ -301,13 +301,6 @@ body{
 	margin-top: 10px;
 }
 
-.seccion4{
-	width: 100%;
-	background: #5ada63;
-	height: 400px;
-	float: left;
-}
-
 .caja2{
 	width: 66.7%;
 	background: #fbd45c;
@@ -338,3 +331,26 @@ body{
 	float: left;
 	margin-left: 8%;
 }
+
+.seccion4{
+	width: 100%;
+	background: #5ada63;
+	height: 400px;
+	float: left;
+}
+
+.caja6{
+	width: 100%;
+	background: #0e8283;
+	height: 200px;
+	float: left;
+}
+
+.seccion5{
+	width: 100%;
+	background: #0fedf0;
+	height: 600px;
+	float: left;
+}
+
+
