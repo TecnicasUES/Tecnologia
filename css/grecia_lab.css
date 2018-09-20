@@ -221,8 +221,16 @@ body{
 .titul{
 	width:100%;
  	background: #DD7F7C;
- 	height:75px;
+ 	height:70px;
  	float: left;
+}
+
+.titular{
+	width:30%;
+ 	background: #FB2954;
+ 	height:70px;
+ 	float: left;
+ 	margin-left: 5%;
 }
 
 .texto{
@@ -230,4 +238,43 @@ body{
  	background: #A65C3D;
  	height:180px;
  	float: left;
+}
+
+.franjaboton{
+	width:100%;
+ 	background: #FC4C89;
+ 	height:50px;
+ 	float: left;
+}
+
+.vermas{
+	width:25%;
+ 	background: #4A90BF;
+ 	height:50px;
+ 	float: left;
+ 	margin-left:65%
+}
+
+.titul2{
+	width:100%;
+ 	background: #5FBDB0;
+ 	height:70px;
+ 	float: left;
+}
+
+.titular2{
+	width:30%;
+ 	background: #FB2954;
+ 	height:70px;
+ 	float: left;
+ 	margin-left: 5%;
+
+}
+
+.texto2{
+	width:100%;
+ 	background: #F0F0DE;
+ 	height:180px;
+ 	float: left;
+
 }
