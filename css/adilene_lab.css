@@ -1,0 +1,187 @@
+@charset "UTF-8";
+
+body{
+	width: 100%;
+	background: #0b1521;
+	height: auto;
+	font-family: arial;
+	float: left;
+	margin: 0%;
+}
+
+#menu{
+	width: 100%;
+	background: #e09977;
+	height: 95px;
+	float: left;
+
+}
+
+.datos{
+ width: 100%;
+ background: #e09977;
+ height: 45px;
+ float: left;
+}
+
+.cel{
+	width: 3%;
+	background: #faba32;
+	height: 45px;
+	float: left;
+	margin-left: 53%;
+}
+
+.celarea{
+	width: 15%;
+	background: #ab3c07;
+	height: 45px;
+	float: left;
+	margin-left: 1%;
+}
+
+.compadres{
+	width: 10%;
+	background: #ed4d00;
+	height: 45px;
+	float: left;
+	margin-left: 1%;
+}
+
+.info{
+	width: 8%;
+	background: #42080c;
+	height: 45px;
+	float: left;
+	margin-left: 1%;
+}
+
+.singin{
+    width: 5%;
+	background: #60b3bb;
+	height: 45px;
+	float: left;
+	margin-left: 1%;
+}
+
+.inicio{
+	width: 100%;
+ 	background: #b8c37d;
+ 	height: 50px;
+ 	float: left;
+}
+
+.logotipo{
+	width: 10%;
+	background: #6e0a8a;
+	height: 50px;
+	float: left;
+	margin-left: 3%;
+}
+
+.casa{
+	width: 5%;
+	background: #0d5ba8;
+	height: 50px;
+	float: left;
+	margin-left: 35%;
+}
+
+.sobrenosotros{
+	width: 5%;
+	background: #996587;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.brands{
+	width: 6%;
+	background: #7578be;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.corporate{
+	width: 9%;
+	background: #712812;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.blog{
+	width: 3%;
+	background: #9556c3;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.comunity{
+	width: 10%;
+	background: #5f6db5;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.contacto{
+	width: 4%;
+	background: #d97c50;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.seccion1{
+	width: 100%;
+	background: #3a0846;
+	height: 400px;
+	float: left;
+	
+}
+
+.caja1{
+	width:50%;
+	background: #604b4e;
+	height: 175px;
+	float: left;
+	margin-left: 4%;
+	margin-top: 75px;
+}
+
+.caja1titulo{
+	width: 35%;
+	background: #6a362a;
+	height: 37.5px;
+	float: left;
+	margin-left: 4%;
+}
+
+.caja1texto{
+	width: 92%;
+	background: #8a57a7;
+	height: 100px;
+	float: left;
+	margin-left: 4%;
+}
+
+.caja1boton{
+	width: 15%;
+	background: #1a92a1;
+	height: 27px;
+	float: left;
+	margin-left: 79%;
+	margin-top: 3px;
+}
+
+.seccion2{
+	width: 100%;
+	background: #996587;
+	height: 200px;
+	float: left;
+	
+}
+
