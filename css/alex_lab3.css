@@ -1,0 +1,116 @@
+@charset "utf-8";
+body{
+	background: #80c3e1;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+#contac{
+	width: 100%;
+	background: #949dcf;
+	height: 90px;
+	float: left;
+}
+.information{
+	width: 100%;
+	height: 45px;
+	background: #aa92ba;
+	float: right;
+}
+.x1{
+	width: 10%;
+	height: 45px;
+	background: #ec8980;
+	float: right;
+}
+.x2{
+	width: 10%;
+	height: 45px;
+	background: #da685e;
+	float: right;
+}
+.x3{
+	width: 10%;
+	height: 45px;
+	background: #ab4a41;
+	float: right;
+}
+.x4{
+	width: 10%;
+	height: 45px;
+	background: #c3493f;
+	float: right;
+}
+.x5{
+	width: 10%;
+	height: 45px;
+	background: #ac2d23;
+	float: right;
+}
+.bottom: {
+	width: 100%;
+	height: 90px;
+	background: #7dc5a4;
+	float: left;
+}
+.xx1{
+	width: 10%;
+	height: 45px;
+	background: #255e84;
+	float: left;
+}
+.xx2{
+	width: 10%;
+	height: 45px;
+	background: #316d95;
+	float: left;
+}
+.xx3{
+	width: 10%;
+	height: 45px;
+	background: #4280a9;
+	float: left;
+}
+.xx4{
+	width: 10%;
+	height: 45px;
+	background: #5694bd;
+	float: left;
+}
+.xx5{
+	width: 10%;
+	height: 45px;
+	background: #6ea8ce;
+	float: left;
+}
+.xx6{
+	width: 10%;
+	height: 45px;
+	background: #82b8dc;
+	float: left;
+}
+.xx7{
+	width: 10%;
+	height: 45px;
+	background: #90c5e8;
+	float: left;
+}
+.xx8{
+	width: 10%;
+	height: 45px;
+	background: #a0c9e5;
+	float: left;
+}
+.banner{
+	width: 100%;	
+	height: 400px;
+	background: #072b57;
+	float: left;
+}
+.linea{
+	width: 100%;	
+	height: 10px;
+	background: #89c7d3;
+	float: left;
+}
