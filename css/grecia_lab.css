@@ -116,3 +116,75 @@ body{
  	height:72px;
  	float: left;
 }
+
+#contenedor1{
+	width: 100%;
+ 	background: #FE7F2D;
+ 	height:620px;
+ 	float: left;
+
+}
+
+.hijoa{
+	width: 56%;
+ 	background: #FCCA46;
+ 	height:620px;
+ 	float: left;
+
+}
+
+.margen{
+	width:100%;
+ 	background: #3C2B3E;
+ 	height:60px;
+ 	float: left;
+}
+
+.caja{
+	width:100%;
+ 	background: #F5D2BC;
+ 	height:228px;
+ 	float: left;
+}
+
+.cajatexto{
+	width:94%;
+ 	background: #CC8C8B;
+ 	height:228px;
+ 	float: left;
+ 	margin-left:6%;
+}
+
+.titulo{
+	width:17%;
+ 	background: #314559;
+ 	height:55px;
+ 	float: left;
+
+}
+
+.text{
+    width:100%;
+ 	background: #4A90BF;
+ 	height:145px;
+ 	float: left;
+
+}
+
+.contiene{	
+	width:12%;
+ 	background: #F25757;
+ 	height:28px;
+ 	float: left;
+ 	margin-left: 88%;
+}
+
+}
+
+.more{
+	width:12%;
+ 	background: #F25757;
+ 	height:28px;
+ 	float: left;
+ 	margin-left: 88%;
+}
