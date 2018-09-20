@@ -1,0 +1,66 @@
+@charset "UFT-8";
+
+body{
+	width: 100%;
+	background: #0c1239;
+	height: auto;
+	font-family: arial;
+	float: left;
+	margin: 0%;
+}
+#menu{
+	width: 100%;
+	background: #eda6a6;
+	height: 95px;
+	float: left;
+}
+.datos{
+	width: 100%;
+	background: #ef68e8;
+	height: 45px;
+	float: left;
+}
+.tel{
+	width: 3%;
+	background: #2f004a;
+	height: 45px;
+	float: left;
+	margin-left: 53%;
+}
+.celarea{
+	width: 15%;
+	background: #001361;
+	height: 45px;
+	float: left;
+	margin-left: 1%
+}
+
+.parners{
+	width: 10%;
+	background: #7b057e;
+	height: 45px;
+	float: left;
+	margin-left: 1%;
+}
+
+.info{
+	width: 8%;
+	background: #7595d9;
+	height: 45px;
+	float: left;
+	margin-left: 1%;
+}
+.singin{
+	width: 5%;
+	background: #7595d9;
+	height: 45px;
+	float: left;
+	margin-left: 1%;
+}
+.inicio{
+
+}
+.logotipo{
+	width: 20%;
+	background:;
+}
