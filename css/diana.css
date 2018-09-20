@@ -66,7 +66,7 @@ body {
 	width:27%;
 	float: left;
 	height: 45px;
-	background: #157A91;
+	background: #157a91;
 }
 
 #cuerpo{
@@ -78,7 +78,7 @@ body {
 
 .hijounico{
 	width: 100%;
-	background: #CCEC93;
+	background: #ccec93;
 	height: 450px;
 	float: left;
 }
@@ -102,7 +102,7 @@ body {
 	width: 25%;
 	height: 525px;
 	float: left;
-	background: #03476D;
+	background: #03476d;
 	margin-left: 85px;
 }
 
@@ -147,7 +147,7 @@ body {
 	width: 25%;
 	height: 525px;
 	float: left;
-	background: #03476D;
+	background: #03476d;
 	margin-left: 75px;
 }
 
@@ -192,7 +192,7 @@ body {
 	width: 25%;
 	height: 525px;
 	float: left;
-	background: #03476D;
+	background: #03476d;
 	margin-left: 85px;	
 }
 
@@ -233,94 +233,45 @@ body {
 	margin-right: 35%;
 }
 
-#origen{
-	background: #A1ACD5;
+#identidad{
 	width: 100%;
-	height: 750px;
-	float: left;
+	background: #d5a1ae;
+	float:left;
+	height: 450px;
 }
+
 .j{
-	background: #A1ACD5;
-	width: 100%;
+	width: 50%;
+	background: #d5a1a1;
+	float:left;
 	height: 450px;
-	float: left;
 }
 
-.j1{
-	background: #9d5275;
+.k{
 	width: 50%;
+	background: #da8585;
+	float:left;
 	height: 450px;
-	float: left;
 }
 
-.j2{
-	background: #f89d22;
+.ka{
+	width: 100%;
+	background: #e55656;
+	margin-top: 80px;
+	height: 85px;
+}
+
+.kaa{
 	width: 50%;
-	height: 450px;
-	float: left;
+	background: #b04767;
+	float:left;
+	height: 85px;
 }
 
-.j2a{
-	background: #7b507a;
-	width: 100%;
-	height: 25%;
-	float: left;
-}
-
-.j2b{
-	background: #B9A1D5;
-	width: 100%;
-	height:17%;
-	float: left;
-}
-
-.j2b1{
-	background: #A1B9D5;
+.kab{
 	width: 50%;
-	height: 17%;
+	background: #766da2;
 	float: left;
-}
-
-.j2b2{
-    background: #EBB8EA;
-	width: 50%;
-	height: 17%;
-	float: left;
-}
-
-.j2c{
-	background: #7FC4B4;
-	width: 100%;
-	height: 17%;
-	float: left;
-}
-
-.j2c1{
-	width: 50%;
-	height: 17%;
-	float: left;
-	margin-left: 35%;
-	margin-right: 35%;
-	background:  #4d68aa;
-}
-
-.j2d{
-	background: #6C88BF;
-	width: 100%;
-	height: 17%;
-	float: left;
-}
-
-.jde{
-	background: #7b507a;
-	width: 100%;
-	height: 25%;
-	float: left;
-}
-
-#contactos{
-	background: #D5A1AE;
-	width: 100%;
-	height: 450px;
-	float: left;
+	margin-left: 50%
+	height:85px;
 }
