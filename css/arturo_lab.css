@@ -1,13 +1,12 @@
 @charset "utf-8";
-
 body{
-	background: #80c3e1;
+	background: #ffae00;
 	width: 100%;
 	height: auto;
 	font-family: arial;
 	margin: 0;
 }
-#menu{
+#menu1{
 	width: 100%;
 	background: #c3db51;
 	height: 60px;
@@ -18,10 +17,4 @@ body{
 	height: 60px;
 	background: #629398;
 	float: left;
-}
-.a{
-	width: 45%;
-	float: left;
-	height: 60px;
-	background: #3aa930;
 }
