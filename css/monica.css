@@ -775,3 +775,21 @@ body {
 	height: 420px;
 	background: #9697BF;
 }
+
+.con1{
+	width: 35%;
+	margin-left: 8%;
+	float:left;
+	margin-top: 10px;
+	height: 85px;
+	background: #8BCEEB;
+}
+
+.descrip1{
+	width: 50%;
+	margin-left: 2%;
+	float:left;
+	margin-top: 10px;
+	height: 85px;
+	background: #8BCEEB;
+}
