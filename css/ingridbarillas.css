@@ -229,13 +229,14 @@ body{
 	width: 100%;
 	float: right;
 	height: 180px;
-	background: #e4e710;
+	background: #2aada8;
 }
-.cder2a{
+.primer{
 	width: 100%;
-	float: left;
-	height: 180px;
+	float: right;
+	height: 60px;
 }
+
 .cder2aa{
 	width: 50%;
 	float: left;
@@ -248,23 +249,34 @@ body{
 	height: 60px;
 	background: #a1df6f;
 }
-.cder3c{
-	width: 50%;
-	float: right;
+.segund{
+	width: 100%;
 	height: 60px;
 	background: #cf5480;
+	float: left;
 }
-
+.tercer{
+	width: 100%;
+	height: 60px;
+	background: #23b2a0;
+	float: left;
+}
+.hijo{
+	width: 33%;
+	height: 60px;
+	background: #0e899b;
+	float: left;
+	margin-left: 33%;
+}
 /*fincuadro2*/
-
-
-
 .cder3{
 	width: 100%;
 	float: right;
 	height: 100px;
 	background: #4db57a;
 }
+/*fin de cuadro 3*/
+
 
 
 
