@@ -125,12 +125,36 @@ body{
 	background: #003770;
 	height: 400px;
 	float: left;
+
 }
-.cajatitulo{
-	width: 12%;
+.paralax1{
+	width: 54%;
+	background: #61acb4;
+	height: 400px;
+	float: left;
+}
+
+
+.cajainfo{
+	width: 96%;
 	background: #635e9f;
-	height: 76px;
+	height: 175px;
 	float: left;
 	margin-left: 9%;
-	margin-top: 9px
+	margin-top: 75px
 }
+.cajatitulo{
+	width: 7%;
+	background: #9d337e;
+	height: 42px;
+	float: left;
+	margin-left: -32%;
+	margin-top: 137px
+
+}
+.paralax2{
+	width: 46%;
+	background: #105e67;
+	height: 400px;
+	float: left;
+
