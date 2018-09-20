@@ -33,7 +33,7 @@ body{
 }
 
 .cellphone{
-	width: 10%;
+	width: 15%;
 	background: #a89797;
 	height: 45px ;
 	float: left;
@@ -41,25 +41,127 @@ body{
 }
 
 .ourpartners{
-	width: 10%
-	background:;
-	height: ;
-	float: ;
-	margin-left: 
+	width: 10%;
+	background:#b28080;
+	height: 45px;
+	float: left;
+	margin-left: 1%; 
 }
 
 .moreinfo{
-	width: 10%
-	background:;
-	height: ;
-	float: ;
-	margin-left: 
+	width: 10%;
+	background:#9b6b6b;
+	height: 45px;
+	float: left;
+	margin-left: 1%;
 }
 
 .signin{
-	width: 10%
-	background:;
-	height: ;
-	float: ;
-	margin-left: 
+	width: 10%;
+	background:#e35354;
+	height: 45px;
+	float: left;
+	margin-left: 1%; 
+}
+
+.child2{
+	width: 100%;
+	background: #63f812;
+	height: 50px;
+	float: left;
+}
+
+.freelogo{
+	width: 6%;
+	background: #7f8e4f;
+	height: 50px; 
+	float: left;
+	margin-left: 4%;
+}
+
+.home{
+	width: 8%;
+	background: #2c5423;
+	height: 50px ;
+	float: left;
+	margin-left: 25%;
+}
+
+.knowsus{
+	width: 8%;
+	background:#628549;
+	height: 50px;
+	float: left;
+	margin-left: 1%; 
+}
+
+.brands{
+	width: 8%;
+	background:#7c955c;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.corporate{
+	width: 8%;
+	background:#577339;
+	height: 50px;
+	float: left; 
+	margin-left: 1%;
+}
+
+.blog{
+	width: 8%;
+	background:#6b764c;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.community{
+	width: 8%;
+	background:#5e6a3b;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.contact{
+	width: 8%;
+	background:#728146;
+	height: 50px;
+	float: left;
+	margin-left: 1%;
+}
+
+.seccion1{
+	width: 100%;
+	background: #002b57;
+	height: 400px;
+	float: left;
+}
+
+.cajatexto2{
+	width: 50%;
+	background:#47719c;
+	height: 200px;
+	float: left;
+	margin-left: 4%;
+	margin-top: 65px; 
+}
+
+.cajatexto3{
+	width: 100%;
+	background:#32c0c7;
+	height: 45px;
+	float: left;
+}
+
+.cajatexto4{
+	width: 25%;
+	background:#67c4d9;
+	height: 45px;
+	float: left;
+	margin-left: 4%;
 }
