@@ -78,6 +78,56 @@ body{
 	float: left;
 }
 
+.d1{
+	width: 8%;
+	height: 65px;	
+	background: #55ADC9;
+	float: left;
+	margin-left: 26%;
+}
+
+.d2{
+	width: 10%;
+	height: 65px;	
+	background: #95ADC9;
+	float: left;
+}
+
+.d3{
+	width: 10%;
+	height: 65px;	
+	background: #CAADC9;
+	float: left;
+}
+
+.d4{
+	width: 12%;
+	height: 65px;	
+	background: #EBE0EA;
+	float: left;
+}
+
+.d5{
+	width: 6%;
+	height: 65px;	
+	background: #EBE0A0;
+	float: left;
+}
+
+.d6{
+	width: 15%;
+	height: 65px;	
+	background: #EBE067;
+	float: left;
+}
+
+.d7{
+	width: 13%;
+	height: 65px;	
+	background: #8DCA5D;
+	float: left;
+}
+
 #carrusel{
 	width: 100%;
 	background: #C03DE8;
@@ -89,7 +139,7 @@ body{
 .know{
 	width: 55%;
 	height: 700px;	
-	background: #C2B099;
+	background: #A86355;
 	float: left;
 }
 
@@ -126,6 +176,14 @@ body{
 }
 
 
+.ven3a{
+	width: 15%;
+	height: 50px;	
+	background: #1A2AC9;
+	float: right;
+	
+}
+
 #lorem{
 	width: 100%;
 	background: #F0DFA7;
@@ -155,12 +213,53 @@ body{
 	float: left;
 }
 
+.let1{
+	width: 100%;
+	height: 50px;	
+	background: #8DCA78;
+	float: left;
+	
+}
+
+.let1a{
+	width: 25%;
+	height: 50px;	
+	background: #2458D6;
+	float: left;
+	
+}
+
+
+.let2{
+	width: 100%;
+	height: 250px;	
+	background: #72A391;
+	float: left;
+	
+}
+.let3{
+	width: 100%;
+	height: 50px;	
+	background: #95D6BF;
+	float: left;
+	
+}
+
+.let3a{
+	width: 20%;
+	height: 50px;	
+	background: #2458D6;
+	float: right;
+	
+}
+
 .letra2{
 	width: 50%;
 	height: 350px;	
 	background: #807496;
 	float: left;
 }
+
 
 #eternity{
 	width: 100%;
@@ -214,6 +313,22 @@ body{
 	
 }
 
+.redes1{
+	width: 55%;
+	height: 350px;	
+	background: #2458D6;
+	float: left;
+
+}
+
+.redes2{
+	width: 45%;
+	height: 350px;	
+	background: #2492D6;
+	float: left;
+
+}
+
 #imagenes{
 	width: 100%;
 	background: #C18265;
@@ -254,7 +369,7 @@ body{
 }
 
 .info1{
-	width: 43%;
+	width: 40%;
 	height: 650px;	
 	background: #B8C9A7;
 	float: left;
@@ -262,9 +377,9 @@ body{
 }
 
 .info2{
-	width: 57%;
+	width: 30%;
 	height: 650px;	
-	background: #B8E1D2;
+	background: #A892D6;
 	float: left;
 	
 }
@@ -277,3 +392,19 @@ body{
 	
 }
 
+
+.pie1{
+	width: 40%;
+	height: 200px;	
+	background: #1A33C9;
+	float: left;
+	
+}
+
+.pie2{
+	width: 60%;
+	height: 200px;	
+	background: #1A7FC9;
+	float: left;
+	
+}
