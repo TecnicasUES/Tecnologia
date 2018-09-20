@@ -113,3 +113,60 @@ body {
 	height: 40px;
 	float:left;
 	}
+
+#azul {
+	background: #2B40FF;
+	width: 100%;
+	height: 400px;
+	float:left;
+	}
+
+.azul1{
+	background: #607BFF;
+	width: 100%;
+	height: 200px;
+	float:left;
+	}
+
+.a {
+	background: #9978E8;
+	width: 50%;
+	height: 200px;
+	float:left;
+	}
+
+	.titu {
+	background: #FF5663;
+	width: 100%;
+	height: 60px;
+	float:left;
+	}
+
+.text {
+	background: #5EE85C;
+	width: 100%;
+	height: 100px;
+	float:left;
+	}
+
+
+.barra {
+	background: #C3B1E8;
+	width: 100%;
+	height: 40px;
+	float:left;
+	}
+
+	.boton {
+	background: #F4FF89;
+	width: 20%;
+	height: 40px;
+	float:right;
+	}
+
+	.azul2 {
+	background: #0091FF;
+	width: 100%;
+	height: 200px;
+	float:left;
+	}
