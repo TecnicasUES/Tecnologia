@@ -173,3 +173,63 @@ body{
 	margin-top: 30px;
 }
 
+.d{
+	width: 100%;
+	background: #5975a6;
+	height: 200px;
+	float: left;
+}
+
+.d1{
+	width: 60%;
+	background: #13475c;
+	height: 200px;
+	float: left;
+}
+
+.da1{
+	width: 100%;
+	background: #be58d5;
+	height: 55px;
+	float: left;
+}
+
+.da2{
+	width: 100%;
+	background: #503c6a;
+	height: 100px;
+	float: left;
+}
+
+.da3{
+	width: 100%;
+	background: #13475c;
+	height: 45px;
+	float: left;
+}
+
+.dab{
+	width: 8%;
+	background: #4756a0;
+	height: 30px;
+	float: left;
+	margin-left: 90%;
+	margin-top: 7.5px;
+}
+
+.d2{
+	width: 40%;
+	background: #aae4e8;
+	height: 200px;
+	float: left;
+}
+
+.db2{
+	width: 100%;
+	background: #d4b9ba;
+	height: 195px;
+	float: left;
+	margin-top: 5px;
+}
+
+
