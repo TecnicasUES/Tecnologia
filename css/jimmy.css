@@ -983,6 +983,7 @@ body{
 	margin-left: 20%;
 	margin-top: 60px;
 	background: #ccd6df;
+	border-radius: 8px;
 }
 
 .con2h3{
@@ -1001,6 +1002,7 @@ body{
 	margin-left: 18%;
 	margin-top: 60px;
 	background: #ccd6df;
+	border-radius: 8px;
 }
 
 .con2h5{
@@ -1018,7 +1020,8 @@ body{
 	float: left;
 	margin-left: 13%;
 	margin-top: 60px;
-	background: #ccd6df;  
+	background: #ccd6df;
+	border-radius: 8px;  
 }
 
 .contactos3{
@@ -1043,6 +1046,7 @@ body{
 	margin-left: 15%;
 	margin-top: 60px;
 	background: #ccd6df;
+	border-radius: 8px;
 }
 
 .con3h3{
@@ -1052,6 +1056,7 @@ body{
 	margin-top: 120px;
 	margin-right: 11%;
 	background: #087ce3;
+	border: 1px solid cyan;
 }
 
 .footer{
