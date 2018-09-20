@@ -672,9 +672,46 @@ body{
 	float: left;
 }
 
+.f1{
+	width: 45%;
+	background: #0924c6;
+	height: 180px;
+	float: left;
+	margin-left: 5%;
+}
+
+.fa1{
+	width: 100%;
+	background: #d77f59;
+	height: 150px;
+	float: left;
+}
+
+.fb1{
+	width: 100%;
+	background: #fccb20;
+	height: 30px;
+	float: left;
+}
+
 .ff{
 	width: 65%;
-	background: #397146;
+	background: #fccb20;
 	height: 250px;
 	float: left;
 }
+
+.ff1{
+	width: 100%;
+	background: #d6f818;
+	height: 187.5px;
+	float: left;
+}
+
+.ff2{
+	width: 100%;
+	background: #1ab7c5;
+	height: 62.5px;
+	float: left;
+}
+
