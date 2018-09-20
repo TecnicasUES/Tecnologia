@@ -171,15 +171,7 @@ body{
 
 }
 
-.contiene{	
-	width:12%;
- 	background: #F25757;
- 	height:28px;
- 	float: left;
- 	margin-left: 88%;
-}
 
-}
 
 .more{
 	width:12%;
@@ -187,4 +179,55 @@ body{
  	height:28px;
  	float: left;
  	margin-left: 88%;
+}
+
+#contenedor2{
+	width:100%;
+ 	background: #99A273;
+ 	height:300px;
+ 	float: left;
+}
+
+.img{
+	width:40%;
+ 	background: #D8995A;
+ 	height:300px;
+ 	float: left;
+}
+
+.cajasdetexto{
+	width:60%;
+ 	background: #F2E8DC;
+ 	height:300px;
+ 	float: left;
+
+}
+
+.cajatexto1{
+	width:50%;
+ 	background: #6C8286;
+ 	height:300px;
+ 	float: left;
+}
+
+.cajatexto2{
+	width:50%;
+ 	background: #9A8A91;
+ 	height:300px;
+ 	float: left;
+
+}
+
+.titul{
+	width:100%;
+ 	background: #DD7F7C;
+ 	height:75px;
+ 	float: left;
+}
+
+.texto{
+	width:100%;
+ 	background: #A65C3D;
+ 	height:180px;
+ 	float: left;
 }
