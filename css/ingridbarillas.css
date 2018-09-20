@@ -224,12 +224,38 @@ body{
 	height: 70px;
 	background: #47d584;
 }
+/*sep. cuadro2*/
 .cder2{
 	width: 100%;
 	float: right;
 	height: 180px;
 	background: #e4e710;
 }
+.cder2a{
+	width: 100%;
+	float: left;
+	height: 180px;
+	background: red;
+}
+.cder2aa{
+	width: 50%;
+	float: left;
+	height: 60px;
+	background: #254f5b;
+}
+.cder2ab{
+	width: 50%;
+	float: right;
+	height: 60px;
+	background: #a1df6f;
+}
+.cder2b{
+	width: 100%;
+	float: right;
+	height: 60px;
+	background: #cf5480;
+}
+/*fincuadro2*/
 .cder3{
 	width: 100%;
 	float: right;
