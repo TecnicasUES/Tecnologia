@@ -246,3 +246,79 @@ body{
 	height: 550px;
 	float: left;
 }
+.nie1alpha{
+	width: 40%;
+	background:white;
+	height: 500px;
+	float:left;
+	margin-top: 25px;
+	margin-left: 1%;
+}
+.nie2alpha{
+	width: 55%;
+	background:white;
+	height:245px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 2%;
+}
+.nienie1{
+	width: 50%;
+	background:gray;
+	height: 245px;
+	float: left;
+}
+
+.nienie2{
+	width: 50%;
+	background:red;
+	height: 245px;
+	float: left;
+}
+.nie3alpha{
+	width: 55%;
+	background:white;
+	height:245px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 2%;
+}
+.nienie3alpha{
+	width: 50%;
+	background:blue;
+	height: 245px;
+	float: left;
+}
+.nienie4alpha{
+	width: 50%;
+	background:yellow;
+	height: 245px;
+	float: left;
+}
+
+.metalgigaseg{
+	width: 100%;
+	background:gray;
+	height: 300px;
+	float: left;
+}
+.metalhijo1{
+	width: 50%;
+	background:blue;
+	height: 300px;
+	float: left;
+}
+.metalhijo2{
+	width: 50%;
+	background:red;
+	height: 300px;
+	float: left;
+
+}
+
+.broncegigaseg{
+	width: 100%;
+	background:gray;
+	height: 300px;
+	float:left;
+}
