@@ -232,5 +232,10 @@ body{
 	margin-top: 5px;
 }
 
-
+.e{
+	width: 100%;
+	background: #92d6c8;
+	height: 550px;
+	float: left;
+}
 
