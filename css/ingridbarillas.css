@@ -283,4 +283,75 @@ body{
 	height: 400px;
 	background: #904aad;
 }
+/*ultimo section*/
+.ciz{
+	width: 59%;
+	float: left;
+	height: 400px;
+	background: red;
+}
+.cuadrogr{
+	width: 100%;
+	float: left;
+	height: 365px;
+	background: #19625b;
+}
+.c01{
+	width: 42%;
+	float: top;
+	height: 72px;
+	background: #00a7cb;
+	margin-left: 0.5%;
+	margin-top: 13%;
+}
+.c02{
+	width: 42%;
+	float: right;
+	height: 72px;
+	background: #00a7cb;
+	margin-right: 0.5%;
+	margin-top: -20%;
+}
+.cuadrochic{
+	width: 100%;
+	float: left;
+	height: 35px;
+	background: #ab58ce;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
