@@ -233,7 +233,7 @@ body{
 
 .box2texto1{
 	width: 85%;
-	background: #eb8c00;
+	background: #ef6910;
 	height: 150px;
 	float: left;
 	margin-left: 4%;
@@ -332,4 +332,41 @@ body{
 	height: 50px;
 	float: left;
 	
+}
+
+.seccion4{
+    width: 100%;
+	background: #0163ba;
+	height: 300px;
+	float: left;
+}
+
+.cuadro1{
+	width: 34%;
+	background: #731115;
+	height: 300px;
+	float: left;
+}
+
+.cuadro2{
+	width: 66%;
+	background: #fe6822;
+	height: 300px;
+	float: right;
+}
+
+.cuadro2titulo{
+	width: 40%;
+	background: #d60613;
+	height: 50px;
+	float: left;
+	margin-left: 4%;
+}
+
+.cuadro2texto{
+	width: 40%;
+	background: #eb8c00;
+	height: 150px;
+	float: left;
+	margin-left: 4%;
 }
