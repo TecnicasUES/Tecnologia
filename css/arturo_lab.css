@@ -240,14 +240,7 @@ background:  #fff000;
 height:515px;
 float:left;
 margin-left:1.5%;
-margin-top:1.5%;
-}
-.cuadro{
-width:45%;
-background:#f44410;
-height:515px;
-float:left;
-margin-left: 33.33%;
+margin-top: 1.5%;
 }
 .area2b{
 width:50%;
@@ -257,12 +250,12 @@ float:left;
 margin-left:1.5%;
 margin-top: 1.5%;
 }
-.cuadro2{
-width:55%;
-background: #a42d0a;
-height:515px;
+.cuadro2b{
+width:50%;
+background: #0aa1a4;
+height:250px;
 float:left;
-margin-left: 66.66%;
+margin-left: 50%;
 }
 .area3b{
 width:50%;
@@ -271,6 +264,19 @@ height:242.5px;
 float:left;
 margin-left:1.5%;
 margin-top: 1.5%;
+}
+.cuadro3b{
+width:50%;
+background: #0aa1a4;
+height:242px;
+float:left;
+margin-left: 50%;
+}
+.lineagrande{
+width:100%;
+background:#f8ff65;
+height:20px;
+float:left;
 }
 .lineapequeña{
 width:100%;
