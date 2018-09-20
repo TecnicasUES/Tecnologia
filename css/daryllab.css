@@ -118,16 +118,131 @@ body{
 	height: 400px;
 	float: left;
 }
-.h2ultra{
-	width:100%;
-	background:#fcff33;
-	height: 400px;
-	float: left;
-}
 .n1ultra{
 	width:50%;
 	background:purple;
 	height: 400px;
 	float: left;
 
+}
+.ultranie1{
+	width:100%;
+	background:gray;
+	height: 50px;
+	float: left;
+
+}
+.ultranie2{
+	width:20%;
+	background:white;
+	height: 50px;
+	float: left;
+
+}
+.ultranie3{
+	width:100%;
+	background:blue;
+	height: 300px;
+	float: left;
+}
+
+.h2ultra{
+	width:100%;
+	background:#fcff33;
+	height: 400px;
+	float: left;
+}
+.nie1h2ultra{
+	width:40%;
+	background:blue;
+	height: 400px;
+	float: left;
+	margin-left: 30%;
+}
+.superomega{
+	width:100%;
+	background:red;
+	height: 400px;
+	float: left;
+	
+}
+.hi1superomega{
+	width:33.33%;
+	background:violet;
+	height: 400px;
+	float: left;
+}
+.hi2superomega{
+	width:33.33%;
+	background:#280439;
+	height: 400px;
+	float: left;
+}
+.ni1superomega{
+	width:100%;
+	background:green;
+	height: 50px;
+	float: left;
+
+}
+.ni2superomega{
+	width:100%;
+	background:gray;
+	height: 300px;
+	float: left;
+}
+.ni3superomega{
+	width:100%;
+	background:blue;
+	height: 50px;
+	float: left;
+}
+.nie4superomega{
+	width:30%;
+	background:green;
+	height: 50px;
+	float: right;
+}
+.hi3superomega{
+	width:33.33%;
+	background:violet;
+	height: 400px;
+	float: left;
+}
+.ni13superomega{
+	width:100%;
+	background:red;
+	height: 50px;
+	float: left;
+
+}
+.ni23superomega{
+	width:100%;
+	background:yellow;
+	height: 300px;
+	float: left;
+}
+.ni33superomega{
+	width:100%;
+	background:brown;
+	height: 50px;
+	float: left;
+}
+.nie43superomega{
+	width:30%;
+	background:salmon;
+	height: 50px;
+	float: right;
+}
+.gigalphaseg{
+	width: 100%;
+	background:#f2e09a;
+	height: 600px;
+	float: left;
+}
+.hijo1gigalpha{
+	width: 100%;
+	background:purple;
+	height: 550px;
+	float: left;
 }
