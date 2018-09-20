@@ -11,14 +11,50 @@ body{
  #menu{
  	width: 100%;
  	background: #79BD8F;
- 	height: 105px;
+ 	height: 110px;
  	float: left;
   }
 
   .menu2{
   	width: 100%;
  	background: #00A388;
- 	height: 30px;
+ 	height: 38px;
  	float: left;
 
   }
+
+  .iconotel{
+  	width: 4%;
+ 	background: #153641;
+ 	height: 38px;
+ 	float: left;
+ 	margin-left:55%;
+  }
+
+  .tel{
+  	width: 13%;
+ 	background: #2A6887;
+ 	height: 38px;
+ 	float: left;
+}
+
+.ourpartners{
+	width: 11%;
+ 	background: #6DB3BF;
+ 	height: 38px;
+ 	float: left;
+}
+
+.moreinfo{
+	width: 9%;
+ 	background: #94CFC9;
+ 	height: 38px;
+ 	float: left;
+}
+
+.signin{
+	width: 8%;
+ 	background: #B6FFF8;
+ 	height: 38px;
+ 	float: left;
+}
