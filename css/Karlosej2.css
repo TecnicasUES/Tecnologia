@@ -11,7 +11,7 @@ body{
 #menuej2{
 	width: 100%;
 	background: #e03d40;
-	height: 30px;
+	height: 100px;
 	float: left;
 }
 
@@ -47,6 +47,51 @@ body{
 .b1{
 	width: 100%;
 	background: #d8d383;
+	height: 70px;
+	float: left;
+}
+
+.bb1{
+	width: 10%;
+	background: #dea058;
+	height: 58px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 3%;
+}
+
+.bb2{
+	width: 5%;
+	background: #7d83c3;
+	height: 70px;
+	float: left;
+	margin-left: 25%;
+}
+
+.bb3{
+	width: 7%;
+	background: #66689a;
+	height: 70px;
+	float: left;
+}
+
+.bb4{
+	width: 19%;
+	background: #2f2851;
+	height: 70px;
+	float: left;
+}
+
+.bb5{
+	width: 19%;
+	background: #83da6f;
+	height: 70px;
+	float: left;
+}
+
+.bb6{
+	width: 6%;
+	background: #ffb451;
 	height: 70px;
 	float: left;
 }
