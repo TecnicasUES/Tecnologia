@@ -842,7 +842,19 @@ body{
 .s2{
 	width: 70%;
 	height: 500px;
-	background: #84C4A6;
+	background: #6B8248;
+	float: left;
+}
+.s3{
+	width: 15%;
+	height: 500px;
+	background: #DBCA7E;
+	float: left;
+}
+.s2{
+	width: 70%;
+	height: 500px;
+	background: #6B8248;
 	float: left;
 }
 .s2a{
@@ -917,6 +929,48 @@ body{
 	background: #84C4B8;
 	float: left;
 }
+.t2a{
+	width: 100%;
+	height: 20px;
+	background: #566F8C;
+	float: left;
+}
+.t2b{
+	width: 100%;
+	height: 110px;
+	background: #DB7F7C;
+	float: left;
+}
+.t2c{
+	width: 100%;
+	height: 110px;
+	background: #84C49C;
+	float: left;
+}
+.t2c1{
+	width: 33%;
+	height: 110px;
+	background: #84C49C;
+	float: left;
+}
+.t2c2{
+	width: 34%;
+	height: 110px;
+	background: #DBCA7E;
+	float: left;
+}
+.t2c3{
+	width: 33%;
+	height: 110px;
+	background: #995B4F;
+	float: left;
+}
+.t2d{
+	width: 100%;
+	height: 160px;
+	background: #566F8C;
+	float: left;
+}
 .t3{
 	width: 40%;
 	height: 400px;
@@ -927,5 +981,71 @@ body{
 	width: 60%;
 	height: 400px;
 	background: #4F9099;
+	float: left;
+}
+.u1{
+	width: 100%;
+	height: 30px;
+	background: #C1ABDB;
+	float: left;
+}
+.u2{
+	width: 100%;
+	height: 30px;
+	background: #DBCA7E;
+	float: left;
+}
+.u2a{
+	width: 15%;
+	height: 30px;
+	background: #DBCA7E;
+	float: left;
+}
+.u2b{
+	width: 20%;
+	height: 30px;
+	background: #8C3623;
+	float: left;
+}
+.u2c{
+	width: 25%;
+	height: 30px;
+	background: #48826C;
+	float: left;
+}
+.u2d{
+	width: 25%;
+	height: 30px;
+	background: #46238C;
+	float: left;
+}
+.u2e{
+	width: 15%;
+	height: 30px;
+	background: #99DB9F;
+	float: left;
+}
+.u3{
+	width: 100%;
+	height: 310px;
+	background: #4F9099;
+	float: left;
+}
+.u3a{
+	width: 100%;
+	height: 280px;
+	background: #4F9099;
+	float: left;
+}
+.u3b{
+	width: 35%;
+	height: 30px;
+	background: #8C3623;
+	float: left;
+}
+.u4{
+	width: 100%;
+	height: 30px;
+	background: #DBCA7E;
 	float: left;
 }
