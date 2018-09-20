@@ -1,14 +1,14 @@
-@charset "utf-8"
+@charset "utf-8";
 
 body{
-	background: #000;
+	background: black;
 	width:100%;
 	height: auto;
 	font-family: arial;
-	margin:0;
-
+	margin: 0;
 }
-#menu1{
+
+#supermenu1{
 	width: 100%;
 	background: gray;
 	height: 60px;
@@ -46,4 +46,88 @@ body{
 	height: 60px;
 	float:left;
 }
+.menu2{
+	width: 100%;
+	background: gray;
+	height: 60px;
+	float:left;
+}
+.hij1menu2{
+	width:30%;
+	background: #ff5733;
+	height: 60px;
+	float:left;
+}
+.hij2menu2{
+	width: 20%;
+	background: blue;
+	height: 60px;
+	float:left;
+}
+.hij3menu2{
+	width: 10%;
+	background: white;
+	height: 60px;
+	float:left;
+}
+.hijo4menu2{
+	width: 10%;
+	background: orange;
+	height: 60px;
+	float:left;
+}
+.hijo5menu2{
+	width: 10%;
+	background: violet;
+	height: 60px;
+	float:left;
+}
+.hijo6menu2{
+	width: 10%;
+	background:#33ff58;
+	height: 60px;
+	float:left;
+}
+.hijo7menu2{
+	width: 10%;
+	background:#ffe033;
+	height: 60px;
+	float:left;
+}
+.hijo8menu2{
+	width: 10%;
+	background:#ff6433;
+	height: 60px;
+	float:left;
+}
+.hijo9menu2{
+	width: 10%;
+	background:yellow;
+	height: 60px;
+	float:left;
+}
+.ultralphaseg{
+	width:100%;
+	background:gray;
+	height: 800px;
+	float: left;
+}
+.h1ultra{
+	width:100%;
+	background:#33fcff;
+	height: 400px;
+	float: left;
+}
+.h2ultra{
+	width:100%;
+	background:#fcff33;
+	height: 400px;
+	float: left;
+}
+.n1ultra{
+	width:50%;
+	background:purple;
+	height: 400px;
+	float: left;
 
+}
