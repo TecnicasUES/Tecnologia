@@ -244,3 +244,141 @@ section{
 	float: right;
 	background: #0063c0;
 }
+.child3{
+	width: 100%;
+	height: 800px;
+	float: left;
+	background: #feb878;
+}
+.j{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: #dddddd; 
+}
+.k{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: #b8b8b7; 
+}
+.j1{
+	width: 25%;
+	height: 360px;
+	float: left;
+	margin-left: 6.2%;
+	background: #173e63;
+}
+.j2{
+	width: 25%;
+	height: 360px;
+	float: left;
+	margin-left: 6.2%;
+	background: #173e63;
+}
+.j3{
+	width: 25%;
+	height: 360px;
+	float: left;
+	margin-left: 6.2%;
+	background: #173e63;
+}
+.k1{
+	width: 25%;
+	height: 360px;
+	float: left;
+	margin-left: 6.2%;
+	background: #173e63;
+}
+.k2{
+	width: 25%;
+	height: 360px;
+	float: left;
+	margin-left: 6.2%;
+	background: #173e63;
+}
+.k3{
+	width: 25%;
+	height: 360px;
+	float: left;
+	margin-left: 6.2%;
+	background: #173e63;
+}
+.j1a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #2c74b9;
+}
+.j1b{
+	width: 25%;
+	height: 60px;
+	float: right;
+	margin-top: 240px;
+	background: #2c74b9;
+}
+.j2a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #2c74b9;
+}
+.j2b{
+	width: 25%;
+	height: 60px;
+	float: right;
+	margin-top: 240px;
+	background: #2c74b9;
+}
+.j3a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #2c74b9;
+}
+.j3b{
+	width: 25%;
+	height: 60px;
+	float: right;
+	margin-top: 240px;
+	background: #2c74b9;
+}
+.k1a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #2c74b9;
+}
+.k1b{
+	width: 25%;
+	height: 60px;
+	float: right;
+	margin-top: 240px;
+	background: #2c74b9;
+}
+.k2a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #2c74b9;
+}
+.k2b{
+	width: 25%;
+	height: 60px;
+	float: right;
+	margin-top: 240px;
+	background: #2c74b9;
+}
+.k3a{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #2c74b9;
+}
+.k3b{
+	width: 25%;
+	height: 60px;
+	float: right;
+	margin-top: 240px;
+	background: #2c74b9;
+}
