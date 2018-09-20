@@ -95,3 +95,49 @@ body{
 	height: 70px;
 	float: left;
 }
+
+.c1{
+	width: 100%;
+	background: #da5e59;
+	height: 400px;
+	float: left;
+}
+
+.cc1{
+	width: 100%;
+	background: #8aa5d6;
+	height: 10px;
+	float: left;
+}
+
+.cc2{
+	width: 100%;
+	background: #5979ae;
+	height: 10px;
+	float: left;
+}
+
+.cc3{
+	width: 40%;
+	background: #6b3735;
+	height: 225px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 125px;
+}
+
+.{
+	width: 100%;
+	background: #5979ae;
+	height: 10px;
+	float: left;
+}
+
+.cc4{
+	width: 100%;
+	background: #593f40;
+	height: 3px;
+	float: left;
+	margin-top: 30px;
+}
+
