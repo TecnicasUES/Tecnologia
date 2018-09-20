@@ -751,7 +751,7 @@ body {
 #contactanos{
 	width: 100%;
 	float:left;
-	height: 500px;
+	height: 475px;
 	background: #4B679C;
 }
 
@@ -765,18 +765,36 @@ body {
 .cname{
 	width: 55%;
 	float:left;
-	height: 420px;
+	height: 395px;
 	background: #BF8C9E;
 }
 
 .cphone{
 	width: 45%;
 	float:left;
-	height: 420px;
+	height: 395px;
 	background: #9697BF;
 }
 
 .con1{
+	width: 35%;
+	margin-left: 8%;
+	float:left;
+	margin-top: 20px;
+	height: 85px;
+	background: #8BCEEB;
+}
+
+.descrip1{
+	width: 52%;
+	margin-left: 2%;
+	float:left;
+	margin-top: 20px;
+	height: 85px;
+	background: #8BCEEB;
+}
+
+.con2{
 	width: 35%;
 	margin-left: 8%;
 	float:left;
@@ -785,11 +803,30 @@ body {
 	background: #8BCEEB;
 }
 
-.descrip1{
-	width: 50%;
+.descrip2{
+	width: 52%;
 	margin-left: 2%;
 	float:left;
 	margin-top: 10px;
 	height: 85px;
 	background: #8BCEEB;
 }
+
+.con3{
+	width: 35%;
+	margin-left: 8%;
+	float:left;
+	margin-top: 10px;
+	height: 125px;
+	background: #8BCEEB;
+}
+
+.descrip3{
+	width: 52%;
+	margin-left: 2%;
+	float:left;
+	margin-top: 10px;
+	height: 125px;
+	background: #8BCEEB;
+}
+
