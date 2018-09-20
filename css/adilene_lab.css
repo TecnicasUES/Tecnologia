@@ -138,20 +138,31 @@ body{
 .seccion1{
 	width: 100%;
 	background: #3a0846;
-	height: 400px;
+	height: 500px;
 	float: left;
 	
 }
+.ade1{
+	width: 54%;
+	float: left;
+	height: 500px;
+	background: red;
+}
 
 .caja1{
-	width:50%;
+	width:96%;
 	background: #604b4e;
 	height: 175px;
 	float: left;
 	margin-left: 4%;
 	margin-top: 75px;
 }
-
+.ade2{
+	width: 46%;
+	float: left;
+	height: 500px;
+	background: cyan;
+}
 .caja1titulo{
 	width: 35%;
 	background: #6a362a;
@@ -180,8 +191,57 @@ body{
 .seccion2{
 	width: 100%;
 	background: #996587;
-	height: 200px;
+	height: 300px;
 	float: left;
 	
 }
+
+.imagen{
+	width: 40%;
+	background: #7578be;
+	height: 300px;
+	float: left;
+}
+
+.cajalarga{
+	width: 60%;
+	background: #0b1521;
+	height: 300px;
+	float: left;
+}
+
+
+.a{
+	width: 40%;
+	background: #42080c;
+	height: 300px;
+	float: left;
+	margin-left: 5%
+}
+
+.a1{
+	width: 40%;
+	background: #d97c50;
+	height: 50px;
+	float: left;
+	margin-top: 30px;
+}
+
+.a2{
+	width: 100%;
+	background: #712812;
+	height: 120px;
+	float: left;
+	margin-top: 10px;
+}
+
+.a3{
+	width: 20%;
+	background: #550a4f;
+	height: 50px;
+	float: left;
+	margin-left: 75%;
+	margin-top: 20px;
+}
+
 
