@@ -240,7 +240,14 @@ background:  #fff000;
 height:515px;
 float:left;
 margin-left:1.5%;
-margin-top: 1.5%;
+margin-top:1.5%;
+}
+.cuadro{
+width:45%;
+background:#f44410;
+height:515px;
+float:left;
+margin-left: 33.33%;
 }
 .area2b{
 width:50%;
@@ -249,6 +256,13 @@ height:250px;
 float:left;
 margin-left:1.5%;
 margin-top: 1.5%;
+}
+.cuadro2{
+width:55%;
+background: #a42d0a;
+height:515px;
+float:left;
+margin-left: 66.66%;
 }
 .area3b{
 width:50%;
