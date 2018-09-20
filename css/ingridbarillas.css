@@ -209,13 +209,32 @@ body{
 	width: 50%;
 	float: left;
 	height: 350px;
-	background: #70e26d;
+	background: #76f3f2;
 }
+
 .c3der{
 	width: 50%;
 	float: right;
 	height: 350px;
 	background: #fc5487;
+}
+.cder1{
+	width: 100%;
+	float: right;
+	height: 70px;
+	background: #47d584;
+}
+.cder2{
+	width: 100%;
+	float: right;
+	height: 180px;
+	background: #e4e710;
+}
+.cder3{
+	width: 100%;
+	float: right;
+	height: 100px;
+	background: #4db57a;
 }
 
 
