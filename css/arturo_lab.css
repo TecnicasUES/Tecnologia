@@ -168,7 +168,7 @@ background:#0f4d71;
 height:200px;
 float:left;
 }
-.areaA{
+.areaa{
 width:100%;
 background: #710f5c;
 height:220px;
@@ -228,7 +228,7 @@ background: #27b20e;
 height:50px;
 float:left;
 }
-.areaB{
+.areab{
 width:100%;
 background: #0e8db2;
 height:550px;
@@ -241,4 +241,68 @@ height:515px;
 float:left;
 margin-left:1.5%;
 margin-top: 1.5%;
+}
+.area2b{
+width:50%;
+background:#ffbd00;
+height:250px;
+float:left;
+margin-left:1.5%;
+margin-top: 1.5%;
+}
+.area3b{
+width:50%;
+background:#ffbd00;
+height:242.5px;
+float:left;
+margin-left:1.5%;
+margin-top: 1.5%;
+}
+.lineapequeña{
+width:100%;
+background:#0f4d71;
+height:5px;
+float:left;
+}
+.areac{
+width:100%;
+background:  #00ffae;
+height:250px;
+float:left;
+}
+.aread{
+width:100%;
+background: #ff3faa;
+height:250px;
+float:left;
+}
+.cuadro1{
+width:33.33%;
+background:#ebff3f;
+height:250px;
+float:left;
+}
+.cuadro2{
+width:33.33%;
+background:#ffaa3f;
+height:250px;
+float:left;
+}
+.cuadro3{
+width:33.33%;
+background: #ff3f3f;
+height:250px;
+float:left;
+}
+.areae{
+width:100%;
+background:#1a63a0;
+height:700px;
+float:left;
+}
+.areaf{
+width:100%;
+background:#3916af;
+height:300px;
+float:left;
 }
