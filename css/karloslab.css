@@ -431,18 +431,26 @@ body{
 }
 
 .www1{
-	width: 100%;
-	background: #9b74fe;
+	width: 30%;
+	background: #040250;
 	height: 54px;
 	float: left;
-	margin-top: 60px;
+	margin-left: 10%
 }
 
 .ww2{
 	width: 100%;
-	background: #9b74fe;
+	background: #322dff;
 	height: 54px;
 	float: left;
+}
+
+.www2{
+	width: 16%;
+	background: #e4f33e;
+	height: 54px;
+	float: left;
+	margin-left: 10%
 }
 
 .ww3{
@@ -452,11 +460,27 @@ body{
 	float: left;
 }
 
+.www3{
+	width: 30%;
+	background: #0ffcd8;
+	height: 54px;
+	float: left;
+	margin-left: 10%
+}
+
 .ww4{
 	width: 100%;
 	background: #4d67e8;
 	height: 54px;
 	float: left;
+}
+
+.www4{
+	width: 18%;
+	background: #6eda33;
+	height: 54px;
+	float: left;
+	margin-left: 10%
 }
 
 .ww5{
@@ -466,6 +490,14 @@ body{
 	float: left;
 }
 
+.www5{
+	width: 40%;
+	background: #f7ec6c;
+	height: 54px;
+	float: left;
+	margin-left: 10%
+}
+
 .ww6{
 	width: 100%;
 	background: #ccffd9;
@@ -473,11 +505,28 @@ body{
 	float: left;
 }
 
+.www6{
+	width: 28%;
+	background: #f1731f;
+	height: 54px;
+	float: left;
+	margin-left: 10%
+}
+
+
 .ww7{
 	width: 100%;
 	background: #f7ffcc;
 	height: 54px;
 	float: left;
+}
+
+.www7{
+	width: 26%;
+	background: #e7e01b;
+	height: 54px;
+	float: left;
+	margin-left: 10%
 }
 
 .ww8{
@@ -487,6 +536,14 @@ body{
 	float: left;
 }
 
+.www8{
+	width: 10%;
+	background: #41ffef;
+	height: 54px;
+	float: left;
+	margin-left: 10%
+}
+
 .ww9{
 	width: 100%;
 	background: #f48e0b;
@@ -494,11 +551,28 @@ body{
 	float: left;
 }
 
+.www9{
+	width: 45%;
+	background: #0b005c;
+	height: 54px;
+	float: left;
+	margin-left: 10%
+}
+
+
 .ww10{
 	width: 100%;
 	background: #f83333;
 	height: 54px;
 	float: left;
+}
+
+.www10{
+	width: 55%;
+	background: #6e0f0f;
+	height: 54px;
+	float: left;
+	margin-left: 10%
 }
 
 
@@ -509,9 +583,66 @@ body{
 	float: left;
 }
 
+.wa2{
+	width: 100%;
+	background: #872e1e;
+	height: 60px;
+	float: left;
+	margin-top: 60px;
+}
+
+.wb2{
+	width: 100%;
+	background: #330cdd;
+	height: 180px;
+	float: left;
+}
+
+.wc2{
+	width: 100%;
+	background: #3ce885;
+	height: 90px;
+	float: left;
+}
+
+.wd2{
+	width: 100%;
+	background: #dfee37;
+	height: 90px;
+	float: left;
+}
+
+.we2{
+	width: 100%;
+	background: #8ced5d;
+	height: 120px;
+	float: left;
+}
+
 .w3{
 	width: 30%;
 	background: #590f18;
 	height: 600px;
+	float: left;
+}
+
+.w3{
+	width: 30%;
+	background: #590f18;
+	height: 600px;
+	float: left;
+}
+
+.wz{
+	width: 100%;
+	background: #6290f8;
+	height: 60px;
+	float: left;
+}
+
+.wx{
+	width: 100%;
+	background: #0d2969;
+	height: 540px;
 	float: left;
 }
