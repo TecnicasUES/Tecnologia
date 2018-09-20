@@ -149,9 +149,22 @@ background:#0068ff;
 height:70px;
 float:left;
 }
+.more{
+width:20%;
+background: #ff0909;
+height:70px;
+float:left;	
+margin-left: 80%;
+}
 .hijo2bannerpadre{
 width:50%;
 background:#418fff;
 height:400px;
+float:left;
+}
+.pez{
+width:100%;
+background:#0f4d71;
+height:200px;
 float:left;
 }
