@@ -476,6 +476,12 @@ body{
 	height: 45px;
 	float: left; 
 }
+.aaa{
+	width: 30%;
+	background:#00FFF7;
+	height: 45px;
+	float: left; 
+}
 .a3{
 	width: 100%;
 	background:#FF9090;
@@ -565,6 +571,12 @@ body{
 	background: #EC7A8F;
 	float: left;
 }
+.cajadd{
+	width: 60%;
+	height: 50px;
+	background: #FFE0CA;
+	float: left;
+}
 .cajad2{
 	width: 100%;
 	height: 250px;
@@ -590,6 +602,12 @@ body{
 	background: #EC7A8F;
 	float: left;
 	margin-top: 13%;
+}
+.cajaddd{
+	width: 66%;
+	height: 50px;
+	background: #FFE0CA;
+	float: left;
 }
 .cajad6{
 	width: 100%;
@@ -634,6 +652,13 @@ body{
 	background:#F7FF4C;
 	float: left;
 	margin-top: 5%;
+}
+.cajaff{
+	width: 18%;
+	height: 50px;
+	background:#7CE018;
+	float: left;
+	margin-left: 7%;
 }
 .cajaf2{
 	width: 100%;
