@@ -228,4 +228,17 @@ background: #27b20e;
 height:50px;
 float:left;
 }
-
+.areaB{
+width:100%;
+background: #0e8db2;
+height:550px;
+float:left;
+}
+.area1b{
+width:45%;
+background:  #fff000;
+height:515px;
+float:left;
+margin-left:1.5%;
+margin-top: 1.5%;
+}
