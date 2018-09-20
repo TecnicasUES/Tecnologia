@@ -259,13 +259,13 @@ body{
 }
 .pie{
 	width: 100%;
-	height: 200px;
+	height: 400px;
 	background: #625370;
 	float: left;
 }
 .base6{
-	width: 50%;
-	height: 200px;
+	width: 25%;
+	height: 400px;
 	background: #85b2cb;
 	float: left;
 }
@@ -276,16 +276,16 @@ body{
 	float: left;
 }
 .base7{
-	width: 50%;
-	height: 200px;
+	width: 75%;
+	height: 300px;
 	background: #e64949;
 	float: left;
 }
 .f1{
-	width: 100%;
+	width: 75%;
 	height: 50px;
 	background: #e5944d;
-	float: left;
+	float: right;
 }
 .f2{
 	width: 30%;
@@ -312,8 +312,8 @@ body{
 	float: left;
 }
 .base8{
-	width: 50%;
+	width: 75%;
 	height: 100px;
-	background: #85b2cb;
-	float: left;
+	background: #952f2f;
+	float: right;
 }
