@@ -296,7 +296,16 @@ body{
 	width: 50%;
 	background: #771a87;
 	height: 200px;
-	float: right;
-	margin-right: : 2.5%;
-	margin-top: 50px;
+	float: left;
+	margin-left: 45%;
+	margin-top: 25px;
+}
+
+.hh2{
+	width: 50%;
+	background: #771a87;
+	height: 200px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 20px;
 }
