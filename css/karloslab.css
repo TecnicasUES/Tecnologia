@@ -708,6 +708,43 @@ body{
 	float: left;
 }
 
+.fq{
+	width: 80%;
+	background: #edaeae;
+	height: 160px;
+	float: left;
+	margin-top: 13.75px;
+	margin-left: 15%
+}
+
+.fq1{
+	width: 25%;
+	background: #67b924;
+	height: 160px;
+	float: left;
+}
+
+.fq2{
+	width: 30%;
+	background: #6e71f0;
+	height: 160px;
+	float: left;
+}
+
+.fq3{
+	width: 20%;
+	background: #323475;
+	height: 160px;
+	float: left;
+}
+
+.fq4{
+	width: 25%;
+	background: #57f8f2;
+	height: 160px;
+	float: left;
+}
+
 .ff2{
 	width: 100%;
 	background: #1ab7c5;
