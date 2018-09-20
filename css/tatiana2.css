@@ -63,13 +63,13 @@ header{
 .c{
 	background:#CC3366;
 	width: 35%;
-	height:110px;
+	height:100px;
 	float: left;
 }
 .d{
 	background:#CC3333;
 	width: 65%;
-	height:110px;
+	height:100px;
 	float: left;
 }
 .ca{
@@ -133,7 +133,6 @@ section{
 	height:400px;
 	float: left;
 }
-
 .ea1{
 	background:#C7E580;
 	width: 40%;
