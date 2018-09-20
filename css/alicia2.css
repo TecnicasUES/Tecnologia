@@ -82,10 +82,10 @@ header{
 	background: #459832;
 }
 .papa{
-width: 100%;
-height: 500px;
-float: left;
-background: #7962;
+    width: 100%;
+    height: 500px;
+    float: left;
+    background: #7962;
 }
 .primerhijo{
 	width: 25%;
@@ -406,8 +406,69 @@ background: #7962;
 	margin-left: 60%;
 	background: #6a6b1f;
 }
-
-
-
-
-
+.cajita8{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #ebdbaa;
+}
+.caja8{
+	width: 30%;
+	height: 200px;
+	float: left;
+	background: #c29366;
+}
+.caja9{
+	width: 70%;
+	height: 200px;
+	float: left;
+	background: #dc7131;
+}
+.cajitahija9{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #914619;
+}
+.cajitahija99{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #572c12;
+}
+.primerhija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	margin-left: 20%;
+	background: #de5e32;
+}
+.segundahija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	background: #9d482a;
+}
+.tercerahija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	background: #de5e32;
+}
+.cuartahija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	background: #9d482a;
+}
+.quintahija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	background: #de5e32;
+}
