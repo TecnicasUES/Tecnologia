@@ -176,3 +176,132 @@ body{
 	margin-left: 85%;
 	margin-top: 2.5px;
 }
+
+.k{
+	width: 100%;
+	background: #6cc2e8;
+	height: 300px;
+	float: left;
+}
+
+.k1{
+	width: 30%;
+	background: #05577a;
+	height: 300px;
+	float: left;
+}
+
+.k2{
+	width: 70%;
+	background: #deef7f;
+	height: 300px;
+	float: left;
+}
+
+.kk{
+	width: 50%;
+	background: #e5bbf9;
+	height: 300px;
+	float: left;
+}
+
+.kk1{
+	width: 100%;
+	background: #45112d;
+	height: 60px;
+	float: left;
+}
+
+.kk2{
+	width: 100%;
+	background: #348286;
+	height: 150px;
+	float: left;
+}
+
+.kk3{
+	width: 100%;
+	background: #fdffbf;
+	height: 90px;
+	float: left;
+}
+
+.kkk{
+	width: 15%;
+	background: #53f169;
+	height: 40px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 80%;
+}
+
+
+.kp{
+	width: 50%;
+	background: #deef7f;
+	height: 300px;
+	float: left;
+}
+
+.kp1{
+	width: 100%;
+	background: #912d63;
+	height: 60px;
+	float: left;
+}
+
+.kp2{
+	width: 100%;
+	background: #a6e5e8;
+	height: 150px;
+	float: left;
+}
+
+.kp3{
+	width: 100%;
+	background: #f3f5b4;
+	height: 90px;
+	float: left;
+}
+
+.kkp{
+	width: 100%;
+	background: #fdffbf;
+	height: 90px;
+	float: left;
+}
+
+.kkpp{
+	width: 15%;
+	background: #53f169;
+	height: 40px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 80%;
+}
+
+.y{
+	width: 100%;
+	background: #86d571;
+	height: 600px;
+	float: left;
+}
+
+.yy{
+	width: 25%;
+	background: #fbffa1;
+	height: 500px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 25px;
+}
+
+
+.yy1{
+	width: 66%;
+	background: #7fcbbc;
+	height: 200px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 25px;
+}
