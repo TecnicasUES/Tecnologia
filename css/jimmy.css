@@ -558,7 +558,8 @@ body{
 	float: left;
 	margin-left: 10%;
 	margin-top: 7px;
-	background: #636465;
+	background: #b2bcc5;
+	border: 1px solid blue;
 }
 
 .caja2{
