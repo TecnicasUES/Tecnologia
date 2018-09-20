@@ -138,17 +138,17 @@ body{
 .seccion1{
 	width: 100%;
 	background: #002b57;
-	height: 400px;
+	height: 600px;
 	float: left;
 }
 
 .cajatexto2{
-	width: 50%;
+	width: 47%;
 	background:#47719c;
 	height: 200px;
 	float: left;
 	margin-left: 4%;
-	margin-top: 65px; 
+	margin-top: 110px; 
 }
 
 .cajatexto3{
@@ -186,4 +186,34 @@ body{
 	height: 45px;
 	float: left;
 	margin-left: 70%;
+}
+
+.seccion2{
+	width: 100%;
+	background: #9187d3;
+	height: 400px;
+	float: left;
+}
+
+.imagen1{
+	width: 33.3%;
+	background:#e1dff1;
+	height: 400px;
+	float: left;
+}
+
+.cajatexto6{
+	width: 33.3%;
+	background:#a98bd0;
+	height: 340px;
+	float: left;
+	margin-top: 30px;
+}
+
+.cajatexto10{
+	width: 33.3%;
+	background:#ca0bec;
+	height: 340px;
+	float: left;
+	margin-top: 30px;
 }
