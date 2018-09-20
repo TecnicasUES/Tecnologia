@@ -48,3 +48,68 @@ body {
 	height: 30px;
 	float:left;
 	}
+
+#menu2
+{
+	background: #FFD679;
+	width: 100%;
+	height: 40px;
+	
+	}
+
+	.hi1{
+	background: #FF8445;
+	width: 45%;
+	height: 40px;
+    float:left;
+	}
+
+.hi2{
+	background: #D3A6E8;
+	width: 5%;
+	height: 40px;
+	float:left;
+	}
+
+.hi3{
+	background: #BEFFEA;
+	width: 7%;
+	height: 40px;
+	float:left;
+	}
+
+	.hi4{
+	background: #7EFFB2;
+	width: 8%;
+	height: 40px;
+	float:left;
+	}
+
+	.hi5{
+	background: #BEE1FF;
+	width: 10%;
+	height: 40px;
+	float:left;
+	}
+
+	.hi6{
+	background: #D9A6E8;
+	width: 7%;
+	height: 40px;
+	float:left;
+	}
+
+
+.hi7{
+	background: #E8DD33;
+	width: 9%;
+	height: 40px;
+	float:left;
+	}
+
+.hi8{
+	background: #E8DDA6;
+	width: 9%;
+	height: 40px;
+	float:left;
+	}
