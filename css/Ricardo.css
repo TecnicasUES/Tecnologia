@@ -1292,7 +1292,7 @@ body{
 	float: left;
 	background: #af1111;
 }
-.logo{
+.logoss{
 	width: 50%;
 	height: 100px;
 	float: left;
@@ -1375,4 +1375,26 @@ body{
 	background: #587af5;
 	margin-left: 2%;
 	margin-top: 55px;
+}
+.pie2221{
+	width: 100%;
+	height: 225px;
+	float: left;
+	background: #af1111;
+}
+.borde{
+	width: 75%;
+	height: 5px;
+	float: left;
+	background: #141b34;
+	margin-left: 25%;
+	margin-top: 5px;
+}
+.copy{
+	width: 15%;
+	height: 23px;
+	float: left;
+	background: #587af5;
+	margin-left: 32%;
+	margin-top: 150px;
 }
