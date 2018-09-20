@@ -158,10 +158,32 @@ body{
 	float: left;
 }
 
-.cajatexto4{
+.cajaboton1{
 	width: 25%;
 	background:#67c4d9;
 	height: 45px;
 	float: left;
 	margin-left: 4%;
+}
+
+.cajatexto4{
+	width: 100%;
+	background:#7ba3c5;
+	height: 110px;
+	float: left;
+}
+
+.cajatexto5{
+	width: 100%;
+	background:#7090ba;
+	height: 45px;
+	float: left;
+}
+
+.cajaboton2{
+	width: 20%;
+	background:#394b86;
+	height: 45px;
+	float: left;
+	margin-left: 70%;
 }
