@@ -1,0 +1,49 @@
+@charset "utf-8"
+
+body{
+	background: #000;
+	width:100%;
+	height: auto;
+	font-family: arial;
+	margin:0;
+
+}
+#menu1{
+	width: 100%;
+	background: gray;
+	height: 60px;
+	float:left;
+}
+
+.hij1menu1{
+	width: 50%;
+	background: yellow;
+	height: 60px;
+	float:left;
+}
+.hij2menu1{
+	width: 20%;
+	background: red;
+	height: 60px;
+	float:left;
+
+}
+.hij3menu1{
+	width: 10%;
+	background: blue;
+	height: 60px;
+	float:left;
+}
+.hij4menu1{
+	width: 10%;
+	background: salmon;
+	height: 60px;
+	float:left;
+}
+.hij5menu1{
+	width: 10%;
+	background: green;
+	height: 60px;
+	float:left;
+}
+
