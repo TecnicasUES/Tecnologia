@@ -78,7 +78,7 @@ body{
 .productos{
 	width: 100%;
 	float: left;
-	height: 500px;
+	height: 480px;
 	background: #cbb442;
 }
 .prod1{
@@ -120,7 +120,84 @@ body{
 	background: #50c7be;
 	margin-left: 33%; 
 }
-
+/*coment1*/
+.prod2{
+	width: 25%;
+	float: left;
+	height: 480px;
+	background: #b8de35;
+	margin-left: 6.25%; 
+}
+.p1b{
+	width: 100%;
+	float: left;
+	height: 240px;
+	background: #0385e0; 
+}
+.p2b{
+	width: 100%;
+	float: left;
+	height: 40px;
+	background: #67acb1;
+}
+.p3b{
+	width: 100%;
+	float: left;
+	height: 130px;
+	background: #e35938;
+}
+.p4b{
+	width: 100%;
+	float: left;
+	height: 70px;
+	background: #8f57c7;
+}
+.p4ba{
+	width: 33%;
+	float: left;
+	height: 70px;
+	background: #50c7be;
+	margin-left: 33%; 
+}
+/*coment02*/
+.prod3{
+	width: 25%;
+	float: left;
+	height: 480px;
+	background: #b8de35;
+	margin-left: 6.25%; 
+}
+.p1c{
+	width: 100%;
+	float: left;
+	height: 240px;
+	background: #0385e0; 
+}
+.p2c{
+	width: 100%;
+	float: left;
+	height: 40px;
+	background: #67acb1;
+}
+.p3c{
+	width: 100%;
+	float: left;
+	height: 130px;
+	background: #e35938;
+}
+.p4c{
+	width: 100%;
+	float: left;
+	height: 70px;
+	background: #8f57c7;
+}
+.p4ca{
+	width: 33%;
+	float: left;
+	height: 70px;
+	background: #50c7be;
+	margin-left: 33%; 
+}
 
 
 
