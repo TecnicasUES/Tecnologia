@@ -283,14 +283,14 @@ body{
 .y{
 	width: 100%;
 	background: #86d571;
-	height: 600px;
+	height: 800px;
 	float: left;
 }
 
 .yy{
-	width: 25%;
+	width: 26%;
 	background: #fbffa1;
-	height: 500px;
+	height: 700px;
 	float: left;
 	margin-left: 3%;
 	margin-top: 25px;
@@ -300,7 +300,30 @@ body{
 .yy1{
 	width: 66%;
 	background: #7fcbbc;
-	height: 200px;
+	height: 300px;
+	float: left;
+	margin-left: 3%;
+	margin-top: 25px;
+}
+
+.yya1{
+	width: 45%;
+	background: #f3b7fa;
+	height: 300px;
+	float: left;
+}
+
+.yyb1{
+	width: 55%;
+	background: #3c5f58;
+	height: 300px;
+	float: left;
+}
+
+.yy2{
+	width: 66%;
+	background: #fef27d;
+	height: 300px;
 	float: left;
 	margin-left: 3%;
 	margin-top: 25px;
