@@ -148,3 +148,202 @@ body{
  	float: left;	
 	background:#B434F9;
 	}
+
+.ca1{
+
+	width: 100%;
+ 	height: 80px;
+ 	float: left;	
+	background:#B434F9;
+	}
+
+.ca2{
+
+	width: 45%;
+ 	height: 200px;
+ 	float: left;	
+	background:aqua;
+	margin-left: 5%;
+	}
+
+.ca3{
+
+	width: 100%;
+ 	height: 15px;
+ 	float: left;	
+	background:#B434F9;
+}
+
+  .ca4{
+
+	width: 22.5%;
+ 	height: 180px;
+ 	float: left;	
+	background:blue;
+	margin-left: 35%
+	}
+
+ .caja2{
+
+	width: 100%;
+ 	height: 250px;
+ 	float: left;	
+	background:purple;
+	
+}
+
+ .c1{
+
+	width: 33.33%;
+ 	height: 250px;
+ 	float: left;	
+	background:orange;
+	
+	}
+
+.c2{
+
+	width: 33.33%;
+ 	height: 250px;
+ 	float: left;	
+	background:pink;
+	
+	}
+
+.hijoc2{
+
+	width: 100%;
+ 	height: 62.5px;
+ 	float: left;	
+	background:gray;
+	
+}
+
+.hijoc3{
+
+	width: 100%;
+ 	height: 125px;
+ 	float: left;	
+	background:red;
+	
+	}
+
+.hijoc4{
+
+	width: 100%;
+ 	height: 62.5px;
+ 	float: left;	
+	background:gray;
+	
+	}
+
+.hijodc4{
+
+	width: 20%;
+ 	height: 30px;
+ 	float: left;	
+	background:pink;
+	margin-left: 70%
+	
+	}
+
+.c3{
+
+	width: 33.33%;
+ 	height: 250px;
+ 	float: left;	
+	background:#8E9008;
+	
+	}
+
+.hijo1{
+
+	width: 100%;
+ 	height: 62.5px;
+ 	float: left;	
+	background:green;
+	
+}
+
+.hijo2{
+
+	width: 100%;
+ 	height: 125px;
+ 	float: left;	
+	background:pink;
+	
+	}
+
+.hijo3{
+
+	width: 100%;
+ 	height: 62.5px;
+ 	float: left;	
+	background:green;
+	
+	}
+
+.hijo4{
+
+	width: 20%;
+ 	height: 30px;
+ 	float: left;	
+	background:purple;
+	margin-left: 70%
+	
+	}
+
+.grande{
+
+	width: 100%;
+ 	height: 510px;
+ 	float: left;	
+	background:brown;
+	
+	}
+
+.gran{
+
+	width: 100%;
+ 	height: 490px;
+ 	float: left;	
+	background:pink;
+	
+	}
+
+.sep{
+
+	width: 100%;
+ 	height: 20px;
+ 	float: left;	
+	background:pink;
+	
+	}
+
+.cua1{
+
+	width: 33%;
+ 	height: 450px;
+ 	float: left;	
+	background:gray;
+	margin-left: 1%
+	
+	}
+
+.cua2{
+
+	width: 66%;
+ 	height: 450px;
+ 	float: left;	
+	background:green;
+	
+	}
+
+.hcua2{
+
+	width: 100%;
+ 	height: 225px;
+ 	float: left;	
+	background:blue;
+	
+	}
