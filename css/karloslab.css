@@ -640,9 +640,41 @@ body{
 	float: left;
 }
 
+.wy{
+	width: 10%;
+	background: #e8ecf5;
+	height: 30px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 87%
+}
+
 .wx{
 	width: 100%;
 	background: #0d2969;
 	height: 540px;
+	float: left;
+}
+
+
+.pie{
+	width: 100%;
+	background: #022237;
+	height: 250px;
+	float: left;
+}
+
+
+.f{
+	width: 35%;
+	background: #99ffb1;
+	height: 250px;
+	float: left;
+}
+
+.ff{
+	width: 65%;
+	background: #397146;
+	height: 250px;
 	float: left;
 }
