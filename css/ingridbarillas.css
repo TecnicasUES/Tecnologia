@@ -374,13 +374,36 @@ body{
 	background: #604896;
 	margin-left: 58%;
 }
-
-
-
-
-
-
-
+.pie{
+	width: 100%;
+	float: left;
+	height: 200px;
+	background: #eddc51;
+}
+.iz1{
+	width: 31.5%;
+	float: left;
+	height: 200px;
+	background: #284f92;
+}
+.parriba{
+	width: 68%;
+	float: right;
+	height: 100px;
+	background: #21c196;
+}
+.hij1{
+	width: 68%;
+	float: right;
+	height: 100px;
+	background: #21c196;
+}
+.pabajo{
+	width: 68%;
+	float: right;
+	height: 100px;
+	background: #518e7c;
+}
 
 
 
