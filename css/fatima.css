@@ -97,6 +97,12 @@ header{
 	height: 50px; 
 	float: left; 
 	background: pink;  
+} 
+.h{
+	width: 60%; 
+	height: 70px; 
+	float: left; 
+	background: blue; 
 }
 
 
