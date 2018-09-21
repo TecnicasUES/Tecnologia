@@ -352,14 +352,19 @@ body{
 	height: 35px;
 	background: #ab58ce;
 }
+/*siguientecuadro*/
 .cdere{
 	width: 100%;
 	float: top;
 	height: 400px;
 	background: #4bdad4;
 }
-
-
+.prim{
+	width: 100%;
+	float: top;
+	height: 400px;
+	background: #101a7c;
+}
 
 
 
