@@ -693,3 +693,21 @@ section{
 	float: left;
 	background: #721a44;
 }
+.p1c{
+	width: 25%;
+	height: 60px;
+	float: left;
+	background: #930046;
+}
+.p1d{
+	width: 30%;
+	height: 60px;
+	float: left;
+	background: #70132e;
+}
+.p1e{
+	width: 10%;
+	height: 60px;
+	float: left;
+	background: #992c4c;
+}
