@@ -1,124 +1,131 @@
 @charset "utf-8";
 
 body{
-	background: #cfbb80;
+	background: #000;
 	width: 100%;
 	height: auto;
 	font-family: arial;
+	float left;
 	margin: 0;
 }
 
-#menu{
+.menu{
 	width: 100%;
 	background: #b26d6d;
-	height: 60px;
+	height: 90px;
 	float: left;
 }
 
-.child1{
-	width: 80%;
-	height: 60px;
+.menu1{
+	width: 100%;
+	height: 30px;
 	background: #b26d6d;
 	float: left;
 }
 
 
-.child2{
-	width: 20%;
+.telefono{
+	width: 2%;
 	float: left;
 	background: #e89ec1;
-	height: 60px;
+	height: 30px;
+	margin left:60%;
 }
 
 
-.a{
+.numero{
+	width: 10%;
+	float: left;
+	height: 30px;
+	background: #b26d6d;
+	margin left: 1%;
+}
+
+.compañeros{
+	width: 8%;
+	float: left;
+	height: 30px;
+	background: #842c2c;
+	margin left: 1%;
+}
+
+.entrar{
 	width: 5%;
 	float: left;
-	height: 60px;
-	background: #b26d6d;
+	height: 30px;
+	background: #bf4545;
+	margin left: 1%;
 }
 
-.b{
-	width: 10%;
+.menu2{
+	width: 100%;
 	float: left;
 	height: 60px;
 	background: #842c2c;
 }
 
-.c{
-	width: 30%;
+.home{
+	width: 3%;
 	float: left;
 	height: 60px;
-	background: #bf4545;
+	background: #842c2c;
+	margin left: 50%;
 }
 
-.d{
+.aboutus{
+	width: 5%;
+	float: left;
+	height: 60px;
+	background: #998041;
+	margin left: 1%;
+}
+
+.prodservic{
+	width: 10%;
+	float: left;
+	height: 60px;
+	background: #cfbb80;
+	margin-left: 1%;
+}
+
+.oilexperience{
 	width: 15%;
 	float: left;
 	height: 60px;
-	background: #842c2c;
-}
-
-.e{
-	width: 50%;
-	float: left;
-	height: 60px;
-	background: #842c2c;
-}
-
-.f{
-	width: 50%;
-	float: left;
-	height: 60px;
 	background: #998041;
+	margin-left: 1%;
 }
 
-.g{
+.contact{
+	width: 7%;
+	float: left;
+	height: 60px;
+	background: #bf4545;
+	margin-left: 1%;
+}
+
+.log{
+	width: 9%;
+	float: left;
+	height: 60px;
+	background: #bf4545;
+	margin-left: 5%;
+}
+
+.cintio1{
 	width: 100%;
 	float: left;
-	height: 200px;
-	background: #cfbb80;
-	margin-left: 6%;
-}
-
-.g1{
-	width: 10%;
-	float: left;
-	height: 90px;
-	background: #998041;
-	margin-left: 4%;
-}
-
-.g2{
-	width: 8%;
-	float: left;
-	height: 90px;
+	height: 10px;
 	background: #bf4545;
-	margin-left: 30%;
+	float left;
 }
 
-.g3{
-	width: 5%;
+.cintio2{
+	width: 100%;
 	float: left;
-	height: 90px;
+	height: 10px;
 	background: #bf4545;
-	margin-left: 3%;
-}
-
-.g4{
-	width: 5%;
-	float: left;
-	height: 90px;
-	background: #bf4545;
-	margin-left: 3%;
-}
-
-.g5{
-	width: 5%;
-	float: left;
-	height: 90px;
-	background: #bf4545;
-	margin-left: 3%;
+	float left;
 }
 
 .g6{
