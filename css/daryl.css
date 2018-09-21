@@ -370,54 +370,35 @@ body{
 	background: white;
 	float: left;
 }
-
-.secn62{
-	width: 25%;
-	float:left;
-	height:100px;
-	background:white;
-}
-.secn63{
+.minisec1{
 	width:30%;
-	float:left;
-	height: 100px;
-	background:yellow;
+	height:100px;
+	background: yellow;
+	float: left;
+	margin-left: 20%
 }
-.secn64{
-	width: 2%;
-	float:left;
-	height: 100px;
-	background:white;
+
+.minisec2{
+	width:15%;
+	height:100px;
+	background: yellow;
+	float: left;
+	margin-left: 1%
 }
-.secn65{
-	width: 10%;
-	float:left;
-	height: 100px;
-	background:yellow;
+.minisec3{
+	width:15%;
+	height:100px;
+	background: yellow;
+	float: left;
+	margin-left: 1%
 }
-.secn66{
-	width: 2%;
-	float:left;
-	height: 100px;
-	background: white;
-}
-.secn67{
-	width: 10%;
-	float:left;
-	height: 100px;
-	background:yellow;
-}
-.secn68{
-	width: 2%;
-	float:left;
-	height: 100px;
-	background: white;
-}
-.secn69{
-	width: 10%;
-	float:left;
-	height: 100px;
-	background:yellow;
+.minisec4{
+	width:15%;
+	height:100px;
+	background: yellow;
+	float: left;
+	margin-left: 1%
+
 }
 
 /*eje2*/
