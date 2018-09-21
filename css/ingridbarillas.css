@@ -281,7 +281,7 @@ body{
 	width: 100%;
 	float: left;
 	height: 400px;
-	background: #904aad;
+	background: #46dad4;
 }
 /*ultimo section*/
 .ciz{
@@ -353,23 +353,27 @@ body{
 	background: #ab58ce;
 }
 /*siguientecuadro*/
-.cdere{
-	width: 100%;
-	float: top;
-	height: 400px;
-	background: #4bdad4;
-}
 .prim{
-	width: 100%;
-	float: top;
-	height: 400px;
-	background: #101a7c;
+	width: 40.5%;
+	float: right;
+	height: 72px;
+	background: #1a98ad;
+	margin-top: 75px;
 }
-
-
-
-
-
+.seg{
+	width: 40.5%;
+	float: right;
+	height: 75px;
+	background: #1a98ad;
+	margin-top: 38px;
+}
+.pqtt{
+	width: 26%;
+	float: left;
+	height: 75px;
+	background: #604896;
+	margin-left: 58%;
+}
 
 
 
