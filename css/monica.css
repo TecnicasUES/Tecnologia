@@ -630,6 +630,16 @@ body {
 	background: #A6C3E5;
 }
 
+.tit1{
+	width: 25%;
+	float:left;
+	margin-left: 5%;
+	margin-top: 4px;
+	height: 41px;
+	background: #F7DAD1;
+}
+
+
 .text2{
 	width: 100%;
 	float:left;
@@ -637,6 +647,14 @@ body {
 	background: #8AA2BF;
 }
 
+.te2{
+	width: 85%;
+	float:left;
+	margin-left: 5%;
+	margin-top: 4px;
+	height: 120px;
+	background: #F7DAD1;
+}
 .cvermas1{
 	width: 100%;
 	float:left;
