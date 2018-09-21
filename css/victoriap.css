@@ -75,3 +75,22 @@
 	background: white;
 
 }
+.intro> h2{
+	font-weight: bold;
+	text-align:left;
+	color:black;
+	font-size: 21pt;
+	margin: 0;
+	padding: 0;
+
+}
+.into > p{
+	font-weight: normal;
+	text-align:left;
+	color: grey;
+	font-size: 12pt;
+	margin: 0;
+	padding: 0;
+
+}
+
