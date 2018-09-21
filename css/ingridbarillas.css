@@ -393,11 +393,38 @@ body{
 	background: #21c196;
 }
 .hij1{
-	width: 68%;
-	float: right;
-	height: 100px;
-	background: #21c196;
+	width: 25%;
+	float: top;
+	height: 45px;
+	background: #343f9b;
+	margin-left: 24%;
 }
+.hij2{
+	width: 14%;
+	float: top;
+	float: right;
+	height: 45px;
+	background: #343f9b;
+	margin-left: 1.5%;
+	margin-right: 0.5%;
+}
+.hij3{
+	width: 15%;
+	float: right;
+	float: top;
+	height: 45px;
+	background: #343f9b;
+	margin-right: 3px;
+}
+.hij4{
+	width: 15.5%;
+	float: right;
+	float: top;
+	height: 45px;
+	background: #343f9b;
+	margin-right: 5%;
+}
+
 .pabajo{
 	width: 68%;
 	float: right;
