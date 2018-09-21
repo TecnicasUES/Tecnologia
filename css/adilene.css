@@ -299,3 +299,111 @@ body{
 	height: 70px;
 	background: #1897d6;
 }
+
+.seccion4{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #ead60a;
+}
+
+
+.childn{
+	width: 60%;
+	float: left;
+	height: 500px;
+	background: #0e0d0d;
+}
+
+.childñ{
+	width: 40%;
+	float: left;
+	height: 500px;
+	background: #6b9996;
+}
+
+.n1{
+	width: 100%;
+	float: left;
+	height: 100px;
+	background: #3d3835;
+}
+
+.n2{
+	width: 100%;
+	float: left;
+	height: 350px;
+	background: #393738;
+}
+
+.n2hijo1{
+	width: 35%;
+	float: left;
+	margin-left: 1%;
+	height: 350px;
+	background: #393738;
+}
+
+.n2hijo2{
+	width: 60%;
+	float: left;
+	margin-left: 3%;
+	height: 350px;
+	background: #393738;
+}
+
+.n221{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #097cbd;
+}
+
+.n222{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #097cbd;
+	margin-top: 10px;
+}
+
+.n223{
+	width: 100%;
+	float: left;
+	height: 135px;
+	background: #097cbd;
+	margin-top: 20px;
+}
+
+.n3{
+	width: 100%;
+	float: left;
+	height: 50px;
+	background: #882e7a;
+}
+
+.ñ1{
+	width: 98%;
+	float: left;
+	height: 90px;
+	background: #0687af;
+	margin-top: 80px;
+	margin-left: 1%;
+}
+
+.ñ2{
+	width: 98%;
+	float: left;
+	height: 90px;
+	background: #0687af;
+	margin-top: 70px;
+	margin-left: 1%;
+}
+
+.ñ3{
+	width: 20%;
+	float: left;
+	margin-left: 60%;
+	height: 90px;
+	background: #901e73;	
+}
