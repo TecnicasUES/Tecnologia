@@ -582,16 +582,26 @@ ejercicio2
 #parte2{
 	background: #a8c771;
 	width: 100%;
-	height:260px;
+	height:270px;
 	float: left;
 	margin-left:0%;
 	margin-top:5px;
 }
 
+.margen{
+	background:#AEACF2;
+	width: 100%;
+	height:30px;
+	float: left;
+	margin-left:0%;
+
+}
+
+
 .cajacontexto{
 	background:#B27A8B;
-	width: 50%;
-	height:260px;
+	width: 70%;
+	height:250px;
 	float: left;
 	margin-left:0%;
 	
@@ -601,7 +611,7 @@ ejercicio2
 .titulo2{
 	background: #e7c572;
 	width: 100%;
-	height:40px;
+	height:30px;
 	float: left;
 	margin-top:30px;
 
@@ -610,7 +620,7 @@ ejercicio2
 .texto2{
 	background: #b4714c;
 	width: 100%;
-	height:145px;
+	height:120px;
 	float: left;
 	margin-left:0%
 
@@ -620,36 +630,373 @@ ejercicio2
 .vermas{
 	background:#C88D6E;
 	width: 100%;
-	height:54px;
+	height:50px;
 	float: left;
 	margin-left:0%
 }
 
 .boton{
 	background:#494B76;
-	width: 18%;
-	height:54px;
+	width: 12%;
+	height:50px;
 	float: left;
-	margin-left:75%
+	margin-left:82%
+}
+
+.bordefinal{
+	background:#722821;
+	width: 100%;
+	height:20px;
+	float: left;
+	
+
 }
 
 
 #galeria{
 	background: #757E8D;
 	width: 100%;
-	height:700px;
+	height:695px;
 	float: left;
 	margin-left:0%
 }
 
-.imagen {
-	background: #BFAD75;
+.padreg{
+	background: #E8705C;
 	width: 25%;
-	height:300px;
+	height:695px;
+	float: left;
+    margin-left:6%;
+
+}
+
+.espacio{
+	background: #66A1B8;
+	width: 100%;
+	height:20px;
+	float: left;
+ }
+
+ .titulo3{
+ 	background: #CFE7FF;
+	width: 100%;
+	height:35px;
+	float: left;
+}
+
+.img{
+	background: #E8D3B9;
+	width: 100%;
+	height:250px;
+	float: left;
+
+}
+
+.vmas{
+	background: #95746C;
+	width: 35%;
+	height:50px;
+	float: left;
+	margin-left:65%;
+	margin-top:200px; 
+}
+
+.espaciof{
+	background: #A4B1D8;
+	width: 100%;
+	height:42px;
+	float: left;
+}
+
+#about{
+	background: #FFBDB2;
+	width: 100%;
+	height:280px;
+	float: left;
+}
+
+.foto{
+	background: #B26659;
+	width: 32%;
+	height:280px;
+	float: left;
+
+}
+
+.inf{
+	background: #CCFFE8;
+	width: 68%;
+	height:280px;
+	float: left;
+}
+
+.hij1{
+	background:#6BB293;
+	width: 50%;
+	height:280px;
+	float: left;
+}
+
+.hij2{
+	background:#004777;
+	width: 50%;
+	height:280px;
+	float: left;
+
+}
+
+.let1{
+	background:#7B4136;
+	width: 100%;
+	height:70px;
+	float: left;
+}
+
+.let2{
+	background:#B1FFA4;
+	width: 100%;
+	height:70px;
+	float: left;
+	margin-top:70px;
+
+}
+
+#contactanos{
+	background:#FFA694;
+	width: 100%;
+	height:420px;
+	float: left;
+
+}
+
+.let3{
+	background:#A0C5D5;
+	width: 100%;
+	height:80px;
+	float: left;
+}
+
+.contacts{
+	background:#2E5B56;
+	width: 25%;
+	height:340px;
+	float: left;
+}
+.name{
+	background:#29497F;
+	width: 70%;
+	height:55px;
+	float: left;
+	margin-left: 20%;
+	margin-top: 20px;
+}
+
+.email{
+	background:#29497F;
+	width: 70%;
+	height:55px;
+	float: left;
+	margin-left: 20%;
+	margin-top: 42px;
+}
+
+.message{
+	background:#29497F;
+	width: 70%;
+	height:80px;
+	float: left;
+	margin-left: 20%;
+	margin-top: 25px;
+
+}
+
+.contacts2{
+	background:#2E5B56;
+	width: 35%;
+	height:340px;
+	float: left;
+
+}
+
+.esp1{
+	background:#29497F;
+	width: 95%;
+	height:55px;
 	float: left;
 	margin-top: 20px;
-	margin-left:5%
-}
 
 }
 
+.esp2{
+	background:#29497F;
+	width: 95%;
+	height:55px;
+	float: left;
+	margin-top: 42px;
+}
+
+.esp3{
+	background:#29497F;
+	width: 95%;
+	height:80px;
+	float: left;
+	margin-top: 25px;
+}
+
+.contacts3{
+	background:#E69ABD;
+	width: 40%;
+	height:340px;
+	float: left
+}
+
+.phone{
+	background:#731F3E;
+    width:32%;
+    height:55px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 11%;
+}
+
+.esp4{
+	background:#731F3E;
+    width:42%;
+    height:55px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 2%;
+
+}
+
+.fran{
+	background:#DA4338;
+	width: 100%;
+	height:63px;
+	float: left;
+	margin-top: 0px;
+}
+
+.fran3{
+	background:#DA4338;
+	width: 100%;
+	height:63px;
+	float: left;
+	margin-top:47px;
+
+
+}
+
+.send{
+	background:#731F3E;
+    width:20%;
+    height:90px;
+    float: left;
+    margin-top: 65px;
+    margin-left: 67%;
+}
+
+#pie{
+	background:#FFA694;
+	width: 100%;
+	height:300px;
+	float: left;
+	margin-top: 700px;
+
+}
+
+.log2{
+	background:#731F3E;
+	width: 20%;
+	height:300px;
+	float: left;
+    margin-left:12%;
+}
+
+.logotipo{
+	background:#F2D230;
+	width: 100%;
+	height:80px;
+	float: left;
+    margin-top: 35px;
+}
+
+.icon1{
+	background:#D95829;
+	width:33.33%;
+	height:90px;
+	float: left;
+  }
+
+.icon2{
+	background:#E86561;
+	width:33.33%;
+	height:90px;
+	float: left;
+
+}
+
+.icon3{
+	background:#E861DD;
+	width:33.33%;
+	height:90px;
+	float: left;
+
+}
+
+.submenu{
+	background:#DD6BFF;
+	width:53%;
+	height:63px;
+	float: left;
+	margin-left: 15%
+}
+
+.op1{
+	background:#4D8775;
+	width:12%;
+	height:63px;
+	float: left;
+
+}
+
+.op2{
+	background:#E3B5EB;
+	width:18%;
+	height:63px;
+	float: left;
+}
+
+.op3{
+	background:#8DD4BE;
+	width:25%;
+	height:63px;
+	float: left;
+
+}
+
+.op4{
+	background:#A18E5B;
+	width:32%;
+	height:63px;
+	float: left;
+
+}
+
+.franf{
+	background:#877953;
+    width: 75%;
+    height: 95px;
+    margin-top: 205px;
+    margin-left: 25%;
+
+}
+
+.copyright{
+	background:#EAC780;
+    width: 15%;
+    height: 95px;
+    margin-top: 205px;
+    margin-left: 35%;
+
+}
