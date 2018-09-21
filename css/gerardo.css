@@ -240,41 +240,71 @@ body{
 }
 
 .l2{
-	width: 50%;
-	margin-left: 50%;
+	width: 100%;
 	float: left;
 	background: #3deba7;
 	height: 76px;
 }
 
 .l3{
-	width: 50%;
-	margin-left: 50%;
+	width: 100%;
 	float: left;
 	background: #37c663;
 	height: 76px;
 }
 
 .l4{
-	width: 50%;
-	margin-left: 50%;
+	width: 100%;
 	float: left;
 	background: #257e40;
 	height: 76px;
 }
 
 .l5{
-	width: 50%;
-	margin-left: 50%;
+	width: 100%;
 	float: left;
 	background: #155529;
 	height: 76px;
 }
 
 .l6{
-	width: 50%;
-	margin-left: 50%;
+	width: 100%;
 	float: left;
 	background: #f2eb4d;
 	height: 96px;
+}
+
+.l7{
+	width: 50%;
+	float: left;
+	background: #31a679;
+	height: 76px;
+}
+.l8{
+	width: 50%;
+	float: left;
+	background: #427460;
+	height: 76px;
+}
+
+.l9{
+	width: 30%;
+	float: left;
+	background: #0f3929;
+	height: 76px;
+	margin-left: 36%;
+}
+
+.m1{
+	width: 100%;
+	float: left;
+	background: #9f5c2f;
+	height: 550px;
+}
+
+.n1{
+	width: 100%;
+	float: left;
+	background: #9420ad;
+	height: 350px;
 }
