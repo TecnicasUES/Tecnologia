@@ -79,13 +79,6 @@ header{
 	background:blue; 
 }
 
-.g{
-	width: 100%; 
-	height: 50px; 
-	float: left; 
-	background: pink; 
-}
-
 #dos{ 
 	width:100%; 
 	height: 20px; 
@@ -99,7 +92,12 @@ header{
 	background:skyblue; 
 }  
 
-#
+.g{
+	width: 100%; 
+	height: 50px; 
+	float: left; 
+	background: pink;  
+}
 
 
  
