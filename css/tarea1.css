@@ -1,0 +1,464 @@
+	@charset "utf-8";
+
+body{
+	background: pink;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+}
+   header{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #fff;
+}
+
+.child1{
+	width: 55%;
+	height: 60px;
+	float: left;
+	background: #f38f23;
+}
+
+.child2{
+	width: 45%;
+	height: 60px;
+	float: left;
+	background: #9d23f3;
+}
+
+.a{
+	width: 45%;
+	height: 60px;
+	float: left;
+	background: #619498;
+}
+
+.b{
+	width: 55%;
+	height: 60px;
+	float: left;
+	background: #bcde54
+}
+
+.c{
+	width: 27%;
+	height: 60px;
+	float: left;
+	background: blue;
+}
+
+.d{
+	width: 19%;
+	height: 60px;
+	float: left;
+	background: orange;
+}
+
+.e{
+	width: 27%;
+	height: 60px;
+	float: left;
+	background: red;
+}
+
+.f{
+	width: 27%;
+	height: 60px;
+	float: left;
+	background: yellow;
+}
+
+
+.chi3{
+	width: 100%;
+	height: 360px;
+	float: left;
+	background: pink;
+	border: blue 1px solid;
+}
+
+.chi4{
+	width: 100%;
+	height: 16px;
+	float: left;
+	background: lightgreen;
+}
+
+.chi5{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: red;
+}
+
+.g{
+	width: 26%;
+	height: 500px;
+	float: left;
+	background: green;
+	margin-left: 5.3%;
+}
+
+.h{
+	width: 26%;
+	height: 500px;
+	float: left;
+	background: pink;
+	margin-right: 5.3%;
+	margin-left: 5.3%;
+
+}
+
+.i{
+	width: 26%;
+	height: 500px;
+	float: left;
+	background: green;
+	margin-right: 5.3%;
+}
+
+
+.chig{
+	width: 100%;
+	height: 220px;
+	float: left;
+	background: blue;
+	
+}
+
+.chig1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: gray;
+	
+}
+
+.chig2{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: purple;
+	
+}
+
+.chig3{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: pink;
+	
+}
+
+.chih{
+	width: 100%;
+	height: 220px;
+	float: left;
+	background: green;
+	
+}
+
+.chih1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: gray;
+	
+}
+
+.chih2{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: purple;
+	
+}
+
+
+.chih3{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: purple;
+	
+}
+
+.ch1i{
+	width: 100%;
+	height: 220px;
+	float: left;
+	background:blue;
+	
+}
+
+.ch2i{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: gray;
+	
+}
+
+.ch3i{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: brown;
+	
+}
+
+.ch4i{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: lightblue;
+	
+}
+
+.al{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: pink;
+	
+}
+
+.ex{
+	width: 40%;
+	height: 80px;
+	float: left;
+	background: red;
+	
+}
+
+.an{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: blue;
+	
+}
+
+.al1{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: purple;
+	}
+
+.ex1{
+	width: 40%;
+	height: 80px;
+	float: left;
+	background: green;
+	}
+.an1{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background: blue;
+
+	
+}
+
+.al2{
+	width: 30%;
+	height: 80px;
+	float: left;
+	background:green;
+	
+}
+
+.ex2{
+	width: 40%;
+	height: 80px;
+	float: left;
+	background: pink;
+	
+}
+ 
+
+
+.raiz{
+	width: 100%;
+	height: 360px;
+	float: left;
+	background: lightgreen;
+}
+.ch6{
+	width: 50%;
+	height: 360px;
+	float: left;
+	background: lightgreen;
+}
+
+.ch7{
+	width: 50%;
+	height: 360px;
+	float: left;
+	background: green;
+}
+
+.j{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: purple;
+	
+}
+
+.k{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: orange;
+	}
+
+.chk{
+	width: 50%;
+	height: 60px;
+	float: left;
+	background: black;
+}
+
+.chk1{
+	width: 50%;
+	height: 60px;
+	float: left;
+	background: yellow;
+}
+
+.chk2{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: orange;
+	
+}
+
+.chk3{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: lightblue;
+	
+}
+
+.chk4{
+	width: 100%;
+	height: 120px;
+	float: left;
+	background: blue;
+	
+}
+
+.raices{
+    width: 100%;
+	height: 360px;
+	float: left;
+	background: fuchsia;
+}
+
+.ra1{
+	width: 60%;
+	height: 360px;
+	float: left;
+	background: purple;
+}
+
+
+.ra2{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: fuchsia;
+}
+
+.ra3{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: blue;
+}
+
+.ra4{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.ra5{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: aqua;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.ra6{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: green;
+}
+
+.ra7{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: lightblue;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.ra8{
+	width: 49.5%;
+	height: 70px;
+	float: left;
+	background: lightblue;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.r{
+	width: 100%;
+	height: 112px;
+	float: left;
+	background: darkgreen;
+}
+
+.r1{
+	width: 49.5%;
+	height: 110px;
+	float: left;
+	background: lightblue;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.r2{
+	width: 49.5%;
+	height: 110px;
+	float: left;
+	background: lightblue;
+	margin-left: : 0.25%;
+	margin-right: 0.25%; 
+}
+
+.r3{
+    width: 100%;
+	height: 32px;
+	float: left;
+	background: purple;
+	
+}
+
+
+
+
