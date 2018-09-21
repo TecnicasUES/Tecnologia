@@ -130,7 +130,7 @@ header{
 }
 section{
 	width: 100%;
-	height: 3200px;
+	height: 2500px;
 	float: left;
 	background: #ffebd8;
 }
@@ -528,4 +528,28 @@ section{
 	height: 75px;
 	float: right;
 	background: #0063c0;
+}
+footer{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #5c7fa0;
+}
+.child6{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #5c7fa0;
+}
+.p{
+	width: 40%;
+	height: 300px;
+	float: left;
+	background: #0063c0;
+}
+.q{
+	width: 60%;
+	height: 300px;
+	float: left;
+	background: #03549f;
 }
