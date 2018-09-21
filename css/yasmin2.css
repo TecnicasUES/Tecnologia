@@ -12,9 +12,7 @@ body{
 	width: 100%;
 	background:#c3db51;
 	height: 60px;
-	float: left;
-	
-}
+	float: left;	
 }
 
 .hijo1{
@@ -32,21 +30,31 @@ body{
 }
 
 .a{
-	width: 40%;
+    width: 40%;
+	width: 100%;
 	float: left;
 	height: 60px;
 	background: #3aa930;
 }
 
+.hijo2{
+	width: 45%;
+	float: left;
+	background: 1px solid green;
+	height: 60px;
+}
 .b{
 	width: 60%;
+	width: 15%;
+
 	float: left;
 	height: 60px;
 	background: #b8de35;
 }
 
 .c{
-	width: 27%;
+    width: 27%;
+	width: 20%;
 	float: left;
 	height: 60px;
 	background: #da9f75;
@@ -54,10 +62,16 @@ body{
 
 .d{
 	width: 17%;
+	width: 20%;
 	float: left;
 	height: 60px;
 	background: #913508;
 }
 
-
+.e{
+	width: 20%;
+	float: left;
+	height: 60px;
+	background: #31dbd9;
+}
 
