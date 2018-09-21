@@ -295,6 +295,32 @@ section{
 	margin-bottom: 30px;
 	margin-left: 2.5%;
 }
+.i2a{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #e04b53;
+}
+.i2b{
+	width: 100%;
+	height: 280px;
+	float: left;
+	background: #cc99cc;
+}
+.i2b1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #419997;
+	margin-top: 230px;
+}
+.i2b1a{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: #3ecc6d;
+	margin-left: 70%;
+}
 .i3{
 	width: 30%;
 	height: 320px;
@@ -302,6 +328,32 @@ section{
 	background: #c68baa;
 	margin-bottom: 30px;
 	margin-left: 2.5%;
+}
+.i3a{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #e04b53;
+}
+.i3b{
+	width: 100%;
+	height: 280px;
+	float: left;
+	background: #cc99cc;
+}
+.i3b1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #419997;
+	margin-top: 230px;
+}
+.i3b1a{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: #3ecc6d;
+	margin-left: 70%;
 }
 .j1{
 	width: 30%;
