@@ -83,48 +83,52 @@ body{
 .r1{
 	width: 15%;
 	float: left;
-	height: 100px;
+	height: 70px;
 	margin-top: 1%;
 	margin-left: 4%;
 	background: #8008a8;
 }
  .r2{
-	width: 15%;
+	width: 8%;
 	float: left;
 	height: 100px;
-	margin-top: 1%;
-	margin-left: 4%;
+	margin-left: 25%;
 	background: #9025b3;
 }
 .r3{
-	width: 15%;
+	width: 8%;
 	float: left;
 	height: 100px;
-	margin-top: 1%;
-	margin-left: 4%;
 	background: #c786e0;
 }
 .r4{
 	width: 15%;
 	float: left;
 	height: 100px;
-	margin-top: 1%;
-	margin-left: 4%;
 	background: #4d2b5d;
 }
 .r5{
 	width: 15%;
 	float: left;
 	height: 100px;
-	margin-top: 1%;
-	margin-left: 4%;
 	background: #a93bd0;
 }
 .r6{
-	width: 15%;
+	width: 10%;
 	float: left;
 	height: 100px;
-	margin-top: 1%;
-	margin-left: 4%;
 	background: #130e14;
 }
+.lineaceleste{
+	width: 100%;
+	float: left;
+	height: 20px;
+	background: #4ba6a9;
+}
+.lineaazul{
+	width: 100%;
+	float: left;
+	height: 20px;
+	background: #10777e;
+}
+
