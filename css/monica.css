@@ -759,25 +759,25 @@ body {
 	width: 100%;
 	float:left;
 	height: 80px;
-	background: #8BCEEB;
+	background: #EBDCBE;
 }
 
 .cname{
-	width: 55%;
+	width: 60%;
 	float:left;
 	height: 395px;
 	background: #BF8C9E;
 }
 
 .cphone{
-	width: 45%;
+	width: 40%;
 	float:left;
 	height: 395px;
 	background: #9697BF;
 }
 
 .con1{
-	width: 35%;
+	width: 30%;
 	margin-left: 8%;
 	float:left;
 	margin-top: 20px;
@@ -786,7 +786,7 @@ body {
 }
 
 .descrip1{
-	width: 52%;
+	width: 57%;
 	margin-left: 2%;
 	float:left;
 	margin-top: 20px;
@@ -795,7 +795,7 @@ body {
 }
 
 .con2{
-	width: 35%;
+	width: 30%;
 	margin-left: 8%;
 	float:left;
 	margin-top: 10px;
@@ -804,7 +804,7 @@ body {
 }
 
 .descrip2{
-	width: 52%;
+	width: 57%;
 	margin-left: 2%;
 	float:left;
 	margin-top: 10px;
@@ -813,7 +813,7 @@ body {
 }
 
 .con3{
-	width: 35%;
+	width: 30%;
 	margin-left: 8%;
 	float:left;
 	margin-top: 10px;
@@ -822,7 +822,7 @@ body {
 }
 
 .descrip3{
-	width: 52%;
+	width: 57%;
 	margin-left: 2%;
 	float:left;
 	margin-top: 10px;
@@ -830,3 +830,43 @@ body {
 	background: #8BCEEB;
 }
 
+.cph1{
+	width: 30%;
+	margin-left: 8%;
+	float:left;
+	margin-top: 20px;
+	height: 85px;
+	background: #8BCEEB;
+}
+
+.descrip4{
+	width: 50%;
+	margin-left: 2%;
+	float:left;
+	margin-top: 20px;
+	height: 85px;
+	background: #8BCEEB;
+}
+
+.cbutton{
+	width: 100%;
+	float:left;
+	margin-top: 40px;
+	height: 85px;
+	background: #FFC4CE;
+}
+
+.button{
+	width: 25%;
+	float:left;
+	margin-left: 65%;
+	height: 85px;
+	background: #9FA5FF;
+}
+
+#piedepag{
+	width: 100%;
+	float:left;
+	height: 225px;
+	background: #4B679C;
+}
