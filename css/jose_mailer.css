@@ -155,3 +155,36 @@ body{
 	width: 100%;
 	height: 220px;
 }
+.parrafo2{
+	background: white;
+	height: 140px;
+	float: left;
+	border-bottom: 2px solid gray;
+	width: 96%;
+	padding: 10px 2% 10px 2%;
+}
+.parrafo2 > p{
+	color: gray;
+	text-align: left;
+	font-weight: normal;
+	font-size: 12pt;
+}
+#footer{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #44525f;
+}
+.cl5{
+	width: 100%;
+	height: 50px;
+	float: left;
+}
+.cl5 > p{
+	width: 100%;
+	height: 50px;
+	font-size: 12pt;
+	font-weight: normal;
+	color: white;
+	text-align: center;
+}
