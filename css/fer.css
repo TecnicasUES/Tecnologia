@@ -364,7 +364,7 @@ header{
 
 .tabla_1{
 	width: 60%;
-	height: 500px;
+	height: 507px;
 	float: left;
 	background: #17625d;
 }
@@ -426,4 +426,166 @@ header{
 	background: #4db57a;
 	border: 2px solid #17625d;
 	margin-top: 4px;
+}
+
+.tabla_1_4{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #1b605b;
+	
+}
+
+.tabla_1_4_a{
+	width: 58%;
+	height: 200px;
+	float: right;
+	background: #01a4cd;
+	border: 2px solid #17625d;
+	margin-top: 4px;
+	
+}
+
+.tabla_1_4_b{
+	width: 39%;
+	height: 200px;
+	float: left;
+	background: #4db57a;
+	border: 2px solid #17625d;
+	margin-top: 4px;
+}
+
+.tabla_2{
+	width: 40%;
+	height: 550px;
+	float: left;
+	background: #5ccac9;
+}
+
+.tabla_2_a{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #3eb9b4;
+}
+
+.tabla_2_b{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #02abc8;
+}
+
+.tabla_2_c{
+	width: 100%;
+	height: 30px;
+	float: left;
+	background: #3eb9b4;
+}
+
+.tabla_2_d{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #00adc8;
+}
+
+.tabla_2_d_1{
+	width: 55%;
+	height: 100px;
+	float: left;
+	background: #00b0ca;
+}
+
+.tabla_2_d_2{
+	width: 35%;
+	height: 100px;
+	float: left;
+	background: #674496;
+}
+
+.tabla_2_d_3{
+	width: 10%;
+	height: 100px;
+	float: left;
+	background: #00b0ca;
+}
+.tabla_2_e{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #5ccac9;
+}
+
+.footer{
+	width: 100%;
+	height:270px;
+	float: left;
+	background: #000000;
+
+}
+
+.footer_a{
+	width: 35%;
+	height: 270px;
+	float: left;
+	background: #294c9d;
+}
+.footer_a_1{
+	width: 0.50%;
+	height: 270px;
+	float: left;
+	background: #ffffff;
+}
+
+.footer_b{
+	width: 64.5%;
+	height:270px;
+	float: left;
+	background: #ffffff;
+}
+
+.footer_b_1{
+	width: 100%;
+	height: 135px;
+	float: left;
+	background: #26b891;
+}
+
+.footer_b_1_a{
+	width: 15%;
+	height: 70px;
+	float: right;
+	background: #2e4490;
+	margin-right: 30px;
+}
+
+.footer_b_1_b{
+	width: 15%;
+	height: 70px;
+	float: right;
+	background: #2e4490;
+	margin-right: 8px;
+}
+
+.footer_b_1_c{
+	width: 15%;
+	height: 70px;
+	float: right;
+	background: #2e4490;
+	margin-right: 3px;
+}
+
+.footer_b_1_d{
+	width: 25%;
+	height: 70px;
+	float: right;
+	background: #2e4490;
+	margin-right: 3px;
+}
+.footer_b_2{
+	width: 100%;
+	height: 135px;
+	float: left;
+	background: #518e7c;
 }
