@@ -935,7 +935,7 @@ body {
 	margin-top: 10px;
 	margin-left: 10%;
 	float:left;
-	height: 65px;
+	height: 55px;
 	background: #FFE5CA;
 }
 
@@ -954,6 +954,45 @@ body {
 	height: 50px;
 	background: #FFCCBD;
 }
+
+.p1{
+	width: 15%;
+	float:left;
+	height: 55px;
+	background: #BFEDFF;
+}
+
+.p2{
+	width: 16%;
+	float:left;
+	height: 55px;
+	background: #C9E2FF;
+}
+
+.p3{
+	width: 23%;
+	float:left;
+	height: 55px;
+	background: #BDCBFF;
+}
+
+.p4{
+	width: 27%;
+	float:left;
+	height: 55px;
+	background: #C1BFFF;
+}
+
+.p5{
+	width: 19%;
+	float:left;
+	height: 55px;
+	background: #CEB6FF;
+}
+
+
+
+
 
 
 
