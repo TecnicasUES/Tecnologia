@@ -781,8 +781,8 @@ body {
 	width: 23%;
 	float:left;
 	margin-left: 5%;  
-	margin-top: 5px;
-	height: 65px;
+	margin-top: 10px;
+	height: 55px;
 	background: #CBACFF;
 }
 
@@ -793,11 +793,29 @@ body {
 	background: #E8C5BC;
 }
 
+.texto1{
+	width: 85%;
+	margin-top: 5px;
+	margin-left: 10%;
+	float:left;
+	height: 215px;
+	background: #ADDDFA;
+}
+
 .segundotexto{
 	width: 50%;
 	float:left;
 	height: 225px;
 	background: #FFE2C6;
+}
+
+.texto2{
+	width: 75%;
+	margin-top: 5px;
+	margin-left: 5%;
+	float:left;
+	height: 115px;
+	background: #ADDDFA;
 }
 
 #contactanos{
