@@ -63,15 +63,31 @@ body{
 
 .intro{
 
-	width: 100%; 
+	width: 92%; 
 	float: left; 
 	height: 150px; 
-	padding:40px 20px 40px 15px; 
+	padding:40px 2px 40px 2%; 
 	background: white; 
 } 
 
+.intro >h2{ 
+	font-weight: bold; 
+	text-align: left; 
+	color: black; 
+	font-size:21pt; 
+	margin: 0;
+	padding: 0;  
 
+ }
 
+.intro > p{ 
+	font-weight: normal; 
+	text-align: left; 
+	color: gray; 
+	font-size: 12px; 
+	margin: 0; 
+	padding: 0; 
+ }
 
 
 
