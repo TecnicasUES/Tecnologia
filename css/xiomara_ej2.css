@@ -211,11 +211,27 @@ header{
 	float: left;
 	background: darkmagenta;
 }
+.trelleno{
+	width: 90%;
+	height: 136px;
+	float: left;
+	background: red;
+	margin-left: 7%;
+	margin-top: 10px;
+}
 .c{
 	width: 100%;
 	height: 68px;
 	float: left;
 	background: coral;
+}
+.vermas{
+	width: 20%;
+	height: 54px;
+	float: left;
+	background: gold;
+	margin-left: 77%;
+	margin-top: 6px;
 }
 .par2{
 	width: 35%;
@@ -223,3 +239,363 @@ header{
 	float: left;
 	background: pink;
 }
+#imagenes{
+	width: 100%;
+	height: 848px;
+	float: left;
+	background: white;
+}
+.vertical{
+	width: 33%;
+	height: 848px;
+	float: left;
+	background: darkcyan;
+}
+.d{
+	width: 100%;
+	height: 424px;
+	float: left;
+	background: darkorange;
+}
+.d1{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: white;
+}
+.d2{
+	width: 100%;
+	height: 344px;
+	float: left;
+	background: steelblue;
+}
+.cuadrito{
+	width: 45%;
+	height: 50px;
+	float: left;
+	background: darkslategray;
+	margin-left: 70%;
+	margin-top: 294px;
+}
+.e{
+	width: 100%;
+	height: 424px;
+	float: left;
+	background: greenyellow;
+}
+.e1{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: orchid;
+}
+.e2{
+	width: 100%;
+	height: 344px;
+	float: left;
+	background: mediumslateblue;
+}
+.cuadrito2{
+	width: 45%;
+	height: 50px;
+	float: left;
+	background: darkslategray;
+	margin-left: 70%;
+	margin-top: 294px;
+}
+.vertical2{
+	width: 34%;
+	height: 848px;
+	float: left;
+	background: mediumaquamarine;
+}
+.f{
+	width: 100%;
+	height: 424px;
+	float: left;
+	background: olive;
+}
+.f1{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: green;
+}
+.f2{
+	width: 100%;
+	height: 344px;
+	float: left;
+	background: orange;
+}
+.cuadrito3{
+	width: 45%;
+	height: 50px;
+	float: left;
+	background: darkslategray;
+	margin-left: 70%;
+	margin-top: 294px;
+}
+.g{
+	width: 100%;
+	height: 424px;
+	float: left;
+	background: springgreen;
+}
+.g1{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: yellow;
+}
+.g2{
+	width: 100%;
+	height: 344px;
+	float: left;
+	background: plum;
+}
+.cuadrito4{
+	width: 45%;
+	height: 50px;
+	float: left;
+	background: darkslategray;
+	margin-left: 70%;
+	margin-top: 294px;
+}
+.vertical3{
+	width: 33%;
+	height: 848px;
+	float: left;
+	background: blue;
+}
+.h{
+	width: 100%;
+	height: 424px;
+	float: left;
+	background: indigo;
+}
+.h1{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: purple;
+}
+.h2{
+	width: 100%;
+	height: 344px;
+	float: left;
+	background: yellowgreen;
+}
+.cuadrito5{
+	width: 45%;
+	height: 50px;
+	float: left;
+	background: darkslategray;
+	margin-left: 70%;
+	margin-top: 294px;
+}
+.i{
+	width: 100%;
+	height: 424px;
+	float: left;
+	background: cadetblue;
+}
+.i1{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: sandybrown;
+}
+.i2{
+	width: 100%;
+	height: 344px;
+	float: left;
+	background: maroon;
+}
+.cuadrito6{
+	width: 45%;
+	height: 50px;
+	float: left;
+	background: darkslategray;
+	margin-left: 70%;
+	margin-top: 294px;
+}
+#about{
+	width: 100%;
+	height: 296px;
+	float: left;
+	background: turquoise;
+}
+.grua{
+	width: 35%;
+	height: 296px;
+	float: left;
+	background: sienna;
+}
+.textito{
+	width: 65%;
+	height: 296px;
+	float: left;
+	background: gold;
+}
+.j{
+	width: 50%;
+	height: 296px;
+	float: left;
+	background: bisque;
+}
+.mayust{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: darkmagenta;
+	margin-left: 10%;
+	margin-top: 25px;
+}
+.info{
+	width: 80%;
+	height: 175px;
+	float: left;
+	background: blueviolet;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+.k{
+	width: 50%;
+	height: 296px;
+	float: left;
+	background: cadetblue;
+}
+.texpeque{
+	width: 45%;
+	height: 95px;
+	float: left;
+	background: turquoise;
+	margin-left: 10%;
+	margin-top: 85px;
+}
+#negro{
+	width: 100%;
+	height: 584px;
+	float: left;
+	background: black;
+}
+.partei{
+	width: 60%;
+	height: 584px;
+	float: left;
+	background: cyan;
+}
+.contactanos{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: white;
+	margin-left: 15%;
+	margin-top: 30px;
+}
+.name{
+	width: 80%;
+	height: 60px;
+	float: left;
+	background: palegreen;
+	margin-left: 15%;
+	margin-top: 50px;
+}
+.l{
+	width: 10%;
+	height: 60px;
+	float: left;
+	background: deeppink;
+}
+.m{
+	width: 60%;
+	height: 60px;
+	float: left;
+	background: mediumvioletred;
+	margin-left: 30%;
+}
+.email{
+	width: 80%;
+	height: 60px;
+	float: left;
+	background: palegreen;
+	margin-left: 15%;
+	margin-top: 70px;
+}
+.n{
+	width: 10%;
+	height: 60px;
+	float: left;
+	background: deeppink;
+}
+.o{
+	width: 60%;
+	height: 60px;
+	float: left;
+	background: mediumvioletred;
+	margin-left: 30%;
+}
+.mensaje{
+	width: 80%;
+	height: 140px;
+	float: left;
+	background: palegreen;
+	margin-left: 15%;
+	margin-top: 50px;
+}
+.p{
+	width: 10%;
+	height: 140px;
+	float: left;
+	background: deeppink;
+}
+.q{
+	width: 60%;
+	height: 140px;
+	float: left;
+	background: mediumvioletred;
+	margin-left: 30%;
+}
+.parteii{
+	width: 40%;
+	height: 584px;
+	float: left;
+	background: blue;
+}
+.arriba{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: palegreen;
+	margin-top: 136px;
+}
+.phone{
+	width: 18%;
+	height: 60px;
+	float: left;
+	background: deeppink;
+	margin-left: 10%;
+}
+.rectangulo{
+	width: 40%;
+	height: 60px;
+	float: left;
+	background: white;
+	margin-left: 17%;
+}
+.abajo{
+	width: 100%;
+	height: 90px;
+	float: left;
+	background: pink;
+	margin-top: 85px;
+}
+.send{
+	width: 30%;
+	height: 90px;
+	float: left;
+	background: white;
+	margin-left: 55%;
+}
+}
+
