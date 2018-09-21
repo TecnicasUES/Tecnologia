@@ -407,3 +407,64 @@ body{
 	height: 90px;
 	background: #901e73;	
 }
+
+#footer{
+	width: 100%;
+	float: left;
+	height: 350px;
+	background: #f1a40e;
+}
+
+.o{
+	width: 30%;
+	float: left;
+	height: 350px;
+	background: #4a1e73;
+}
+
+.p{
+	width: 69.5%;
+	float: right;
+	height: 350px;
+	background: #7e6453;
+}
+
+.p1{
+	width: 100%;
+	float: left;
+	height: 200px;
+	background: #4d986d;
+}
+
+.p11{
+	width: 29%;
+	float: left;
+	height: 100px;
+	background: #56226d;
+	margin-left: 25%;
+}
+
+
+.p12{
+	width: 12%;
+	float: left;
+	height: 100px;
+	background: #56226d;
+	margin-left: 1%;
+}
+
+.p13{
+	width: 10%;
+	float: left;
+	height: 100px;
+	background: #56226d;
+	margin-left: 1%;
+}
+
+.p14{
+	width: 15%;
+	float: left;
+	height: 100px;
+	background: #56226d;
+	margin-left: 1%;
+}
