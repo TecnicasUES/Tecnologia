@@ -13,7 +13,6 @@ body{
 	margin: auto;
 	display: block;
 	background: white;
-	min-height: 500px;
 }
 
 #header{
@@ -30,7 +29,7 @@ body{
 }
 
 .cl2{
-	width: 79%;
+	width: 80%;
 	float: left;
 	height: 150px;
 }
@@ -68,6 +67,32 @@ body{
 	color: #0E0C3A;
 	font-weight: bold;
 	font-size: 24pt;
+	margin: 0;
+	padding: 0;
+}
+
+.intro{
+	width: 92%; 
+	float: left;
+	height: 150px;
+	padding: 40px 4% 40px 4%;
+	background: white;
+}
+
+.intro > h2{
+	font-weight: bold;
+	color: black;
+	font-size: 21pt;
+	text-align: left;
+	margin:0;
+	padding: 0;
+}
+
+.intro > p{
+	font-weight: normal;
+	text-align: left;
+	color: grey;
+	font-size: 12pt;
 	margin: 0;
 	padding: 0;
 }
