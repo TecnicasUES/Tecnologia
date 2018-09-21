@@ -475,3 +475,43 @@ section{
 	float: left;
 	background: #ff9999;
 }
+.l1{
+	width: 50%;
+	height: 250px;
+	float: left;
+	background: #a5c161;
+}
+.l1a{
+	width: 80%;
+	height: 225px;
+	float: left;
+	background: #7fb1d6;
+	margin-top: 25px;
+	margin-left: 15%;
+}
+.l1a1{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #0263bb;
+}
+.l1a1a{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #e28e49;
+}
+.l2{
+	width: 50%;
+	height: 250px;
+	float: left;
+	background: #62bfad;
+}
+.l2a{
+	width: 80%;
+	height: 100px;
+	float: left;
+	background: #7fb1d6;
+	margin-top: 25px;
+	margin-left: 10%;
+}
