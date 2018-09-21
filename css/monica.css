@@ -891,6 +891,16 @@ body {
 	background: #FBE0DF;
 }
 
+.phone{
+	width: 65%;
+	margin-left: 8%;
+	float:left;
+	margin-top: 12px;
+	height: 60px;
+	background: #FBE0DF;
+}
+
+
 .campos{
 	width: 90%;
 	margin-left: 5%;
@@ -909,7 +919,14 @@ body {
 	background: #FBE0DF;
 }
 
-
+.campos3{
+	width: 90%;
+	margin-left: 5%;
+	float:left;
+	margin-top: 12px;
+	height: 60px;
+	background: #FBE0DF;
+}
 
 .descrip1{
 	width: 57%;
