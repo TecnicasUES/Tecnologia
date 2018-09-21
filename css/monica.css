@@ -810,7 +810,7 @@ body {
 }
 
 .texto2{
-	width: 75%;
+	width: 65%;
 	margin-top: 5px;
 	margin-left: 5%;
 	float:left;
@@ -830,6 +830,15 @@ body {
 	float:left;
 	height: 80px;
 	background: #EBDCBE;
+}
+
+.texto3{
+	width: 27%;
+	margin-left: 5%;
+	float:left;
+	margin-top: 5px;
+	height: 70px;
+	background: #ADE0FF;
 }
 
 .cname{
@@ -854,6 +863,53 @@ body {
 	height: 85px;
 	background: #8BCEEB;
 }
+
+.name{
+	width: 65%;
+	margin-left: 8%;
+	float:left;
+	margin-top: 12px;
+	height: 60px;
+	background: #FBE0DF;
+}
+
+.email{
+	width: 65%;
+	margin-left: 8%;
+	float:left;
+	margin-top: 12px;
+	height: 60px;
+	background: #FBE0DF;
+}
+
+.message{
+	width: 65%;
+	margin-left: 8%;
+	float:left;
+	margin-top: 12px;
+	height: 60px;
+	background: #FBE0DF;
+}
+
+.campos{
+	width: 90%;
+	margin-left: 5%;
+	float:left;
+	margin-top: 12px;
+	height: 60px;
+	background: #FBE0DF;
+}
+
+.campos2{
+	width: 90%;
+	margin-left: 5%;
+	float:left;
+	margin-top: 12px;
+	height: 100px;
+	background: #FBE0DF;
+}
+
+
 
 .descrip1{
 	width: 57%;
