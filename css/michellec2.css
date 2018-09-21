@@ -111,7 +111,7 @@ header{
 }
 section{
 	width: 100%;
-	height: 2000px;
+	height: auto;
 	float: left;
 	background: #95a3a2;
 }
@@ -260,6 +260,32 @@ section{
 	background: #c68baa;
 	margin-bottom: 30px;
 	margin-left: 2.5%;
+}
+.i1a{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #e04b53;
+}
+.i1b{
+	width: 100%;
+	height: 280px;
+	float: left;
+	background: #cc99cc;
+}
+.i1b1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #419997;
+	margin-top: 230px;
+}
+.i1b1a{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: #3ecc6d;
+	margin-left: 70%;
 }
 .i2{
 	width: 30%;
