@@ -707,5 +707,117 @@ header{
 	margin-top: 60px;
 	background: #da1379;
 }
-
-
+.child11{
+	width: 100%;
+	height: 550px;
+	float: left;
+	background: #da1341;
+}
+.child11a{
+	width: 100%;
+	height: 140px;
+	float: left;
+	background: #cd9751;
+}
+.child11a1{
+	width: 33%;
+	height: 140px;
+	float: left;
+	background: #dd3358;
+}
+.child11b{
+	width: 100%;
+	height: 420px;
+	float: left;
+	background: #da5517;
+}
+.child11b1{
+	width: 25%;
+	height: 420px;
+	float: left;
+	background: white;
+}
+.child11b1a{
+	width: 50%;
+	height: 70px;
+	float: left;
+	background: brown;
+	margin-left:25%;
+	margin-top: 40px;
+}
+.child11b2{
+	width: 50%;
+	height: 70px;
+	float: left;
+	background: skyblue;
+	margin-left: 25%;
+	margin-top: 40px;
+}
+.child11b3{
+	width: 50%;
+	height: 70px;
+	float: left;
+	background: green;
+	margin-left: 25%;
+	margin-top: 40px;
+}
+.child11c{
+	width: 33%;
+	height: 420px;
+	float: left;
+	background: pink;
+}
+.child11c1{
+	width: 90%;
+	height: 70px;
+	float: left;
+	background: brown;
+	margin-left:5%;
+	margin-top: 40px;
+}
+.child11c2{
+	width: 90%;
+	height: 70px;
+	float: left;
+	background: skyblue;
+	margin-left: 5%;
+	margin-top: 40px;
+}
+.child11c3{
+	width: 90%;
+	height: 140px;
+	float: left;
+	background: green;
+	margin-left: 5%;
+	margin-top: 40px;
+}
+.child11d{
+	width: 42%;
+	height: 420px;
+	float: left;
+	background: beige;
+}
+.child11d1{
+	width: 25%;
+	height: 70px;
+	float: left;
+	background: brown;
+	margin-left:5%;
+	margin-top: 40px;
+}
+.child11d2{
+	width: 60%;
+	height: 70px;
+	float: left;
+	background: brown;
+	margin-left:5%;
+	margin-top: 40px;
+}
+.child11d3{
+	width: 30%;
+	height: 120px;
+	float: left;
+	background: green;
+	margin-left: 60%;
+	margin-top: 60px;
+}
