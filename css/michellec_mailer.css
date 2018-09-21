@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body{
+	background: #FFF7B8;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+}
+
+#contenedor{
+	width: 50%;
+	height: auto;
+	margin: auto;
+	display: block;
+	background: white;
+	min-height: 500px;
+}
