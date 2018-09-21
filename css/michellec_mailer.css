@@ -148,3 +148,67 @@ body{
 	width: 100%;
 	height: 220px;
 }
+.caja_de_texto{
+	width: 92%;
+	height: 140px;
+	background: white;
+	float: left;
+	border-bottom: 2px solid gray;
+	padding: 10px 4% 10px 4%;
+}
+.caja_de_texto > p{
+	color: gray;
+	text-align: left;
+	font-weight: normal;
+	font-size: 12pt;
+}
+
+#footer{
+	background: #44525f;
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+.cl5{
+	width: 100%;
+	height: 70px;
+	float: left;
+}
+.cl5 > p{
+	width: 100%;
+	height: 70px:
+	margin: auto;
+	font-size: 12pt;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+.cl6{
+	width: 100%;
+	height: 130px;
+	float: left;
+}
+.hijo{
+	width: 50%;
+	height: 130px;
+	float: left;
+}
+.img4{
+	display: block;
+	background: url(../img/facebook.png);
+	width: 74px;
+	height: 74px;
+	float: right;
+}
+.hijo2{
+	width: 50%;
+	height: 130px;
+	float: left;
+}
+.img5{
+	display: block;
+	background: url(../img/twitter.png);
+	width: 74px;
+	height: 74px;
+	float: left;
+}
