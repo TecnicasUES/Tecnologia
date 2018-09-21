@@ -82,10 +82,10 @@ header{
 	background: #459832;
 }
 .papa{
-width: 100%;
-height: 500px;
-float: left;
-background: #7962;
+    width: 100%;
+    height: 500px;
+    float: left;
+    background: #7962;
 }
 .primerhijo{
 	width: 25%;
@@ -301,9 +301,174 @@ background: #7962;
 	margin-left: 32%;
 	background: #4e6843;
 }
-
-
-
-
-
-
+.seccion4{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #b1c8a6;
+}
+.cajita6{
+	width: 60%;
+	height: 500px;
+	float: left;
+	background: #5a9346;
+}
+.cajita7{
+	width: 40%;
+	height: 500px;
+	float: left;
+	background: #759341;
+}
+.cajitahija4{
+	width: 100%;
+	height: 82px;
+	float: left;
+	background: #323e1c;
+}
+.cajitahija5{
+	width: 100%;
+	height: 83px;
+	float: left;
+	background: #d6e591;
+}
+.cajitahija6{
+	width: 100%;
+	height: 85px;
+	float: left;
+	background: #c6e630;
+}
+.cajitahija7{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #f1f2c0;
+}
+.cajitahija8{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #eff098;
+}
+.hija5{
+	width: 45%;
+	height: 83px;
+	float: left;
+	background: #bfc068;
+}
+.hija55{
+	width: 55%;
+	height: 83px;
+	float: left;
+	background: #939444;
+}
+.hija6{
+	width: 45%;
+	height: 85px;
+	float: left;
+	background: #bcbe1e;
+}
+.hija66{
+	width: 55%;
+	height: 85px;
+	float: left;
+	background: #e9eb19;
+}
+.hija7{
+	width: 45%;
+	height: 200px;
+	float: left;
+	background: #bfc068;
+}
+.hija77{
+	width: 55%;
+	height: 200px;
+	float: left;
+	background: #939444;
+}
+.hij7{
+	width: 100%;
+	height: 83px;
+	float: left;
+	margin-top: 12%;
+	background: #bfc068;
+}
+.hij77{
+	width: 100%;
+	height: 83px;
+	float: left;
+	margin-top: 10%;
+	background: #bfc068;
+}
+.hijita7{
+	width: 25%;
+	height: 83px;
+	float: left;
+	margin-left: 60%;
+	background: #6a6b1f;
+}
+.cajita8{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #ebdbaa;
+}
+.caja8{
+	width: 30%;
+	height: 200px;
+	float: left;
+	background: #c29366;
+}
+.caja9{
+	width: 70%;
+	height: 200px;
+	float: left;
+	background: #dc7131;
+}
+.cajitahija9{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #914619;
+}
+.cajitahija99{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #572c12;
+}
+.primerhija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	margin-left: 20%;
+	background: #de5e32;
+}
+.segundahija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	background: #9d482a;
+}
+.tercerahija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	background: #de5e32;
+}
+.cuartahija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	background: #9d482a;
+}
+.quintahija9{
+	width: 15%;
+	height: 50px;
+	float: left;
+	margin-bottom: 10%;
+	background: #de5e32;
+}
