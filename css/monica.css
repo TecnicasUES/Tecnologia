@@ -777,8 +777,16 @@ body {
 	background: #D1F0FF;
 }
 
+.about{
+	width: 23%;
+	float:left;
+	margin-left: 5%;  
+	margin-top: 5px;
+	height: 65px;
+	background: #CBACFF;
+}
+
 .primertexto{
-	margin-top: 75px;
 	width: 50%;
 	float:left;
 	height: 225px;
@@ -786,7 +794,6 @@ body {
 }
 
 .segundotexto{
-    margin-top: 75px;
 	width: 50%;
 	float:left;
 	height: 225px;
