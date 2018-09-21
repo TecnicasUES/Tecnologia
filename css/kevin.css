@@ -1,18 +1,19 @@
 @charset "utf-8";
 
 body{
-	background: white;
+	background: #fff7b8;
 	width: 100%;
 	height: auto;
-	font-family: arial;
+	font-family: calibri;
 	margin: 0;
+	padding:0;
 }
 
 header{
+	background: lightgreen;
 	width: 100%;
 	height: auto;
 	float: left;
-	background: white;
 }
 
 .child1{
@@ -1091,4 +1092,95 @@ header{
 	float: left;
 	background: #3f87b6;
 	margin-right: 5%;
+}
+
+#contenedor{
+	width: 50%;
+	height: auto;
+	margin: auto;
+	display: block;
+	background: white;
+	min-height: 500px;
+}
+
+#header{
+	background: lightgreen;
+	width: 100%;
+	height: 150%;
+	float: left;
+}
+
+.cl1{
+	width: 20%;
+	float: left;
+	height: 150%;
+}
+
+.cl2{
+	width: 79%;
+	float: left;
+	height: 150px;
+}
+
+.img_center{
+	margin: auto;
+	display:block;
+	margin-top: 40px;
+}
+
+.text_3{
+	width: 100%;
+	height: 25px;
+	float: left;
+	margin-top: 30px;
+}
+
+.text_3 > h3{
+	color: white;
+	font-family: tahoma;
+	font-size: 14px;
+	letter-spacing: 12px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+
+.text_1{
+	width: 100%;
+	float: left;
+	height: 40px;
+}
+
+.tezt1 > h1{
+	color: #0E0C3A;
+	font-weight: bold;
+	font-size: 24pt;
+	margin: 0;
+	padding: 0;
+}
+
+.intro{
+	width: 96%;
+	float: left;
+	height: 150%;
+	padding: 40px 2% 40px 2%;
+	background: white;
+}
+
+.intro > h3{
+	font-weight: bold;
+	text-align: left;
+	color: black;
+	font-size: 21px;
+	margin: 0;
+	padding: 0;
+}
+
+.intro > p{
+	font-weight: normal;
+	text-align: left;
+	color: grey;
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
 }
