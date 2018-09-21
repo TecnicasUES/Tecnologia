@@ -775,7 +775,7 @@ header{
 	width: 40%;
 	height: 470px;
 	float: left;
-	background: #fff;
+	background: #1C191E;
 }
 
 .cont_1_7{
@@ -828,5 +828,151 @@ header{
     float: right;
     height: 100px;
     background: #3F87EF;
->>>>>>> casi terminado ejercicio 2
+}
+
+.footer{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.foo_1{
+	width: 30%;
+	height: 300px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.foo_1_1{
+	width: 20%;
+	height: 300px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.foo_1_2{
+	width: 60%;
+	height: 300px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.logotipo{
+	width: 100%;
+	height: 110px;
+	float: left;
+	margin-top: 40px;
+	background: #0066FF;
+}
+
+.r_1{
+	width: 33.333%;
+	height: 60px;
+	float: left;
+	background: #1E1E1E;
+}
+
+.r_2{
+	width: 33.333%;
+	height: 60px;
+	float: left;
+	background: #303030;
+}
+
+.r_3{
+	width: 33.333%;
+	height: 60px;
+	float: left;
+	background: #444444;
+}
+
+.foo_1_3{
+	width: 20%;
+	height: 300px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.foo_2{
+	width: 70%;
+	height: 300px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.menufoo{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.mf_1{
+	width: 14%;
+	height: 50px;
+	margin-top: 40px;
+	margin-left: 5%;
+	float: left;
+	background: #4EB7C4;
+}
+
+.mf_2{
+	width: 28%;
+	height: 50px;
+	margin-top: 40px;
+	float: left;
+	background: #7ABB36;
+}
+
+.mf_3{
+	width: 25%;
+	height: 50px;
+	margin-top: 40px;
+	float: left;
+	background: #9C8D6D;
+}
+
+.mf_4{
+	width: 14%;
+	height: 50px;
+	margin-top: 40px;
+	float: left;
+	background: #86631D;
+}
+
+.mf_5{
+	width: 14%;
+	height: 50px;
+	margin-top: 40px;
+	float: left;
+	background: #607A46;
+}
+
+.copy{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.copy_1{
+	width: 35%;
+	height: 40px;
+	float: left;
+	background: #1B3D6D;
+}
+
+.copy_2{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #fff;
+}
+
+.copy_3{
+	width: 35%;
+	height: 40px;
+	float: left;
+	background: #1B3D6D;
 }
