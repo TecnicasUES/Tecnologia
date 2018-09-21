@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+
+body{
+	background: #80c3e1;
+	width: 100%;
+	height: auto;
+	font-family: arial;	
+	margin:0;
+}
+
+#menu{
+	width: 100%;
+	background:#c3db51;
+	height: 60px;
+	float: left;
+	
+}
+
+.child1{
+	width: 55%;
+	height: 60px;
+	background: #1b88a2;
+	float: left;
+}
