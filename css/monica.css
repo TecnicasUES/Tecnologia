@@ -560,11 +560,30 @@ body {
 	background: #D6FFE2;
 }
 
+.our1{
+	width: 25%;
+	float:left;
+	margin-left: 5%;
+	height: 45px;
+	margin-top: 5px;
+	background: #C9E2FF;
+}
+
+
 .text1{
 	width: 100%;
 	float:left;
 	height: 165px;
 	background: #C1C4FA;
+}
+
+.te1{
+	width: 90%;
+	float:left;
+	margin-left: 3%;
+	height: 155px;
+	margin-top: 5px;
+	background: #C9E2FF;
 }
 
 .cmore1{
