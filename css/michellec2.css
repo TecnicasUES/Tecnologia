@@ -711,3 +711,10 @@ section{
 	float: left;
 	background: #992c4c;
 }
+.q1{
+	width: 20%;
+	height: 40px;
+	float: left;
+	background: #bc8490;
+	margin-left: 40%;
+}
