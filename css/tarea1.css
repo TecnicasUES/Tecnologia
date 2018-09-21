@@ -461,4 +461,174 @@ body{
 
 
 
+.s1{
+	width: 40%;
+	height: 360px;
+	float: left;
+	background: blue;
+}
+
+.s2{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: lightgreen;
+	
+}
+
+.s3{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: aqua;
+	
+}
+
+.s4{
+	width: 100%;
+	height: 30px;
+	float: left;
+	background: lightgreen;
+	
+}
+
+.s5{
+	width: 100%;
+	height: 72px;
+	float: left;
+	background: aqua;
+	
+}
+
+.s6{
+	width: 55%;
+	height: 72px;
+	float: left;
+	background: aqua;
+}
+
+.s7{
+	width: 25%;
+	height: 72px;
+	float: left;
+	background: darkgreen;
+}
+
+.s8{
+	width: 20%;
+	height: 72px;
+	float: left;
+	background: aqua;
+}
+
+.ja{
+	width: 100%;
+	height: 104px;
+	float: left;
+	background: lightgreen;
+	}
+
+.oraices{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: fuchsia;
+}
+
+.o1{
+	width: 30%;
+	height: 200px;
+	float: left;
+	background: fuchsia;
+}
+
+.o2{
+	width: 70%;
+	height: 200px;
+	float: left;
+	background: blue;
+}
+
+.o3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: darkgreen;
+}
+
+.pie3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: darkgreen;
+}
+
+.pie4{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: yellow;
+	
+}
+
+.o4{
+	width: 20%;
+	height: 50px;
+	float: left;
+	background: darkgreen;
+	
+}
+
+.o5{
+	width: 60%;
+	height: 50px;
+	float: left;
+	background: fuchsia;
+	
+}
+
+.o6{
+	width: 16%;
+	height: 50px;
+	float: left;
+	background: fuchsia;
+	margin: 2px;
+	
+}
+
+.o7{
+	width: 4%;
+	height: 50px;
+	float: left;
+	background: darkgreen;
+	
+}
+
+.pie{
+	width: 50%;
+	height: 50px;
+	float: left;
+	background: fuchsia;
+	
+}
+.pie1 {
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: purple;
+	border: darkgreen 1px solid;
+}
+.pie2{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: fuchsia;
+	
+}
+
+
+
+
+
+
 
