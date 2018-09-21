@@ -93,4 +93,44 @@
 	padding: 0;
 
 }
+.cl3{
+	width: 
+	height:;
+	float: left;
+}
+.cl4{
+	width: 70%;
+	height: 150px;
+	float: left;
 
+}
+.img2{
+	margin: auto;
+	display: black;
+	margin: top 5px;
+	background: url(../imgarticle1.png);
+	width: 115%;
+	height: 115px;
+}
+.parrafo{
+	width: 100%,
+	height:90px;
+	float: left;
+}
+.btn{
+	width: 100%;
+	height: 60px;
+	float: left;
+
+}
+.btn > bottom: {
+	width: 25%;
+	color: white;
+	height: 50px;
+	float: left;
+	background:  red;
+	padding: 10px 1% 10% 1%;
+	border: none;
+	font-weight: bold;
+	font-size: 10pt;
+}
