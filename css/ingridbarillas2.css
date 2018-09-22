@@ -135,11 +135,22 @@ body{
 	height: 10px;
 	float: left;
 }
+/*fin de uno y 
+comienzo del siguiente*/
 .cuadro1{
 	width: 100%;
 	background: #cfcfcf;
 	height: 565px;
 	float: bottom;
+}
+.cgris{
+	width: 43.5%;
+	background: #463c3b;
+	height: 255px;
+	float: left;
+	margin: 4px; 
+	margin-top: 230px;
+	margin-left: 35px;
 }
 .lineanegra{
 	width: 100%;
