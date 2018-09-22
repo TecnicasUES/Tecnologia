@@ -143,22 +143,27 @@ comienzo del siguiente*/
 	width: 100%;
 	background: #cfcfcf;
 	height: 565px;
-	float: bottom;
+	float: top;
 }
 .cgris{
 	width: 43.5%;
 	background: #463c3b;
 	height: 255px;
 	float: left;
-	margin: 4px; 
-	margin-top: 230px;
+	margin-top: 225px;
 	margin-left: 35px;
 }
+/*width: 14%;
+	background: #5d88aa;
+	height: 70px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 8px;*/
 .tit{
 	width: 30%;
 	background: #c0bfbd;
 	height: 25px;
-	float: top;
+	float: left;
 	margin-top: 20px;
 	margin-left: 30px;
 }
@@ -166,17 +171,17 @@ comienzo del siguiente*/
 	width: 80%;
 	background: #b4aeae;
 	height: 125px;
-	float: top;
-	margin-top: 20px;
-	margin-left: 30px;
+	float: right;
+	margin-right: 70px;
+	margin-top: 25px;
 }
 .more{
 	width: 15%;
 	background: #61b9d4;
 	height: 25px;
 	float: right;
-	margin-top: 20px;
-	margin-right: 20px;
+	margin-right: 25px;
+	margin-top: 25px;
 }
 /*fin de cuadro1*/
 
@@ -192,32 +197,17 @@ comienzo del siguiente*/
 	width: 100%;
 	background: #0063c0;
 	height: 250px;
-	float: bottom;
+	float: top;
 }
 .tit2{
-	width: 30%;
+	width: 12%;
 	background: #c0bfbd;
 	height: 25px;
-	float: top;
-	margin-top: 20px;
-	margin-left: 30px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 80px;
 }
-.tex2{
-	width: 80%;
-	background: #b4aeae;
-	height: 125px;
-	float: top;
-	margin-top: 20px;
-	margin-left: 30px;
-}
-.more2{
-	width: 15%;
-	background: #61b9d4;
-	height: 25px;
-	float: right;
-	margin-top: 20px;
-	margin-right: 20px;
-}
+
 
 /*findecuadro2*/
 .cuadro3{
