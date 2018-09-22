@@ -444,3 +444,71 @@ body{
 	background: #9420ad;
 	height: 350px;
 }
+
+.n2{
+	width: 25%;
+	float: left;
+	background: #283a63;
+	height: 350px;
+}
+
+.n3{
+	width: 1%;
+	float: left;
+	background: #6cc127;
+	height: 350px;
+}
+
+.n4{
+	width: 74%;
+	float: left;
+	background: #396119;
+	height: 350px;
+}
+
+.n5{
+	width: 100%;
+	float: left;
+	background: #60bd9f;
+	height: 150px;
+}
+
+.n6{
+	width: 18%;
+	margin-left: 35%;
+	float: left;
+	background: #c5df19;
+	height: 65px;
+}
+
+.n7{
+	width: 12%;
+	margin-left: 1%;
+	float: left;
+	background: #c5df19;
+	height: 65px;
+}
+
+.n8{
+	width: 12%;
+	margin-left: 1%;
+	float: left;
+	background: #c5df19;
+	height: 65px;
+}
+
+.n9{
+	width: 12%;
+	margin-left: 1%;
+	float: left;
+	background: #c5df19;
+	height: 65px;
+}
+
+
+.n10{
+	width: 100%;
+	float: left;
+	background: #124233;
+	height: 200px;
+}
