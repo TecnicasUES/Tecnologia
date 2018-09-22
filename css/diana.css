@@ -578,3 +578,47 @@ body {
 	background:#CFF29D;
 	float: left;
 }
+#banner1{
+	width: 100%;
+	background: #54CCC1;
+	height:450px;
+	float: left;
+}
+.text{
+	width:40%;
+	background:  #85DA52;
+	height: 275px;
+	float: left;
+	margin-left:40px;
+	margin-top: 150px;
+}
+.titulo{
+	width: 100%;
+	background: #B8F7DF;
+	height:60px;
+	float: left;
+}
+.texto{
+	width: 100%;
+	background: #B8BFF7;
+	height:165px;
+	float: left;
+}
+.more{
+	width: 100%;
+	background: #6F76B5;
+	height:50px;
+	float: left;
+}
+.bor3{
+	width: 100%;
+	height: 4px;
+	background:#8C6FB5;
+	float: left;
+}
+#lorem{
+	width: 100%;
+	background: #B6A1D3;
+	height:270px;
+	float: left;
+}
