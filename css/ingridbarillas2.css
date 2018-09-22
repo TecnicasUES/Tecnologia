@@ -38,15 +38,42 @@ body{
 	height: 10px;
 	float: left;
 }
-.cuadro
-.cuadro
-.cuadro
-.cuadro
-.cuadro
-
-
-
-
+.cuadro1{
+	width: 100%;
+	background: #cfcfcf;
+	height: 565px;
+	float: bottom;
+}
+.lineanegra{
+	width: 100%;
+	background: black;
+	height: 5px;
+	float: bottom;
+}
+.cuadro2{
+	width: 100%;
+	background: #0063c0;
+	height: 250px;
+	float: bottom;
+}
+.cuadro3{
+	width: 100%;
+	background: #f6f2f2;
+	height: 750px;
+	float: bottom;
+}
+.cuadro4{
+	width: 100%;
+	background: #0163bc;
+	height: 255px;
+	float: bottom;
+}
+.cuadro5{
+	width: 100%;
+	background: #262022;
+	height: 475px;
+	float: bottom;
+}
 
 
 
