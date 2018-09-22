@@ -302,3 +302,135 @@ body{
 	height: 800px;
 	float: left;
 }
+
+
+.g{
+	width: 100%;
+	background: #ffc4f2;
+	height: 200px;
+	float: left;
+}
+
+
+.gg1{
+	width: 33%;
+	background: #5d124c;
+	height: 200px;
+	float: left;
+}
+
+
+.gg2{
+	width: 67%;
+	background: #ea33c1;
+	height: 200px;
+	float: left;
+}
+
+.h{
+	width: 50%;
+	background: #d6ff66;
+	height: 200px;
+	float: left;
+}
+
+.h1{
+	width: 100%;
+	background: #a5fff0;
+	height: 25px;
+	float: left;
+	margin-top: 10px;
+}
+
+.h2{
+	width: 100%;
+	background: #f83b8b;
+	height: 15px;
+	float: left;
+	margin-top: 10px;
+}
+
+.h3{
+	width: 100%;
+	background: #d7f08a;
+	height: 15px;
+	float: left;
+}
+
+.h4{
+	width: 100%;
+	background: #40e633;
+	height: 15px;
+	float: left;
+}
+
+.h5{
+	width: 100%;
+	background: #e6d733;
+	height: 15px;
+	float: left;
+}
+
+.h6{
+	width: 100%;
+	background: #c85139;
+	height: 15px;
+	float: left;
+}
+
+.h7{
+	width: 100%;
+	background: #abff7d;
+	height: 15px;
+	float: left;
+}
+
+.h8{
+	width: 100%;
+	background: #9b82e4;
+	height: 15px;
+	float: left;
+}
+
+.h9{
+	width: 100%;
+	background: #3003b1;
+	height: 15px;
+	float: left;
+}
+
+.h10{
+	width: 100%;
+	background: #13053a;
+	height: 15px;
+	float: left;
+}
+
+.hh{
+	width: 50%;
+	background: #4bffdf;
+	height: 200px;
+	float: left;
+}
+
+.hh1{
+	width: 100%;
+	background: #cdf15e;
+	height: 15px;
+	float: left;
+	margin-top: 45px;
+}
+
+.hh2{
+	width: 100%;
+	background: #4a023c;
+	height: 15px;
+	float: left;
+}
+
+.hh3{
+	width: 100%;
+	background: #172ed8;
+	height: 15px;
+	float: left;
+}
