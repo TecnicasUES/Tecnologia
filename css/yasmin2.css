@@ -403,18 +403,33 @@ body{
 .verde1{
 	width: 20%;
 	float: left;
-	height: 60px;
+	height: 55px;
 	margin-top: 2%;
 	margin-left: 8%;
 	background: #408e17;
 }
 .verde2{
 	width: 20%;
-	float: left;
-	height: 60px;
+	height: 55px;
 	margin-top: 10%;
+	margin-left:  3%;
 	background: #408e17;
 }
+.verde3{
+	width: 20%;
+	height:55px;
+	margin-top: 3%;
+	margin-left:  3%;
+	background: #408e17;
+}
+.verde4{
+	width: 20%;
+	height:55px;
+	margin-top: 3%;
+	margin-left:  3%;
+	background: #408e17;
+}
+
 
 
 
