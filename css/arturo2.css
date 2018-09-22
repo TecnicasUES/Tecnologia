@@ -20,32 +20,81 @@ body{
 	float: left;
 }
 .hijo2{
-	width: 3%;
+	width: 4%;
 	height: 50px;
 	background:#62C00A;
 	float: left;
 }
 .hijo3{
-	width: 10%;
+	width: 12%;
 	height: 50px;
 	background:#D8A54B;
 	float: left;
 }
 .hijo4{
-	width: 7%;
+	width: 9%;
 	height: 50px;
 	background:#1D69CA;
 	float: left;
 }
 .hijo5{
-	width: 8%;
+	width: 11%;
 	height: 50px;
 	background:#399959;
 	float: left;
 }
 .hijo6{
-	width: 2%;
+	width: 4%;
 	height: 50px;
-	background:#0D355D  ;
+	background:#0D355D;
+	float: left;
+}
+#areamenu2{
+	width: 100%;
+	background:#D3EA12;
+	height: 80px;
+	float: left;
+}
+.hijo1menu2{
+	width: 40%;
+	height: 80px;
+	background:#0D5D1C;
+	float: left;
+}
+.hijomenor{
+	width: 40%;
+	height: 80px;
+	background:#DDEA73;
+	float: left;
+	margin-left: 10%;
+}
+.hijo2menu2{
+	width: 4%;
+	height: 80px;
+	background:#0D335D;
+	float: left;
+}
+.hijo3menu2{
+	width: 11%;
+	height: 80px;
+	background:#5E18D8;
+	float: left;
+}
+.hijo4menu2{
+	width:17%;
+	height:80px;
+	background:#C120B9;
+	float: left;
+}
+.hijo5menu2{
+	width:16%;
+	height:80px;
+	background:#DDEA73;
+	float: left;
+}
+.hijo6menu2{
+	width: 12%;
+	height: 80px;
+	background:#DA4714;
 	float: left;
 }
