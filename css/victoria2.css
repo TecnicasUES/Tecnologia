@@ -167,8 +167,86 @@ section {
 #linklightbox {
 	background-color: #c3c6c9;
 	height: 32px;
-	left: 412px;
+	right: -410px;
 	position: relative;
-    top: 28px;
+    bottom: -28px;
     width: 20%;
+}
+
+/* Estilos del top content */
+.topcontent {
+    background-color: #c3c6c9;
+    height: 260px;
+    border-top: 3px solid #010a1b;
+    width: 100%;
+}
+
+.bluecontent {
+	background-color: #3966bb;
+	height: 260px;
+	width: 60%;
+}
+
+#titleblue {
+    background-color: #fef2bf;
+    height: 32px;
+    left: 16px;
+    position: relative;
+    top: 10px;
+    width: 25%;
+}
+
+#descriptionblue {
+	background-color: #fef2bf;
+	height: 160px;
+	left: 16px;
+	position: relative;
+	top: 20px;
+	width: 95%;
+}
+
+#buttonblue {
+	background-color: #fef2bf;
+	height: 32px;
+	right: -615px;
+	position: relative;
+	bottom: -26px;
+	width: 16%;
+}
+
+/* Estilos para la galería */
+
+.gallerycontent {
+	background-color: #183386;
+	height: 614px;
+	width: 100%;
+}
+
+.gallerybox {
+	/*background-color: #c40018;*/
+	float: left;
+	height: 260px;
+	margin: 24px 32px;
+	width: 28%;
+}
+
+.titlegallerybox {
+	background-color: #f6c667;
+	height: 32px;
+	width: 100%;
+}
+
+.imagegallerybox {
+    background-color: #282d4f;
+	height: 228px;
+	width: 100%;
+}
+
+.linkgallerybox {
+	background-color: #f6c667;
+	height: 32px;
+	right: -290px;
+	position: relative;
+	top: -36px;
+	width: 18%;
 }
