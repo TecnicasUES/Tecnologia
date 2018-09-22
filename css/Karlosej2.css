@@ -434,3 +434,90 @@ body{
 	height: 15px;
 	float: left;
 }
+
+.k{
+	width: 100%;
+	background: #061481;
+	height: 450px;
+	float: left;
+}
+
+.k1{
+	width: 70%;
+	background: #9a0101;
+	height: 450px;
+	float: left;
+}
+
+.kk1{
+	width: 100%;
+	background: #471212;
+	height: 50px;
+	float: left;
+}
+
+.kk3{
+	width: 100%;
+	background: #6f7acb;
+	height: 112.5px;
+	float: left;
+}
+
+.kkk1{
+	width: 30%;
+	background: #9397ba;
+	height: 50px;
+	float: left;
+	margin-left: 10%;
+}
+
+.kk2{
+	width: 100%;
+	background: #a93535;
+	height: 112.5px;
+	float: left;
+}
+
+.kkk2{
+	width: 15%;
+	background: #00073e;
+	height: 50px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 10%
+}
+
+
+.kkk3{
+	width: 60%;
+	background: #00073e;
+	height: 50px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 7%;
+}
+
+.kk4{
+	width: 100%;
+	background: #c2b70d;
+	height: 175px;
+	float: left;
+}
+
+.kkkk{
+	width: 60%;
+	background: #00073e;
+	height: 100px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 7%;
+}
+
+
+
+.k2{
+	width: 30%;
+	background: #f58554;
+	height: 450px;
+	float: left;
+}
