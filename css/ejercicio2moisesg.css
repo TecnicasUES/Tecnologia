@@ -150,3 +150,183 @@
 	height: 275px;
 	background: #EC58FE;
 }
+
+
+
+.service{
+	width: 100%;
+	float:left;
+	height: 55px;
+	background: #FFB800;
+}
+
+.te{
+	width: 100%;
+	float:left;
+	height: 165px;
+	background: #4E16FE;
+}
+
+.verm1{
+	width: 100%;
+	float:left;
+	height: 40px;
+	background: #5AED8D;
+}
+
+.ma1{
+	width: 15.5%;
+	float:left;
+	margin-left: 80%;
+	height: 40px;
+	background: #5D2E62;
+}
+
+.l3{
+	width: 100%;
+	float: left;
+	height: 8px;
+	background: #7AABFE;
+}
+
+#des{
+	width: 100%;
+	float:left;
+	height: 275px;
+	background: #5D2E62;
+}
+
+.ctxt2{
+	width: 65%;
+	float:left;
+	height: 275px;
+	background: #C9EE64;
+}
+
+.tit1{
+	width: 100%;
+	float:left;
+	margin-top: 25px;
+	height: 50px;
+	background: #5AED8D;
+}
+
+.text2{
+	width: 100%;
+	float:left;
+	height: 132px;
+	background: #160A62;
+}
+
+.cver1{
+	width: 100%;
+	float:left;
+	height: 50px;
+	background: #FF933D;
+}
+
+.verm1{
+	width: 15%;
+	float:left;
+	margin-left:80%;
+	height: 50px;
+	background: #D63FF7;
+}
+
+.im1{
+	width: 35%;
+	float:left;
+	height: 275px;
+	background: #42ED3E;
+}
+
+#imgdes{
+	width: 100%;
+	float:left;
+	height: 675px;
+	background: #5848C1;
+}
+
+.limage1{
+	width: 28%;
+	float:left;
+	height: 675px;
+	background: #B779C1;
+	margin-left: 4%;
+}
+
+.img1{
+	width: 100%;
+	float:left;
+	margin-top: 10px;
+	height: 300px;
+	background: #228B7E;
+}
+
+.tt1{
+	width: 100%;
+	float:left;
+	height: 50px;
+	background: #24E881;
+}
+
+.vm2{
+	width: 35%;
+	float:left;
+	margin-left: 65%;
+	margin-top: 200px;
+	height: 50px;
+	background: #EB4283;
+}
+
+.imag2{
+	width: 100%;
+	float:left;
+	margin-top: 30px;
+	height: 300px;
+	background: #96AFFF;
+}
+
+
+.lineimage2{
+	width: 28%;
+	float:left;
+	height: 675px;
+	background: #EB9B54;
+	margin-left: 4%;
+}
+
+.lineimage3{
+	width: 28%;
+	float:left;
+	height: 675px;
+	background: #C9C9C9;
+	margin-left: 4%;
+}
+
+#abu{
+	width: 100%;
+	float:left;
+	height: 300px;
+	background: #CEBCAB2;
+}
+
+
+.im{
+	width: 35%;
+	float:left;
+	height: 300px;
+	background: #A791C7;
+}
+.txt{
+	width: 65%;
+	float:left;
+	height: 300px;
+	background: #CDFFE7;
+}
+
+
+
+
+
+
