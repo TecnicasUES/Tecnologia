@@ -213,7 +213,7 @@ body{
 .rectangulo3{
 	float: left;
 	width: 100%;
-	height: 600px;
+	height: 700px;
     background:#3d22d1;
 }
 .celeste1{
@@ -235,21 +235,27 @@ body{
 	float: left;
 	width: 100%;
 	height:225px;
-	background: #a5ab00;
+	background: #12a9c6;
 }
-
+.boton3{
+	float: right;
+	width: 30%;
+	height:40px;
+    background:#3f023e;
+    margin-top: 55%;
+}
 .c3{
 	float: left;
 	width: 100%;
 	height:75px;
-	background: #fc8012;
+	background: #141d1c;
 }
 
 .c4{
 	float: left;
 	width: 100%;
 	height:225px;
-	background: #880abd;
+	background: #12a9c6;
 	
 }
 .celeste2{
@@ -271,20 +277,27 @@ body{
 	float: left;
 	width: 100%;
 	height:225px;
-	background: #a5ab00;
+	background: #12a9c6;
+}
+.boton4{
+	float: right;
+	width: 30%;
+	height:40px;
+    background:#3f023e;
+    margin-top: 55%;
 }
 
 .cc3{
 	float: left;
 	width: 100%;
 	height:75px;
-	background: #fc8012;
+	background: #141d1c;
 }
 .cc4{
 	float: left;
 	width: 100%;
 	height:225px;
-	background: #880abd;
+	background: #12a9c6;
 }
 
 .celeste3{
@@ -306,20 +319,26 @@ body{
 	float: left;
 	width: 100%;
 	height:225px;
-	background: #a5ab00;
+	background: #12a9c6;
 }
-
+.boton5{
+	float: right;
+	width: 30%;
+	height:40px;
+    background:#3f023e;
+    margin-top: 55%;
+}
 .ccc3{
 	float: left;
 	width: 100%;
 	height:75px;
-	background: #fc8012;
+	background: #141d1c;
 }
 
 .ccc4{
 	float: left;
 	width: 100%;
 	height:225px;
-	background: #880abd;
+	background: #12a9c6;
 }
 
