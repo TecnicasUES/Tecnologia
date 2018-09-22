@@ -622,3 +622,45 @@ body {
 	height:270px;
 	float: left;
 }
+.c1{
+	width:60%;
+	background: #A1AAD3;
+	height: 270px;
+	float: left;
+}
+.t1{
+	width:100%;
+	background: #798EEC;
+	height: 60px;
+	float: left;
+	margin-left:60px;
+}
+.texto1{
+	width:100%;
+	background: #4EBEAF;
+	height: 150px;
+	float: left;
+	margin-left:60px;
+}
+.boton{
+	width:100%;
+	background: #91E7AE;
+	height: 45px;
+	float: left;
+	margin-left:60px;
+}
+.boton1{
+	width: 15%;
+	background: #4FC476;
+	height: 45px;
+	float: left;
+	margin-left:625px;
+}
+.c2{
+	width:35%;
+	background: #E8C2D0;
+	height: 270px;
+	float: left;
+	margin-top: 3px;
+	margin-left:62px;
+}
