@@ -436,3 +436,65 @@ body{
 	height: 90px;
 	background: #0b3c5e;	
 }
+
+
+#footer{
+	width: 100%;
+	float: left;
+	height: 350px;
+	background: #617c01;
+}
+
+.o{
+	width: 30%;
+	float: left;
+	height: 350px;
+	background: #d6f46e;
+}
+
+.p{
+	width: 69.5%;
+	float: right;
+	height: 350px;
+	background: #6ef4ec;
+}
+
+.p1{
+	width: 100%;
+	float: left;
+	height: 200px;
+	background: #2c5250;
+}
+
+.p11{
+	width: 29%;
+	float: left;
+	height: 100px;
+	background: #86c4c0;
+	margin-left: 25%;
+}
+
+
+.p12{
+	width: 12%;
+	float: left;
+	height: 100px;
+	background: #86c4c0;
+	margin-left: 1%;
+}
+
+.p13{
+	width: 10%;
+	float: left;
+	height: 100px;
+	background: #86c4c0;
+	margin-left: 1%;
+}
+
+.p14{
+	width: 15%;
+	float: left;
+	height: 100px;
+	background: #86c4c0;
+	margin-left: 1%;
+}
