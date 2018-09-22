@@ -490,17 +490,24 @@ body{
 }
 
 .cabezah1{
-	width: 60%;
+	width: 50%;
 	height: 30px;
 	float: left;
 	background: #020202;
 }
 
 .cabezah2{
-	width: 40%;
+	width: 50%;
 	height: 30px;
 	float: left;
 	background: #b5bec5;
+}
+
+.icono{
+	width: 6%;
+	height: 30px;
+	float: left;
+	background: #b8bcbf;
 }
 
 .cabezah2n1{
@@ -532,7 +539,7 @@ body{
 }
 
 .cabezah2n3{
-	width: 19%;
+	width: 13%;
 	height: 30px;
 	float: left;
 	background: #56abfc;
@@ -553,13 +560,32 @@ body{
 }
 
 .caja1h{
-	width: 20%;
-	height: 45px;
+	width: 10%;
+	height: 75px;
 	float: left;
-	margin-left: 10%;
+	background: #7fb8ee;
+}
+
+.caja2h{
+	width: 30%;
+	height: 75px;
+	float: left;
+	background: #414446;
+}
+
+.loguito{
+	width: 100%;
+	height: 47px;
+	float: left;
 	margin-top: 7px;
-	background: #b2bcc5;
-	border: 1px solid blue;
+	background: #e7ecf1;
+}
+
+.caja3h{
+	width: 60%;
+	height: 75px;
+	float: left;
+	background: #767f87;
 }
 
 .caja2{
@@ -648,6 +674,24 @@ body{
 	background: #668dae;
 }
 
+.our{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: #0a3e6e;
+
+}
+
+.botonn{
+	width: 70%;
+	height: 48px;
+	float: left;
+	margin-left: 15%;
+	background: #22609a;
+	border: 1px solid blue;
+
+}
+
 .fila3h2n{
 	width: 100%;
 	height: 200px;
@@ -660,6 +704,13 @@ body{
 	height: 50px;
 	float: left;
 	background: #24425e;
+}
+
+.vermas{
+	width: 25%;
+	height: 50px;
+	float: right;
+	background: #81a4c5;
 }
 
 .loren{
@@ -909,34 +960,50 @@ body{
 	background: #082e52;
 }
 
-.abouth{
-	width: 80%;
-	height: 300px;
+.about1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #adcbe8;
+}
+
+.ut{
+	width: 20%;
+	height: 50px;
 	float: left;
 	margin-left: 5%;
-	margin-top: 30px;
-	background: #5e656a;
+	background: #2179cc;
 }
 
-.abouth1{
-	width: 100%;
-	height: 45px;
-	float: left;
-	background: #358ede;
-}
-
-.abouth2{
+.about2{
 	width: 50%;
-	height: 255px;
+	height: 300px;
 	float: left;
-	background: #087ce3;
+	background: #6c9cc9;
+
 }
 
-.abouth3{
-	width: 50%;
-	height: 255px;
+.bou{
+	width: 70%;
+	height: 300px;
 	float: left;
-	background: #6798c1;
+	margin-left: 10%;
+	background: #5a626a;
+}
+
+.about3{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: #3f678d;
+}
+
+.bou1{
+	width: 50%;
+	height: 300px;
+	float: left;
+	margin-left: 10%;
+	background: #5a626a;
 }
 
 .contactos{
@@ -1079,7 +1146,7 @@ body{
 	width: 60%;
 	height: 250px;
 	float: left;
-	background: #087ce3;
+	background: #585c60;
 }
 
 .foo1{
