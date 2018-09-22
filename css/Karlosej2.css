@@ -235,7 +235,51 @@ body{
 .e{
 	width: 100%;
 	background: #92d6c8;
-	height: 550px;
+	height: 800px;
 	float: left;
 }
 
+.e1{
+	width: 33.33%;
+	background: #3d605a;
+	height: 800px;
+	float: left;
+}
+
+.ee1{
+	width: 100%;
+	background: #f1a63b;
+	height: 400px;
+	float: left;
+}
+
+.eee1{
+	width: 30%;
+	background: #f9f699;
+	height: 25px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 5%;
+}
+
+.ee2{
+	width: 100%;
+	background: #06bb8a;
+	height: 400px;
+	float: left;
+}
+
+.e2{
+	width: 33.33%;
+	background: #73df83;
+	height: 800px;
+	float: left;
+}
+
+
+.e3{
+	width: 33.34%;
+	background: #c36c6c;
+	height: 800px;
+	float: left;
+}
