@@ -49,6 +49,13 @@ body{
 	background:#0D355D;
 	float: left;
 }
+.hijo22{
+	width: 100%;
+	background:#D3EA12;
+	height: 80px;
+	float: left;
+}
+}
 #areamenu2{
 	width: 100%;
 	background:#D3EA12;
@@ -60,13 +67,6 @@ body{
 	height: 80px;
 	background:#0D5D1C;
 	float: left;
-}
-.hijomenor{
-	width: 40%;
-	height: 80px;
-	background:#DDEA73;
-	float: left;
-	margin-left: 10%;
 }
 .hijo2menu2{
 	width: 4%;
@@ -97,4 +97,16 @@ body{
 	height: 80px;
 	background:#DA4714;
 	float: left;
+}
+.barrita{
+	width: 100%;
+	height: 5px;
+	background: #0D335D;
+	float:left;
+}
+.barrita2{
+	width: 100%;
+	height: 5px;
+	background:#D3EA12;
+	float:left;
 }
