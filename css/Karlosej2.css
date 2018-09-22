@@ -564,3 +564,91 @@ body{
 	margin-top:40px;
 }
 
+.foot{
+	width: 100%;
+	background: #022237;
+	height: 250px;
+	float: left;
+}
+
+.p1{
+	width: 45%;
+	background: #a39df1;
+	height: 250px;
+	float: left;
+}
+
+.pp{
+	width: 25%;
+	background: #0924c6;
+	height: 100px;
+	float: left;
+	margin-left: 20%;
+	margin-top: 25px;
+}
+
+.pp1{
+	width: 100%;
+	background: #d77f59;
+	height: 100px;
+	float: left;
+}
+
+.pp2{
+	width: 100%;
+	background: #fccb20;
+	height: 30px;
+	float: left;
+}
+
+
+.p2{
+	width: 55%;
+	background: #605e6f;
+	height: 250px;
+	float: left;
+}
+
+.ppp{
+	width: 10%;
+	background: #32980a;
+	height: 50px;
+	float: left;
+}
+
+.ppp1{
+	width: 10%;
+	background: #f4bc13;
+	height: 50px;
+	float: left;
+}
+
+.ppp2{
+	width: 30%;
+	background: #ff6f53;
+	height: 50px;
+	float: left;
+}
+
+.ppp3{
+	width: 40%;
+	background: #852512;
+	height: 50px;
+	float: left;
+}
+
+.ppp4{
+	width: 10%;
+	background: #513e3a;
+	height: 50px;
+	float: left;
+}
+
+.ppp5{
+	width: 20%;
+	background: #7d9a73;
+	height: 50px;
+	float: left;
+	margin-top: 150px;
+	margin-left: 10%
+}
