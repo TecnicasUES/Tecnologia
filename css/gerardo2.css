@@ -169,14 +169,14 @@ body{
 
 .cajatexto2{
 	width: 100%;
-	background:#439055;
+	background:#e1c823;
 	height: 45px;
 	float: left;
 }
 
 .boton1{
 	width: 25%;
-	background:#b3de60;
+	background:#655909;
 	height: 45px;
 	float: left;
 	margin-left: 4%;
@@ -184,21 +184,21 @@ body{
 
 .cajatexto3{
 	width: 100%;
-	background:#0d6a23;
+	background:#d9d6c3;
 	height: 160px;
 	float: left;
 }
 
 .cajatexto4{
 	width: 100%;
-	background:#054619;
+	background:#e1c823;
 	height: 45px;
 	float: left;
 }
 
 .boton2{
 	width: 15%;
-	background:#aeac12;
+	background:#655909;
 	height: 45px;
 	float: left;
 	margin-left: 80%;
@@ -272,8 +272,283 @@ body{
 .sec3{
 	width: 100%;
 	background: #0cbd4a;
-	height: 700px;
+	height: 650px;
 	float: left;
+}
+.cajatexto9{
+	width: 31%;
+	background:#0dec61;
+	height: 250px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 50px; 
+}
+
+.cajatexto10{
+	width: 100%;
+	background:#439055;
+	height: 45px;
+	float: left;
+}
+
+.cajatexto11{
+	width: 25%;
+	background:#b3de60;
+	height: 45px;
+	float: left;
+	margin-left: 4%;
+}
+
+.imagen2{
+	width: 100%;
+	background:#0d6a23;
+	height: 160px;
+	float: left;
+}
+
+.cajatexto12{
+	width: 100%;
+	background:#054619;
+	height: 45px;
+	float: left;
+}
+
+.boton5{
+	width: 15%;
+	background:#aeac12;
+	height: 45px;
+	float: left;
+	margin-left: 80%;
+}
+
+.cajatexto13{
+	width: 31%;
+	background:#0dec61;
+	height: 250px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 50px; 
+}
+
+.cajatexto14{
+	width: 100%;
+	background:#439055;
+	height: 45px;
+	float: left;
+}
+
+.cajatexto15{
+	width: 25%;
+	background:#b3de60;
+	height: 45px;
+	float: left;
+	margin-left: 4%;
+}
+
+.imagen3{
+	width: 100%;
+	background:#0d6a23;
+	height: 160px;
+	float: left;
+}
+
+.cajatexto16{
+	width: 100%;
+	background:#054619;
+	height: 45px;
+	float: left;
+}
+
+.boton6{
+	width: 15%;
+	background:#aeac12;
+	height: 45px;
+	float: left;
+	margin-left: 80%;
+}
+
+.cajatexto17{
+	width: 31%;
+	background:#0dec61;
+	height: 250px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 50px; 
+}
+
+.cajatexto18{
+	width: 100%;
+	background:#439055;
+	height: 45px;
+	float: left;
+}
+
+.cajatexto19{
+	width: 25%;
+	background:#b3de60;
+	height: 45px;
+	float: left;
+	margin-left: 4%;
+}
+
+.imagen4{
+	width: 100%;
+	background:#0d6a23;
+	height: 160px;
+	float: left;
+}
+
+.cajatexto20{
+	width: 100%;
+	background:#054619;
+	height: 45px;
+	float: left;
+}
+
+.boton7{
+	width: 15%;
+	background:#aeac12;
+	height: 45px;
+	float: left;
+	margin-left: 80%;
+}
+
+.cajatexto21{
+	width: 31%;
+	background:#0dec61;
+	height: 250px;
+	float: left;
+	margin-left: 1%;
+	margin-top: 50px; 
+}
+
+.cajatexto22{
+	width: 100%;
+	background:#439055;
+	height: 45px;
+	float: left;
+}
+
+.cajatexto23{
+	width: 25%;
+	background:#b3de60;
+	height: 45px;
+	float: left;
+	margin-left: 4%;
+}
+
+.imagen5{
+	width: 100%;
+	background:#0d6a23;
+	height: 160px;
+	float: left;
+}
+
+.cajatexto24{
+	width: 100%;
+	background:#054619;
+	height: 45px;
+	float: left;
+}
+
+.boton8{
+	width: 15%;
+	background:#aeac12;
+	height: 45px;
+	float: left;
+	margin-left: 80%;
+}
+
+.cajatexto25{
+	width: 31%;
+	background:#0dec61;
+	height: 250px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 50px; 
+}
+
+.cajatexto26{
+	width: 100%;
+	background:#439055;
+	height: 45px;
+	float: left;
+}
+
+.cajatexto27{
+	width: 25%;
+	background:#b3de60;
+	height: 45px;
+	float: left;
+	margin-left: 4%;
+}
+
+.imagen6{
+	width: 100%;
+	background:#0d6a23;
+	height: 160px;
+	float: left;
+}
+
+.cajatexto28{
+	width: 100%;
+	background:#054619;
+	height: 45px;
+	float: left;
+}
+
+.boton9{
+	width: 15%;
+	background:#aeac12;
+	height: 45px;
+	float: left;
+	margin-left: 80%;
+}
+
+.cajatexto29{
+	width: 31%;
+	background:#0dec61;
+	height: 250px;
+	float: left;
+	margin-left: 2%;
+	margin-top: 50px; 
+}
+
+.cajatexto30{
+	width: 100%;
+	background:#439055;
+	height: 45px;
+	float: left;
+}
+
+.cajatexto31{
+	width: 25%;
+	background:#b3de60;
+	height: 45px;
+	float: left;
+	margin-left: 4%;
+}
+
+.imagen7{
+	width: 100%;
+	background:#0d6a23;
+	height: 160px;
+	float: left;
+}
+
+.cajatexto32{
+	width: 100%;
+	background:#054619;
+	height: 45px;
+	float: left;
+}
+
+.boton10{
+	width: 15%;
+	background:#aeac12;
+	height: 45px;
+	float: left;
+	margin-left: 80%;
 }
 
 .sec4{
@@ -282,3 +557,55 @@ body{
 	height: 250px;
 	float: left;
 }
+
+.cajatexto33{
+	width: 30%;
+	background:#bf254d;
+	height: 250px;
+	float: left;
+}
+
+.cajatexto34{
+	width: 100%;
+	background:#a62345;
+	height: 45px;
+	float: left;
+}
+
+.boton11{
+	width: 25%;
+	background:#e29aad;
+	height: 45px;
+	float: left;
+	margin-left: 4%;
+}
+
+.cajatexto35{
+	width: 100%;
+	background:#bd0c63;
+	height: 160px;
+	float: left;
+}
+
+.cajatexto36{
+	width: 100%;
+	background:#f6154f;
+	height: 45px;
+	float: left;
+}
+
+.boton12{
+	width: 15%;
+	background:#e29aad;
+	height: 45px;
+	float: left;
+	margin-left: 80%;
+}
+
+.imagen8{
+	width: 70%;
+	background:#140cbd;
+	height: 250px;
+	float: left;
+}
+
