@@ -210,13 +210,13 @@ body{
 #seccion3{
 	width: 100%;
 	background: #ff7203;
-	height: 420px;
+	height: 440px;
 	float: left;
 }
 .g{
 	width: 25%;
 	background: #8546f3;
-	height: 400px;
+	height: 420px;
 	float: left;
 	margin-left: 6.25%;
 }
@@ -258,4 +258,46 @@ body{
 	height: 50px;
 	float: left;
 	margin-left: 65%;
+}
+.sobrenosotros{
+	width: 100%;
+	height: 150px;
+	background: #0D335D;
+	float:left;
+}
+.hijo1desobre{
+	width: 30%;
+	height: 150px;
+	background:#2BFFBF;
+	float:left;
+}
+.hijo2desobre{
+	width: 35%;
+	height: 150px;
+	background:#71B015;
+	float:left;
+}
+.hijo3desobre{
+	width: 35%;
+	height: 150px;
+	background:#770808;
+	float:left;
+}
+.hijo3desobre{
+	width: 35%;
+	height: 150px;
+	background:#770808;
+	float:left;
+}
+.nosotros1{
+	width: 100%;
+	height: 40px;
+	background:#3DA615;
+	float:left;
+}
+.nosotros2{
+	width: 100%;
+	height: 110px;
+	background:#5976F8;
+	float:left;
 }
