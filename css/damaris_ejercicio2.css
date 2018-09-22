@@ -12,15 +12,30 @@ body{
 .menu{
 	width: 100%;
 	background: #b26d6d;
-	height: 90px;
+	height: 115px;
 	float: left;
 }
 
 .menu1{
 	width: 100%;
-	height: 30px;
+	height: 40px;
 	background: #b26d6d;
 	float: left;
+}
+
+.m_1{
+	width: 61%;
+	float: left;
+	height: 40px;
+	background: #fff;
+}
+
+
+.m_2{
+	width: 39%;
+	float: left;
+	height: 40px;
+	background: #fff;
 }
 
 
