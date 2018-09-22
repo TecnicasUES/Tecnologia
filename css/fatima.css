@@ -72,9 +72,9 @@ header{
 	background:#af60a2; 
 }  
 
-#uno{ 
+.child3{ 
 	width:100%; 
-	height: 150px; 
+	height: 500px; 
 	float: left; 
 	background:blue; 
 }
@@ -104,6 +104,16 @@ header{
 	float: left; 
 	background: blue; 
 }
+
+.i{ 
+
+	width: 100%; 
+	height: 120px; 
+	float: left; 
+	background: pink; 
+
+
+ }
 
 
  
