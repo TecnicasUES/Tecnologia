@@ -382,6 +382,22 @@ body{
 	height: 300px;
     background:#87290f;
 }
+.re22{
+	float: left;
+	width: 40%;
+	height: 40px;
+    background:#020901;
+    margin-top: 3%;
+	margin-left: 3%;
+}
+.re23{
+	float: left;
+	width: 90%;
+	height:125px;
+    background:#020901;
+    margin-top: 10%;
+	margin-left: 3%;
+}
 .re3{
 	float: left;
 	width: 33.33%;
@@ -433,9 +449,10 @@ body{
 	width: 20%;
 	height:55px;
 	margin-top: 3%;
-	margin-left:  3%;
+	margin-left:  25%;
 	background: #408e17;
 }
+
 
 
 
