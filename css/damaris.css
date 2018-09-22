@@ -368,7 +368,7 @@ body{
 	width: 100%;
 	float: left;
 	height: 90px;
-	background: #097cbd;
+	background: #33aafb;
 	margin-top: 10px;
 }
 
@@ -376,7 +376,31 @@ body{
 	width: 100%;
 	float: left;
 	height: 135px;
-	background: #097cbd;
+	background: #33aafb;
+	margin-top: 20px;
+}
+
+
+.n2_2_1{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #33aafb;
+}
+
+.n2_2_2{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #33aafb;
+	margin-top: 10px;
+}
+
+.n2_2_3{
+	width: 100%;
+	float: left;
+	height: 135px;
+	background: #33aafb;
 	margin-top: 20px;
 }
 
@@ -410,5 +434,5 @@ body{
 	float: left;
 	margin-left: 60%;
 	height: 90px;
-	background: #901e73;	
+	background: #0b3c5e;	
 }
