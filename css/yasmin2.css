@@ -210,6 +210,12 @@ body{
 	height: 300px;
     background:#df823f;
 }
+.rectangulo3{
+	float: left;
+	width: 100%;
+	height: 600px;
+    background:#3d22d1;
+}
 
 
 
