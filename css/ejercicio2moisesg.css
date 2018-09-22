@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+#bod {
+	background: #00ADFF;
+	width: 100%;
+	height: auto;
+	font-family: arial;
+	margin: 0;
+	} 
+
+	#menus
+	{
+	width: 100%;
+	height: 115px;
+	float: left;
+	background: #BF9FC1;
+}
+
+
+
+.menu1{
+	width: 100%;
+	float: left;
+	height: 40px;
+	background: #28BDBC;
+}
+
+.menu1a{
+	width: 61%;
+	float: left;
+	height: 40px;
+    background: #82BD8F;
+}
+
+.men2a{
+	width: 39%;
+	float: left;
+	height: 40px;
+    background: #A39FC1;
+}
+
+.pho{
+	width: 9%;
+	height: 40px;
+	float: left;
+	background: #074A8E;
+}
+
+.tel{
+	width: 40%;
+	height: 40px;
+	float: left;
+	background: #816C8E;
+}
+
+.part{
+	width: 27%;
+	height: 40px;
+	float: left;
+	background: #FFE7C1;
+}
+
+.sig{
+	width: 20%;
+	height: 40px;
+	float: left;
+	background: #BDB982;
+}
+
+
+
+.menu2{width: 100%;
+	float: left;
+	height: 75px;
+	background: #BDB65F;
+}
+
+.log{
+	width: 15%;
+	height: 75px;
+	margin-left: 3%;
+	float: left;
+	background: #AABD35;
+}
+
+.hom{
+	width: 6.5%;
+	height: 75px;
+	margin-left: 23%;
+	float: left;
+	background: #C1604B;
+}
+
+.ab{
+	width: 8.5%;
+	height: 75px;
+	float: left;
+	background: #06D1ED;
+}
+
+.ps{
+	width: 15%;
+	height: 75px;
+	float: left;
+	background: #9F22EE;
+}
+
+.exp{
+	width: 18%;
+	height: 75px;
+	float: left;
+	background: #93FE0F;
+}
+
+.con{
+	width: 9%;
+	height: 75px;
+	float: left;
+	background: #EE2511;
+}
+
