@@ -450,5 +450,131 @@ body {
 	width:100%;
 	background: #B8ACD2;
 	float: left;
-	height:95px;
+	height:90px;
+}
+
+
+/*EJERCICIO 2*/
+
+
+@charset "utf-8";
+body {
+	background: #CDCDF7;
+	width: 100%;
+	height: auto; 
+	font-family: arial;
+	margin: 0;
+}
+
+
+#dosmenu{
+	width: 100%;
+	background: #A2A2E3;
+	height: 110px;
+	float: left;
+}
+
+.hijo1{
+	width: 100%;
+	background: #8585D5;
+	height: 35px;
+	float: left;
+}
+
+.icono{
+	width: 5%;
+	height: 35px;
+	background: #6464E5;
+	float:left;
+	margin-left: 55%
+}
+
+.tel{
+	width: 15%;
+	height: 35px;
+	background:#A4C1F5;
+	float: left;
+}
+
+.borde{
+	width: 0.3%;
+	height: 35px;
+	background:#C3F5A4;
+	float: left;
+}
+
+.our{
+	width: 12%;
+	height: 35px;
+	background:  #A4F5E2;
+	float: left;
+}
+.border1{
+	width: 0.3%;
+	height: 35px;
+	background:#C3F5A4;
+	float: left;
+}
+.sing{
+	width: 12.4%;
+	height: 35px;
+	background: #A8DFE8;
+	float: left;
+}
+.hijo2{
+	width: 100%;
+	background: #F2E1F7;
+	height: 75px;
+	float: left;
+}
+.logotipo{
+	width: 12%;
+	height:75px;
+	background: #E9C2F6;
+	float:left;
+	margin-left:3%;
+}
+.home{
+	width: 7%;
+	height: 75px;
+	background: #9775A2;
+	float:left;
+	margin-left:22%;
+}
+
+.about{
+	width: 10%;
+	height: 75px;
+	background:#724B7F;
+	float: left;
+}
+.products{
+	width: 16%;
+	height: 75px;
+	background:#F0CAD2;
+	float: left;
+}
+.experience{
+	width: 20%;
+	height: 75px;
+	background:#E1A0AE;
+	float: left;
+}
+.contact{
+	width: 10%;
+	height: 75px;
+	background:#815989;
+	float: left;
+}
+.bor1{
+	width: 100%;
+	height: 10px;
+	background:#9BCC54;
+	float: left;
+}
+.bor2{
+	width: 100%;
+	height: 10px;
+	background:#CFF29D;
+	float: left;
 }
