@@ -226,13 +226,17 @@ body{
 	height: 175px;
 	float: left;
 }
-.gg111{
-	width: 45%;
-	background:#0180ff;
+.cuadro{
+	width:100%;
+	background:#EADF3F;
+	height: 125px;
+	float:left;
+}
+.cuadro2{
+	width:100%;
+	background:#971AAE;
 	height: 50px;
-	float: left;
-	margin-left: 55%;
-	margin-top: 55%;
+	float:left;
 }
 .g2{
 	width: 100%;
