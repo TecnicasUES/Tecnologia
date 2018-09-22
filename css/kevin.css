@@ -1094,6 +1094,637 @@ header{
 	margin-right: 5%;
 }
 
+.papi1{
+	width: 100%;
+	height: 30px;
+	float: left;
+	background: black;
+}
+
+.kev1{
+	width: 65%;
+	height: 30px;
+	float: left;
+	background: black;
+}
+
+.kev2{
+	width: 15%;
+	height: 30px;
+	float: left;
+	background: darkblue;
+}
+
+.kev3{
+	width: 10%;
+	height: 30px;
+	float: left;
+	background: blue;
+}
+
+.kev4{
+	width: 10%;
+	height: 30px;
+	float: left;
+	background: purple;
+}
+
+.papi2{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: white;
+	border-bottom: 4px solid blue ;
+}
+
+.kev5{
+	width: 39%;
+	height: 60px;
+	float: left;
+	background: white;
+}
+
+.nietillo1{
+	width: 30%;
+	height: 52px;
+	float: left;
+	background: grey;
+	margin-top: 5px;
+	margin-bottom: 3px;
+	margin-left: 10%;
+	margin-right: 60%;
+}
+
+.kev6{
+	width: 8%;
+	height: 60px;
+	float: left;
+	background: lightblue;
+}
+
+.kev7{
+	width: 8%;
+	height: 60px;
+	float: left;
+	background: grey;
+}
+
+.kev8{
+	width: 15%;
+	height: 60px;
+	float: left;
+	background: lightgreen;
+}
+
+.kev9{
+	width: 20%;
+	height: 60px;
+	float: left;
+	background: green;
+}
+
+.kev10{
+	width: 10%;
+	height: 60px;
+	float: left;
+	background: darkgreen;
+}
+
+.banner01{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: grey;
+	border-top: lightblue 6px solid;
+}
+
+.texto01{
+	width: 40%;
+	height: 260px;
+	float: left;
+	background: darkgrey;
+	margin-top: 120px;
+	margin-bottom: 3px;
+	margin-left: 5%;
+	margin-right: 55%;
+}
+
+.papi3{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background: blue;
+}
+
+.kev11{
+	width: 65%;
+	height: 250px;
+	float: left;
+	background: blue;
+}
+
+.nietillo2{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.nietillo3{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: blue;
+}
+
+.nietillo4{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.tatara1{
+	width: 75%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.tatara2{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: red;
+}
+
+.kev12{
+	width: 35%;
+	height: 250px;
+	float: left;
+	background: lightblue;
+}
+
+
+.papi4{
+	width: 100%;
+	height: 600px;
+	float: left;
+	background: white;
+	border-top: grey solid 3px;
+}
+
+.kev13{
+	width: 23%;
+	height: 600px;
+	float: left;
+	background: white;
+	margin-left: 5%;
+	margin-right:5%;
+
+}
+
+.nietecillo5{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background: white;
+	margin: 0;
+	margin-bottom: 50px;
+}
+
+.tatara3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: blue;
+}
+
+.tatara4{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: lightblue;
+}
+.tatara5{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco1{
+	width: 75%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco2{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.nietecillo6{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: white;
+	margin:0;
+}
+
+.tatara6{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: blue;
+	margin-top: 50px;
+
+}
+
+.tatara7{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: lightblue;
+}
+.tatara8{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco3{
+	width: 75%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco4{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.kev14{
+	width: 23%;
+	height: 600px;
+	float: left;
+	background: white;
+	margin-left: 5%;
+	margin-right:5%;
+}
+
+.nietecillo7{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background: white;
+	margin: 0;
+	margin-bottom: 50px;
+}
+
+.tatara9{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: blue;
+}
+
+.tatara10{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: lightblue;
+}
+.tatara11{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco5{
+	width: 75%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco6{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.nietecillo8{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: white;
+	margin:0;
+}
+
+.tatara12{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: blue;
+	margin-top: 50px;
+
+}
+
+.tatara13{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: lightblue;
+}
+.tatara14{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco7{
+	width: 75%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco8{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.kev15{
+	width: 23%;
+	height: 600px;
+	float: left;
+	background: white;
+	margin-left: 5%;
+	margin-right:5%;
+}
+
+.nietecillo9{
+	width: 100%;
+	height: 250px;
+	float: left;
+	background: white;
+	margin: 0;
+	margin-bottom: 50px;
+}
+
+.tatara15{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: blue;
+}
+
+.tatara16{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: lightblue;
+}
+.tatara17{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco9{
+	width: 75%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco10{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.nietecillo10{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: white;
+	margin:0;
+}
+
+.tatara18{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: blue;
+	margin-top: 50px;
+
+}
+
+.tatara19{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: lightblue;
+}
+.tatara20{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco11{
+	width: 75%;
+	height: 50px;
+	float: left;
+	background: lightblue;
+}
+
+.visco12{
+	width: 25%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+
+.papi5{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: darkblue;
+}
+
+.kev16{
+	width: 30%;
+	height: 200px;
+	float: left;
+	background: beige;
+}
+
+.kev17{
+	width: 70%;
+	height: 200px;
+	float: left;
+	background: darkblue;
+}
+
+.nietillo11{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: darkblue;
+}
+
+.nietillo12{
+	width: 50%;
+	height: 150px;
+	float: left;
+	background: blue;
+}
+
+.nietillo13{
+	width: 50%;
+	height: 150px;
+	float: left;
+	background: lightblue;
+}
+
+.contactanos{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: lightgreen;
+}
+
+.papi6{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: grey;
+}
+
+.hijastro1{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: grey;
+}
+
+.kev18{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: grey;
+}
+
+.nietillo14{
+	width: 50%;
+	height: 40px;
+	float: left;
+	background: grey;
+}
+
+.nietillo15{
+	width: 50%;
+	height: 40px;
+	float: left;
+	background: white;
+}
+
+.kev19{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: grey;
+}
+
+.kev20{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: grey;
+}
+
+.nietillo16{
+	width: 50%;
+	height: 40px;
+	float: left;
+	background: grey;
+}
+
+.nietillo17{
+	width: 50%;
+	height: 40px;
+	float: left;
+	background: white;
+}
+
+.kev21{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: grey;
+}
+
+.kev22{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: grey;
+}
+
+.nietillo18{
+	width: 50%;
+	height: 100px;
+	float: left;
+	background: grey;
+}
+
+.nietillo19{
+	width: 50%;
+	height: 100px;
+	float: left;
+	background: white;
+}
+
+.kev23{
+	width: 100%;
+	height: 40px;
+	float: left;
+	background: grey;
+}
+
+.hijastro2{
+	width: 50%;
+	height: 300px;
+	float: left;
+	background: darkgrey;
+}
+
+
+
+
+
+
+
+
 #contenedor{
 	width: 50%;
 	height: auto;
