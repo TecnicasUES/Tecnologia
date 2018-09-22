@@ -262,12 +262,31 @@ body{
 	margin-left: 5%;
 }
 
+.eee2{
+	width: 90%;
+	background: #53d4e3;
+	height: 365px;
+	float: left;
+	margin-left: 5%;
+}
+
+.eex{
+	width: 25%;
+	background: #b2de9c;
+	height: 40px;
+	float: left;
+	margin-left: 75%;
+	margin-top: 325px;
+}
+
+
 .ee2{
 	width: 100%;
 	background: #06bb8a;
 	height: 400px;
 	float: left;
 }
+
 
 .e2{
 	width: 33.33%;
