@@ -244,3 +244,171 @@ body{
 	margin-left: 25%
 }
 
+
+.seccion3{
+	width: 100%;
+	float: left;
+	height: 400px;
+	background: #132d3f;
+}
+
+.l{
+	width: 50%;
+	float: left;
+	height: 400px;
+	background: #456510;
+}
+
+.m{
+	width: 50%;
+	float: left;
+	height: 400px;
+	background: #7d9358;
+}
+
+.m1{
+	width: 100%;
+	float: left;
+	height: 70px;
+	background: #22628e;
+	margin-top: 75px;
+}
+
+.m2{
+	width: 50%;
+	float:left;
+	height: 70px;
+	background: #23313b;
+	margin-left: 50%
+
+}
+
+.m3{
+	width: 100%;
+	float: left;
+	height: 70px;
+	background: #6499bd;
+}
+
+.m4{
+	width: 100%;
+	float: left;
+	height: 70px;
+	background: #054c7d;
+}
+
+.m5{
+	width: 30%;
+	float: left;
+	margin-left: 40%;
+	height: 70px;
+	background: #2b2e30;
+}
+
+.seccion4{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #456e8a;
+}
+
+
+.n{
+	width: 60%;
+	float: left;
+	height: 500px;
+	background: #33aafb;
+}
+
+.ñ{
+	width: 40%;
+	float: left;
+	height: 500px;
+	background: #8bbe37;
+}
+
+.n1{
+	width: 100%;
+	float: left;
+	height: 100px;
+	background: #525d40;
+}
+
+.n2{
+	width: 100%;
+	float: left;
+	height: 350px;
+	background: #548406;
+}
+
+.n2_1{
+	width: 35%;
+	float: left;
+	margin-left: 1%;
+	height: 350px;
+	background: #aed966;
+}
+
+.n2_2{
+	width: 60%;
+	float: left;
+	margin-left: 3%;
+	height: 350px;
+	background: #aed966;
+}
+
+.n2_1_1{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #33aafb;
+}
+
+.n2_1_2{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #097cbd;
+	margin-top: 10px;
+}
+
+.n2_1_3{
+	width: 100%;
+	float: left;
+	height: 135px;
+	background: #097cbd;
+	margin-top: 20px;
+}
+
+.n3{
+	width: 100%;
+	float: left;
+	height: 50px;
+	background: #882e7a;
+}
+
+.ñ1{
+	width: 98%;
+	float: left;
+	height: 90px;
+	background: #0687af;
+	margin-top: 80px;
+	margin-left: 1%;
+}
+
+.ñ2{
+	width: 98%;
+	float: left;
+	height: 90px;
+	background: #0687af;
+	margin-top: 70px;
+	margin-left: 1%;
+}
+
+.ñ3{
+	width: 20%;
+	float: left;
+	margin-left: 60%;
+	height: 90px;
+	background: #901e73;	
+}
