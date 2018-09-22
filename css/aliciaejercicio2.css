@@ -2,7 +2,7 @@
 
 
 body{
-	background: #23e2f3;
+	background: #d0c6ed;
 	width: 100%;
 	height: auto;
 	font-family: arial;
@@ -10,8 +10,447 @@ body{
 }
 header{
 	width: 100%;
+	height: 100px;
+	float: left;
+	border: 1px solid blue;
+	background: #5018f2;
+}
+.caja1{
+	width: 100%;
+	height: 30px;
+	float: left;
+	background: #4214ed;
+}
+.caja2{
+	width: 100%;
+	height: 70px;
+	float: left;
+	background: #3d15d2;
+}
+.caj1{
+	width: 60%;
+	height: 30px;
+	float: left;
+	background: #371e94;
+}
+.caj11{
+	width: 40%;
+	height: 30px;
+	float: left;
+	background: #352475;
+}
+.cajahija1{
+	width: 10%;
+	height: 30px;
+	float: left;
+	background: #615394;
+}
+.cajahija2{
+	width: 40%;
+	height: 30px;
+    float: left;
+    background: #a39fb2;
+}
+.cajahija3{
+	width: 30%;
+	height: 30px;
+    float: left;
+    background: #9177f2;
+}
+.cajahija4{
+	width: 20%;
+	height: 30px;
+    float: left;
+    background: #26069d;
+}
+.caj2{
+	width: 40%;
+	height: 70px;
+	float: left;
+	background: #403861;
+}
+.caj22{
+	width: 60%;
+	height: 70px;
+	float: left;
+	background: #623af9;
+}
+.ca2{
+	width: 15%;
+	height: 70px;
+	float: left;
+	margin-left: 10%;
+	background: #2e1880;
+}
+.cajita1{
+	width: 10%;
+	height: 70px;
+	float: left;
+	background: #2d12fc;
+}
+.cajita2{
+	width: 15%;
+	height: 70px;
+	float: left;
+	background: #4932f9;
+}
+.cajita3{
+	width: 25%;
+	height: 70px;
+	float: left;
+	background: #6450fe;
+}
+.cajita4{
+	width: 30%;
+	height: 70px;
+	float: left;
+	background: #7766fc;
+}
+.cajita5{
+	width: 20%;
+	height: 70px;
+	float: left;
+	background: #998cfa;
+}
+.imag{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: #9e9ec8;
+}
+.box1{
+	width: 40%;
+	height: 200px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 10%;
+	background: #6a6a7e;
+}
+.hijobox1{
+	width: 30%;
+	height: 40px;
+	float: left;
+	background: #0f1659;
+}
+.hijobox2{
+	width: 90%;
+	height: 120px;
+	float: left;
+	background: #31387d;
+}
+.hijobox3{
+	width: 10%;
+	height: 40px;
+	float: left;
+	margin-left: 80%;
+	background: #0f1659;
+}
+.seccion2{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #42487f;
+}
+.hijaseccion1{
+	width: 70%;
+	height: 200px;
+	float: left;
+	background: #535882;
+}
+.hijaseccion2{
+	width: 30%;
+	height: 200px;
+	float: left;
+	background: #626586;
+}
+.secc1{
+	width: 20%;
+	height: 30px;
+	float: left;
+	margin-left: 10%;
+	margin-top: 1%;
+	background: #abbbed;
+}
+.secc2{
+	width: 80%;
+	height: 120px;
+	float: left;
+	margin-left: 10%;
+	background: #7874b3;
+}
+.secc3{
+	width: 15%;
+	height: 30px;
+	float: left;
+	margin-left: 75%;
+	background: #a29ecf;
+}
+.contenido{
+	width: 100%;
+	height: 700px;
+	float: left;
+	background: #c7c5e6;
+}
+.seccion3{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #0c38f3;
+}
+.sec1{
+	width: 30%;
+	height: 200px;
+	float: left;
+	background: #3c56c6;
+}
+.sec2{
+	width: 70%;
+	height: 200px;
+	float: left;
+	background: #6677c0;
+}
+.seccion2a{
+	width: 25%;
+	height: 25px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 1.50%;
+	background: #618ce5;
+}
+.seccion2b{
+	width: 75%;
+	height: 120px;
+	float: left;
+	margin-left: 5%;
+	background: #cedaf1; 
+}
+.secb1{
+	width: 75%;
+	height: 120px;
+	float: left;
+	background: #116ff0;
+}
+.secb2{
+	width: 25%;
+	height: 120px;
+	float: left;
+	background: #4b94f7;
+}
+.seccion4{
+	width: 100%;
+	height: 500px;
+	float: left;
+	background: #188ff4;
+}
+.cajita6{
+	width: 60%;
+	height: 500px;
+	float: left;
+	background: #74b7ef;
+}
+.cajita7{
+	width: 40%;
+	height: 500px;
+	float: left;
+	background: #a3caea;
+}
+.cajitahija4{
+	width: 100%;
+	height: 82px;
+	float: left;
+	background: #0b599b;
+}
+.cajitahija5{
+	width: 100%;
+	height: 83px;
+	float: left;
+	background: #20a1eb;
+}
+.cajitahija6{
+	width: 100%;
+	height: 85px;
+	float: left;
+	background: #76ccfd;
+}
+.cajitahija7{
+	width: 100%;
+	height: 200px;
+	float: left;
+	background: #28c1f3;
+}
+.cajitahija8{
+	width: 100%;
 	height: 50px;
 	float: left;
-	border: 1px solid red;
-	background: #a7f323;
+	background: #b6ebfc;
 }
+.hija5{
+	width: 45%;
+	height: 83px;
+	float: left;
+	background: #abceda;
+}
+.hija55{
+	width: 55%;
+	height: 83px;
+	float: left;
+	background: #366879;
+}
+.hija6{
+	width: 45%;
+	height: 85px;
+	float: left;
+	background: #7eb0c0;
+}
+.hija66{
+	width: 55%;
+	height: 85px;
+	float: left;
+	background: #bed9e2;
+}
+.hija7{
+	width: 45%;
+	height: 200px;
+	float: left;
+	background: #17a1da;
+}
+.hija77{
+	width: 55%;
+	height: 200px;
+	float: left;
+	background: #73cff6;
+}
+.hij7{
+	width: 100%;
+	height: 83px;
+	float: left;
+	margin-top: 12%;
+	background: #3e93cf;
+}
+.hij77{
+	width: 100%;
+	height: 83px;
+	float: left;
+	margin-top: 20%;
+	background: #3e93cf;
+}
+.hijita7{
+	width: 25%;
+	height: 83px;
+	float: left;
+	margin-left: 60%;
+	background: #77a1be;
+}
+footer{
+	width: 100%;
+	height: 150px;
+	float: left;
+	background: #b1e6f7;
+}
+.footerbox1{
+	width: 40%;
+	height: 150px;
+	float: left;
+	background: #119cbf;
+}
+.footerbox2{
+	width: 60%;
+	height: 150px;
+	float: left;
+	background: #287285;
+}
+.fbox1{
+	width: 40%;
+	height: 35px;
+	float: left;
+	margin-left: 20%;
+	margin-top: 5%;
+	background: #6cb0c1;
+}
+.fbox2{
+	width: 40%;
+	height: 50px;
+	float: left;
+	margin-left: 20%;
+	background: #4892a4;
+}
+.log1{
+	width: 34%;
+	height: 50px;
+	float: left;
+	background: #14c6c8;
+}
+.log2{
+	width: 33%;
+	height: 50px;
+	float: left;
+	background: #82e9ea;
+}
+.log3{
+	width: 33%;
+	height: 50px;
+	float: left;
+	background: #b2edee;
+}
+.ftbox1{
+	width: 100%;
+	height: 30px;
+	float: left;
+	background: #4ba7d7;
+}
+.ftbox2{
+	width: 100%;
+	height: 30px;
+	float: left;
+	margin-top: 9.50%;
+	background: #43d0e5;
+}
+.b1{
+	width: 10%;
+	height: 30px;
+	float: left;
+	background: #177ae0;
+}
+.b2{
+	width: 15%;
+	height: 30px;
+	float: left;
+	background: #1768bb;
+}
+.b3{
+	width: 25%;
+	height: 30px;
+	float: left;
+	background: #0f4e8d;
+}
+.b4{
+	width: 35%;
+	height: 30px;
+	float: left;
+	background: #43b2e5;
+}
+.b4{
+	width: 35%;
+	height: 30px;
+	float: left;
+	background: #43b2e5;
+}
+.b5{
+	width: 15%;
+	height: 30px;
+	float: left;
+	background: #2887b4;
+}
+.b6{
+	width: 30%;
+	height: 30px;
+	float: left;
+	background: #408ce1;
+}
+.b7{
+	width: 70%;
+	height: 30px;
+	float: left;
+	background: #105aad;
+}
+
