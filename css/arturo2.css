@@ -110,3 +110,21 @@ body{
 	background:#D3EA12;
 	float:left;
 }
+.banner{
+	width: 100%;
+	height:300px;
+	background:#FA1B1B;
+	float:left;
+}
+.hijo1debanner{
+	width: 50%;
+	height:300px;
+	background:#006D7C;
+	float:left;
+}
+.ñieto1{
+	width: 100%;
+	height:100px;
+	background:#B953E8;
+	float:left;
+}
