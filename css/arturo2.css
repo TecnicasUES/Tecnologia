@@ -98,6 +98,13 @@ body{
 	background:#DA4714;
 	float: left;
 }
+#secciona{
+	width:100%;
+	background:#DE3A12;
+	height: 80%;
+	float: left;
+	margin-top: 5%;
+}
 .barrita{
 	width: 100%;
 	height: 5px;
@@ -156,4 +163,34 @@ body{
 	background:#D3EA12;
 	float:left;
 	margin-left: 60%;
+}
+.barritanegra{
+	width: 100%;
+	height: 5px;
+	background:#000000;
+	float:left;
+}
+.seccionb{
+	width:100%;
+	background:#0D355D;
+	height: 160px;
+	float: left;
+}
+.hijo1b{
+	width:55%;
+	background:#3D1FAD;
+	height:30px;
+	float: left;
+}
+.hijo2b{
+	width:55%;
+	background:#8066DE;
+	height:75px;
+	float: left;
+}
+.hijo3b{
+	width:55%;
+	background:#D3EA12;
+	height:55px;
+	float: left;
 }
