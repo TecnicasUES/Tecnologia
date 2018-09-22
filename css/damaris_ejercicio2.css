@@ -35,97 +35,94 @@ body{
 	width: 39%;
 	float: left;
 	height: 40px;
-	background: #fff;
+	background: #c67068;
 }
 
 
 .telefono{
-	width: 2%;
+	width: 9%;
 	float: left;
 	background: #e89ec1;
-	height: 30px;
-	margin left:60%;
+	height: 40px;
 }
 
 
 .numero{
-	width: 10%;
+	width: 40%;
 	float: left;
-	height: 30px;
+	height: 40px;
 	background: #b26d6d;
-	margin left: 1%;
 }
 
 .compañeros{
-	width: 8%;
+	width: 27%;
 	float: left;
-	height: 30px;
-	background: #842c2c;
-	margin left: 1%;
+	height: 40px;
+	background: #e11402;
 }
 
 .entrar{
-	width: 5%;
+	width: 20%;
 	float: left;
-	height: 30px;
-	background: #bf4545;
-	margin left: 1%;
+	height: 40px;
+	background: #6f504d;
 }
 
 .menu2{
 	width: 100%;
 	float: left;
-	height: 60px;
+	height: 75px;
 	background: #842c2c;
 }
 
-.home{
-	width: 3%;
+
+
+.logo{
+	width: 15%;
 	float: left;
-	height: 60px;
+	height: 75px;
 	background: #842c2c;
-	margin left: 50%;
+	margin left: 3%;
+}
+
+
+.home{
+	width: 6.5%;
+	float: left;
+	height: 75px;
+	background: #842c2c;
+	margin left: 3%;
 }
 
 .aboutus{
-	width: 5%;
+	width: 8.5%;
 	float: left;
-	height: 60px;
+	height: 75px;
 	background: #998041;
-	margin left: 1%;
 }
 
 .prodservic{
-	width: 10%;
+	width: 15%;
 	float: left;
-	height: 60px;
+	height: 75px;
 	background: #cfbb80;
-	margin-left: 1%;
 }
 
 .oilexperience{
-	width: 15%;
+	width: 18%;
 	float: left;
-	height: 60px;
+	height: 75px;
 	background: #998041;
-	margin-left: 1%;
 }
 
 .contact{
-	width: 7%;
-	float: left;
-	height: 60px;
-	background: #bf4545;
-	margin-left: 1%;
-}
-
-.log{
 	width: 9%;
 	float: left;
-	height: 60px;
+	height: 75px;
 	background: #bf4545;
-	margin-left: 5%;
 }
+
+
 
 .cintio1{
 	width: 100%;
@@ -139,72 +136,72 @@ body{
 	width: 100%;
 	float: left;
 	height: 10px;
-	background: #bf4545;
+	background: #fca9a2;
 	float left;
 }
 
-.g6{
-	width: 5%;
-	float: left;
-	height: 90px;
-	background: #bf4545;
-	margin-left: 3%;
-}
 
-.g7{
-	width: 5%;
-	float: left;
-	height: 90px;
-	background: #bf4545;
-	margin-left: 3%;
-}
-
-.g8{
-	width: 5%;
-	float: left;
-	height: 90px;
-	background: #bf4545;
-	margin-left: 3%;
-}
-
-.g9{
+.carr{
 	width: 100%;
-	float: left;
-	height: 5px;
-	background: #842c2c;
-	margin-left: 0%;
+	float:left;
+	height: 425px;
+	background: #7d514d;
 }
 
-.h{
-	width: 30%;
-	float: left;
-	height: 400px;
-	background: #998041;
-	margin-left: 8%;
+.carr2{
+	width: 42%;
+	float:left;
+	margin-top:130px;
+	margin-left:3%;
+	margin-bottom:30px;
+	height: 275px;
+	background: #be4f45;
 }
 
-.h1{
-	width: 30%;
-	float: left;
-	height: 60px;
-	background: #bf4545;
-	margin-left: 8%;
-	margin-top: 10%;
+.ourservices{
+	width: 100%;
+	float:left;
+	height: 55px;
+	background: #701810;
 }
 
-.h2{
-	width: 80%;
-	float: under;
-	height: 240px;
-	background: #bf4545;
-	margin-left: 8%;
-	margin-top: 30%;
+.no{
+	width: 25%;
+	float:left;
+	margin-left: 5%;
+	height: 45px;
+	margin-top: 5px;
+	background: #fb7b6f;
 }
 
-.i{
-	width: 30%;
-	float: left;
-	height: 500px;
-	background: #998041;
+
+.text1{
+	width: 100%;
+	float:left;
+	height: 165px;
+	background: #4a4140;
+}
+
+.tex2_0{
+	width: 90%;
+	float:left;
 	margin-left: 3%;
+	height: 155px;
+	margin-top: 5px;
+	background: #646f3c;
+}
+
+.form1{
+	width: 100%;
+	float:left;
+	height: 40px;
+	background: #B1DBD5;
+}
+
+.form2{
+	width: 15.5%;
+	float:left;
+	margin-left: 80%;
+	height: 40px;
+	background: #FFFF;
 }
