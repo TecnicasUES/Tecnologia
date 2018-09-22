@@ -513,11 +513,54 @@ body{
 	margin-left: 7%;
 }
 
-
-
 .k2{
 	width: 30%;
 	background: #f58554;
 	height: 450px;
 	float: left;
 }
+
+
+.kkx{
+	width: 100%;
+	background: #0cff3a;
+	height: 160px;
+	float: left;
+}
+
+
+
+.xw{
+	width: 20%;
+	background: #05022d;
+	height: 50px;
+	float: left;
+	margin-left: 10%;
+	margin-top:85px;
+}
+
+.xw1{
+	width: 50%;
+	background: #05022d;
+	height: 50px;
+	float: left;
+	margin-left: 10%;
+	margin-top:85px;
+}
+
+.kkx1{
+	width: 100%;
+	background: #022d0a;
+	height: 290px;
+	float: left;
+}
+
+.kkx2{
+	width: 30%;
+	background: #05022d;
+	height: 50px;
+	float: left;
+	margin-left: 60%;
+	margin-top:40px;
+}
+
