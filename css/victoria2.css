@@ -17,7 +17,6 @@ header {
 	border-bottom: 4px solid #6090c6;
 	height: 62px;
 }
-
 .infobar {
     background-color: #000000;
 	width: 100%;
@@ -39,18 +38,21 @@ header {
 	float: left;
 
 }
+
 .phone-number{
 	width: 40%;
 	height: 18px;
 	background-color: #11aa00;
 	float: left;
 }
+
 .partners {
 	width: 26%;
 	height: 18px;
 	background-color: #48cc98;
 	float: left;
 }
+
 .login {
 	background-color: #48ff33;
 	float: left;
@@ -65,7 +67,7 @@ header {
 }
 
 .image {
-    background-color: #ccc;
+    background-color: #ff5e3a;
     border-color: #007;
 	float: left;
 	margin: 0.21% 2%;
@@ -118,29 +120,6 @@ header {
 .item-menu:nth-child(odd) {
 	background-color: #8fc36a;
 }
-/* No borrar. Se usará más adelante */
-/*.navegation{
-	display: flex;
-	flex-direction: row;
-	height: 40px;
-	justify-content: flex-end;
-}
-.image {
-	background-color: #106025;
-	flex: 1;
-	width: 16%;
-}
-ul {
-    background-color: #5090c9;
-    display: flex;
-    flex: 4;
-    list-style-type: none;
-    justify-content: flex-end;
-}
-.item-menu {
-    align-content: center;
-	border-left: 1px solid #903080;
-}*/
 
 section {
 	border-top: 4px solid #103080;
@@ -328,3 +307,266 @@ section {
 	top: 68px;
 	width: 320px;
 }
+
+/* Sección del footer */
+footer {
+	background-color: #f5d9d9;
+	height: 450px;
+	width: 100%;
+}
+
+.contactform {
+	background-color: #645c84;
+	height: 310px;
+	overflow: hidden;
+	width: 100%;
+}
+
+.labeltitle {
+	/*border: 2px solid #b6b9b3;*/
+	height: 14%;
+	width: 100%;
+}
+
+.formtitle {
+	background-color: #427996;
+	height: 28px;
+	position: relative;
+	left: 50px;
+	top: 8px;
+	width: 20%;
+}
+
+.formleft {
+    /*border: 2px solid #f5d9d9;*/
+    float: left;
+    height: 86%;
+    width: 60%;
+}
+
+.formright {
+    /*border: 2px solid #f5d9d9;*/
+    float: right;
+    height: 86%;
+    width: 40%;
+}
+
+/* Campo del nombre */
+.contactname {
+	border: 1px solid #b6b9b3;
+	position: relative;
+	height: 14%;
+	top: 20px;
+	width: 100%;
+}
+
+.labelname {
+    background-color: #427996;
+    float: left;
+    height: 28px;
+    margin-left: 50px;
+    margin-top: 4px;
+    width: 20%;
+}
+
+.fieldname {
+    background-color: #427996;
+    float: left;
+    height: 28px;
+    margin-left: 50px;
+    margin-top: 4px;
+    width: 62%;
+}
+
+/* Campo del email */
+.contactemail {
+    border: 1px solid #b6b9b3;
+	position: relative;
+	height: 14%;
+	top: 36px;
+	width: 100%;
+}
+
+.labelemail {
+	background-color: #427996;
+    float: left;
+    height: 28px;
+    margin-left: 50px;
+    margin-top: 4px;
+    width: 20%;
+}
+
+.fieldemail {
+	background-color: #427996;
+    float: left;
+    height: 28px;
+    margin-left: 50px;
+    margin-top: 4px;
+    width: 62%;
+}
+
+/* Campo del mensaje */
+.contactmsg {
+	border: 1px solid #b6b9b3;
+	position: relative;
+	height: 48%;
+	top: 52px;
+	width: 100%;
+}
+
+.labelmsg {
+	background-color: #427996;
+    float: left;
+    height: 28px;
+    margin-left: 50px;
+    margin-top: 4px;
+    width: 20%;
+}
+
+.fieldmsg {
+	background-color: #427996;
+    float: left;
+    height: 118px;
+    margin-left: 50px;
+    margin-top: 4px;
+    width: 62%;
+}
+
+/* Campo del teléfono */
+.contactphone {
+	border: 1px solid #b6b9b3;
+	position: relative;
+	height: 14%;
+	top: 20px;
+	width: 100%;
+}
+
+.labelphone {
+    background-color: #427996;
+    float: left;
+    height: 28px;
+    margin-left: 50px;
+    margin-top: 4px;
+    width: 20%;
+}
+
+.fieldphone {
+	background-color: #427996;
+	float: left;
+	height: 28px;
+    margin-left: 50px;
+    margin-top: 4px;
+    width: 52%;
+}
+
+.contactsend {
+	border: 1px solid #b6b9b3;
+	position: relative;
+	height: 68%;
+	top: 36px;
+	width: 100%;
+}
+
+.fieldsend {
+	background-color: #ffa96a;
+	position: relative;
+	left: 72%;
+	height: 32px;
+	top: 20px;
+	width: 20%;
+}
+
+/* Barra de navegación del footer */
+.navfooter {
+	/*border: 1px solid #645c84;
+	background-color: #fff;*/
+	height: 60px;
+	width: 100%;	
+}
+
+.imglogo {
+    background-color: #685454;
+	float: left;
+	margin: 0.5% 4%;
+	height: 32px;
+	width: 12.5%;	
+}
+
+.navfooter ul {
+	float: right;
+	height: 40px;
+	margin-top: 0.2%;
+	width: 75%;
+}
+
+.item-menu-foot {
+	float: right;
+	list-style-type: none;
+	margin-right: 2.5%;
+}
+
+.item-menu-foot:first-child {
+    height: 40px;
+    width: 8%;
+}
+
+.item-menu-foot:nth-child(2) {
+    height: 40px;
+    width: 13%;
+}
+
+.item-menu-foot:nth-child(3) {
+    height: 40px;
+    width: 18%;
+}
+
+.item-menu-foot:nth-child(4) {
+    height: 40px;
+    width: 20%;
+}
+
+.item-menu-foot:last-child {
+    height: 40px;
+    overflow: hidden;
+    width: 9%;
+}
+
+.item-menu-foot:nth-child(even) {
+	background-color: #5f1854;
+}
+
+.item-menu-foot:nth-child(odd) {
+	background-color: #3b0944;
+}
+
+/* Barra de redes sociales */
+.social {
+    height: 40px;
+    margin-left: 5%;
+    width: 95%;
+}
+
+.facebook,
+.youtube,
+.twitter {
+	background-color: #685454;
+	border-radius: 50%;
+	height: 32px;
+	float: left;
+	list-style-type: none;
+	margin-left: 0.8%;
+	width: 32px;
+}
+
+.copyright {
+	height: 32px;
+	width: 100%;
+}
+
+.txtcopy {
+	background-color: #4797b1;
+	height: 32px;
+	margin: 0 auto;
+	width: 12.5%;
+}
+
