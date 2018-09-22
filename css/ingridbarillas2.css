@@ -152,6 +152,30 @@ comienzo del siguiente*/
 	margin-top: 230px;
 	margin-left: 35px;
 }
+.tit{
+	width: 30%;
+	background: #c0bfbd;
+	height: 25px;
+	float: top;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.tex{
+	width: 80%;
+	background: #b4aeae;
+	height: 125px;
+	float: top;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.more{
+	width: 15%;
+	background: #61b9d4;
+	height: 25px;
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
 .lineanegra{
 	width: 100%;
 	background: black;
