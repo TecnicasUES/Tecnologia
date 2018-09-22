@@ -745,6 +745,14 @@ body{
 	background: #330f02;
 }
 
+.imalogo{
+	width: 40%;
+	height: 90px;
+	float: left;
+	background: #ff6924;
+	margin-left: 10;
+}
+
 .logi1{
 	width: 30%;
 	height: 90px;
