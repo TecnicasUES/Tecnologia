@@ -80,15 +80,15 @@ body{
 	background: #5d88aa;
 	height: 70px;
 	float: left;
-	margin-left: 40px;
+	margin-left: 5%;
 	margin-top: 8px;
 }
 .home{
-	width: 6%;
+	width: 8%;
 	background: #0680a9;
 	height: 40px;
 	float: left;
-	margin-left: 275px;
+	margin-left: 20%;
 	margin-top: 24px;
 }
 .about{
@@ -96,7 +96,7 @@ body{
 	background: #0680a9;
 	height: 40px;
 	float: left;
-	margin-left: 12px;
+	margin-left: 1%;
 	margin-top: 24px;
 }
 .prod{
@@ -104,15 +104,15 @@ body{
 	background: #0680a9;
 	height: 40px;
 	float: left;
-	margin-left: 12px;
+	margin-left: 1%;
 	margin-top: 24px;
 }
 .the{
-	width: 17%;
+	width: 15%;
 	background: #0680a9;
 	height: 40px;
 	float: left;
-	margin-left: 18px;
+	margin-left: 2%;
 	margin-top: 24px;
 }
 .contact{
@@ -120,9 +120,11 @@ body{
 	background: #0680a9;
 	height: 40px;
 	float: left;
-	margin-left: 18px;
+	margin-left: 2%;
 	margin-top: 24px;
 }
+/*fin de cuadro*/
+
 .celeste{
 	width: 100%;
 	background: #02b3f7;
@@ -176,18 +178,48 @@ comienzo del siguiente*/
 	margin-top: 20px;
 	margin-right: 20px;
 }
+/*fin de cuadro1*/
+
 .lineanegra{
 	width: 100%;
 	background: black;
 	height: 5px;
 	float: bottom;
 }
+/*comeinzacuadro2*/
+
 .cuadro2{
 	width: 100%;
 	background: #0063c0;
 	height: 250px;
 	float: bottom;
 }
+.tit2{
+	width: 30%;
+	background: #c0bfbd;
+	height: 25px;
+	float: top;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.tex2{
+	width: 80%;
+	background: #b4aeae;
+	height: 125px;
+	float: top;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+.more2{
+	width: 15%;
+	background: #61b9d4;
+	height: 25px;
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+/*findecuadro2*/
 .cuadro3{
 	width: 100%;
 	background: #f6f2f2;
