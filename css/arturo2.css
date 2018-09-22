@@ -7,3 +7,45 @@ body{
 	font-family: arial;
 	margin: 0;
 }
+#areamenu1{
+	width: 100%;
+	background:#D3EA12;
+	height: 50px;
+	float: left;
+}
+.hijo1{
+	width: 60%;
+	height: 50px;
+	background: #629398;
+	float: left;
+}
+.hijo2{
+	width: 3%;
+	height: 50px;
+	background:#62C00A;
+	float: left;
+}
+.hijo3{
+	width: 10%;
+	height: 50px;
+	background:#D8A54B;
+	float: left;
+}
+.hijo4{
+	width: 7%;
+	height: 50px;
+	background:#1D69CA;
+	float: left;
+}
+.hijo5{
+	width: 8%;
+	height: 50px;
+	background:#399959;
+	float: left;
+}
+.hijo6{
+	width: 2%;
+	height: 50px;
+	background:#0D355D  ;
+	float: left;
+}
