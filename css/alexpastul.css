@@ -440,10 +440,10 @@ header{
 	width: 100%;
 	height: 200px;
 	float: left;
-	background: #254f5b;
+	background: #fffc33;
 }
 .piehijo1{
-	width: 30%;
+	width: 29.5%;
 	height: 200px;
 	float: left;
 	background: #294c9d;
@@ -452,6 +452,7 @@ header{
 	width: 70%;
 	height: 200;
 	float: left;
+	margin-left: 0.5%;
 	background: #294c9d;
 }
 .nietopie1{
@@ -1260,6 +1261,13 @@ header{
 	float: left;
 	margin-top: 60px;
 	background: #46ABE1;
+}
+.fot231{
+	width: 19%;
+	height: 45px;
+	float: left;
+	margin-left: 12%;
+	background: #83BB26;
 }
 
 
