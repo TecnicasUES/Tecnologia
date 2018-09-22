@@ -157,3 +157,105 @@ body{
 	background: #7a0f00;
 
 }
+
+.a1name{
+	width: 30%;
+	height: 50px;
+	float: left;
+	background: #f72305;
+	margin-left: 6%;
+}
+
+.a2texto{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #eb8c00;
+	
+}
+
+.a3{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #f3480d;
+}
+
+.a3pie{
+	width: 20%;
+	height: 50px;
+	float: left;
+	background: #978e43;
+	margin-left: 66%;
+}
+
+.paralax2{
+	width: 50%;
+	background: #fe9c53;
+	height: 400px;
+	float: left;
+}
+
+.seccion2{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: #c45908;
+}
+.larguito3{
+	width: 100%;
+	background: #7a0f00;
+	height: 10px;
+	float: left;
+}
+
+.box{
+	width: 60%;
+	background: #f02d35;
+	height: 290px;
+	float: left;
+}
+
+.box1{
+	width: 100%;
+	background: #cd3636;
+	height: 60px;
+	float: left;
+}
+
+.box1titulo{
+	width: 35%;
+	background: #ff0303;
+	height: 60px;
+	float: left;
+	margin-left: 5%;
+}
+
+.box2{
+	width: 100%;
+	background: #ef6910;
+	height: 170px;
+	float: left;
+}
+
+.box3{
+	width: 100%;
+	background: #eb0c15;
+	height: 60px;
+	float: left;
+}
+
+.box3pie{
+	width: 15%;
+	background: #fe9c53;
+	height: 60px;
+	float: left;
+	margin-left: 75%;
+}
+
+.box4{
+	width: 40%;
+	background: #978e43;
+	height: 290px;
+	float: left;
+}
