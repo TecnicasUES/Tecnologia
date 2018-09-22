@@ -342,12 +342,28 @@ body{
 	margin-top: 10px;
 }
 
+.h11{
+	width: 20%;
+	background: #164307;
+	height: 25px;
+	float: left;
+	margin-left: 15%;
+}
+
 .h2{
 	width: 100%;
 	background: #f83b8b;
 	height: 15px;
 	float: left;
 	margin-top: 10px;
+}
+
+.h22{
+	width: 15%;
+	background: #433307;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
 }
 
 .h3{
@@ -357,12 +373,30 @@ body{
 	float: left;
 }
 
+.h33{
+	width: 18%;
+	background: #073343;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
+}
+
+
 .h4{
 	width: 100%;
 	background: #40e633;
 	height: 15px;
 	float: left;
 }
+
+.h44{
+	width: 21%;
+	background: #951870;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
+}
+
 
 .h5{
 	width: 100%;
@@ -371,11 +405,28 @@ body{
 	float: left;
 }
 
+.h55{
+	width: 32%;
+	background: #951818;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
+}
+
+
 .h6{
 	width: 100%;
 	background: #c85139;
 	height: 15px;
 	float: left;
+}
+
+.h66{
+	width: 28%;
+	background: #ee4e4e;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
 }
 
 .h7{
@@ -385,11 +436,27 @@ body{
 	float: left;
 }
 
+.h77{
+	width: 50%;
+	background: #055c16;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
+}
+
 .h8{
 	width: 100%;
 	background: #9b82e4;
 	height: 15px;
 	float: left;
+}
+
+.h88{
+	width: 53%;
+	background: #3e0733;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
 }
 
 .h9{
@@ -399,11 +466,27 @@ body{
 	float: left;
 }
 
+.h99{
+	width: 56%;
+	background: #91960e;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
+}
+
 .h10{
 	width: 100%;
 	background: #13053a;
 	height: 15px;
 	float: left;
+}
+
+.h100{
+	width: 54%;
+	background: #b40190;
+	height: 15px;
+	float: left;
+	margin-left: 15%;
 }
 
 .hh{
@@ -421,6 +504,14 @@ body{
 	margin-top: 45px;
 }
 
+.hj{
+	width: 30%;
+	background: #d1a2c8;
+	height: 15px;
+	float: left;
+	margin-left: 10%;
+}
+
 .hh2{
 	width: 100%;
 	background: #4a023c;
@@ -428,12 +519,30 @@ body{
 	float: left;
 }
 
+.hj2{
+	width: 30%;
+	background: #cacdf0;
+	height: 15px;
+	float: left;
+	margin-left: 10%;
+}
+
+
 .hh3{
 	width: 100%;
 	background: #172ed8;
 	height: 15px;
 	float: left;
 }
+
+.hj3{
+	width: 27%;
+	background: #caf0f0;
+	height: 15px;
+	float: left;
+	margin-left: 10%;
+}
+
 
 .k{
 	width: 100%;
