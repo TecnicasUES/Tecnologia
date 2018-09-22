@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>moises guzman</title>
+	<link rel="stylesheet" href="../../css/ejercicio2moisesg.css">
+</head>
+<body id="bod">
+	<header id="menus">
+		<div class="menu1">
+			<div class="men1a"></div>
+			<div class="men2a">
+				<div class="pho"></div>
+				<div class="phone"></div>
+				<div class="part"></div>
+				<div class="sig"></div>
+			</div>
+		</div>
+
+				<div class="menu2">
+					<div class="log"></div>
+			<div class="hom"></div>
+			<div class="ab"></div>
+			<div class="ps"></div>
+			<div class="exp"></div>
+			<div class="con"></div>
+
+				</div>
+			
+		
+	</header>
+	<section>
+		<article>
+			<div class="part1"></div>
+			<div class="linea1"> </div>
+		</article>
+		<article id="cafes">
+			<div class="cafe1">
+				<div class="imagen1"></div>
+				<div class="titulo1"></div>
+				<div class="texto1"></div>
+				<div class="vermas1">
+					<div class="botonmas"></div>
+				</div>
+			</div>
+			<div class="cafe1">
+				<div class="imagen1"></div>
+				<div class="titulo1"></div>
+				<div class="texto1"></div>
+				<div class="vermas1">
+					<div class="botonmas"></div>
+				</div>
+			</div>
+			<div class="cafe1">
+				<div class="imagen1"></div>
+				<div class="titulo1"></div>
+				<div class="texto1"></div>
+				<div class="vermas1">
+					<div class="botonmas"></div>
+				</div>
+			</div>
+		</article>
+        <article id="mempleo">
+        	<div class="mempleo1"></div>
+        	<div class="mempleo2">
+        		<div class="m21">
+        			<div class="m211"></div>
+        			<div class="m212"></div>
+        		</div>
+        		<div class="m22"></div>
+        		<div class="m23">
+        			<div class="boton2"></div>
+        		</div>
+        	</div>
+        </article>
+
+        <article id="contactos">
+        	<div class="son1">
+        		<div class="mini1"></div>
+        		<div class="mini2">
+        			<div class="mi1">
+        				<div class="m1"></div>
+        				<div class="m2"></div>
+        				<div class="m3"></div>
+        			</div>
+        			<div class="mi2">
+        				<div class="n1"></div>
+        				<div class="n2"></div>
+        				<div class="n3"></div>
+        			</div>
+        		</div>
+        		<div class="mini3"></div>
+        	</div>
+        	<div class="son2">
+        		<div class="s1"></div>
+        		<div class="s2">
+        			<div class="bt"></div>
+        		</div>
+        	</div>
+        	
+        	 </article>
+
+
+	</section>
+
+	<footer id="foot">
+		<div class="foot1"></div>
+		<div class ="foot2"></div>
+		<div class="foot3">
+			<div class="foot3a">
+				<div class="foot3am"></div>
+				<div class="foot3an"></div>
+				<div class="foot3an"></div>
+				<div class="foot3an"></div>
+				
+			</div>
+			<div class="foot3b"></div>
+		</div>
+
+
+</body>
+</html>
