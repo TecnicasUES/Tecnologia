@@ -13,7 +13,6 @@ body {
     margin:0;
     width: 100%;
 }
-
 header {
 	border-bottom: 4px solid #6090c6;
 	height: 62px;
@@ -119,6 +118,29 @@ header {
 .item-menu:nth-child(odd) {
 	background-color: #8fc36a;
 }
+/* No borrar. Se usará más adelante */
+/*.navegation{
+	display: flex;
+	flex-direction: row;
+	height: 40px;
+	justify-content: flex-end;
+}
+.image {
+	background-color: #106025;
+	flex: 1;
+	width: 16%;
+}
+ul {
+    background-color: #5090c9;
+    display: flex;
+    flex: 4;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+.item-menu {
+    align-content: center;
+	border-left: 1px solid #903080;
+}*/
 
 section {
 	border-top: 4px solid #103080;
@@ -249,4 +271,60 @@ section {
 	position: relative;
 	top: -36px;
 	width: 18%;
+}
+
+/* Estilos para la sección about us */
+.bottom-content {
+	/*background-color: #ffa96a;*/
+	height: 220px;
+	width: 100%;
+}
+
+.imageabout {
+    background-color: #a6a6a6;
+	float: left;
+	height: 220px;
+	width: 28%;
+}
+
+.aboutblue {
+	background-color: #ffa96a;
+	float: right;
+	height: 220px;
+	width: 72%;
+}
+
+.aboutleft {
+	float: left;
+}
+
+.abouttitle {
+    background-color: #bee4d2;
+    left: 60px;
+    height: 32px;
+    position: relative;
+    top: 20px;
+    width: 320px;
+}
+
+.aboutdesc {
+	background-color: #bee4d2;
+	left: 60px;
+	height: 130px;
+	position: relative;
+	top: 36px;
+	width: 320px;
+}
+
+.aboutright {
+	float: right;
+}
+
+.abouttext {
+	background-color: #bee4d2;
+	height: 110px;
+	left: -150px;
+	position: relative;
+	top: 68px;
+	width: 320px;
 }
