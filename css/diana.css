@@ -796,3 +796,120 @@ body {
 	margin-right:5%;
 	margin-top:65px;
 }
+#banner2{
+	width: 100%;
+	background:#CDB0DF;
+	height:275px;
+	float: left;
+}
+.bim{
+	width: 30%;
+	background:#AA7FC5;
+	height:275px;
+	float: left;
+}
+.btext{
+	width: 35%;
+	background:#7FBCC5;
+	height:275px;
+	float: left;
+}
+.a1{
+	width: 100%;
+	background:#7F99C5;
+	height:20%;
+	float: left;
+	margin-top:1%;
+}
+.a2{
+	width: 100%;
+	background:#708AB7;
+	height:8%;
+	float: left;
+	margin-top:3%;
+}
+.a3{
+	width: 100%;
+	background:#345896;
+	height:8%;
+	float: left;
+}
+.a4{
+	width: 100%;
+	background:#93F0CC;
+	height:8%;
+	float: left;
+}
+.a5{
+	width: 100%;
+	background:#93F09C;
+	height:8%;
+	float: left;
+}
+.a6{
+	width: 100%;
+	background:#C8F093;
+	height:8%;
+	float: left;
+}
+.a7{
+	width: 100%;
+	background:#66C594;
+	height:8%;
+	float: left;
+}
+.a8{
+	width: 100%;
+	background:#9CACF0;
+	height:8%;
+	float: left;
+}
+.a9{
+	width: 100%;
+	background:#D99CF0;
+	height:8%;
+	float: left;
+}
+.a10{
+	width: 100%;
+	background:#F09CB8;
+	height:6%;
+	float: left;
+}
+.btt{
+	width: 35%;
+	background:#D98DA6;
+	height:275px;
+	float: left;
+}
+.bt1{
+	width: 100%;
+	background:#7F99C5;
+	height:9%;
+	float: left;
+	margin-top:20%;
+}
+.bt2{
+	width: 100%;
+	background:#F09CB8;
+	height:9%;
+	float: left;
+}
+.bt3{
+	width: 100%;
+	background:#8DD9B0;
+	height:9%;
+	float: left;
+}
+#contactanos{
+	width: 100%;
+	background:#8DB2D9;
+	height:475px;
+	float: left;
+}
+#pie{
+	width: 100%;
+	background:#CBF6B4;
+	height:225px;
+	float: left;
+}
