@@ -244,7 +244,15 @@ body{
 	margin-left: 25%
 }
 
+.seccion3{
+	width: 100%;
+	float: left;
+	height: 500px;
+	background: #ff623f;
 
+}
+
+<<<<<<< HEAD
 .l{
 	width: 100%;
 	float: left;
@@ -324,8 +332,51 @@ body{
 	float: left;
 	height: 500px;
 	background:#64615a;
+
+.petrolito{
+	width: 50%;
+	float: left;
+	height: 500px;
+	background: #bef2f9;
 }
 
+
+
+.l{
+	width: 50%;
+	float: left;
+	height: 500px;
+	background: #b0fc42;
+}
+
+.l1{
+	width: 100%;
+	float: left;
+	height: 90px;
+	background: #6c0c23;
+	margin-top: 90px;
+}
+
+.l1hijo{
+	width: 50%;
+	float:right;
+	height: 90px;
+	background: #ffe867;
+}
+
+.l2{
+ 	width: 100%;
+ 	float: left;
+ 	height: 90px;
+ 	background: #ff4959;
+}
+
+.l3{
+ 	width: 100%;
+ 	float: left;
+ 	height: 90px;
+ 	background: #5cdae2;
+}
 
 .n1{
 	width: 40%;
@@ -440,3 +491,72 @@ body{
 }
 
 
+.l4{
+	width: 30%;
+ 	float: left;
+ 	height: 90px;
+ 	background: #17b6ff;
+ 	margin-left: 40%;
+}
+
+.pinchemecosto{
+	width: 100%;
+	float: left;
+	height: 850px;
+	background: #ff25a0;
+}
+
+.pinchemecostojr{
+	width: 60%;
+ 	float: left;
+ 	height: 850px;
+ 	background: #3f372d;
+}
+
+.gemelito{
+	width: 40%;
+ 	float: right;
+ 	height: 850px;
+ 	background: #8aedf1;
+}
+
+.jr1{
+	width: 100%;
+ 	float: left;
+ 	height: 170px;
+ 	background: #ff6737;
+ 
+}
+
+.jr2{
+	width: 100%;
+ 	float: left;
+ 	height: 585px;
+ 	background: #661b03;
+ 
+}
+
+.jr3{
+	width: 39.5%;
+ 	float: left;
+ 	height: 585px;
+ 	background: #b0fc42;
+ 
+}
+
+.jr4{
+	width: 55%;
+ 	float: left;
+ 	height: 585px;
+ 	background: #6c0c23;
+ 	margin-left: 5%;
+}
+
+
+.jr31{
+	width: 99%;
+ 	float: left;
+ 	height: 160px;
+ 	background: #00b7ef;
+ 	margin-left: 1%
+}
