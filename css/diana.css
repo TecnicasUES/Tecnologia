@@ -907,9 +907,33 @@ body {
 	height:475px;
 	float: left;
 }
+.p1{
+	width: 60%;
+	background:#C6CFF5;
+	height:475px;
+	float: left;
+}
+.p2{
+	width: 40%;
+	background:#849CFD;
+	height:475px;
+	float: left;
+}
 #pie{
 	width: 100%;
 	background:#CBF6B4;
+	height:225px;
+	float: left;
+}
+.pie1{
+	width: 35%;
+	background:#F9D8C8;
+	height:225px;
+	float: left;
+}
+.pie2{
+	width: 65%;
+	background:#E7817B;
 	height:225px;
 	float: left;
 }
