@@ -227,40 +227,31 @@ body{
 .c1{
 	float: left;
 	width: 100%;
-	height:70px;
+	height:75px;
 	background: #141d1c;
 }
 
 .c2{
 	float: left;
 	width: 100%;
-	height:40px;
+	height:225px;
 	background: #a5ab00;
 }
 
 .c3{
 	float: left;
 	width: 100%;
-	height:175px;
+	height:75px;
 	background: #fc8012;
 }
 
 .c4{
 	float: left;
 	width: 100%;
-	height:75px;
+	height:225px;
 	background: #880abd;
 	
 }
-
-.c41{
-	width: 34%;
-	float: left;
-	height: 75px;
-	background: #06b575;
-	margin-left: 32%;
-}
-
 .celeste2{
 	float: left;
 	width: 25%;
@@ -272,37 +263,28 @@ body{
 .cc1{
 	float: left;
 	width: 100%;
-	height:70px;
+	height:75px;
 	background: #141d1c;
 }
 
 .cc2{
 	float: left;
 	width: 100%;
-	height:40px;
+	height:225px;
 	background: #a5ab00;
 }
 
 .cc3{
 	float: left;
 	width: 100%;
-	height:175px;
+	height:75px;
 	background: #fc8012;
 }
-
 .cc4{
 	float: left;
 	width: 100%;
-	height:75px;
+	height:225px;
 	background: #880abd;
-}
-
-.cc41{
-	width: 34%;
-	float: left;
-	height: 75px;
-	background: #06b575;
-	margin-left: 32%;
 }
 
 .celeste3{
@@ -316,38 +298,28 @@ body{
 .ccc1{
 	float: left;
 	width: 100%;
-	height:70px;
+	height:75px;
 	background: #141d1c;
 }
 
 .ccc2{
 	float: left;
 	width: 100%;
-	height:40px;
+	height:225px;
 	background: #a5ab00;
 }
 
 .ccc3{
 	float: left;
 	width: 100%;
-	height:175px;
+	height:75px;
 	background: #fc8012;
 }
 
 .ccc4{
 	float: left;
 	width: 100%;
-	height:75px;
+	height:225px;
 	background: #880abd;
 }
-
-.ccc41{
-	float: left;
-    width: 34%;
-    height: 75px;
-	background: #06b575;
-	margin-left: 32%;
-}
-
-
 
