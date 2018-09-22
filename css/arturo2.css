@@ -311,3 +311,92 @@ body{
 	background:#5976F8;
 	float:left;
 }
+.hijo1e{
+	width:100%;
+	background:#9B5B17;
+	height:80px;
+	float: left;
+}
+.hijo2e{
+	width:100%;
+	background:#176D9B;
+	height:370px;
+	float: left;
+}
+.nieto1e{
+	width:60%;
+	background:#CDFF00;
+	height:370px;
+	float: left;
+}
+.nieto2e{
+	width:80%;
+	background:#1300FF;
+	height:370px;
+	float: left;
+	margin-left: 12%;
+}
+.nieto3e{
+	width:35%;
+	background:#00FFE8;
+	height:370px;
+	float: left;
+}
+.nieto4e{
+	width:40%;
+	background:#FF83B4;
+	height:60px;
+	float: left;
+}
+.nieto5e{
+	width:40%;
+	background:#E34785;
+	height:60px;
+	margin-top:40%;
+}
+.nieto6e{
+	width:50%;
+	background:#E347DA;
+	height:60px;
+	margin-top: 10%;
+}
+.nieto7e{
+	width:65%;
+	background:#E347DA;
+	height:370px;
+    float: left;
+}
+.nieto8e{
+	width:100%;
+	background:#0067DC;
+	height:40px;
+    float: left;
+    margin-top: 3%;
+}
+.nieto9e{
+	width:100%;
+	background:#0067DC;
+	height:50px;
+    float: left;
+    margin-top: 10%;
+}
+.nieto10e{
+	width:100%;
+	background:#0067DC;
+	height:150px;
+    float: left;
+    margin-top: 8%;
+}
+.hijo3e{
+	width:40%;
+	background:#08F4FF;
+	height:370px;
+	float: left;
+}
+.nieto11e{
+	width:100px;
+	background:#FF0808;
+	height:70px;
+	float: left;
+	margin-top: 30%;
+}
