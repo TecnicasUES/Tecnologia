@@ -34,8 +34,68 @@ body{
 	height: 150px;
 }
 
-.img_center{
+.img1{
 	margin: auto;
 	display: block;
 	margin-top: 40px;
+	background: url(../img/icon.gif);
+	width: 70px;
+	height: 70px;
+}
+
+.text_3{
+	width: 100%;
+	height: 25px;
+	float: left;
+	margin-top: 30px;
+}
+
+.text_3 >h3{
+	color: white;
+	font-family: tahoma;
+	font-size: 14pt;
+	letter-spacing: 12px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+
+.text_1{
+	width: 100%;
+	float: left;
+	height: 40px;
+}
+
+.text_1 > h1{
+	color: #21384e;
+	font-family: bolt;
+	font-size: 24pt;
+	margin:0;
+	padding:0;
+}
+
+.intro{
+	width: 92%;
+	float: left;
+	height: 150px;
+	padding: 40px 4% 40px 4%;
+	background: white;
+}
+
+.intro > h2{
+	font-weight: bold;
+	text-align: left;
+	color: black;
+	font-size: 21pt;
+	margin: 0;
+	padding: 0;
+}
+
+.intro > p{
+	font-weight: normal;
+	text-align: left;
+	font-size: 12pt;
+	margin:0;
+	padding: 0;
+
 }
