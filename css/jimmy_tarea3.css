@@ -83,3 +83,37 @@ body{
 	margin-right: 17%;
 	text-align: right;
 }
+
+.kw{
+	width: 100%;
+	height: 250px;
+	float: left;
+	
+}
+
+.text_4{
+	width: 92%;
+	float: left;
+	height: 130px;
+	padding: 30px 4% 30px 4%;
+	background: white;
+}
+
+.text_4 > h4{
+	color: black;
+	font-size: 18pt;
+	font-family: arial;
+	font-weight: bold;
+	margin:0;
+	padding: 0;
+}
+
+.text_4 > p{
+	color: black;
+	font-size: 12pt;
+	font-family: arial;
+	font-weight: normal;
+	letter-spacing: 4%;
+	margin:0;
+	padding: 0;
+}
