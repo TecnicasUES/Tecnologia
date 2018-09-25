@@ -87,26 +87,35 @@ body{
 .text_4{
 	width: 92%;
 	float: left;
-	height: 160px;
-	padding: 25px 4% 25px 4%;
+	height: 25px;
+	padding: 10px 4% 10px 4%;
 	background: white;
+	
 }
 
 .text_4 > h4{
 	color: black;
 	font-size: 20pt;
-	font-family: arial;
+	font-family: calibri;
 	font-weight: bold;
 	margin:0;
 	padding: 0;
 }
 
-.text_4 > p{
-	color: gray;
-	font-size: 14pt;
-	font-family: arial;
+.text_5{
+	width: 92%;
+	height: 160px;
+	float: left;
+	background: white;
+	padding: 10px 4% 10px 4%;
+}
+.text_5 > p{
+	color: black;
+	font-size: 13pt;
+	font-family: calibri;
 	font-weight: normal;
 	text-align: left;
+	letter-spacing: 3px;
 	margin:0;
 	padding: 0;
 }
