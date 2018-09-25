@@ -9,7 +9,7 @@ body{
 }
 
 #contenedor{
-	width: 65%;
+	width: 63%;
 	height: auto;
 	margin: auto;
 	display: block;
@@ -60,7 +60,7 @@ body{
 .text_2 > h1{
 	color: #26150b;
 	font-family: arial;
-	font-size: 40pt;
+	font-size: 38pt;
 	letter-spacing: 1px;
 	font-weight: bold;
 	margin:0;
@@ -85,10 +85,10 @@ body{
 }
 
 .text_4{
-	width: 92%;
+	width: 90%;
 	float: left;
 	height: 25px;
-	padding: 10px 4% 10px 4%;
+	padding: 10px 5% 10px 5%;
 	background: white;
 	
 }
@@ -103,11 +103,11 @@ body{
 }
 
 .text_5{
-	width: 92%;
+	width: 90%;
 	height: 160px;
 	float: left;
 	background: white;
-	padding: 10px 4% 10px 4%;
+	padding: 10px 5% 10px 5%;
 }
 .text_5 > p{
 	color: black;
