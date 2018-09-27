@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+body{
+	background: #80c3e1;
+	width: 100%;
+	height: auto; 
+	font-family: arial;
+}
+
+.contenedor{
+	display:block;
+	margin:auto;
+	width:40%
+	height:auto;
+}
+
+header{
+	background:#89f8d0;
+	height:170px;
+	width:100%;
+	float:left;
+
+}
+.cl1{
+	width:30%;
+	height: 170px;
+	float:left;
+}
+
+.cl2{
+	width:70%;
+	height: 170px;
+	float:left;
+}
+.img{
+	background: url('../img/icon.gif');
+	width:70px;
+	height:70px;
+	margin:auto;
+	display:block;
+	margin:top:50px;
+}
+.cl2 > div:firs-child > h3{
+
+}
+
+.cl2 >div:last-child > h1{
+
+}
