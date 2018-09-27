@@ -94,12 +94,12 @@ section > article:first-child > div{
 	margin-bottom:30px;
 }
 .pl3{
-	width: 40%;
+	width: 25%;
 	height:auto;
 	float-left;
 }
 
-.pl2{
+.pl4{
 	width: 65%;
 	height:auto;
 	float-left;
@@ -108,7 +108,24 @@ section > article:first-child > div{
 	background: url('../img/article1.png');
 	width: 115px;
 	height: 115px;
+	float:right;
+	margin-top: 15px;
 }
+.pl4 > div:frist-chlid > p{
+	color: #414141;
+	text-align: left;
+	font-size: 12pt;
+	margin:0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 16pt;
+}
+.pl4 > div:last-child > button{
+	border:none;
+	background: red;
+
+} 
+
 
 
 
