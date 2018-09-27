@@ -16,7 +16,7 @@ body{
 	min-height: 60px;
 }
 header{
-	background: #b4ff97;
+	background: #3d6a07;
 	height: 170px;
 	width: 100%;
 	float: left;
@@ -38,3 +38,15 @@ header{
 	margin: auto;
 	margin-top: 50px;
 	display: block;
+}
+.cl2 div:first-child > h3{
+	color:white;
+	font-size: 18pt;
+	letter-spacing: 12px;
+	text-align: left;
+	font-weight: normal;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-top: 25px;
+}
