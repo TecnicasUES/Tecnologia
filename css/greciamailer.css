@@ -111,9 +111,12 @@ section > article:first-child > div{
 }
 
 .pl4{
-	width: 65%;
+	width: 55%;
+	margin-top: 20px;
 	height: auto;
 	float: left;
+	margin-right: 10%;
+	margin-bottom: 20px;
 }
 
 .img2{
@@ -139,11 +142,12 @@ section > article:first-child > div{
 .pl4 > div:last-child >button{
 	border: none;
 	background: red;
-	height: 35px;
-	width: 25%;
+	height: 45px;
+	width: 45%;
 	float: left;
 	color: white;
 	text-align: center;
 	font-weight: bold;
 	font-size: 12pt;
 }
+
