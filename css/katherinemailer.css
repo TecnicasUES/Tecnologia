@@ -47,3 +47,67 @@ header{
 	display: block;
 
 }
+
+.cl2 > div:first-child > h3{
+	color:white;
+	font-size:18pt;
+	letter-spacing: 12px;
+	text-align: left;
+	font-weight:normal;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-top:25px;
+}
+
+.cl2 > div:last-child > h1{
+	color: #404246;
+	text-align: left;
+	font-size: 26pt;
+	font-weight: bold;
+	font-family:tahoma;
+	padding:0;
+	margin:0;
+
+}
+
+
+article{
+	width:100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 1px solid #c3c3c3;
+}
+
+section > article:first-child > div > h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding:0;
+	margin:0;
+	font-size:24pt;
+
+}
+
+section > article:first-child > div > p{
+	color:   #696c73;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin:0;
+	font-size:12pt;
+
+}
+
+section > article:first-child > div{
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	float-left;
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+} 
+
