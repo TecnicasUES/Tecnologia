@@ -40,5 +40,13 @@ header{
  	margin-top: 30px;
  }
  .cl2 > div:firts-child > h3{
+ 	color: white;
+ 	font-size: 18pt;
+ 	letter-spacing: 12px;
+ 	text-align: left;
+ 	font-weight: normal;
+ 	font-family: calibri;
+ 	margin: 0;
+ 	padding: 0;
 
  }
