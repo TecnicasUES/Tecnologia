@@ -42,3 +42,10 @@ header{
 	display: block;
 	margin-top: 50px;
 }
+.cl2 > div:first-child  > h3{
+	color: white;
+	font-size: 18pt
+}
+
+
+.cl2 > div:last-child  > h1{}
