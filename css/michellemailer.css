@@ -126,8 +126,8 @@ section > article:first-child > div {
 .pl4 > div:last-child > button{
 	border: none;
 	background: red;
-	width: 25%;
-	height: 30px;
+	width: 45%;
+	height: 45px;
 	float: left;
 	color: white;
 	text-align: center;
