@@ -39,7 +39,7 @@ header{
  	display: block;
  	margin-top: 30px;
  }
- .cl2 > div:firts-child > h3{
+ .cl2 > div:first-child > h3{
  	color: white;
  	font-size: 18pt;
  	letter-spacing: 12px;
@@ -48,5 +48,6 @@ header{
  	font-family: calibri;
  	margin: 0;
  	padding: 0;
-
+ 	margin-top: 25px;
  }
+.cl2>
