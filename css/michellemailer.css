@@ -38,4 +38,7 @@ header{
 	display: block;
 	margin-top: 50px;
 }
-.cl2>:first-child>  h3
+.cl2> div:first-child> h3{
+	
+
+}
