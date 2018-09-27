@@ -89,3 +89,42 @@ section > article:first-child > div{
 	margin-bottom: 40px;
 	float: left;
 }
+.cl3{
+	width: 30%;
+	height: auto;
+	float: left;
+}
+.cl4{
+	width: 55%;
+	height: auto;
+	float: left;
+	margin-top: 20px;
+	margin-right: 10%;
+	margin-bottom: 20px
+}
+.imagine2{
+	background: url('../img/article1.png');
+	width: 115px;
+	height: 115px;
+	float: right;
+	margin-top: 15px;
+}
+.cl4 > div:first-child > p{
+	color: #5d636a;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;	
+}
+.cl4 > div:last-child > button{
+	border: none;
+	background: red;
+	width: 45%
+	height: 40px;
+	float: left;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 14pt;
+}
