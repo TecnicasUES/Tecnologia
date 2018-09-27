@@ -36,6 +36,80 @@ header{
 	height: 70px;
 	margin: auto;
 	display: block; 
-	margin-top: 50px
+	margin-top: 50px;
+
+}
+.cl2 > div:first-child > h3{
+	color: white;
+	font-size: 18pt;
+	letter-spacing: 12px;
+	text-align: left;
+	font-weight: normal;
+	font-family: calibri; 
+	margin: 0;
+	padding: 0;
+	margin-top: 25px;
+	
+}
+/*
+.cl2 > div:last-child
+
+.cl2 > div:first-child > article> h3{
+
+}
+.cl2 > div:first-child > article> p{
+
+}
+.cl2 > div:first-child > article:nth(2)-child > p{
+	
+}
+.cl2 > div:first-child > div:last-child > p{
+	
+}
+*/
+
+.cl2 > div:last-child > h1{
+	color: #0C1178;
+	font-size: 25pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: tahoma; 
+	margin: 0;
+	padding: 0;
+	
+}
+
+article{
+	width: 100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 1px solid #c3c3c3;
+}
+
+section > article:first-child > div > h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 24pt;
+}
+section > article:first-child > div > p{
+	color: gray;
+	text-align: left;
+	font-size: 12pt;
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 16pt;
+}
+section > article:first-child > div {
+	width: 92%;
+	margin-left: 4%;
+	float: left;
+	margin-top: 40px;
+	margin-bottom: 40px;
 
 }
