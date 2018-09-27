@@ -71,5 +71,12 @@ margin-top: 25px;
 */
 
 .cl2 > div:last-child > h1{
+	color: #000;
+	text-align: left;
+	font-size: 25pt;
+	font-weight: bold;
+	font-family: tahoma;
+	margin: 0;
+	padding: 0;
 
 }
