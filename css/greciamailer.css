@@ -17,7 +17,7 @@ body{
 }
 
 header{
-	background: #b4ff97;
+	background: #A0E575;
 	height:170px;
 	float: left;
 	width: 100%;
@@ -42,4 +42,28 @@ header{
 	margin: auto;
 	display: block;
 	margin-top: 50px;
+}
+
+.cl2 > div:first-child > h3{
+	color: white;
+	font-size: 14pt;
+	letter-spacing: 12px;
+	text-align: left;
+	font-weight:bold;
+	font-family: calibri;
+	padding: 0;
+	margin: 0;
+	margin-top: 50px;
+
+}
+
+.cl2 > div:last-child> h1{
+	color: #02153B;
+	font-size: 26pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: arial;
+	padding: 0;
+	margin: 0;
+
 }
