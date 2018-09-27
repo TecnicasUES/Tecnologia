@@ -17,7 +17,7 @@ body{
 }
 
 header{
-	background: #b4ff97;
+	background: #87c274;
 	height: 170px;
 	width: 100%;
 	float: left;
@@ -51,13 +51,21 @@ header{
 	font-family: calibri;
 	margin: 0;
 	padding: 0;
+	margin-top: 25px;
 }
-
 
 /* > div:nth(2)-child > h1{
 }*/
 
 .cl2 > div:last-child > h1{
+	color: #17134a;
+	text-align: left;
+	font-size: 26pt;
+	font-weight: bold;
+	font-family: tahoma;
+	padding: 0;
+	margin: 0;
+		
 }
 
 
