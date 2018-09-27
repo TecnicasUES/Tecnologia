@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+body{
+	background: #f6f8f1;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	height: 40%;
+	height: auto;
+	background: white;
+	min-height: 60px;
+}
+head{
+	background: #b4ff97;
+	height: 170px;
+	width: 100%;
+}
+.cl1{
+	width: 30%;
+	height: 1701px;
+	float:left;
+}
+.cl2{
+	width: 70%;
+	height: 170px;
+	float:left;
+}
+.im1{
+	background: url('../img/icon.gif');
+	width: 70px;
+	height: 70px;
+	margin-top: : 50px;
+	display: block;
+
+}
