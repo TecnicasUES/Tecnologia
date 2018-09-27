@@ -14,7 +14,7 @@ body{
 	min-height: 60px;
 }
 header{
-	background: #b4ff97;
+	background: #5C7CA2;
 	height: 170px;
 	width: 100%;
 	float: left;
@@ -37,4 +37,67 @@ header{
 	margin: auto;
 	display: block; 
 	margin-top: 50px;
+}
+.cl2 > div:first-child > h3{
+color: white;
+font-size: 18pt;
+letter-spacing: 12px;
+text-align: left;
+font-weight: normal;
+font-family: calibri;
+margin: 0;
+padding: 0;
+margin-top: 45px;
+}
+
+/*
+.cl2 > div:nth(2)-child > h1{
+
+}
+*/
+
+.cl2 > div:last-child > h1{
+color: #0D164F;
+font-size: 25pt;
+text-align: left;
+font-weight: bold;
+font-family: tahoma;
+margin: 0;
+padding: 0;
+}
+
+article{
+width: 100%;
+float: left;
+background: white;
+height: auto;
+border-bottom: 1px solid #5C7CA2;
+}
+
+section > article:first-child > div > h2{
+color: black;
+font-size: 23pt;
+text-align: left;
+font-weight: bold;
+font-family: calibri;
+margin: 0;
+padding: 0;
+}
+section > article:first-child > div > p{
+color: gray;
+font-size: 12pt;
+text-align: left;
+font-weight: lighter;
+font-family: arial;
+margin: 0;
+padding: 0;
+line-height: 20pt;
+}
+
+section >article:first-child > div{
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
