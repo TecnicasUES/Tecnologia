@@ -76,5 +76,11 @@ section > article:first-child > div > h2{
 	font-size: 24pt;
 }
 section > article:first-child > div > p{
-	color: 
+	color: #363738;
+	text-align: left;
+	font-size: 12pt;
+	margin:0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 16pt;
 }
