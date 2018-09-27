@@ -104,9 +104,31 @@ section > article:first-child > div{
 	margin-bottom: 40px;
 }
 
+.pl3{
+	width: 35%;
+	height: auto;
+	float: left;
+}
+.pl4{
+	width: 65%;
+	height: auto;
+	float: left;
+}
 
-
-
-
-
+.img2{
+	background: url('../img/article1.png');
+	width: 115px;
+	height: 115px;
+	float: right;
+	margin-top: 15px;
+}
+.pl4 > div:first-child >p{
+	color: gray;
+	text-align: left;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	font-weight: lighter;
+	line-height: 16pt;
+}
 
