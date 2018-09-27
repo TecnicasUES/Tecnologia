@@ -41,12 +41,22 @@ header{
 }
 .cl2 div:first-child > h3{
 	color:white;
-	font-size: 18pt;
-	letter-spacing: 12px;
 	text-align: left;
+	letter-spacing: 12px;
 	font-weight: normal;
+	font-size: 18pt;
 	font-family: calibri;
 	margin: 0;
 	padding: 0;
 	margin-top: 25px;
 }
+.cl2 < div:last-child > h1{
+	color: #17134a;
+	text-align: left;
+	font-weight: bold;
+	font-size: 26px;
+	font-family: tahoma;
+	margin: 0;
+	padding: 0;
+}
+
