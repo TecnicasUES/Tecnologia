@@ -54,6 +54,9 @@ header{
 	text-align: left;
 	font-size: 26pt;
 	font-weight: bold;
+	font-family: tahoma;
+	padding: 0%;
+	margin:0;
 
 }
 article{
@@ -62,4 +65,16 @@ article{
 	background: white;
 	height: auto;
 	border-bottom:1px solid #c3c3c3;
+}
+section > article:first-child > div > h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+	margin:0;
+	font-size: 24pt;
+}
+section > article:first-child > div > p{
+	color: 
 }
