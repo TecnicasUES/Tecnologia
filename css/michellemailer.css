@@ -84,3 +84,30 @@ section > article:first-child > div > p{
 	font-weight: lighter;
 	line-height: 16pt;
 }
+section > article:first-child > div {
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	float: left;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.pl3{
+	width: 40%;
+	height: auto;
+	float: left;
+}
+.pl4{
+	width: 60%;
+	height: auto;
+	float: left;
+}
+.img2{
+	background: url('../img/article1.png');
+	width: 115px;
+	height: 115px;
+	float: right;
+	margin-top: 15px;
+}
+
+.pl4 >
