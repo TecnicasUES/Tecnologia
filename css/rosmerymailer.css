@@ -12,4 +12,6 @@ body{
 	margin: auto;
 	width: 40%;
 	height: auto;
+	background: black;
+	min-height: 60px;
 }
