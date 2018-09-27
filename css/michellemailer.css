@@ -50,5 +50,16 @@ header{
 	margin-top: 25px;
 }
 .cl2 > div:last-child> h1{
-	color
+	color:#17134a;
+	text-align: left;
+	font-size: 26pt;
+	font-weight: bold;
+
+}
+article{
+	width:  100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom:1px solid #c3c3c3;
 }
