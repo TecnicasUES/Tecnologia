@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body{
+	background: white;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 50%;
+	height: auto;
+	background: white;
+	min-height: 60px;
+}
+
+header{
+	background: #c9e197;
+	height: 170px;
+	width: 100%;
+	float: left;
+}
+
+.cl1{
+	width: 30%;
+	height: 170px;
+	float: left;
+}
+
+.cl2{
+	width: 70%;
+	height: 170%;
+	float: left;
+}
+
+.img1{
+	background: url('../img/icon.gif');
+	width: 70px;
+	height: 70px;
+	margin: auto;
+	display: block;
+	margin-top: 50px;
+}
+
+.cl2 >div:first-child > h3{
+
+}
+
+.cl2 >div:nth()-child > h3
