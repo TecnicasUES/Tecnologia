@@ -113,3 +113,43 @@ section > article:first-child > div {
 	margin-bottom: 40px;
 
 }
+.pl3{
+	width:  35%;
+	height: auto;
+	float: left;
+}
+.pl4{
+	width:55%;
+	margin-top: 20px;
+	margin-right: 10%;
+	height: auto;
+	float: left;
+	margin-bottom: 20px;
+}
+.img2{
+	background: url('../img/article1.png');
+	width: 115px;
+	height: 115px;
+	float: right;
+	margin-top: 15px;
+}
+.pl4 > div:first-child > p{
+	color: gray;
+	text-align: left;
+	font-size: 12pt;
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 20pt;
+} 
+.pl4 > div:last-child > button{
+    border: none;
+    background: red;
+    width: 35%;
+    height: 35px;
+    float: left;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14pt;
+{
