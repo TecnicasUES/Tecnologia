@@ -106,8 +106,53 @@ section > article:first-child > div{
 	margin-left: 4%;
 	margin-right: 4%;
 	float-left;
-	margin-top: 40px;
+	margin-top: 35px;
 	margin-bottom: 40px;
 
 } 
 
+.cl3{
+	width: 30%;
+	height: auto;
+	float: left;
+}
+
+.cl4{
+	width: 55%;
+	height:auto;
+	float:left;
+	margin-right: 10%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.img2{
+	background: url('../img/article1.png');
+	width:115px;
+	height: 115px;
+	float:right;
+	margin-top: 15px;
+}
+
+.cl4 > div:first-child > p{
+    color: #696c73;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin:0;
+	font-size:12pt;
+
+}
+
+.cl4 > div:last-child >button{
+	border:none;
+	background: red;
+	width: 45%;
+	height: 40px;
+	float:left;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size:14pt;
+
+}	
