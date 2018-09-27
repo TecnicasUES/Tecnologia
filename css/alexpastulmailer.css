@@ -12,7 +12,6 @@ body{
 	margin: auto;
 	display: block;
 	background: white;
-
 }
 #header{
 	background: #F6E3CE;
@@ -35,7 +34,8 @@ body{
 	display: block;
 	margin-top: 40px;
 }
-.img1{
+/*segunda forma para incluir imagen*/
+img1{
 	margin: auto;
 	display: block;
 	margin-top: 40px;
