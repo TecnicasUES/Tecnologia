@@ -10,8 +10,34 @@ body{
 .contenedor{
 	display: block;
 	margin: auto;
-	width: 40%;
+	width: 50%;
 	height: auto;
 	background: white;
 	min-height: 60px;
+}
+
+header{
+	background: #b4ff97;
+	height: 170px;
+	width: 100%;
+	float: left;
+}
+
+.cl1{
+	width: 30%;
+	height: 170px;
+	float: left;
+}
+.cl2{
+	width: 70%;
+	height: 170px;
+	float: left;
+}
+
+.img1{
+	background: url('../img/icon.gif');
+	width: 70px;
+	height: 70px;
+	margin: auto;
+	display: block;
 }
