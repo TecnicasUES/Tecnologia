@@ -41,9 +41,63 @@ header{
 	height: 70px;
 	margin: auto;
 	display: block;
-	margin-top: 30px;
+	margin-top: 50px;
 }
 
-.kl1 > div:first-child>h3{
+.kl2 > div:first-child>h3{
+	color: white;
+	font-size: 14pt;
+	letter-spacing: 12px;
+	text-align: left;
+	font-weight: normal;
+	font-family: calibri; 
+	margin: 0;
+	padding: 0;
+	margin-top: 40px;
+}
 
+.kl2 > div:last-child>h1{
+	color: #060147;
+	font-size: 22pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: tahoma;
+	margin: 0;
+	padding: 0;
+}
+
+article{
+	width: 100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 1px solid #c3c3c3;
+}
+
+section > article:first-child >div > h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 20pt;
+}
+
+section > article:first-child > div > p{
+	color: #c3c3c3;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	line-height: 14pt;
+}
+
+section > article:first-child > div{
+	width: 92%;
+	margin-left:4%;
+	margin-right: 4%;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
