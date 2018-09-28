@@ -46,3 +46,65 @@ a:hover{
 li:hover{
   background: black !important;
 }
+
+.banner{
+  width: 100%;
+  height: 500px;
+  float: left;
+  background: #AFF1D9;
+}
+
+.child1{
+  width: 40%;
+  height: 500px;
+  float: left;
+}
+
+.child2{
+  width: 60%;
+  height: 500px;
+  float: left;
+}
+
+.img1{
+  background: url('../img/img-flat.png');
+  width: 501px;
+  height: 500px;
+}
+
+.child2>div:first-child>h1{
+  width: 100%;
+  height: 60px;
+  float: left;
+  margin: 0;
+  padding:0;
+  padding-top: 100px;
+  color: purple;
+  font-size: 24pt;
+  font-weight: bold;
+  font-family: calibri;
+  letter-spacing: 2pt;
+}
+
+.child2>div:nth-child(2)>p{
+  font-family: calibri;
+  letter-spacing: 2pt;
+  text-align: left;
+  color: black;
+  line-height: 20pt;
+  font-size: 14pt;
+  font-weight: lighter;
+  width: 90%;
+}
+
+.child2>div:last-child>button{
+  text-decoration: none;
+  border: 1px solid purple;
+  height: 50px;
+  border-radius:5px;
+  width:  25%;
+  margin-left: 10%;
+  background: #AFF1D9;
+  text-align: center;
+  margin-top: 15px;
+}
