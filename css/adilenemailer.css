@@ -45,7 +45,7 @@ header{
 }
 
 
-.cl2 >div:first-child > h3{
+.cl2 > div:first-child  > h3{
 	color: white;
 	font-size: 18pt;
 	letter-spacing: 12px;
@@ -58,14 +58,14 @@ header{
 
 }
 
-.cl2 >div:lat-child > h1{
+.cl2 > div:last-child > h1{
 	color: #E88F0C;
 	text-align: left;
-	font-size: 25pt;
+	font-size: 26pt;
 	font-weight: bold;
 	font-family: tahoma;
 	margin: 0;
-	padding: 0;
+	padding: 0%;
 }
 
 article{
@@ -89,9 +89,8 @@ section > article:first child > div > h2{
 
 
 section > article: first child > div >p{
-	color: #c3c3c3;
+	color: gray;
 	text-align: left;
-	font-family: arial;
 	font-size: 12pt;
 	margin: 0;
 	padding: 0;
@@ -99,7 +98,7 @@ section > article: first child > div >p{
 	line-height: 12pt;
 }
 
-section > article: first child > div{
+section > article:first child > div{
 	width: 92%;
 	margin-left: 4%;
 	margin-right: 4%;
@@ -109,16 +108,19 @@ section > article: first child > div{
 }
 
 .pl3{
-	width: 65%;
+	width: 35%;
 	height: auto;
 	float: left;
 
 }
 
-.pl3{
-	width: 35%;
+.pl4{
+	width: 55%;
 	height: auto;
 	float: left;
+	margin-right: 10%;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	
 }
 
@@ -130,26 +132,27 @@ section > article: first child > div{
 	margin-top: 15px;
 }
 
-.pl4 >div:first-child >p{
-	color: #c3c3c3;
+.pl4 > div:first-child > p{
+	color: gray;
 	text-align: left;
-	font-family: arial;
 	font-size: 12pt;
 	margin: 0;
 	padding: 0;
 	font-weight: lighter;
-	line-height: 12pt;
+	line-height: 18pt;
 }
 
-.pl4 >div:last-child  > button{
+.pl4 > div:last-child  > button{
 	border: none;
 	background: red;
-	width: 20%;
-	height: 30px;
+	width: 45%;
+	height: 45px;
 	float: left;
 	color: white;
 	text-align: center;
 	font-weight: bold;
 	font-size: 14pt;
+	margin-top: 10px;
+	margin-bottom: 10px;
 
 }
