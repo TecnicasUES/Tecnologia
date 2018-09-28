@@ -132,7 +132,7 @@ li:hover{
   float: left;
 }
 
-.sec2>div>div>div:firts-child{
+.sec2>div>div>div:first-child{
   width: 20%;
   margin-left: 10%;
   height: 230px;
@@ -140,8 +140,65 @@ li:hover{
 }
 
 .img2{
-  background: url("../img/v1.png");
+  background: url("../img/v1.png")no-repeat;
   width: 100%;
   height: 118px;
-  margin-top:150px;
+  float: right
+  margin-top:15px;
+}
+
+.img3{
+  background: url("../img/v2.png")no-repeat;
+  width: 100%;
+  height: 118px;
+  float: right
+  margin-top:15px;
+}
+
+.img4{
+  background: url("../img/v3.png")no-repeat;
+  width: 100%;
+  height: 118px;
+  float: right
+  margin-top:15px;
+}
+
+.sec2>div>div>div:last-child{
+  padding-left: 5%;
+  width: 65%;
+  float: left;
+  height: 230px;
+}
+
+.sec2>div>div>div:last-child>h2{
+  font-family: calibri;
+  font-size: 20pt;
+  font-weight: bold;
+  letter-spacing:2pt;
+  margin:0;
+  padding:0;
+  padding-top:20px;
+}
+
+.sec2>div>div>div:last-child>p{
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: lighter;
+  letter-spacing:2pt;
+  margin:0;
+  padding:0;
+}
+
+#pie{
+  width: 100%;
+  height: 60px;
+  float: left;
+  background: purple;
+}
+
+#pie>p {
+  text-align: center;
+  font-weight: normal;
+  color: white;
+  font-size:14pt;
 }
