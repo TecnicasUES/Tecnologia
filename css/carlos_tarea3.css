@@ -270,5 +270,7 @@ button{
 	display: block;
 	color: #7B241C;
 	background: #F8C471;
+	font-weight: bold;
+	font-size: 16pt;
 
 }
