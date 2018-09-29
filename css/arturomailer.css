@@ -54,3 +54,45 @@ margin: 0;
 padding: 0;
 margin-top: 25px;
 }
+.cl2 > div:last-child > h1{
+color:#17134a;
+font-size: 25pt;
+text-align: left;
+font-weight:bold;
+font-family:tahoma;
+margin: 0;
+padding: 0;
+}
+article{
+	width: 100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 1px solid #c3c3c3;
+}
+section > article:first-child > div > h2{
+color: black;
+font-size: 24pt;
+text-align: left;
+font-weight: bold;
+font-family: calibri;
+margin: 0;
+padding: 0;
+}
+section > article:first-child > div > p{
+color: gray;
+font-size: 12pt;
+text-align: left;
+font-weight: lighter;
+margin: 0;
+padding: 0;
+line-height: 18pt;
+}
+section > article:first-child > div{
+	width: 92%;
+	margin-right: 4%;
+	margin-left: 4%;
+	float: left;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
