@@ -1,0 +1,14 @@
+@charset "utf-8";
+body{
+	background: #f6f8f1;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+.contenedor{
+margin: auto;
+width: 50%;
+height: auto;
+background: black;
+min-height: 60px; 
+}
