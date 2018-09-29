@@ -1,14 +1,56 @@
 @charset "utf-8";
+
 body{
 	background: #f6f8f1;
 	margin: 0;
 	padding: 0;
 	font-family: arial;
 }
+
 .contenedor{
-margin: auto;
-width: 50%;
-height: auto;
-background: black;
-min-height: 60px; 
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: auto;
+    background: white;
+    min-height: 60px; 
+}
+
+header{
+	background: #87c274;
+	height: 170px;
+	width: 100%;
+	float: left;
+}
+
+.cl1{
+	width: 30%;
+    height: 170px;
+    float: left;
+}
+
+.cl2{
+	width: 70%;
+	height: 170px;
+	float: left;
+}
+
+.img1{
+	background: url('../img/icon.gif');
+	width: 70px;
+	height: 70px;
+	margin: auto;
+	display: block;
+	margin-top: 50px;
+}
+.cl2 > div:first-child > h3{
+color: white;
+font-size: 18pt;
+letter-spacing: 12px;
+text-align: left;
+font-weight: normal;
+font-family: calibri;
+margin: 0;
+padding: 0;
+margin-top: 25px;
 }
