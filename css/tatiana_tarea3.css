@@ -1,0 +1,14 @@
+@charset "utf-8";
+body{
+	background: #cfcdce;
+	font-family: calibri;
+	padding:0;
+	margin:0;
+}
+#contenedor{
+	width: 80%;
+	height: auto;
+	margin: auto;
+	display:block;
+	background:white;
+}
