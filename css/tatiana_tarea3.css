@@ -5,10 +5,33 @@ body{
 	padding:0;
 	margin:0;
 }
-#contenedor{
+#bloque{
 	width: 80%;
 	height: auto;
 	margin: auto;
 	display:block;
 	background:white;
+}
+#cabeza{
+	background: #ddae76;
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+.clasea{
+	width: 20%;
+	height: 200px;
+	float: left;
+}
+.claseb{
+	width: 80%;
+	height: 200px;
+	float: left;
+}
+.imagen1{
+	margin:auto;
+	display: block;
+	background: url(../img/logo-header.png);
+	width: 275px;
+	height: 274px;
 }
