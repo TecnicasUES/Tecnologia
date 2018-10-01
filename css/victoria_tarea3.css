@@ -1,0 +1,78 @@
+@charset"utf-8"
+
+/* Importar fuentes de google */
+@import url('https://fonts.googleapis.com/css?family=Heebo:400,500,700,800|Varela');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body {
+    background-color: #cfcdce;
+    color: #161616;
+    font-size: 15px;
+}
+
+#header {
+    background-color: #ddae76;
+    background-image: url('../img/logo-header.png');
+    background-position: 0% 0%;
+    background-repeat: no-repeat;
+    background-size: auto 88%;
+    height: 320px;
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+#header div {
+    float: right;
+    padding-top: 110px;
+    width: 70%;
+}
+
+#header > div:first-child > h1 {
+	font: Bold 3em/1.5 'Varela',Verdana;
+	text-align: left;
+}
+
+#header > div:first-child > h2 {
+    font: normal 1.5em/1 'Heebo',Tahoma;
+    text-align: center;
+}
+
+/* Estilos de la sección footer */
+#footer {
+    /* Aplicando flexbox para alinear los elementos del footer */
+    align-items: center;
+    background-color: #331402;
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+#footer p {
+	color: #fff;
+	font-family: 'Heebo',Tahoma;
+	font-size: 1em;
+	font-weight: 500;
+}
+
+#footer > div:last-child > button {
+    background-color: #ddae76;
+	border: 1px solid purple;
+	color: #331303;
+	font-family: 'Heebo',Tahoma;
+	font-size: 1em;
+	font-weight: 700;
+	height: 45px;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-decoration: none;
+    width: 150%;
+}
