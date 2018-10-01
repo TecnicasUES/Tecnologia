@@ -66,3 +66,30 @@ body{
 	margin-left: 50%;
 	padding: 0;
 }
+.parrafo1{
+	background: white;
+	width: 92%;
+	height: 150px;
+	padding: 40px 4% 40px 4%;
+	border-bottom: 2px solid gray;
+}
+.parrafo1>h3{
+	font-family: calibri;
+	font-weight: bolder;
+	text-align: left;
+	color: black;
+	font-size: 21pt;
+	margin:0;
+	padding: 0;
+	letter-spacing: 3px;
+}
+.parrafo1>p{
+	font-family: calibri;
+	font-weight: normal;
+	text-align: left;
+	color: black;
+	font-size: 14pt;
+	margin:0;
+	padding: 0;
+	letter-spacing: 3px;
+}
