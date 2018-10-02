@@ -1,0 +1,176 @@
+@charset "utf-8";
+
+
+body{
+	background:#c3c3c3; 
+	margin:0;
+	padding:0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 85%;
+	height: auto;
+	background: white;
+	min-height: 60px;
+}
+
+
+header{
+	background:#ddae76;
+	width:100%;
+	height:340px;
+	float:left;
+
+}
+
+.hijo1{
+	width:32%;
+	height:340px;
+	float:left;
+}
+
+.hijo2{
+	width:68%;
+	height:340px;
+	float:left;
+}
+
+.img1{
+	background: url('../img/logo-header.png');
+	width:275px;
+	height:274px;
+	margin:left;
+	display: block;
+}	
+.hijo2> h1{
+	color:black;
+	font-size:38pt;
+	text-align:left;
+	font-weight:bold;
+	font-family:arial black;
+	margin: 0;
+	padding: 0;
+	margin-top:100px;
+	margin-left:0.5px; 
+}
+
+.hijo2> h3{
+	color: black;
+	font-size: 14pt;
+	text-align:right;
+	font-weight:lighter;
+	font-family:arial;
+	letter-spacing:5px;
+	padding:0;
+	margin:0;
+	margin-right:120px;
+}
+
+
+.t1{
+	width: 100%;
+	height: 245px;
+	float: left;
+	background: white;
+	border-bottom: 4px solid gray;
+}
+
+.t1> h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding:0;
+	margin:0;
+	font-size:20pt;
+	letter-spacing:4px;
+	margin-top:20px;
+	margin-left:42px;
+
+}
+
+.t1> p{
+	color: black;
+	font-family: arial;
+	font-weight:normal;
+	padding:0;
+	margin:0;
+	font-size:12pt;
+	margin-top:12px;
+	margin-left:42px;
+	margin-right:38px;
+	letter-spacing:4px;
+
+}
+	
+.t2{
+	width: 100%;
+	height: 160px;
+	float: left;
+	background: white;
+	border-bottom: 4px solid gray;
+}
+
+.a{
+	width: 30%;
+	height: 160px;
+	float: left;
+	background: white;
+}
+
+.b{
+	width: 70%;
+	height: 160px;
+	float: right;
+	background: white;
+}	
+
+.img2{
+	background: url('../img/img1.png');
+	width:263px;
+	height: 155px;
+	float:left;
+}
+.b> h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding:0;
+	margin:0;
+	font-size:20pt;
+	letter-spacing:4px;
+	margin-top:20px;
+	margin-left:5px;
+   
+}
+
+.b> p{
+	color: black;
+	font-family: calibri;
+	font-weight:normal;
+	padding:0;
+	margin:0;
+	font-size:14pt;
+	margin-top:12px;
+	margin-left:5px;
+	letter-spacing:4px;
+
+}
+
+.b> h3{
+	color: black;
+	font-family:arial;
+	font-weight:bold;
+	padding:0;
+	margin:0;
+	font-size:14pt;
+	margin-top:12px;
+	margin-right:35px;
+	letter-spacing:4px;
+	text-align:right;
+
+}
