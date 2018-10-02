@@ -227,7 +227,7 @@ body{
 	display: block;
 	width: 100%;
 	height: 314px;
-	background:url(../img/article4.png);
+	background:url('../img/article4.png')no-repeat;;
 }
 .parrafo5{
 	width: 92%;
@@ -261,17 +261,47 @@ body{
 	height: 80px;
 	width:10%;
 	float: left;
-	border:solid red;
 }
 .childpie2{
 	height: 80px;
-	width:25%;
+	width:20%;
 	float: left;
-	border:solid blue;
 }
 .boton{
 	height: 80px;
 	width: 15%;
 	margin-left: 75%;
-	border:solid red;
+}
+.childpie1>h5{
+	font-weight: normal;
+	text-align: left;
+	font-size: 10pt;
+	margin:0;
+	padding: 0;
+	letter-spacing: 1px;
+	color: white;
+	padding: 40px 10% 20px 25%;
+}
+.childpie2>div{
+	margin:auto;
+	display: block;
+	width: 100%;
+	height: 35px;
+	margin-top: 20px;
+	background: url('../img/logo-footer.png')no-repeat;
+}
+.boton>button{
+	border:none;
+	font-weight: bolder;
+	font-family: calibri;
+	font-size: 12pt;
+	letter-spacing: 3px;
+  	height:35px;
+  	width: 100%;
+  	background: #ddae76;
+  	text-align: center;
+  	margin-top: 20px;
+}
+button:hover{
+  background: #f2a446 !important;
 }
