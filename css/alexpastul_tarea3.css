@@ -7,7 +7,7 @@ body{
 	padding: 0;
 }
 #contentar3{
-	width: 88%;
+	width: 68%;
 	height: auto;
 	margin: auto;
 	display: block;
@@ -16,18 +16,18 @@ body{
 #hea{
 	background: #EDB174;
 	width: 100%;
-	height: 408px;
+	height: 320px;
 	float: left;
 }
 .blo1{
-	width: 30%;
+	width: 32%;
 	float: left;
-	height: 408px;
+	height: 320px;
 }
 .blo2{
-	width: 70%;
+	width: 68%;
 	float: left;
-	height: 408px;
+	height: 320px;
 }
 .imataza{
 	display: block;
@@ -36,10 +36,10 @@ body{
 	height: 274px;
 }
 .coffee{
-	width: 100%;
+	width: 85%;
 	height: 50px;
 	float: left;
-	margin-top: 130px;
+	margin-top: 100px;
 	border: solid gray;
 }
 .coffee >h1{
@@ -50,7 +50,7 @@ body{
 	padding: 0;
 }
 .our{
-	width: 100%;
+	width: 75%;
 	float: left;
 	height: 35px;
 	border: solid gray
@@ -59,14 +59,15 @@ body{
 	font-family: arial;
 	font-size: 14pt;
 	font-weight: normal;
+	text-align: right;
 	margin: 0;
 	padding: 0;
 }
 .block2{
-	width: 92%;
+	width: 90%;
 	float: left;
 	height: 200px;
-	padding: 40px 4% 40px 4%;
+	padding: 20px 5% 20px 5%;
 	background: white;
 	border-bottom: solid gray;
 }
@@ -80,11 +81,12 @@ body{
 }
 .block2 >p{
 	font-weight: normal;
-	font-size: 12pt;
+	font-size: 14pt;
 	text-align: left;
 	color: black;
 	margin: 0;
 	padding: 0;
+	letter-spacing: 1px;
 }
 .block3{
 	width: 100%;
@@ -206,7 +208,7 @@ body{
 }
 .imagrand{
 	display: block;
-	background: url(../img/article4.png);
+	background: url(../img/article4.png)no-repeat;
 	width: 900px;
 	height: 314px;
 }
