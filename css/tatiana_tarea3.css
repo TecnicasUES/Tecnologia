@@ -160,3 +160,118 @@ body{
 	width: 263px;
 	height: 155px;
 }
+.art3{
+	background: white;
+	width: 100%;
+	height: 170px;
+	float: left;
+	border-bottom: 10px solid #cfcdce;
+}
+.barra{
+	background: #dcaf76;
+	width: 100%;
+	height: 15px;
+}
+.parrafo3{
+	width: 42%;
+	height: 135px;
+	float: left;
+	padding: 10px 4% 10px 4%;
+}
+.parrafo4{
+	width: 42%;
+	height: 135px;
+	float: left;
+	padding: 10px 4% 10px 4%;
+}
+.parrafo3>h3{
+	font-weight: bolder;
+	font-size:24pt;
+	color: black;
+	padding: 0;
+	margin: 0;
+	letter-spacing: 3px;
+}
+.parrafo4>h3{
+	font-weight: bolder;
+	font-size:24pt;
+	color: black;
+	padding: 0;
+	margin: 0;
+	letter-spacing: 3px;
+}
+.parrafo3>p{
+	font-weight: normal;
+	text-align: left;
+	font-size: 14pt;
+	margin:0;
+	padding: 0;
+	letter-spacing: 3px;
+}
+.parrafo4>p{
+	font-weight: normal;
+	text-align: left;
+	font-size: 14pt;
+	margin:0;
+	padding: 0;
+	letter-spacing: 3px;
+}
+.art4{
+	width: 100%;
+	height: 479px;
+	float: left;
+	background: white;
+}
+.imagen3{
+	margin:auto;
+	display: block;
+	width: 100%;
+	height: 314px;
+	background:url(../img/article4.png);
+}
+.parrafo5{
+	width: 92%;
+	height: 125px;
+	float: left;
+	padding: 20px 4% 20px 4%;
+}
+.parrafo5>h3{
+	font-weight: bolder;
+	font-size:24pt;
+	color: black;
+	padding: 0;
+	margin: 0;
+	letter-spacing: 3px;
+}
+.parrafo5>p{
+	font-weight: normal;
+	text-align: left;
+	font-size: 14pt;
+	margin:0;
+	padding: 0;
+	letter-spacing: 3px;
+}
+.pie{
+	background: #331402;
+	width: 100%;
+	height: 80px;
+	float: left;
+}
+.childpie1{
+	height: 80px;
+	width:10%;
+	float: left;
+	border:solid red;
+}
+.childpie2{
+	height: 80px;
+	width:25%;
+	float: left;
+	border:solid blue;
+}
+.boton{
+	height: 80px;
+	width: 15%;
+	margin-left: 75%;
+	border:solid red;
+}
