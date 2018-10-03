@@ -237,6 +237,71 @@ body{
 	height: 314px;
 	float: left;
 }
+.facebook{
+	width: 100%;
+	height: 200px;
+	background: white;
+	float: left;
+	border-bottom: solid gray;
+
+}
+.facebook >h3 {
+	color: black;
+	font-family: calibri;
+	font-size: 25px;
+	font-weight: bold;
+	letter-spacing: 5px;
+	margin: 0;
+	text-align: left;
+	padding: 10px 5% 10px 5%;
+}
+.facebook >p {
+	color: black;
+	font-family: calibri;
+	font-size: 16pt;
+	font-weight: normal;
+	letter-spacing: 5px;
+	margin: 0;
+	text-align: left;
+	padding: 10px 5% 10px 5%;
+}
+.info{
+	width: 100%;
+	height: 75px;
+	float: left;
+	background: #331402;
+}
+.derechos{
+	width: 10%;
+	height:75px;
+	float: left;
+}
+.derechos>h2{
+	color: white;
+	font-family: calibri;
+	font-size: 14pt;
+	font-weight: normal;
+	text-align: left;
+	padding: 20px 5% 20px 5%;
+	margin-left: 35%;
+}
+.logo{
+	width: 30%;
+	height:75px;
+	float: left;
+}
+.juanvaldez{
+	display: block;
+	background: url(../img/logo-footer.png);
+	width: 193px;
+	height: 35px;
+	margin-top: 25px;	
+}
+
+
+
+
+
 
 
 
