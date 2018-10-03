@@ -1,0 +1,36 @@
+@charset "utf-8";
+body{
+  background:white;
+  font-family:arial;
+  margin:0;
+  padding:0;
+}
+
+#encabezado{
+  width: 90%;
+  height: 300px;
+  margin-left: 5%;
+  float: center;
+  background: #edaf73
+}
+
+#contenedor{
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
+  background: white;
+  min-height: 500px;
+}
+.img1{
+  margin: left;
+  display: block;
+  margin-top: 0px;
+}
+.text_1 > h1{
+	color: darkblue;
+	font-weight: bold;
+	font-size: 24pt;
+	margin: 0;
+	padding: 0;
+}
