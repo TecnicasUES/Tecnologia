@@ -39,8 +39,7 @@ body{
 	width: 85%;
 	height: 50px;
 	float: left;
-	margin-top: 100px;
-	border: solid gray;
+	margin-top: 120px;
 }
 .coffee >h1{
 	font-family: arial black;
@@ -53,7 +52,6 @@ body{
 	width: 75%;
 	float: left;
 	height: 35px;
-	border: solid gray
 }
 .our >h3{
 	font-family: arial;
@@ -63,10 +61,16 @@ body{
 	margin: 0;
 	padding: 0;
 }
+.bloc2{
+	width: 90%;
+	height: 220px;
+	float: left;
+	background: white;
+}	
 .block2{
 	width: 90%;
 	float: left;
-	height: 200px;
+	height: 220px;
 	padding: 20px 5% 20px 5%;
 	background: white;
 	border-bottom: solid gray;
@@ -74,6 +78,7 @@ body{
 .block2 >h2{
 	font-weight: bold;
 	text-align: left;
+	letter-spacing: 2px;
 	color: black;
 	font-size: 21pt;
 	margin: 0;
@@ -90,15 +95,15 @@ body{
 }
 .block3{
 	width: 100%;
-	height: 220px;
+	height: 155px;
 	float: left;
 	background: white;
 }
 .izq{
 	width:30;
-	height: 220px;
+	height: 155px;
 	float: left;
-	background: green;
+	background: white;
 }
 .imaiz{
 	display: block;
@@ -110,12 +115,13 @@ body{
 	width: 62%;
 	float: left;
 	height: 140px;
-	padding: 40px 4% 40px 4%;
+	padding: 10px 4% 10px 4%;
 	background: white;
 }
 .der >h2{
 	font-weight: bold;
 	text-align: left;
+	letter-spacing: 2px;
 	color: black;
 	font-size: 21pt;
 	margin: 0;
@@ -123,23 +129,25 @@ body{
 }
 .der >p{
 	font-weight: normal;
-	font-size: 12pt;
+	font-size: 14pt;
 	text-align: left;
 	color: black;
 	margin: 0;
 	padding: 0;
+	letter-spacing: 1px;
 }
-.der >h3{
+.der >h4{
 	font-weight: bold;
 	text-align: right;
 	color: black;
-	font-size: 21pt;
+	letter-spacing: 2px;
+	font-size: 16pt;
 	margin: 0;
 	padding: 0;
 }
 .block4{
 	width: 100%;
-	height: 250px;
+	height: 200px;
 	float: left;
 	background: white;
 	border-top: solid gray;
@@ -152,18 +160,19 @@ body{
 }
 .abaj{
 	width: 100%;
-	height: 130px;
+	height: 180px;
 	float: left;
 }
 .texiz{
 	width: 42%;
 	float: left;
-	height: 130px;
-	padding: 40px 4% 40px 4%;
+	height: 150px;
+	padding: 15px 4% 15px 4%;
 }
 .texiz >h2{
 	font-weight: bold;
 	text-align: left;
+	letter-spacing: 3px;
 	color: black;
 	font-size: 21pt;
 	margin: 0;
@@ -171,21 +180,23 @@ body{
 }
 .texiz >p{
 	font-weight: normal;
-	font-size: 12pt;
+	font-size: 14pt;
 	text-align: left;
 	color: black;
 	margin: 0;
 	padding: 0;
+	letter-spacing: 1px;
 }
 .texder{
 	width: 42%;
 	float: left;
-	height: 130px;
-	padding: 40px 4% 40px 4%;
+	height: 150px;
+	padding: 15px 4% 15px 4%;
 }
 .texder >h2{
 	font-weight: bold;
 	text-align: left;
+	letter-spacing: 3px;
 	color: black;
 	font-size: 21pt;
 	margin: 0;
@@ -193,15 +204,16 @@ body{
 }
 .texder >p{
 	font-weight: normal;
-	font-size: 12pt;
+	font-size: 14pt;
 	text-align: left;
 	color: black;
 	margin: 0;
 	padding: 0;
+	letter-spacing: 1px;
 }
 .block5{
 	width: 100%;
-	height: 350px;
+	height: 314px;
 	float: left;
 	background: white;
 	border-top: solid gray;
@@ -209,20 +221,21 @@ body{
 .imagrand{
 	display: block;
 	background: url(../img/article4.png)no-repeat;
-	width: 900px;
+	width: 100%;
 	height: 314px;
 }
 .block6{
 	width: 92%;
 	float: left;
-	height: 200px;
-	padding: 40px 4% 40px 4%;
+	height: 140px;
+	padding: 20px 4% 20px 4%;
 	background: white;
 	border-bottom: solid gray;
 }
 .block6 >h2{
 	font-weight: bold;
 	text-align: left;
+	letter-spacing: 3px;
 	color: black;
 	font-size: 21pt;
 	margin: 0;
@@ -230,11 +243,12 @@ body{
 }
 .block6 >p{
 	font-weight: normal;
-	font-size: 12pt;
+	font-size: 14pt;
 	text-align: left;
 	color: black;
 	margin: 0;
 	padding: 0;
+	letter-spacing: 2px;
 }
 .futer{
 	width: 100%;
@@ -242,8 +256,20 @@ body{
 	float: left;
 	background: #35130D;
 }
+.copy{
+	width: 10%;
+	float: left;
+	height: 100px;
+}
+.copy >p{
+	margin-top: 50px;
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+	margin-left: 25%;
+}
 .futer1{
-	width: 50%;
+	width: 30%;
 	float: left;
 	height: 100px;
 }
@@ -252,9 +278,29 @@ body{
 	background: url(../img/logo-footer.png);
 	width: 193px;
 	height: 35px;
+	margin-top: 35px;
 }
 .futer2{
 	width: 50%;
 	float: left;
 	height: 100px;
+}
+
+.btn{
+	width: 100%;
+	height: 60px;
+	float: left;
+}	
+.btn > button{
+	width: 35%;
+	color: #35130D;
+	height: 50px;
+	margin-left: 70%;
+	margin-top: 25px;
+	background: #EDB174;
+	padding: 10px 1% 10px 1%;
+	border: none;
+	font-weight: bold;
+	font-size: 11pt;
+	letter-spacing: 2px;
 }

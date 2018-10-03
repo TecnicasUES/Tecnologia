@@ -2,7 +2,7 @@
 
 body{
 	background: #FFF7B8;
-	font-family: calibri;
+	font-family: arial;
 	margin: 0;
 	padding: 0;
 }
@@ -12,22 +12,23 @@ body{
 	margin: auto;
 	display: block;
 	background: white;
+	min-height: 60px;
 }
-#header{
+header{
 	background: #F6E3CE;
 	width: 100%;
-	height: 150px;
+	height: 170px;
 	float: left;
 }
 .cl1{
-	width: 20%;
+	width: 30%;
 	float: left;
-	height: 150px;
+	height: 170px;
 }
 .cl2{
-	width: 80%;
+	width: 70%;
 	float: left;
-	height: 150px;	
+	height: 170px;	
 }
 .img_center{
 	margin: auto;
@@ -36,12 +37,12 @@ body{
 }
 /*segunda forma para incluir imagen*/
 img1{
-	margin: auto;
-	display: block;
-	margin-top: 40px;
-	background: url(../img/icon.gif);
+	background: url('../img/icon.gif');
 	width: 70px;
 	height: 70px;
+	margin: auto;
+	display: block;
+	margin-top: 50px;
 }
 .text_3{
 	width: 100%;
@@ -70,19 +71,19 @@ img1{
 	margin: 0;
 	padding: 0;
 }
-
 .intro{
 	width: 92%;
 	float: left;
 	height: 150px;
 	padding: 40px 4% 40px 4%;
 	background: white;
+	border-bottom: solid gray;
 }
 .intro > h2{
 	font-weight: bold;
 	text-align: left;
 	color: black;
-	font-size: 21pt;
+	font-size: 18pt;
 	margin: 0;
 	padding: 0;
 }
@@ -94,8 +95,6 @@ img1{
 	margin: 0;
 	padding: 0;
 }
-
-
 .cl3{
 	width: 30%;
 	float: left;
@@ -119,13 +118,10 @@ img1{
 	height: 90px;
 	float: left;
 }
-
-
 .btn{
 	width: 100%;
 	height: 60px;
 	float: left;
-
 }
 .parrafo > p{
 	font-weight: normal;
@@ -134,7 +130,6 @@ img1{
 	font-size: 12px;
 	margin: 0;
 	padding: 0;
-
 }
 .btn > button{
 	width: 25%;
@@ -152,7 +147,7 @@ img1{
 	width: 96%;
 	height: 240px;
 	float: left;
-	padding: 10px 2% 10px 2%;
+	padding: 20px 2% 0px 2%;
 	border-bottom: 2px solid gray;	
 }
 .img3{
@@ -175,4 +170,55 @@ img1{
 	text-align: left;
 	font-weight: normal;
 	font-size: 12pt;
+}
+.piee{
+	width: 100%;
+	height: 140px;
+	float: left;
+	background: #445360;
+}
+.sonpie{
+	width: 25%;
+	height: 140px;
+	background: #445360;
+	margin-left: 36%;
+}
+.sonpie1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #445360;
+	margin-top: 10px;
+}
+.sonpie1 >p{
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-size: 10px;
+	margin: 0;
+	padding: 0;
+}
+
+
+.sonpie2{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: #445360;
+}
+.imp1{
+	margin: auto;
+	display: block;
+	background: url('../img/facebook.png')no-repeat;
+	width: 74px;
+	height: 74px;
+	float: left;
+}
+.imp2{
+	margin: auto;
+	display: block;
+	background: url('../img/twitter.png')no-repeat;
+	width: 74px;
+	height: 74px;
+	margin-left: 55%;
 }
