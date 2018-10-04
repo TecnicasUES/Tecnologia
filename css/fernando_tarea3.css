@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+body{
+  background:#9e1b14;
+  font-family: arial;
+  margin:0;
+  padding:0;
+  
+}
+#encabezado{
+	 width: 100%;
+  height: 60px;
+  float: left;
+  background: #22233d;
+}
+
+#primero{
+	 width: 100%;
+  height: 300px;
+  float: left;
+  background: #ddae76;
+}
+
+.fotografia{
+	width: 30%;
+	height: 300px;
+	float: left;
+	
+}
+
+.im1{
+  background: url('../img/logo-header.png');
+  width: 275px;
+  height: 274px
+}
+
+.texto{
+  width: 70%;
+  height: 300px;
+  float: left;
+  background: #ffffff;
+}
+
+.texto2>div:first-child>h1{
+  width: 100%;
+  height: 60px;
+  float: center;
+  margin:0;
+  padding: 0;
+  padding-top: 100px;
+  padding-left: 
+  color: #27170a;
+  font-size: 32pt;
+  font-weight: black;
+  font-family: calibri;
+}
