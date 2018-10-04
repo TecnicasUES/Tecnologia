@@ -174,3 +174,10 @@ body{
 	float: left;
 	width: 60%;
 	min-height: 350px;
+	}
+.cont3-1-1{
+	width: 90%;
+	min-height: 50px;
+	background-color: #088A29;
+	border :2px solid #0B6121;
+}
