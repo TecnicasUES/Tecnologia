@@ -25,7 +25,7 @@ body{
 }
 
 .child2{
-	width: 44.6%;
+	width: 44%;
 	float: left;
 	background: 1px solid green;
 	height: 60px;
@@ -108,4 +108,61 @@ body{
 	min-height: 30px;
 	background-color: #6A0888;
 
+}
+.cont1-1-6{
+	float: left;
+	width: 34%;
+	min-height: 30px;
+	background-color: #088A29;
+}	
+.cont2{
+	width: 100%;
+	min-height: 310px;
+	
+}
+.nada{
+	width: 100%;
+	min-height: 25px;
+}
+.cont2-1{
+	float: left;
+	width: 50%;
+	min-height: 310px;
+	background-color: #00FFFF;
+}
+.cont2-1-1{
+	float: left;
+	width: 100%;
+	min-height: 65px;
+	background-color: #01DF3A;
+}
+.cont2-1-1-1{
+	float: left;
+	width: 50%;
+	min-height: 60px;
+	background-color: #0B610B;
+}
+.cont2-1-1-2{
+	float: left;
+	width: 50%;
+	min-height: 60px;
+	background-color: #D7DF01;
+}
+.cont2-1-2{
+	float: left;
+	width: 100%;
+	min-height: 70px;
+	background-color: #F7819F;
+}
+.cont2-1-2-1{
+	float: left;
+	width: 35%;
+	min-height: 60px;
+	background-color: #04B486;
+}
+.cont2-1-2-2{
+	float: left;
+	width: 30%;
+	min-height: 60px;
+	background-color: #0489B1;
 }
