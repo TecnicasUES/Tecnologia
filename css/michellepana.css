@@ -176,12 +176,19 @@ body{
 	min-height: 350px;
 	}
 .cont3-1-1{
-	width: 99.5%;
+	width: 98%;
 	min-height: 50px;
 	background-color: #088A29;
 	border :2px solid #0B6121;
 }
 .cont3-1-2{
-	width: 80%;
+	width: 100%;
+	min-height: 150px;
+}
+.cont3-1-2-1{
+	width: 40%;
+	float: left;
 	min-height: 100px;
-	
+	background: color;#01DFD7;
+	border :2px solid #0B6121;
+}	
