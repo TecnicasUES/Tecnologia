@@ -315,3 +315,62 @@ body{
 	padding: 0;
 
 }
+
+.footer{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: #4c1501;
+}
+
+.text11{
+	width: 6%;
+	height: 80px;
+	float: left;
+	padding: 40px 1% 30px 2%;
+}
+
+.text11 >h4{
+	color: white;
+	font-family: calibri;
+	font-weight: normal;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.ft{
+	width: 20%;
+	height: 78px;
+	float: left;
+
+}
+
+.img4{
+	float: left;
+	background: url(../img/logo-footer.png);
+	width: 193px;
+	height: 35px;
+	margin-top: 20px;
+	margin-left: 3%;
+}
+
+.boton{
+	width: 71%;
+	height: 80px;
+	float: left;
+}
+
+.boton > button{
+	width: 24%;
+	height: 40px;
+	color: #4c1501;
+	float: right;
+	background: #ddae76;
+	font-weight: bold;
+	font-size: 10pt;
+	letter-spacing: 2px;
+	border: none;
+	margin-right: 10%;
+	margin-top: 20px;
+}
