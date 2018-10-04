@@ -71,7 +71,7 @@ body{
 .texto3{
 	width: 92%;
 	float: left;
-	height: 250px;
+	height: 225px;
 	padding: 20px 4% 20px 4%;
 	background: white;
 	border-bottom: 2px solid #cfcdce;
@@ -85,6 +85,48 @@ body{
 	letter-spacing: 2pt;
 }
 .texto3>p{
+	color: black
+	font-weight: lighter;
+	font-size: 14pt;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 2pt;
+	text-align: justify;
+}
+.texto4{
+	width: 100%;
+	float: left;
+	height: 155px;
+	background: white;
+	border-bottom: 2px solid #cfcdce;
+}
+.hijotexto1{
+	width: 25%;
+	height: 155px;
+	float: left;
+}
+.img2{
+	margin: 0;
+	display: block;
+	background: url(../img/img1.png);
+	width: 263px;
+	height: 155px;
+}
+.hijotexto2{
+	width: 67%;
+	height: 155px;
+	float: left;
+	padding: 20px 4% 10px 4%;
+}
+.hijotexto2>h2{
+	color: black;
+	font-weight: bold;
+	font-size: 22pt;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 2pt;
+}
+.hijotexto2>p{
 	color: black
 	font-weight: lighter;
 	font-size: 14pt;
