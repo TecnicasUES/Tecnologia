@@ -166,3 +166,11 @@ body{
 	min-height: 60px;
 	background-color: #0489B1;
 }
+.cont3{
+	width: 100%;
+	min-height: 350px;
+}
+.cont3-1{
+	float: left;
+	width: 60%;
+	min-height: 350px;
