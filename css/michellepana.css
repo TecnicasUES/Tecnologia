@@ -192,9 +192,11 @@ body{
 	background-color: #01DFD7;
 	border :2px solid #0B6121;
 }	
-.divi.{
+.divi{
 	width: 100%;
 	min-height: 65px;
-	border: 1px solid black;
+	border-bottom: 1px solid black;
 }
+.cont3-1-2-2{
 
+}
