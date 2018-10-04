@@ -90,7 +90,7 @@ body{
   padding: 0;
 }
 .texto_3>div>p{
-  text-align: left;
+  text-align: justify;
   color: black;
   font-size: 13pt;
   letter-spacing: 4px;
@@ -101,18 +101,18 @@ body{
 .bloque2{
   background: white;
   width: 100%;
-  height: 160px;
+  height: 155px;
   float: left;
-  border-bottom: 3px solid #cfcdce;
+  border-bottom: 2px solid #cfcdce;
 }
 .texto_4{
   width: 100%;
-  height: 160px;
+  height: 155px;
   float: left;
 }
 .child1{
   width: 24%;
-  height: 160px;
+  height: 155px;
   float: left;
 }
 .child2{
@@ -120,4 +120,99 @@ body{
   height: 135px;
   float: left;
   padding: 10px 4% 10px 4%;
+}
+.texto_4>div>h3{
+  text-align: left;
+  color: black;
+  font-size: 22pt;
+  letter-spacing: 4px;
+  font-weight: bolder;
+  margin: 0;
+  padding: 0;
+}
+.texto_4>div>p{
+  text-align: justify;
+  color: black;
+  font-size: 13pt;
+  letter-spacing: 4px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+.texto_4>div>h2{
+  color: black;
+  font-size: 16pt;
+  font-weight: bolder;
+  letter-spacing: 3pt;
+  margin: 0;
+  padding: 0px 6% 0px 6%;
+  text-align: right;
+}
+.imagen_2{
+	display: block;
+	background: url(../img/img1.png);
+	width: 263px;
+	height: 155px;
+	float: left;
+  margin:auto;
+}
+.bloque3{
+  background: white;
+  width: 100%;
+  height: 185px;
+  float: left;
+  border-bottom: 3px solid #cfcdce;
+}
+.block{
+  background: #ddae76;
+  width: 100%;
+  height: 15px; 
+}
+.texto_5{
+  width: 42%;
+	height: 135px;
+	float: left;
+  margin: 0;
+	padding: 10px 3% 10px 3%;
+}
+.texto_6{
+  width: 42%;
+	height: 135px;
+	float: left;
+  margin: 0;
+	padding: 10px 3% 10px 3%;
+}
+.texto_5>h3{
+  color: black;
+  font-size: 22pt;
+  letter-spacing: 4px;
+  font-weight: bolder;
+  margin: 0;
+  padding: 5px 0% 5px 0%;
+}
+.texto_5>p{
+  text-align: justify;
+  color: black;
+  font-size: 13pt;
+  letter-spacing: 4px;
+  font-weight: normal;
+  margin: 0;
+  padding: 5px 0% 5px 0%;
+}
+.texto_6>h3{
+  color: black;
+  font-size: 22pt;
+  letter-spacing: 4px;
+  font-weight: bolder;
+  margin: 0;
+  padding: 5px 0% 5px 0%;
+}
+.texto_6>p{
+  text-align: justify;
+  color: black;
+  font-size: 13pt;
+  letter-spacing: 4px;
+  font-weight: normal;
+  margin: 0;
+  padding: 5px 0% 5px 0%;
 }
