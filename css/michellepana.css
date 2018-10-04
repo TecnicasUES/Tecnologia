@@ -189,6 +189,12 @@ body{
 	width: 40%;
 	float: left;
 	min-height: 100px;
-	background: color;#01DFD7;
+	background-color: #01DFD7;
 	border :2px solid #0B6121;
 }	
+.divi.{
+	width: 100%;
+	min-height: 65px;
+	border: 1px solid black;
+}
+
