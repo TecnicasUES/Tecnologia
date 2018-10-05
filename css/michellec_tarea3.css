@@ -151,10 +151,10 @@ body{
 }
 .child5{
 	width: 100%;
-	height: 170px;
+	height: 175px;
 	float: left;
 	background: white;
-	border-bottom: 2px solid #cfcdce;
+	border-bottom: 4px solid #cfcdce;
 }
 .barra{
 	width: 100%;
@@ -164,17 +164,66 @@ body{
 }
 .texto5{
 	width: 92%;
-	height: 155px;
+	height: 160px;
 	float: left;
 	padding: 10px 4% 10px 4%;
 }
 .parrafoa{
-	width: 50%;
-	height: 155px;
+	width: 48%;
+	height: 140px;
 	float: left;
+	padding: 0px 2% 0px 0%
+}
+.parrafoa>h2{
+	color: black;
+	font-weight: bold;
+	font-size: 21pt;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 2pt;
+}
+.parrafoa>p{
+	color: black
+	font-weight: lighter;
+	font-size: 13pt;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 2pt;
+	text-align: justify;
 }
 .parrafob{
-	width: 50%;
-	height: 155px;
+	width: 46%;
+	height: 140px;
 	float: left;
+	padding: 0px 0% 0px 4%;
+}
+.parrafob>h2{
+	color: black;
+	font-weight: bold;
+	font-size: 21pt;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 2pt;
+}
+.parrafob>p{
+	color: black
+	font-weight: lighter;
+	font-size: 13pt;
+	margin: 0;
+	padding: 0;
+	letter-spacing: 2pt;
+	text-align: justify;
+}
+.child6{
+	width: 100%;
+	height: 300px;
+	float: left;
+	background: white;
+}
+.img3{
+	margin: 0;
+	display: block;
+	background: url(../img/article4.png) no-repeat;
+	width: 900px;
+	height: 300px;
 }
