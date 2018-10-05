@@ -192,6 +192,14 @@ body{
 	background-color: #01DFD7;
 	border :2px solid #0B6121;
 }	
+.cont3-1-2-2{
+	float: left;
+	width: 59%;
+	min-height: 150px;
+	
+	border :2px solid #0B6121;
+}
+
 .divi{
 	width: 100%;
 	min-height: 65px;
