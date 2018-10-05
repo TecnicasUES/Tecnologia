@@ -41,9 +41,8 @@ body{
 	height: 50px;
 	float: left;
 	margin-top: 100px;
-	border:solid red;
 }
-.texto1 > h2{
+.texto1 > h1{
 	font-family: arial black;
 	color: #27160c;
 	font-size: 36pt;
@@ -53,17 +52,16 @@ body{
 	padding: 0;
 }
 .texto2{
-	width: 100%;
-	height: 20px;
+	width: 50%;
+	height: 50px;
 	float: left;
-	border:solid blue;
+	margin-left: 50%;
 }
-.texto2 >h5{
+.texto2 >h4{
 	color: black;
-	font-size: 14pt;
+	font-size: 16pt;
 	font-weight:normal;
 	letter-spacing: 3px;
-	margin-left: 50%;
 	padding: 0;
 }
 .art1{
@@ -223,13 +221,6 @@ body{
 	height: 479px;
 	float: left;
 	background: white;
-}
-.imagen3{
-	width: 100%;
-	height: 314px;
-	margin:auto;
-	display: block;
-	background:url(../img/article4.png);
 }
 .parrafo5{
 	width: 92%;
