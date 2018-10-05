@@ -202,3 +202,33 @@ body{
   height:200px;
   float: left;
 }
+.imagengrande{
+  width: 100%;
+  float: left;
+  height: 500px;
+}
+.child5{
+  width: 100%;
+  float: left;
+  height: 250px;
+}
+.text_9a> h2{
+  font-family: roboto;
+  color: black;
+  float: left;
+  padding-left: 5%;
+  font-size: 42pt;
+  padding-top: 1px;
+}
+.text_9b> p{
+  font-family: roboto;
+  color: black;
+  float: left;
+  margin-top: 0px;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 14pt;
+  padding-top: px;
+  text-align: justify;
+ 
+}
