@@ -235,5 +235,13 @@ body{
 .cont3-2-4{
 	width: 100%;
 	min-height:78px;
-	background-color: green;
+	background-color: #04B4AE;
+}
+.peq{
+	width:50%;
+	margin-left: 50%;
+	min-height: 60px;
+	background-color: #8000FF;
+}
+
 }
