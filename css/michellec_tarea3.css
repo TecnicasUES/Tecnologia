@@ -73,7 +73,7 @@ body{
 	height: 215px;
 	float: left;
 	background: white;
-	border-bottom: 2px solid #cfcdce;
+	border-bottom: 4px solid #cfcdce;
 }
 .texto3{
 	width: 92%;
@@ -103,7 +103,7 @@ body{
 	float: left;
 	height: 155px;
 	background: white;
-	border-bottom: 2px solid #cfcdce;
+	border-bottom: 4px solid #cfcdce;
 }
 .hijoaimagen{
 	width: 30%;
@@ -216,20 +216,17 @@ body{
 }
 .child6{
 	width: 100%;
-	height: 300px;
+	height: 314px;
 	float: left;
 	background: white;
 }
 .img3{
 	margin: 0;
 	display: block;
-	background: url(../img/article4.png) no-repeat;
-	width: 900px;
-	height: 300px;
 }
 .child7{
 	width: 100%;
-	height: 155px;
+	height: 175px;
 	float: left;
 	background: white;
 }
@@ -255,4 +252,66 @@ body{
 	padding: 0;
 	letter-spacing: 2pt;
 	text-align: justify;
+}
+.child8{
+	width: 100%;
+	height: 75px;
+	float: left;
+	background: #331402;
+}
+.sec1{
+	width: 50%;
+	height: 75px;
+	float: left;
+}
+.texto{
+	width: 15%;
+	height: 20px;
+	float: left;
+	margin-top: 35px;
+	padding-left: 4%;
+}
+.texto>p{
+	color: white;
+	font-weight: bold;
+	font-size: 11pt;
+	margin: 0;
+	padding: 0;
+}
+.imagen{
+	width: 50%;
+	height: 75px;
+	float: left;
+}
+.img4{
+	margin: 0;
+	display: block;
+	background: url(../img/logo-footer.png);
+	width: 193px;
+	height: 35px;
+	margin-top: 20px;
+}
+.sec2{
+	width: 50%;
+	height: 75px;
+	float: left;
+}
+.boton{
+	width: 35%;
+	height: 75px;
+	margin-left: 50%;
+}
+.boton>button{
+	width:80%;
+	color: #331402;
+	height: 35px;
+	float: left;
+	background: #ddae76;
+	padding: 10px 1% 10px 1%;
+	border: none;
+	font-weight: bold;
+	font-size: 10pt;
+	margin-top: 25px;
+	font-family: arial;
+	letter-spacing: 1pt;
 }
