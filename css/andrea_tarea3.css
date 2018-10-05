@@ -90,7 +90,7 @@ body{
 }
 .bloque2{
 	width: 98%;
-	height: 220px;
+	height: 191px;
 	float: left;
 	background: white;
 }
@@ -98,7 +98,7 @@ body{
 	width:30%;
 	height: 220px;
 	float: left;
-	background: green;
+	background: white; 
 }
 .imagen2{
 	display: block;
@@ -107,7 +107,7 @@ body{
 	height: 155px;
 }
 .recuadro1{
-	width: 62%;
+	width: 60%;
 	float: left;
 	height: 140px;
 	padding: 40px 4% 40px 4%;
@@ -242,19 +242,42 @@ body{
 	float: left;
 	background: #35130D;
 }
-.futer1{
-	width: 50%;
+.footer-text p{
+
+font-size: 12px;
+color: white;
+font-weight: lighter;
+margin-left: 3%;
+margin-top: 45px;
+float: left;
+}
+
+.footer-juanvaldez {
+	
+    background-image: url("../images/footer.png");
 	float: left;
-	height: 100px;
+	width: 129px;
+	height: 27px;
+    
+    margin-top: 26px;
+    float: left;
 }
-.imafuter1{
-	display: block;
-	background: url(../img/logo-footer.png);
-	width: 193px;
-	height: 35px;
+.button {
+    width: 14%;
+    float: right;
+    height: 50px;
+    background: #ddae76;
+    margin-top: 15pt;
 }
-.futer2{
-	width: 50%;
-	float: left;
-	height: 100px;
+.button > h3 {
+    width: 100%;
+    float: left;
+    height: 20px;
+    font-size: 13pt;
+    color: #311500;
+    font-family: calibri;
+    font-weight: normal;
+    margin-left: 30px;
+    margin-top: 10pt;
 }
+
