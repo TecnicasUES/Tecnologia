@@ -9,7 +9,7 @@ body{
 }
 #encabezado{
 	 width: 100%;
-  height: 60px;
+  height: 300px;
   float: left;
   background: #22233d;
 }
@@ -100,6 +100,72 @@ body{
   padding-left: 70px;
   font-weight: normal;
   letter-spacing: 2px;
+  padding-right: 70px
 }
+
+#cafe_descripcion{
+  width: 100%;
+  height: 200px;
+  background: lime;
+  
+}
+
+#tercero{
+  width: 100%;
+  height: 155px;
+  float: left;
+  background: purple;
+}
+
+.foto_cafe{
+  background: lime;
+  width: 100%;
+  height: 155px;
+  
+
+}
+
+.foto_cafe2{
+  background:purple;
+  width: 50%;
+  height: 155px;
+}
+
+
+.foto_cafe3{
+  background:red;
+  width: 40%;
+  height: 155px;
+}
+
+.banner{
+  width: 100%;
+  height: 155px;
+  float: left;
+  background: #aff1d9
+}
+
+.child1{
+  width: 20%;
+  height: 150px;
+  float: left;
+  
+}
+
+.child2{
+  width: 60%;
+  height: 155px;
+  float: left;
+  
+}
+
+.im2{
+  background: url('../img/img1.png');
+  width: 263px;
+  height: 155px;
+}
+
+
+
 
 
