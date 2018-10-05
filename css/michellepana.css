@@ -205,11 +205,10 @@ body{
 	min-height: 65px;
 	border-bottom: 1px solid black;
 }
-.gris
-{
+.gris{
 	float: left;
-	width: 90%;
-	min-height: 20px;
+	width: 100%;
+	min-height: 25px;
 	background-color: #BDBDBD;
 }
 
