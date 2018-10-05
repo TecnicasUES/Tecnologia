@@ -104,7 +104,7 @@ body {
 /* bloque de dos columnas de texto */
 .dos-columnas{
     border-top: 12px solid #d6aa74;
-    height: 160px;
+    height: 175px;
     width: 100%;
     border-bottom: 2px solid #cfcdce;
 }
@@ -125,11 +125,18 @@ body {
     width: 42%;
 }
 
-.imagen{
-    width: 900px;
-    height: 313px;
+#banner-img{
+    width: 100%;
+    max-height: 350px;
 
 }
+/*estos valores tendria que hacer ajustable o adaptable la imagen*/
+.imagen-b{
+    max-width: 100%;
+    height: auto;
+
+}
+
 .inferior{
      padding: 28px 40px;
 }
