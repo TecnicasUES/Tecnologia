@@ -1,78 +1,123 @@
 @charset"utf-8"
 
 /* Importar fuentes de google */
-@import url('https://fonts.googleapis.com/css?family=Heebo:400,500,700,800|Varela');
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700|Dosis:400,500,700');
 
 * {
     margin: 0;
-    padding: 0;
-    outline: none;
+    padding:0;
 }
 
 body {
-    background-color: #cfcdce;
-    color: #161616;
-    font-size: 15px;
+    font-size: 16px;
 }
 
-#header {
-    background-color: #ddae76;
-    background-image: url('../img/logo-header.png');
-    background-position: 0% 0%;
-    background-repeat: no-repeat;
-    background-size: auto 88%;
-    height: 320px;
-    margin: 0 auto;
-    max-width: 1200px;
+#encabezado{
     width: 100%;
+    height: 300px;
+    background: #d6aa74 url('../img/logo-header.png') no-repeat;
 }
 
-#header div {
-    float: right;
-    padding-top: 110px;
+#encabezado > h1 {
+    font-family: 'Arimo',Tahoma,sans-serif;
+    font-size: 3em;
+    font-weight: 700;
+    color: #27160c;
+    position: relative;
+    letter-spacing: 1px;
+    left: 30%;
+    top: 120px;
     width: 70%;
 }
 
-#header > div:first-child > h1 {
-	font: Bold 3em/1.5 'Varela',Verdana;
-	text-align: left;
+#encabezado > h2 { 
+    font-family: 'Dosis',verdana,sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    color: #27160c;
+    letter-spacing: 5px;
+    position: relative; 
+    left: 50%;
+    top: 130px;
+    width: 50%;
 }
 
-#header > div:first-child > h2 {
-    font: normal 1.5em/1 'Heebo',Tahoma;
-    text-align: center;
+.superior{
+    padding: 24px 32px;
+}
+.superior > h3{
+    font-family: 'Arimo',Tahoma,sans-serif;
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #000;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
 }
 
-/* Estilos de la sección footer */
-#footer {
-    /* Aplicando flexbox para alinear los elementos del footer */
-    align-items: center;
-    background-color: #331402;
-    display: flex;
-    justify-content: space-around;
-    height: 100px;
-    margin: 0 auto;
-    max-width: 1200px;
+.superior > p,
+.superior2 p,
+.columna-der p,
+.columna-izq p {
+    font-family: 'Dosis',verdana,sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #000;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+
+.superior2{
+    border-top: 2px solid #cfcdce;
+    border-bottom: 2px solid #cfcdce;
+    height: 155px;
     width: 100%;
 }
 
-#footer p {
-	color: #fff;
-	font-family: 'Heebo',Tahoma;
-	font-size: 1em;
-	font-weight: 500;
+.superior2 h3,
+.columna-der h3,
+.columna-izq h3{
+    font-family: 'Arimo',Tahoma,sans-serif;
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #000;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+    padding-top: 24px;
 }
 
-#footer > div:last-child > button {
-    background-color: #ddae76;
-	border: 1px solid purple;
-	color: #331303;
-	font-family: 'Heebo',Tahoma;
-	font-size: 1em;
-	font-weight: 700;
-	height: 45px;
-	margin-left: 10%;
-	margin-right: 10%;
-	text-decoration: none;
-    width: 150%;
+.imagen-box{
+    float: left;
+    width: 24%;
+}
+.texto-box{
+    float: left;
+    width: 76%;
+}
+.texto-right{
+    font-weight: 700;
+    text-align: right;
+    margin-right: 32px;
+}
+
+/* bloque de dos columnas de texto */
+.dos-columnas{
+    border-top: 12px solid #d6aa74;
+    height: 160px;
+    width: 100%;
+}
+
+.columna-der{
+    float: left;
+    height: 160px;
+    margin-right: 12px;
+    margin-left: 32px;
+    width: 50%;
+}
+
+.columna-izq{
+    float: left;
+    height: 160px;
+    margin-right: 32px;
+    margin-left: 12px;
+    width: 42%;
 }
