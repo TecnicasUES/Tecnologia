@@ -38,7 +38,7 @@ body{
   width: 70%;
   height: 300px;
   float: left;
-  background: #ffffff;
+  background: #ddae76;
 }
 
 .texto2>div:first-child>h1{
@@ -47,10 +47,59 @@ body{
   float: center;
   margin:0;
   padding: 0;
-  padding-top: 100px;
-  padding-left: 
+  padding-top: 100px; 
   color: #27170a;
-  font-size: 32pt;
-  font-weight: black;
+  font-size: 45pt;
+  font-weight: bold;
   font-family: calibri;
+  letter-spacing: 6px;
+  text-align: center;
 }
+
+.texto2>div:nth-child(2)>p{
+  font-family: calibri;
+  letter-spacing: 2pt;
+  text-align: left;
+  color:black;
+  line-height: 20pt;
+  font-size: 20pt;
+  width: 90%;
+  font-weight: lighter;
+  text-align: right;
+}
+
+#segundo{
+  width: 100%;
+  height: 300px;
+  float: left;
+  background: #c3c3c3;
+}
+
+.texto3>div:first-child>p{
+  font-family: calibri;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  padding:0;
+  padding-left: 70px;
+}
+
+.texto3>div:nth-child(2)>p{
+  font-family: calibri;
+  font-weight: normal;
+  font-size: 18px;
+  padding-left: 70px;
+  text-align: left;
+  padding-right:70px;
+  letter-spacing: 2px
+}
+
+.texto3>div:last-child>p{
+  font-family: calibri;
+  font-size: 18px;
+  padding-left: 70px;
+  font-weight: normal;
+  letter-spacing: 2px;
+}
+
+
