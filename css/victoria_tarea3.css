@@ -89,14 +89,16 @@ body {
     float: left;
     width: 24%;
 }
+
 .texto-box{
     float: left;
     width: 76%;
 }
+
 .texto-right{
     font-weight: 700;
     text-align: right;
-    margin-right: 32px;
+    margin-right: 20px;
 }
 
 /* bloque de dos columnas de texto */
@@ -104,6 +106,7 @@ body {
     border-top: 12px solid #d6aa74;
     height: 160px;
     width: 100%;
+    border-bottom: 2px solid #cfcdce;
 }
 
 .columna-der{
@@ -120,4 +123,59 @@ body {
     margin-right: 32px;
     margin-left: 12px;
     width: 42%;
+}
+
+.imagen{
+    width: 900px;
+    height: 313px;
+
+}
+.inferior{
+     padding: 28px 40px;
+}
+.inferior > h3{
+    font-family: 'Arimo',Tahoma,sans-serif;
+    font-size: 1.4em;
+    font-weight: 700;
+    color: #000;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+.inferior > p{
+    font-family: 'Dosis',verdana,sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #000;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+ }
+
+/* Estilos de la sección footer */
+#footer {
+    /* Aplicando flexbox para alinear los elementos del footer */
+    align-items: center;
+    background-color: #331402;
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    margin: 0 auto;
+    width: 100%;
+}
+#footer p {
+    color: #fff;
+    font-family:'Dosis',verdana,sans-serif; 
+    font-size: 1em;
+}
+#footer > div:last-child > button {
+    background-color: #ddae76;
+    border: 1px solid purple;
+    color: #331303;
+    font-family: 'Dosis',verdana,sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+    height: 45px;
+    margin-left: 5%;
+    margin-right: 10%;
+    text-decoration: none;
+    width: 150%;
 }
