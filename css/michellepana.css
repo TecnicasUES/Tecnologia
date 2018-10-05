@@ -225,6 +225,15 @@ body{
 .cont3-2-2{
 	width: 100%;
 	min-height: 50px;
-	background: orange;
+	background-color: orange;
 }
+.cont3-2-3{
+	width: 100%;
+	min-height:30px;
 
+}
+.cont3-2-4{
+	width: 100%;
+	min-height:78px;
+	background-color: green;
+}
