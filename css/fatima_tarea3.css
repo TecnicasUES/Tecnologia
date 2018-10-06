@@ -4,23 +4,13 @@ body{
 	background: #f6f8f1;
 	margin: 0;
 	padding: 0;
-	font-family: arial;
+	font-family: tahoma;
 }
 
-.contenedor{
-	display: block;
-	margin: auto;
-	width: 50%;
-	height: auto;
-	background: white;
-	min-height: 60px;
-}
-
-header{
-	background: #87c274;
-	height: 170px;
-	width: 100%;
-	float:left;
+#iniciodepagina{
+	background:	#696969;
+	height: 370px;
+	width: 100%;	
 }
 
 .cl1{
