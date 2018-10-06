@@ -14,14 +14,14 @@ body{
 }
 
 .latte{ 
-	background:#696969;
+	background('.../img/logo-header.png');
 	background-repeat:no-repeat;  
 	width: 320%;
 	height: 300px;
 }
 
 .img1{
-	background: url('../img/logo-header.png');
+	background: 
 	background-repeat:no-repeat;
 	width: 320%;
 	height: 300px;
