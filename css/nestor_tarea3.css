@@ -238,15 +238,13 @@ background: #380c00;
 float: left;
 }
 .child6a{
-width: 30%;
+width: 8%;
 height: 125px;
-background:;
 float: left;
 }
 .child6b{
 width: 25%;
 height: 125px;
-background:;
 float: left;
 }
 .logojuan{
@@ -254,13 +252,30 @@ width: 193px;
 height: 35px;
 float: left;
 margin-top: 25px;
-padding-left: 15px;
+padding-left: px;
 }
 .text_10a> h2{
 font-family: roboto;
 color: white;
 float: left;
-padding-left: 5%;
+padding-left: 35%;
 font-size: 10pt;
-padding-top: 50px;
+padding-top: 55px;
+}
+.child6b{
+width:67%;
+height: 125px;
+float: left;
+}
+.btn1{
+  margin-top:30px;
+  width: 15%;
+  height: 60px;
+  background: #edb074;
+  color: #380c00;
+  font-size: 20pt;
+  font-family: roboto;
+  border-radius: 2px;
+  border-color: none;
+  font-weight: bold;
 }
