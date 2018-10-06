@@ -25,8 +25,9 @@ body {
 
 .latte{ 
 	background:#8b4513; 
-	width: 320%;
-	height: 300px;
+	width: 22%;
+	height: 350px; 
+	float: left;
 }
 
 .img1{
