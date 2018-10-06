@@ -13,7 +13,8 @@ body{
 	width: 100%;	
 }
 
-.cl1{
+.cafeclaro{ 
+	background: url('../img/logo-header.png');
 	width: 30%;
 	height: 170px;
 	float: left;
