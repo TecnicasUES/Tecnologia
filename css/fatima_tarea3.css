@@ -13,11 +13,11 @@ body{
 	width: 100%;	
 }
 
-.tazadecafe{ 
-	background: url('../img/logo-header.png');
-	width: 30%;
-	height: 170px;
-	float: left;
+.latte{ 
+	background: url('../img/logo-header.png'); 
+	background-repeat:no-repeat;  
+	width: 320%;
+	height: 300px;
 }
 
 .img1{
@@ -51,31 +51,6 @@ body{
 	margin:0;
 }
 
-/*
-.cl2 > div:nth(2)-child > h1{
-	
-}
-
-/*
-.cl2 > div:last-child > h1{
-	
-}
-
-.cl2 > div:first-child > article > h3{
-
-}
-.cl2 > div:first-child > article > p{
-	
-}
-
-.cl2 > div:first-child > article:nth(2)-child >p{
- 
-}
-
-.cl2 > div:first-child > div:last-child > p{
-
-}
-*/
 
 article{
 	width: 100%;
