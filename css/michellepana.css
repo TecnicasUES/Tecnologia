@@ -251,14 +251,14 @@ footer{
 .fdiv{
 	width: 30%;
 	float: left;
-	min-height: 200px;
+	min-height: 250px;
 	border-right: 2px solid #FFFFFF;
 	background-color:yellow;
 }
 .fdiv2{
 	float: left;
 	width: 70%;
-	min-height: 200px;
+	min-height: 230px;
 	background-color: #04B486;
 
 
