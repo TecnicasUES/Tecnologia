@@ -6,7 +6,7 @@ body{
   padding: 0;
 }
 #contenedor{
-  width: 80%;
+  width: 67%;
   height: auto;
   margin: auto;
   display: block;
@@ -45,7 +45,7 @@ body{
 .texto_1>h2{
   font-family: arial black;
   color: #26150b;
-  font-size: 35pt;
+  font-size: 29pt;
   font-weight: normal;
   letter-spacing: 1pt;
   margin: 0;
@@ -56,14 +56,14 @@ body{
   height: 25px;
   float: left;
   margin-left: 36%;
-  margin-top: 12px;
+  margin-top: 5px;
 }
 .texto_2>h5{
   font-family: arial;
   color: #26150b;
   font-weight: normal;
-  font-size: 17pt;
-  letter-spacing: 4pt;
+  font-size: 15pt;
+  letter-spacing: 3pt;
   margin: 0;
   padding: 0;
 }
@@ -78,7 +78,7 @@ body{
   width: 92%;
   height: 195px;
   float: left;
-  padding: 40px 4% 40px 4%;
+  padding: 25px 4% 10px 4%;
 }
 .texto_3>div:first-child>h3{
   text-align: left;
@@ -111,12 +111,12 @@ body{
   float: left;
 }
 .child1{
-  width: 24%;
+  width: 29%;
   height: 155px;
   float: left;
 }
 .child2{
-  width: 68%;
+  width: 63%;
   height: 135px;
   float: left;
   padding: 10px 4% 10px 4%;
@@ -124,7 +124,7 @@ body{
 .texto_4>div>h3{
   text-align: left;
   color: black;
-  font-size: 22pt;
+  font-size: 20pt;
   letter-spacing: 4px;
   font-weight: bolder;
   margin: 0;
@@ -137,7 +137,7 @@ body{
   letter-spacing: 4px;
   font-weight: normal;
   margin: 0;
-  padding: 0;
+  padding: 8px 0% 0px 0%;
 }
 .texto_4>div>h2{
   color: black;
@@ -145,7 +145,7 @@ body{
   font-weight: bolder;
   letter-spacing: 3pt;
   margin: 0;
-  padding: 0px 6% 0px 6%;
+  padding: 8px 0% 0px 0%;
   text-align: right;
 }
 .imagen_2{
@@ -170,14 +170,14 @@ body{
 }
 .texto_5{
   width: 42%;
-	height: 135px;
+	height: 150px;
 	float: left;
   margin: 0;
 	padding: 10px 3% 10px 3%;
 }
 .texto_6{
   width: 42%;
-	height: 135px;
+	height: 150px;
 	float: left;
   margin: 0;
 	padding: 10px 3% 10px 3%;
@@ -193,7 +193,7 @@ body{
 .texto_5>p{
   text-align: justify;
   color: black;
-  font-size: 13pt;
+  font-size: 12pt;
   letter-spacing: 4px;
   font-weight: normal;
   margin: 0;
@@ -210,7 +210,7 @@ body{
 .texto_6>p{
   text-align: justify;
   color: black;
-  font-size: 13pt;
+  font-size: 12pt;
   letter-spacing: 4px;
   font-weight: normal;
   margin: 0;
