@@ -44,7 +44,7 @@ body {
 .tx1>h1{
 	font-family: arial black;
 	font-weight: bold;
-	font-size: 54pt;
+	font-size: 48pt;
 	text-align: center;
 	color: black;
 	margin: 0;
@@ -97,9 +97,9 @@ body {
 }
 
 
-.u2>h5>{
+.u2>h5{
   font-family: arial;
-  font-size: 18pt;
+  font-size: 16pt;
   font-weight: normal;
   text-align: justify;
   letter-spacing: 3px;
@@ -242,7 +242,7 @@ body {
   font-family: calibri;
   font-size: 14pt;
   font-weight: normal;
-  margin-top: 40pt;
+  margin-top: 40px;
   text-align: justify;
 }
 .t2{
@@ -344,7 +344,7 @@ body {
 
 #pata{
   width: 100%;
-  height: 185px;
+  height: 170px;
   background: #311E00;
   float: left;
 }
@@ -352,7 +352,7 @@ body {
 #pata1{
   width: 10%;
   background: #311E00;
-  height: 185px;
+  height: 100px;
   float: left;
 }
 
@@ -362,21 +362,21 @@ body {
   font-size: 13pt;
   color: white;
   margin-left: 25%;
-  margin-top: 40px;
+  margin-top: 60px;
   float: left;
 }
 
 #pata2 {
 	width: 25%;
-	margin-top: 30px;
-	height: 155px;
+	margin-top: 50px;
+	height: 100px;
 	float: left;
 }
 
 #pata3 {
 	width: 65%;
 	float: left;
-	height: 185px;
+	height: 100px;
 }
 
 .button {
@@ -385,15 +385,16 @@ body {
 	height: 30px;
 	float: right;
 	display: block;
-	margin-top: 30px;
-	margin- right: 15%;
+	margin-top: 50px;
+	margin-right: 5%;
 }
 
 #pata3>.button>h3 {
-	font-family: calibri;
+	  font-family: calibri;
+    text-align: center;
   	font-weight: bold;
   	font-size: 14pt;
- 	color: "311E00";
-	width:inherit;
-	height:inherit;
+    margin-top: 2px;
+    padding: 0;
+    color: black;
 }
