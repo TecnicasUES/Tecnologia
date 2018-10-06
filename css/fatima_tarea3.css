@@ -13,19 +13,12 @@ body{
 	width: 100%;	
 }
 
-.cafeclaro{ 
+.tazadecafe{ 
 	background: url('../img/logo-header.png');
 	width: 30%;
 	height: 170px;
 	float: left;
 }
-
-.cl2{
-	width: 70%;
-	height: 170px;
-	float: left;
-}
-
 
 .img1{
 	background: url('../img/icon.gif');
