@@ -14,19 +14,20 @@ body{
 }
 
 .latte{ 
-	background: url('../img/logo-header.png'); 
+	background:#696969;
 	background-repeat:no-repeat;  
 	width: 320%;
 	height: 300px;
 }
 
 .img1{
-	background: url('../img/icon.gif');
-	width: 70px;
-	height: 70px;
+	background: url('../img/logo-header.png');
+	background-repeat:no-repeat;
+	width: 320%;
+	height: 300px;
 	margin: auto;
 	display: block;
-	margin-top: 50px;
+	margin-top: 5px;
 }
 
 .cl2 > div:first-child > h3{
