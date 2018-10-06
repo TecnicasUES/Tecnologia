@@ -10,6 +10,13 @@ body {
 	height: auto;
 }
 
+.inicio2{
+  width: 100%;
+  height: 300px;
+  float: left;
+  background: saddlebrown;
+}
+
 #iniciodepagina{
 	background:#ffdead;
 	height: 350px;
@@ -17,8 +24,7 @@ body {
 }
 
 .latte{ 
-	background:#8b4513;
-	background-repeat:no-repeat;  
+	background:#8b4513; 
 	width: 320%;
 	height: 300px;
 }
