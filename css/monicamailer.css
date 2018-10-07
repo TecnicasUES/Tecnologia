@@ -1,0 +1,152 @@
+@charset "utf-8";
+
+body{
+	background: #f6f8f1;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 40%;
+	height: auto;
+	background: white;
+	min-height: 60px;
+}
+
+header{
+	background: #A0E575;
+	height:170px;
+	float: left;
+	width: 100%;
+}
+
+.cl1{
+	width: 30%;
+	height: 170px;
+	float: left;
+}
+
+.cl2{
+	width: 70%;
+	height: 170px;
+	float: left;
+}
+
+.img1{
+	background: url('../img/icon.gif');
+	width: 70px;
+	height: 70px;
+	margin: auto;
+	display: block;
+	margin-top: 50px;
+}
+
+.cl2 > div:first-child > h3{
+	color: white;
+	font-size: 14pt;
+	letter-spacing: 12px;
+	text-align: left;
+	font-weight:bold;
+	font-family: calibri;
+	padding: 0;
+	margin: 0;
+	margin-top: 50px;
+}
+
+.cl2 > div:last-child> h1{
+	color: #02153B;
+	font-size: 26pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: tahoma;
+	padding: 0;
+	margin: 0;
+}
+
+article{
+	width: 100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 1px solid #c3c3c3;
+}
+
+section > article:first-child > div > h2{
+    color: black;
+	font-size: 24pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: calibri;
+	padding: 0;
+	margin: 0;
+}
+
+section > article:first-child > div >p{
+    color: gray;
+    line-height: 16pt;
+	font-size: 12pt;
+	text-align: left;
+	font-weight: lighter;
+	font-family: arial;
+	padding: 0;
+	margin: 0;	
+}
+
+section > article:first-child > div{
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	float:left;
+	margin-bottom: 30px;
+	margin-top: 40px
+}
+
+.pl3{
+	width: 35%;
+	height: auto;
+	float: left;
+}
+
+.pl4{
+	width: 55%;
+	margin-top: 20px;
+	height: auto;
+	float: left;
+	margin-right: 10%;
+	margin-bottom: 20px;
+}
+
+.img2{
+	background: url('../img/article1.png');
+	width: 115px;
+	height: 115px;
+	margin: auto;
+	display: block;
+	float: right;
+	margin-top:15px;
+}
+
+.pl4 > div:first-child > p{
+	color: gray;
+    line-height: 16pt;
+	font-size: 12pt;
+	text-align: left;
+	font-weight: lighter;
+	padding: 0;
+	margin: 0;	
+}
+
+.pl4 > div:last-child >button{
+	border: none;
+	background: red;
+	height: 45px;
+	width: 45%;
+	float: left;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-size: 12pt;
+}
