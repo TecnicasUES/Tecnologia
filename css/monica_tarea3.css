@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+body{
+	background: #D1CECF;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 84%;
+	height: auto;
+	background: white;
+	min-height: 60px;
+}
+
+header{
+	background: #EDAF73;
+	height:325px;
+	float: left;
+	width: 100%;
+}
+
+.a1{
+	width: 30%;
+	height: 325px;
+	float: left;
+}
+
+.a2{
+	width: 70%;
+	height: 325px;
+	float: left;
+}
+
+.img1{
+	background: url('../img/logo-header.png');
+	width: 274px;
+	height: 274px;
+	margin: left;
+	display: block;
+}
+
+.a2 > h1{
+	color: #380C00;
+	font-size: 32pt;
+	text-align: left;
+	font-weight:bold;
+	font-family: calibri;
+	padding: 0;
+	margin: 0;
+	margin-top: 100px;
+}
