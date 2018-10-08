@@ -4,7 +4,7 @@ body{
 	background: #D1CECF;
 	margin: 0;
 	padding: 0;
-	font-family: arial;
+	font-family: colibri;
 }
 
 .contenedor{
@@ -48,8 +48,22 @@ header{
 	font-size: 32pt;
 	text-align: left;
 	font-weight:bold;
-	font-family: helvetica black;
+	font-family: arial black;
 	padding: 0;
 	margin: 0;
 	margin-top: 100px;
 }
+
+.a2 > h3{
+	color: #380C00;
+	font-size: 16pt;
+	text-align: left;
+	font-weight:normal;
+	font-family: tahoma;
+	letter-spacing: 5px;
+	padding: 0;
+	margin: 0;
+	margin-left: 25%;
+	margin-top: 20px;
+}
+
