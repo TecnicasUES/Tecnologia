@@ -1,15 +1,15 @@
 @charset "utf-8";
 
 body{
-	background: #f6f8f1;
+	background: #c3c3c3;
 	margin: 0;
 	padding: 0;
-	font-family: colibri;
+	font-family: calibri;
 }
 .contenedor{
 	display: block;
 	margin: auto;
-	width: 80%;
+	width: 85%;
 	height: auto;
 	background: white;
 	min-height: 60px;
