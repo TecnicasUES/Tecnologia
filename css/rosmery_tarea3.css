@@ -4,12 +4,12 @@ body{
 	background: #f6f8f1;
 	margin: 0;
 	padding: 0;
-	font-family: arial;
+	font-family: colibri;
 }
 .contenedor{
 	display: block;
 	margin: auto;
-	width: 50%;
+	width: 80%;
 	height: auto;
 	background: white;
 	min-height: 60px;
