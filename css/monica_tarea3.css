@@ -179,7 +179,7 @@ article{
 	float: left;
 	background: white;
 	height: 175px;
-	border-bottom: 2px solid #cfcdce;
+	border-bottom: 4px solid #cfcdce;
 }
 
 .separador{
@@ -261,6 +261,5 @@ article{
 	width: 100%;
 	float: left;
 	background: white;
-	height: 175px;
-	border-bottom: 2px solid #cfcdce;
+	height: 314px;
 }
