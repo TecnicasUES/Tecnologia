@@ -152,34 +152,41 @@ article{
 
 .discoverb > p{
 	color: black;
-	letter-spacing:2.2px;
+	letter-spacing:3px;
 	font-family: calibri;
 	font-weight:normal;
 	font-size:14pt;
 	padding:0;
 	margin:0;
-	margin-right: 10%;
+	margin-right: 5%;
 	margin-top:5px;
 }
 
 .discoverb > h3{
 	color: black;
-	letter-spacing:2.2px;
+	letter-spacing:3px;
 	font-family: calibri;
 	font-weight:bold;
-	font-size:14pt;
+	font-size:15pt;
 	padding:0;
 	margin:0;
 	margin-left: 60%;
-	margin-right: 10%;
+	margin-right: 5%;
 }
 
 #seccion3{
 	width: 100%;
 	float: left;
 	background: white;
-	height: 155px;
+	height: 175px;
 	border-bottom: 2px solid #cfcdce;
+}
+
+.separador{
+	width: 100%;
+	float: left;
+	background: #EDAF73;
+	height: 15px;
 }
 
 .first{
@@ -220,4 +227,40 @@ article{
 	width: 50%;
 	height: 330px;
 	float: left;
+}
+
+.our> h2{
+	color: black;
+	font-size: 22pt;
+	text-align: left;
+	font-weight:bold;
+	font-family: calibri;
+	letter-spacing:2.2px;
+	padding: 0;
+	margin: 0;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 15px;
+}
+
+.our> p{
+	color: black;
+	letter-spacing:2.2px;
+	font-family: calibri;
+	font-weight:normal;
+	font-size:13pt;
+	padding:0;
+	margin:0;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top:5px;
+}
+
+
+#seccion4{
+	width: 100%;
+	float: left;
+	background: white;
+	height: 175px;
+	border-bottom: 2px solid #cfcdce;
 }
