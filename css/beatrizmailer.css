@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+body{
+	background: #f6f8f1;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 40%;
+	height: auto;
+	background: white;
+	min-height: 60px;
+}
+
+header{
+	background: #A0E575;
+	height:170px;
+	float: left;
+	width: 100%;
+}
