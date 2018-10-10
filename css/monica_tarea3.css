@@ -10,7 +10,7 @@ body{
 .contenedor{
 	display: block;
 	margin: auto;
-	width: 77%;
+	width: 79%;
 	height: auto;
 	background: white;
 	min-height: 60px;
@@ -72,7 +72,7 @@ article{
 	float: left;
 	background: white;
 	height: auto;
-	border-bottom: 1px solid #c3c3c3;
+	border-bottom: 2px solid #c3c3c3;
 }
 
 .know{
@@ -97,7 +97,7 @@ article{
 
 .know > p{
 	color: black;
-	letter-spacing:2px;
+	letter-spacing:2.2px;
 	font-family: calibri;
 	font-weight:normal;
 	font-size:14pt;
@@ -108,24 +108,24 @@ article{
 	margin-right:5%;
 }
 
-article{
+#seccion2{
 	width: 100%;
 	float: left;
 	background: white;
 	height: auto;
-	border-bottom: 3px solid #cfcdce
+	border-bottom: 2px solid #cfcdce;
 }
 
 .discovera{
 	width: 30%;
-	height: 263px;
+	height: 155px;
 	background: white;
 	float: left;
 }
 
 .discoverb{
 	width: 70%;
-	height: 263px;
+	height: 155px;
 	background: white;
 	float: left;
 }
@@ -144,7 +144,7 @@ article{
 	text-align: left;
 	font-weight:bold;
 	font-family: calibri;
-	letter-spacing:2px;
+	letter-spacing:2.2px;
 	padding: 0;
 	margin: 0;
 	margin-top: 15px;
@@ -152,19 +152,19 @@ article{
 
 .discoverb > p{
 	color: black;
-	letter-spacing:2px;
+	letter-spacing:2.2px;
 	font-family: calibri;
 	font-weight:normal;
 	font-size:14pt;
 	padding:0;
 	margin:0;
 	margin-right: 10%;
-	margin-top:12px;
+	margin-top:5px;
 }
 
 .discoverb > h3{
 	color: black;
-	letter-spacing:2px;
+	letter-spacing:2.2px;
 	font-family: calibri;
 	font-weight:bold;
 	font-size:14pt;
@@ -172,4 +172,52 @@ article{
 	margin:0;
 	margin-left: 60%;
 	margin-right: 10%;
+}
+
+#seccion3{
+	width: 100%;
+	float: left;
+	background: white;
+	height: 155px;
+	border-bottom: 2px solid #cfcdce;
+}
+
+.first{
+	width: 50%;
+	height: 330px;
+	float: left;
+}
+
+.first> h2{
+	color: black;
+	font-size: 22pt;
+	text-align: left;
+	font-weight:bold;
+	font-family: calibri;
+	letter-spacing:2.2px;
+	padding: 0;
+	margin: 0;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 15px;
+}
+
+.first > p{
+	color: black;
+	letter-spacing:2.2px;
+	font-family: calibri;
+	font-weight:normal;
+	font-size:13pt;
+	padding:0;
+	margin:0;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top:5px;
+}
+
+
+.our{
+	width: 50%;
+	height: 330px;
+	float: left;
 }
