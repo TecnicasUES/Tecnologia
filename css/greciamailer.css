@@ -27,12 +27,15 @@ header{
 	width: 30%;
 	height: 170px;
 	float: left;
+
+
 }
 
 .cl2{
 	width: 70%;
 	height: 170px;
 	float: left;
+	background: #c3c3c3;
 }
 
 .img1{

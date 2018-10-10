@@ -1,0 +1,110 @@
+@charset "utf-8";
+
+body{
+	background: #c3c3c3;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 90%;
+	height: auto;
+	background:#EDAF73;
+	min-height: 350px;
+}
+
+.a1{
+	width: 21%;
+	height: 300px;
+	float: left;
+
+}
+
+.a2{
+	width: 79%;
+	height: 300px;
+	float: left;
+
+}
+
+
+.img1{
+	background: url('../img/logo-header.png');
+	width: 275px;
+	height: 274px;
+	margin: auto;
+	display: block;
+	margin-top:0px;
+}
+
+.a2> div:first-child>h1{
+	color: black;
+	font-size: 40pt;
+	text-align: left;
+	font-weight:bold;
+	font-family:arial black;
+	padding: 0;
+	margin: 0;
+	margin-top: 90px;
+	margin-left: 9%;
+}
+
+.a2> div:last-child>h3{
+	color: black;
+	font-size: 16pt;
+	text-align: left;
+	font-family:tahoma;
+	padding: 0;
+	margin:0;
+	margin-top:0px;
+	margin-left: 55%;
+
+}
+
+article{
+	width: 90%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 1px solid #c3c3c3;
+	margin-left: 5%;
+	
+}
+
+section>article:first-child>div>h2{
+	color: black;
+	font-size: 24pt;
+	text-align: left;
+	font-weight: bold;
+	font-family:calibri;
+	padding: 0;
+	margin:0;
+	margin-left: 4%;
+	margin-top: 20px;
+}
+
+section>article:first-child>div>p{
+	color:black;
+	font-size: 14pt;
+	text-align: left;
+	font-family:arial;
+	letter-spacing: 4px;
+	padding: 0;
+	margin: 0;
+	margin-left: 5%;
+	margin-right: 5%;
+	
+}
+
+.img2{
+	background: url('../img/img1.png');
+	width: 263px;
+	height: 155px;
+	margin: auto;
+	display: block;
+	margin-top:40px;
+	margin-right:90%
+}
