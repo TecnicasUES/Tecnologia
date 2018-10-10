@@ -6,3 +6,62 @@ body{
 	padding: 0;
 	font-family: arial;
 }
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 90%;
+	height: auto;
+	background: white;
+	min-height: 350px;
+}
+
+header{
+	background: #ddae76;
+	height:350px;
+	float: left;
+	width: 100%;
+}
+
+.clase1{
+	width: 30%;
+	height: 170px;
+	float: left;
+
+
+}
+
+.img1{
+	background: url('../img/logo-header.png');
+	width: 275px;
+	height: 273px;
+	display: block;
+	margin-top: 0px;
+}
+
+.cl2 > div:first-child > h2{
+	color: #28160a;
+	font-size: 48pt;
+	letter-spacing: auto;
+	text-align: left;
+	font-weight:bold;
+	font-family: myanmar text;
+	padding: 0;
+	margin: 0;
+	margin-top: 120px;
+}
+
+.cl2 > div:last-child> h5{
+	color: #28160a;
+	font-size: 14pt;
+	text-align: right;
+	font-weight:lighter;
+	font-family: microsoft yahei;
+	padding: 0;
+	margin: 0;
+	margin-right: 145px;
+	letter-spacing: 3px;
+}
+
+
+
