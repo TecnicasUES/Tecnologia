@@ -9,16 +9,57 @@ body{
 .contenedor{
 	display: block;
 	margin: auto;
-	width: 85%;
+	width: 72%;
 	height: auto;
 	background: white;
 	min-height: 60px;
 }
 
 header{
-	background: #87c274;
-	height: 170px;
+	background: #F4B375;
+	height: 330px;
 	width: 100%;
 	float: left;
-	float: 
+}
+ .a1{
+ 	width: 30%
+ 	height:330px;
+ 	float: left;
+ }
+
+ .a2{
+ 	width: 70%;
+ 	height: 330px;
+ 	float: left;
+ }
+
+ .img1{
+ 	background: url('../img/logo-header.png');
+ 	width:275px;
+ 	height: 274px;
+ 	margin-left;
+ 	display:block; 
+ }
+
+.a2 > h1{
+	color: #211203;
+	font-size: 35pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: arial black;
+	margin: 0;
+	padding: 0;
+	margin-top: 120px;
+}
+.a2 > h3{
+	color: #211203;
+	font-size: 20pt;
+	text-align: left;
+	font-weight: lighter;
+	font-family: calibri;
+	letter-spacing: 3px;
+	margin: 0;
+	padding: 0;
+	margin-top: 4px;
+	margin-left: 38%;
 }
