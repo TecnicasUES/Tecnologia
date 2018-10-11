@@ -43,7 +43,7 @@ header{
 
 .a2 > h1{
 	color: #211203;
-	font-size: 35pt;
+	font-size: 32pt;
 	text-align: left;
 	font-weight: bold;
 	font-family: arial black;
@@ -53,7 +53,7 @@ header{
 }
 .a2 > h3{
 	color: #211203;
-	font-size: 20pt;
+	font-size: 18pt;
 	text-align: left;
 	font-weight: lighter;
 	font-family: calibri;
@@ -62,4 +62,43 @@ header{
 	padding: 0;
 	margin-top: 4px;
 	margin-left: 38%;
+}
+
+article{
+	width: 100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 1px solid #c3c3c3;
+}
+
+.texto1{
+	width: 100%
+	height:auto;
+	float: left;
+}
+
+section > article:first-child >div> h2{
+    color: black;
+	font-size: 22pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-top: 20px;
+	margin-left: 7%;
+	letter-spacing: 2.5px;
+}
+section > article:first-child >div> p{
+    color: black;
+	font-size: 13pt;
+	text-align: left;
+	font-weight: normal;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-top: 13px;
+	margin-left: 7%;
+	letter-spacing: 2.5px;
 }
