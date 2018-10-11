@@ -36,8 +36,12 @@ header {
   color: cyan;
   text-align: center;
 }
-
-
+#menu>li:hover{
+  background:  #4980d0;
+}
+#menu>li>a:hover{
+  color:  #f0b330;
+}
 
 
 
