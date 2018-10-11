@@ -204,8 +204,8 @@ article{
 	letter-spacing:2.2px;
 	padding: 0;
 	margin: 0;
-	margin-right: 10%;
-	margin-left: 10%;
+	margin-right: 6%;
+	margin-left: 6%;
 	margin-top: 15px;
 }
 
@@ -214,11 +214,11 @@ article{
 	letter-spacing:2.2px;
 	font-family: calibri;
 	font-weight:normal;
-	font-size:13pt;
+	font-size:14pt;
 	padding:0;
 	margin:0;
-	margin-right: 10%;
-	margin-left: 10%;
+	margin-right: 6%;
+	margin-left: 6%;
 	margin-top:5px;
 }
 
@@ -238,8 +238,8 @@ article{
 	letter-spacing:2.2px;
 	padding: 0;
 	margin: 0;
-	margin-right: 10%;
-	margin-left: 10%;
+	margin-right: 6%;
+	margin-left: 6%;
 	margin-top: 15px;
 }
 
@@ -248,11 +248,11 @@ article{
 	letter-spacing:2.2px;
 	font-family: calibri;
 	font-weight:normal;
-	font-size:13pt;
+	font-size:14pt;
 	padding:0;
 	margin:0;
-	margin-right: 10%;
-	margin-left: 10%;
+	margin-right: 6%;
+	margin-left: 6%;
 	margin-top:5px;
 }
 
@@ -261,5 +261,50 @@ article{
 	width: 100%;
 	float: left;
 	background: white;
-	height: 314px;
+	height: 325px;
+	border-bottom: 1px solid #cfcdce;
 }
+
+#seccion5{
+	width: 100%;
+	float: left;
+	background: white;
+	height: 150px;
+}
+
+.we> h2{
+	color: black;
+	font-size: 22pt;
+	text-align: left;
+	font-weight:bold;
+	font-family: calibri;
+	letter-spacing:2.2px;
+	padding: 0;
+	margin: 0;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 15px;
+}
+
+.we> p{
+	color: black;
+	letter-spacing:2.2px;
+	font-family: calibri;
+	font-weight:normal;
+	font-size:14pt;
+	padding:0;
+	margin:0;
+	margin-right: 4%;
+	margin-left: 5%;
+	margin-top:5px;
+}
+
+#seccion6{
+	width: 100%;
+	float: left;
+	background: #380C00;
+	height: 100px;
+}
+
+
+
