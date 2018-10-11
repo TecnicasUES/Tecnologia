@@ -157,3 +157,16 @@ background: #1ec6c6;
   font-size: 12pt;
   font-weight: lighter;
 }
+footer>div{
+	background: purple;
+	height: 70px;
+	width: 100%;
+float: left;
+}
+
+footer>div>p{
+  	text-align: center;
+	font-size: 12pt;
+	font-family: arial;
+	color: white;
+}
