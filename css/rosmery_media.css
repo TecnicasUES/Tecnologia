@@ -95,6 +95,22 @@ header{
   padding: 0;
   text-align: left;
 }
+#banner>div>div>div>button{
+  background:  #a3f4ff;
+  height: 50px;
+  width: 15%;
+  border: 1px solid purple;
+  text-align: center;
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: lighter;
+  border-radius: 2px;
+  margin-left: 10%;
+  margin-top: 10px;
+}
 
-
-
+#banner>div>div>div>button:hover{
+  background: #1d3566;
+  cursor: pointer;
+  color: white;
+}
