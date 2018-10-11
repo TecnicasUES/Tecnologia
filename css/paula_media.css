@@ -31,21 +31,21 @@ header{
 	float: left;
 	text-align: center;
 	padding-top:  25px;
-	border-right: 1px solid black;	
+	border-right: 1px solid cyan;	
 }
 
 
 #menu>li>a{
 	text-decoration: none;
-	color: black;
+	color: cyan;
 	text-align: center;
 }
 
-#menu>li: hover {
-	background: #4c5444;
+#menu>li:hover {
+	background: #41F0FF;
 }
 
-#menu>li>a: hover{
+#menu>li>a:hover{
 	color: black;
 }
 
@@ -67,8 +67,8 @@ header{
 	height: 520px;
 	float: left;
 }
-#banner> .cl1>.img{
-	width: 501%;
+#banner>.cl1>.img{
+	width: 501px;
 	height: 501px;
 	background: url('../img/img-flat.png');
 	margin: auto;
