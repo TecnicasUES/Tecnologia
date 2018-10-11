@@ -7,7 +7,7 @@ body{
 	padding: 0;
 }
 .contenedor{
-	width: 75%;
+	width: 70%;
 	height: auto;
 	margin: auto;
 	display: block;
@@ -49,14 +49,14 @@ header{
 	font-family: arial;
 	font-size: 50pt;
 	font-weight: bold;
-	padding-left: 12%;
+	padding-left: 7%;
 	color: #241C15;
 }
 .tex2{
 	width: 100%;
 	height: 50px;
 	float: left;
-	margin-left: 600px;
+	margin-left: 500px;
 	margin-top: 30px;	
 }
 .tex2>h4{
@@ -69,12 +69,12 @@ header{
 	color: #241C15;
 }
 .introduccion{
-	width: 90%;
+	width: 93%;
 	height: 200px;
 	float: left;
-	padding: 40px 4% 40px 4%;
+	padding: 40px 3% 40px 3%;
 	background: white;
-	border-bottom: 2px;
+	border-bottom: 2px solid #868DA1;
 }
 .introduccion>h2{
 	color: black;
@@ -87,10 +87,67 @@ header{
 }
 .introduccion>p{
 	color: black;
-	font-size: 15pt;
+	font-size: 16pt;
 	font-weight: normal;
 	letter-spacing: 3px;
 	text-align: justify;
+	margin: 0;
+	padding: 0;
+	line-height: 26px;
+}
+.parrafo2{
+	width: 100%;
+	height: 155px;
+	float: left;
+	background: white;
+	border-bottom: 2px solid #868DA1;
+}
+.hijo3{
+	width: 20%;
+	height: 155px;
+	float: left;
+}
+.img2{
+	margin: auto;
+	padding: 0;
+	display: block;
+	float: left;
+	background: url(../img/img1.png);
+	width: 263px;
+	height: 155px;
+}
+.tex3{
+	width: 74%;
+	height: 155px;
+	float: left;
+	padding: 15px 3% 15px 3%;
+}
+.tex3>h2{
+	margin: 0;
+	font-family: arial;
+	letter-spacing: 3px;
+	font-size: 20pt;
+	font-weight: bold;
+	padding: 0;
+	color: black;
+	margin-left: 0.5%;
+}
+.tex3>p{
+	margin: 0;
+	letter-spacing: 3px;
+	font-size: 16pt;
+	font-weight: normal;
+	padding: 0;
+	color: black;
+	margin-left: 0.5%;
+	text-align: justify;
+}
+.tex3>h4{
+	color: black;
+	font-size: 14pt;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-align: right;
 	margin: 0;
 	padding: 0;
 }
