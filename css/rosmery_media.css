@@ -39,7 +39,13 @@ header{
   color: cyan;
   text-align: center;
 }
+#menu>li:hover{
+  background: #e696ff;
+}
 
+#menu>li>a:hover{
+  color: black;
+}
 
 
 
