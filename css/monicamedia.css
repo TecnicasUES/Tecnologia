@@ -76,4 +76,48 @@ header{
     display: block;
 }
 
+#banner>.cl2>div>h1{
+    margin: 0;
+    padding: 0;
+    color: #433A96;
+    letter-spacing: 2px;
+    font-size: 26pt;
+    text-align: left;
+    font-family: calibri;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+#banner>.cl2>div>p{
+    margin: 0;
+    padding: 0;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 16pt;
+    text-align: left;
+    font-family: calibri;
+    font-weight: lighter;
+}
+
+#banner>.cl2>div>div>button{
+    background: #71E3E1;
+    height: 50px;
+    width: 25%;
+    border-radius: 2px;
+    border: 1px solid purple;
+    text-align: center;
+    font-family: calibri;
+    font-size: 12pt;
+    font-weight: lighter;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+
+
+#banner>.cl2>div>div>button:hover{
+    background: #684ABF;
+}
+
+
+
 
