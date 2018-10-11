@@ -67,3 +67,42 @@ background: #1ec6c6;
   margin: auto;
   display: block;
 }
+#banner>.cl2>div>h1{
+  margin: 0;
+  padding: 0;
+ letter-spacing: 2px;
+  color: purple;
+  font-size: 26pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-top: 100px;
+}
+#banner>.cl2>div>p{
+  letter-spacing: 2px;
+  color: black;
+  font-family: calibri;
+  font-weight: lighter;
+  font-size: 16pt;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+#banner>.cl2>div>div>button{
+  background: cyan;
+  height: 50px;
+  width: 15%;
+  border-radius: 2px;
+  border:1px solid purple;
+  text-align: center;
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: lighter;
+  margin-left: 10%;
+  margin-top: 10px;
+}
+#banner>.cl2>div>div>button:hover{
+  background: yellow;
+  cursor: pointer;
+  color: blue;
+}
