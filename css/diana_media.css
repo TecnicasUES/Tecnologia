@@ -11,7 +11,7 @@ header{
   background:#4e587c;
   margin:0;
   padding:0;
-  height:100px;
+  height:70px;
   width:100%;
   float:left;
 }
@@ -26,7 +26,7 @@ header{
 
 #menu>li{
   width:12%;
-  height:70px;
+  height:45px;
   display:block;
   float:left;
   padding-top: 25px;
@@ -40,6 +40,40 @@ header{
   text-align: center;
 }
 
+#menu>li:hover{
+  background:#b3a7e1;
+}
+
+#menu>li>a:hover{
+ color:#9e3a83;
+}
+
+#banner{
+  width: 100%;
+  height: 520px;
+  float: left;
+  background: #91ebc8;
+}
+
+#banner>.cl1{
+  width: 40%;
+  height: 520px;
+  float:left;
+}
+
+#banner>.cl2{
+   width: 60%;
+  height: 520px;
+  float:left;
+}
+
+#banner>.cl1>.img1{
+   width: 501px;
+  height: 501px;
+  background: url('../img/img-flat.png');
+  margin:auto;
+  display:block;
+}
 
 
 
