@@ -69,7 +69,7 @@ header{
 	padding: 0;
 	margin: 0;
 	margin-left: 45%;
-	letter-spacing: 3px;
+	letter-spacing: 4px;
 	
 }
 
@@ -83,12 +83,13 @@ article{
 
 section > article:first-child > div > h2{
     color: black;
-	font-size: 18pt;
+	font-size: 20pt;
 	text-align: left;
 	font-weight: bold;
 	font-family: calibri;
 	padding: 0;
 	margin: 0;
+	letter-spacing: 3px;
 	
 
 }
@@ -114,6 +115,62 @@ section > article:first-child > div{
 	margin-bottom: 30px;
 	margin-top: 40px
 }
+
+.pl3{
+	width: 23%;
+	height: auto;
+	float: left;
+}
+
+
+.pl4{
+	width: 75%;
+	margin-top: 2px;
+	height: auto;
+	float: left;
+	margin-right: 1%;
+	margin-bottom: 20px;
+
+}
+
+article{
+	width: 100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 2px solid #c3c3c3;
+}
+
+
+
+.img2{
+	background: url('../img/img1.png');
+	width: 262px;
+	height: 155px;
+	margin: auto;
+	display: block;
+	float: left;
+	
+}
+
+.pl4 > div:first-child > p{
+	color: black;
+    line-height: 18pt;
+	font-size: 12pt;
+	text-align: left;
+	font-weight: auto;
+	font-family: verdana;
+	padding: 0;
+	margin: 0;
+	letter-spacing: 2px;
+	
+	
+}	
+
+
+
+
+
 
 
 
