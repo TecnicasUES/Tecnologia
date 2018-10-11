@@ -132,7 +132,16 @@ header{
 	height: 250px;
 	float: left;
 }
-
+#art2>div>.cl3{
+	width: 30%;
+	height: 250px;
+	float: left;
+}
+#art2>div>.cl4{
+	width: 70%;
+	height: 250px;
+	float: left;
+}
 #art2>div>.cl3>.img2{
 	width: 86px;
 	height: 85px;
