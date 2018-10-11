@@ -117,8 +117,35 @@ article{
 }
 
 .discover{
-	width: 30%;
+	width: 35%;
 	height: 160px;
 	background: white;
 	float: left;
+}
+
+.perfect{
+	width: 65%;
+	height: 155px;
+	background: white;
+	float: left;
+}
+
+.img2{
+	background: url('../img/img1.png');
+	width: 263px;
+	height: 155px;
+	margin: left;
+	display: block;
+}
+
+.perfect> h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding:0;
+	margin:0;
+	font-size:22pt;
+	letter-spacing:3px;
+	margin-top:18px;
 }
