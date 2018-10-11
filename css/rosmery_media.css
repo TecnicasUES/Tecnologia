@@ -114,3 +114,14 @@ header{
   cursor: pointer;
   color: white;
 }
+
+#art2{
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  height: 250px;
+  float: left;
+  background: gray;
+}
+
+
