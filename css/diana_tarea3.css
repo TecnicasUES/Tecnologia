@@ -107,3 +107,18 @@ article{
 	margin-right:6%;
 	letter-spacing:2.5px;
 }
+
+.section{
+	width: 100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 3px solid #c3c3c3;
+}
+
+.discover{
+	width: 30%;
+	height: 160px;
+	background: white;
+	float: left;
+}
