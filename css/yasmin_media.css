@@ -59,5 +59,12 @@ header{
 	float: left;
 }
 #banner2>.cl2{
-	
+	width: 60%;
+	height: 520px;
+	float: left;
 }
+#banner>.cl1>.img1{
+	width: 501px;
+	height: 501px;
+	background: url('../img/img-flat.png');
+}	
