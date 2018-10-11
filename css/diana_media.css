@@ -139,9 +139,59 @@ header{
   float:left;
 }
 
-#name>div:last-child{
+#art2>div:last-child{
   margin-left: 5%;
   width: 27%;
   height: 250px;
   float:left;
 }
+
+#art2>div>.cl3{
+  width: 30%;
+  height: 250px;
+  float:left;
+}
+
+#art2>div>.cl4{
+  width: 70%;
+  height: 250px;
+  float:left;
+}
+
+#art2>div>.cl3>.img2{
+  width: 86px;
+  height: 85px;
+  background: url('../img/v1.png');
+  margin:auto;
+  display: block;
+  margin-top: 15px;
+}
+
+#art2>div>.cl4>p{
+  font-family: calibri;
+  color:black;
+  letter-spacing: 2px;
+  font-family: 12pt;
+  font-weight: lighter;
+}
+
+#art2>div>.cl3>.img3{
+  width: 86px;
+  height: 85px;
+  background: url('../img/v2.png');
+  margin:auto;
+  display: block;
+  margin-top: 15px;
+}
+
+
+#art2>div>.cl3>.img4{
+  width: 86px;
+  height: 85px;
+  background: url('../img/v3.png');
+  margin:auto;
+  display: block;
+  margin-top: 15px;
+}
+
+
