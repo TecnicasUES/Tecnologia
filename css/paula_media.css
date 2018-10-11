@@ -74,3 +74,26 @@ header{
 	margin: auto;
 	display: block;
 }
+
+
+
+
+#banner>.cl2>div>div>button{
+	background: cyan;
+	height: 50px;
+	width: 15%;
+	border-radius: 2px;
+	border: 1px solid purple;
+	text-align: center;
+	font-family: calibri;
+	font-size: 12pt;
+	font-weight: lighter;
+	margin-left: 10%;
+	margin-top: 10px;
+}
+
+#banner>.cl2>div>div>button:hover{
+	background: black;
+	cursor: pointer;
+	color: white;
+}
