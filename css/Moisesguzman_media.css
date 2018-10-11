@@ -71,9 +71,32 @@ color: cyan;
 #banner>.cl1>.img1{
   width: 501px;
   height: 501px;
-  background: url('../img/-flat.png');
+  background: url('../img/img-flat.png');
   margin: auto;
   display: block;
 }
 
+#banner>.cl2>div>h1{
+  margin: 0;
+  padding: 0;
+  letter-spacing: 2px;
+  color:purple;
+  font-size: 26pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-top: 100px
+  
+}
 
+#banner>.cl2>div>p{
+  letter-spacing: 2px;
+  color: black;
+  font-family: calibri;
+  font-weight: 
+  
+  
+  
+  
+  
+}
