@@ -162,7 +162,24 @@ header{
     margin:auto;
     display: block;
     margin-top: 15px;
- 
+ }   
+    
+  #art>div>.imagen2>.img3{
+    width: 86px;
+    height: 85px;
+    background: url('../img/v2.png');
+    margin:auto;
+    display: block;
+    margin-top: 15px;
+ }     
+  #art>div>.imagen2>.img4{
+    width: 86px;
+    height: 85px;
+    background: url('../img/v3.png');
+    margin:auto;
+    display: block;
+    margin-top: 15px;
+ } 
   #art>div>.texto2>p{
     font-family: calibri;
     color:black;
@@ -170,3 +187,14 @@ header{
     font-size: 12pt;
     font-
   }
+footer{
+  background: purple;
+  heigth:100px;
+  width:100%;
+  float:left;
+}
+footer>div>p{
+  font-family: calibri;
+    color:white;
+  text-align: center;
+}
