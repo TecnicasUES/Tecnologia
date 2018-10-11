@@ -176,9 +176,17 @@ header {
   display: block;
   margin-top: 15px;
 }
+footer{
+  background: purple;
+  height: 100px;
+  width: 100%;
+  float: left;
+}
 
-
-
+footer>p{
+  color:white;
+  text-align: center;
+}
 
 
 
