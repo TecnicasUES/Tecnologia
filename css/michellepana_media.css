@@ -66,3 +66,10 @@ header{
 	height: 520px;
 	float: left;
 }
+#banner>.cl1>.img1{
+	width: 501px;
+	height: 501px;
+	background: url('../img/img-flat.png');
+}
+
+
