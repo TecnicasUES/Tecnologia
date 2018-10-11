@@ -1,6 +1,6 @@
-@charset "utf-8"
+@charset "utf-8";
 body{
-	background: white;
+	background: pink;
 	font-family: arial;
 	margin: 0;
 	color: black;
@@ -8,7 +8,7 @@ body{
 	
 }
 header{
-	background: #4e587c;
+	background: #1f3252;
 	margin: 0;
 	padding: 0;
 	height: 70px;
@@ -23,6 +23,7 @@ header{
 	float:left;
 	margin: 0;
 	padding: 0;
+	float: left;
 	
 }
 #menu>li{
