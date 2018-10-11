@@ -116,4 +116,32 @@ header{
   color:white;
 }
 
+#art2{
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 40;
+  height: 250px;
+  float:left;
+  background: gray;
+}
 
+#art2>div:first-child{
+  margin-left: 5%;
+  width: 27%;
+  height: 250px;
+  float:left;
+}
+
+#art2>div:nth-child(2){
+  margin-left: 5%;
+  width: 27%;
+  height: 250px;
+  float:left;
+}
+
+#name>div:last-child{
+  margin-left: 5%;
+  width: 27%;
+  height: 250px;
+  float:left;
+}
