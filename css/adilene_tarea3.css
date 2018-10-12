@@ -44,8 +44,20 @@ header{
 	display: block;
 }
 
-.en2 > div:first-child > h3{
+.en2 > div:first-child > h1{
 	color: black;
+	font-size: 18pt;
+	letter-spacing: 1px;
+	text-align: left;
+	font-weight: normal;
+	font-family: calibri;
+	margin: 0;
+	margin: 0;
+	margin-top: 50px;
+}
+
+.en2 > div:last-child > h3{
+	color: cyan;
 	font-size: 16pt;
 	letter-spacing: 1px;
 	text-align: left;
