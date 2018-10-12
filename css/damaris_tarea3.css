@@ -63,7 +63,7 @@ header{
 	letter-spacing: 3px;
 	padding: 0;
 	margin: 0;
-	margin-left: 33%;
+	margin-left: 25%;
 	margin-top: 5px;
 }
 
@@ -72,12 +72,12 @@ article{
 	float: left;
 	background: white;
 	height: auto;
-	border-bottom: 2px solid #c3c3c3;
+	border-bottom: 3px solid #c3c3c3;
 }
 
 .conocer{
 	width: 100%;
-	height: 275px;
+	height: 280px;
 	background: white;
 	float: left;
 }
@@ -178,7 +178,7 @@ article{
 	width: 100%;
 	float: left;
 	background: white;
-	height: 175px;
+	height: 150px;
 	border-bottom: 4px solid #cfcdce;
 }
 
@@ -191,7 +191,7 @@ article{
 
 .origenes{
 	width: 50%;
-	height: 330px;
+	height: 150px;
 	float: left;
 }
 
@@ -225,7 +225,7 @@ article{
 
 .nuestrodise{
 	width: 50%;
-	height: 330px;
+	height: 150px;
 	float: left;
 }
 
