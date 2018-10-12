@@ -113,7 +113,7 @@ article{
 	float: left;
 	background: white;
 	height: auto;
-	border-bottom: 2px solid #c3c3c3;
+	border-bottom: 4px solid #c3c3c3;
 }
 
 .discover{
@@ -174,4 +174,49 @@ article{
 	letter-spacing:2px;
 	margin-top:0.5px;
 	margin-left:65%;
+}
+#tercera{
+	width: 100%;
+	float: left;
+	background: white;
+	height: 175px;
+	border-bottom: 4px solid #c3c3c3;
+}
+.borde{
+	width: 100%;
+	float: left;
+	background: #deae75;
+	height: 13px;
+}
+.first{
+	width: 50%;
+	height: 340px;
+	float: left;
+}
+
+.first>div>h2{
+	color: black;
+	font-size: 22pt;
+	font-family: calibri;
+	text-align: left;
+	letter-spacing:2.5px;
+	padding: 0;
+	font-weight:bold;
+	margin: 0;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-top: 25px;
+}
+
+.first > p{
+	color: black;
+	letter-spacing:2.2px;
+	font-family: calibri;
+	font-weight:normal;
+	font-size:14pt;
+	padding:0;
+	margin:0;
+	margin-right: 6%;
+	margin-left: 6%;
+	margin-top:5px;
 }
