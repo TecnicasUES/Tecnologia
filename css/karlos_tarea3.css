@@ -188,15 +188,23 @@ section > article:first-child > div{
 }
 
 .k1{
-	width: 50%;
-	height: 320px;
+	width: 40%;
+	height: 100px;
 	float: left;
+	margin-top: 19px;
+	margin-right:5%;
+	margin-left:5%;
+	margin-bottom: 19px;
 }
 
 .k2{
-	width: 50% ;
-	height:320px;
+	width: 40%;
+	height: 100px;
 	float: left;
+	margin-top: 19px;
+	margin-right:5%;
+	margin-left:5%;
+	margin-bottom: 19px;
 }
 
 .k1 > div:first-child> h2{
