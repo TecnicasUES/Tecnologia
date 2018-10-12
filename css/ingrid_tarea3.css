@@ -105,36 +105,44 @@ section > article:first-child > div > p{
 
 .c2{
 	width: 100%;
-	height: auto;
+	height: 159px;
 	float: left;
-	background: #cfcdce;
-}
-pl4{
-	width: 55%;
-	height: auto;
-	float: left;
-	margin-right: 10%;
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-
-img2{
-	background: url('../img/article1.png');
-	width: 115px;
-	height: 115px;
-	float: right;
-	margin-top: 15px;
-}
-pl4 > div:first-child >p{
-	color: gray;
-	text-align: left;
-	font-size: 12pt;
+	background: #a5a1a3;
 	padding: 0;
 	margin: 0;
-	font-weight: lighter;
-	line-height: 16pt;
+}
+.img2{
+	background: url('../img/img1.png');
+	width: 263px;
+	height: 155px;
+	float: left;
+	margin-top: 1px;
 }
 
+.cl4{
+	width: 77.1%;
+	background: white;
+	height: 159px;
+	float: right;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.cl4 > div:first-child > h2{
+	text-align: left;
+	font-family: arial;
+	font-size: 22pt;
+	letter-spacing: 2.5px;
+	padding: 0;
+	margin: 0;
+	margin-left: 5%;
+	margin-right: 3%;
+	font-weight: bold;
+	line-height: 16pt;
+	margin-top: 25px;
+	line-height: 18pt;
+}
+/*line-height: 16pt;*/
 pl4 > div:last-child > button{
 	border: none;
 	background: red;
