@@ -215,11 +215,7 @@ section>article:first-child>div>p{
 	padding: 0;
 	margin:0;
 	margin-left: 10%;
-	
-
 }
-
-
 .boxtext2{
 	width: 50%;
 	height:200px;
@@ -284,5 +280,74 @@ section>article:first-child>div>p{
 	margin:0;
 	margin-left: 10%;
 	margin-right: 10%;
+}
+.pie{
+	width: 100%;
+	height:200px;
+	float: left;
+	background: #803300;
+}
+.hijo1{
+	width: 60%;
+	height:200px;
+	float: left;
+	background: #803300;
+}
+.sub1hijo1{
+	width: 30%;
+	height:200px;
+	float: left;
+	background: #803300;
+	
 
+}
+.sub2hijo2{
+	width: 50%;
+	height:200px;
+	float: left;
+	background: #803300;
+
+}
+.sub1hijo1>h6{
+	color: white;
+	text-align: left;
+	font-size: 14pt;
+	font-weight: normal;
+	font-family: arial;
+	letter-spacing: 3px;
+	padding: 0;
+	margin:0;
+	margin-left: 50%;
+    margin-top: 50px;
+}
+.valdes{
+	height:40px; 
+	width:100%;
+	margin: auto;
+	float: left;
+	
+
+}
+.logo{
+
+	width:193px;
+	height:35px;
+	float: left; 
+}
+.pucho{
+	height:200px; 
+	width:20%;
+	float: left;
+	
+}
+button{
+	border-style:none;
+	width: 80%;
+	height: 60px;
+	margin-top: 30px;
+	float:left;
+	margin-left: 10%;
+	background:#FFAC3B;
+	color:brown;
+	font-family: arial black;
 }
