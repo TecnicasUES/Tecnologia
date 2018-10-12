@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-	background: white;
+	background: gray;
 	font-family: arial;
 	margin: 0;
 	padding: 0;
@@ -68,11 +68,12 @@ header{
 	padding: 0;
 	color: #241C15;
 }
+
 .introduccion{
-	width: 93%;
+	width: 94%;
 	height: 200px;
 	float: left;
-	padding: 40px 3% 40px 3%;
+	padding: 30px 3% 40px 3%;
 	background: white;
 	border-bottom: 2px solid #868DA1;
 }
@@ -281,3 +282,23 @@ footer{
 	width: 193px;
 	height: 35px;
 }
+.botton{
+	width: 60%;
+	height: 90px;
+	float: left;
+}
+.botton>button{
+	width: 20%;
+	height: 35px;
+	color: black;
+	background: #B27B28;
+	float: left;
+	border: none;
+	font-weight: bold;
+	font-size: 10pt;
+	letter-spacing: 3px;
+	margin-top: 30px;
+	margin-left: 70%;
+
+
+}	
