@@ -245,16 +245,16 @@ section > article:first-child > div > p{
 	line-height: 15pt;
 }
 
-.img3{
+.banner{
 	background: url('../img/article4.png');
 	width: 900px;
 	height: 314px;
 	float: left;
-	margin-bottom: 3px;
 	padding: 0;
 	margin: 0;
 	display: block;
 }
+
 
 
 
