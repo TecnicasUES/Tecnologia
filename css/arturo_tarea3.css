@@ -1,0 +1,46 @@
+@charset "utf-8";
+body{
+  background:#E7E7E7;
+  font-family:arial;
+  margin:0;
+  padding:0;
+  color: black;
+}
+.contenedor{
+    display: block;
+    margin: auto;
+    width: 93%;
+    height: auto;
+    background: white;
+}
+header{
+background:#FEBF81;
+  margin:0;
+  padding:0;
+  height: 400px;
+  width: 100%;
+  float: left;
+display: block;
+}
+.cl1{
+	width: 30%;
+    height: 400px;
+    float: left;
+}
+.img1{
+  height: 275px;
+  width: 274px;
+  background: url('../img/logo-header.png');
+  margin: 0;
+  display: block;
+}
+#BannerMenu>.cl2>div>h3{
+  margin: 0;
+  padding: 0;
+  color: #754822;
+  font-size: 40pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-top: 100px;
+}
