@@ -123,15 +123,20 @@ section > article:first-child > div{
 
 .c1{
 	width: 25%;
-	height: 320px;
+	height: 155px;
 	float: left;
 }
 
 .c2{
-	width: 75% ;
-	height:320px;
+	width: 70% ;
+	height:155px;
 	float: left;
+	margin-top: 1px;
+	margin-right:2.5%;
+	margin-left:2.5%;
+	margin-bottom: 1px;
 }
+
 
 
 .imgtaza{
@@ -140,6 +145,7 @@ section > article:first-child > div{
 	height: 155px;
 	margin: 0;
 	display: block;
+	padding: 0;
 }
 
 .c2 > div:first-child> h2{
@@ -152,7 +158,7 @@ section > article:first-child > div{
 	font-size: 20pt;
 }
 
-.c2 > div:first-child> p{
+.c2 > div:second-child> p{
 	color: #000;
 	text-align: left;
 	font-weight: lighter;
@@ -162,7 +168,7 @@ section > article:first-child > div{
 	line-height: 14pt;
 }
 
-.c2 > div:first-child> h1{
+.c2 > div:last-child> h1{
 	color: #261609;
 	font-size: 16pt;
 	letter-spacing: 1px;
@@ -174,10 +180,61 @@ section > article:first-child > div{
 	margin-left: 65%
 }
 
-section > article:last-child> div:last-child> div{
-	width: 92%;
-	margin-left:4%;
-	margin-right: 4%;
-	margin-top: 30px;
-	margin-bottom: 30px;
+.k0{
+	width: 100%;
+	height: 15px;
+	float: left;
+	background: #ddae76;
+}
+
+.k1{
+	width: 50%;
+	height: 320px;
+	float: left;
+}
+
+.k2{
+	width: 50% ;
+	height:320px;
+	float: left;
+}
+
+.k1 > div:first-child> h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 20pt;
+}
+
+.k1 > div:last-child> p{
+	color: #000;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	line-height: 14pt;
+}
+
+.k2 > div:first-child> h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 20pt;
+}
+
+.k2 > div:last-child> p{
+	color: #000;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	line-height: 14pt;
 }
