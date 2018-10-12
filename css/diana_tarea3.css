@@ -54,7 +54,7 @@ header{
 	margin-left:30px; 
 }
 
-.hijo2 > h3{
+.hijo2>h3{
 	color:black;
 	font-size: 18pt;
 	text-align: left;
@@ -72,7 +72,7 @@ article{
 	float: left;
 	background: white;
 	height: auto;
-	border-bottom: 1px solid #c3c3c3;
+	border-bottom: 2px solid #c3c3c3;
 }
 
 .history{
@@ -82,7 +82,7 @@ article{
 	background: white;
 }
 
-.history> h2{
+.history>h2{
 	color: black;
 	text-align: left;
 	font-family: calibri;
@@ -95,7 +95,7 @@ article{
 	margin-left:5%;
 }
 
-.history> p{
+.history>p{
 	color: black;
 	font-family: calibri;
 	font-weight:normal;
@@ -105,7 +105,7 @@ article{
 	margin-top:14px;
 	margin-left:5%;
 	margin-right:6%;
-	letter-spacing:2.5px;
+	letter-spacing:2.7px;
 }
 
 .section{
@@ -113,18 +113,18 @@ article{
 	float: left;
 	background: white;
 	height: auto;
-	border-bottom: 3px solid #c3c3c3;
+	border-bottom: 2px solid #c3c3c3;
 }
 
 .discover{
-	width: 35%;
-	height: 160px;
+	width: 30%;
+	height: 155px;
 	background: white;
 	float: left;
 }
 
 .perfect{
-	width: 65%;
+	width: 70%;
 	height: 155px;
 	background: white;
 	float: left;
@@ -138,7 +138,7 @@ article{
 	display: block;
 }
 
-.perfect> h2{
+.perfect>div>h2{
 	color: black;
 	text-align: left;
 	font-family: calibri;
@@ -146,6 +146,32 @@ article{
 	padding:0;
 	margin:0;
 	font-size:22pt;
-	letter-spacing:3px;
-	margin-top:18px;
+	letter-spacing:2px;
+	margin-top:20px;
+}
+.perfect>p{
+	color: black;
+	text-align: left;
+	font-family: arial;
+	font-weight:normal;
+	padding:0;
+	margin:0;
+	font-size:12pt;
+	letter-spacing:3.5px;
+	margin-top:20px;
+	margin-left:5px;
+	margin-right:28px;
+}
+
+.perfect>h3{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding:0;
+	margin:0;
+	font-size:14pt;
+	letter-spacing:2px;
+	margin-top:0.5px;
+	margin-left:65%;
 }
