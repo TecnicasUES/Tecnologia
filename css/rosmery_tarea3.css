@@ -20,7 +20,10 @@ header{
 	height: 330px;
 	width: 100%;
 	float: left;
+	margin: 0;
+	padding: 0;
 }
+
  .a1{
  	width: 30%
  	height:330px;
@@ -170,3 +173,64 @@ section > article:first-child >div> p{
 	float: left;
 	background: #F4B375;
 }
+
+.primertexto{
+	width: 50%;
+	height: 180px;
+	float: left;
+}
+
+article >div:nth-child(2)>h2{
+	color: black;
+	font-size: 22pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-top: 20px;
+	margin-left: 10%;
+	letter-spacing: 2.5px;
+}
+article >div:nth-child(2)>p{
+	color: black;
+	font-size: 13pt;
+	text-align: left;
+	font-weight: normal;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-left: 10%;
+	letter-spacing: 2.5px;
+}
+ .segundotexto{
+ 	width: 50%;
+ 	height: 180px;
+ 	float: left;
+ }
+
+ article >div:last-child>h2{
+	color: black;
+	font-size: 22pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-top: 20px;
+	letter-spacing: 2.5px;
+	margin-left: 5%;
+}
+
+ article >div:last-child>p{
+	color: black;
+	font-size: 13pt;
+	text-align: left;
+	font-weight: normal;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-left: 5%;
+	letter-spacing: 2.5px;
+}
+
