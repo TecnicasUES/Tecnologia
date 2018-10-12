@@ -8,3 +8,11 @@ html{
 	font-family: calry, arial, tahoma;
 	font-size: 20pt;
 }
+.contenedor {
+	background: white;
+	margin-left: 6%;
+	margin-right: 6%;
+	width: 88%;
+	float: left;
+	height: auto;
+}
