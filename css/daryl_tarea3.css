@@ -62,10 +62,28 @@ header{
 	padding: 0;
 	margin:0;
 }
-article{
-	width: 65%;
+article {
+    width:65%;
+	background:white;
 	float:left;
-	background: white;
-	height: auto;
-	border-bottom: 1px solid blue;
+	
+	height: 250px;
+	border-bottom:10px solid red;
+}
+section>article:first-child>div>h2{
+	color: black;
+	text-align:left;
+	font-family:arial black;
+	padding: 20px;
+	margin:0;
+	font-size:18pt;
+}
+section>article:first-child>div>p{
+	color:black;
+	text-align: left;
+	font-family: arial;
+	padding: 10px;
+	margin: 0;
+	font size: 8pt;
+	letter-spacing: 3px;
 }
