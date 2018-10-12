@@ -6,28 +6,22 @@ body{
 	padding: 0;
 	font-family: arial;
 }
-.contenedor{
+#cont{
 	display: block;
 	margin: auto;
 	width: 88%;
 	height: auto;
+	background: white;
+}
+header{
 	background: #ddae76;
-	min-height: 250px;
-}
-.cl1{
-	width: 30%;
-	height: 170px;
+	height: 400px;
+	width: 100%;
 	float: left;
+	display: block;
+	padding: 0;
+	margin: 0;
 }
-
-.cl2{
-	width: 70%;
-	height: 170px;
-	float: left;
-}
-
-
-
 
 
 
