@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body{
+	background: #cfcdce;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.encajonado{
+ 	display: block;
+ 	margin: auto;
+ 	width: 90%;
+ 	height: auto;
+ 	background: white;
+ 	min-height: 60px;
+
+}
+
+header{
+	background: #ddae76;
+	height: 325px;
+	width: 100%;
+	float: left;
+}
+
+.en1{
+	width: 20%;
+	height: 325px;
+	float: left;
+}
+
+.en2{
+	width: 80%;
+	height: 325px;
+	float: left;
+}
+
+.imagen1{
+	background: url('../img/logo-header.png');
+	width: 275px;
+	height: 274px;
+	margin: auto;
+	display: block;
+}
