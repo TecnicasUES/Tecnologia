@@ -173,3 +173,24 @@ article{
 	margin-left: 60%;
 	margin-right: 5%;
 }
+
+.seccion3{
+	width: 100%;
+	float: left;
+	background: white;
+	height: 175px;
+	border-bottom: 4px solid #cfcdce;
+}
+
+.separador{
+	width: 100%;
+	float: left;
+	background: #EDAF73;
+	height: 15px;
+}
+
+.first{
+	width: 50%;
+	height: 330px;
+	float: left;
+}
