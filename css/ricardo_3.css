@@ -243,3 +243,41 @@ header{
 	margin: 0;
 	padding: 0;
 }
+footer{
+	width: 100%;
+	height: 90px;
+	float: left;
+	background: #47000A;
+}
+.hijo4{
+	width: 10%;
+	height: 90px;
+	float: left;
+	background: #47000A;
+	margin: 0;
+	padding: 0;
+}
+.hijo4>h5{
+	color: white;
+	font-size: 10pt;
+	font-weight: normal;
+	letter-spacing: 3px;
+	margin: 0;
+	padding: 40px 2% 30px 30%;
+}
+.hijo5{
+	width: 30%;
+	height: 90px;
+	float: left;
+	background: #47000A;
+	margin: 0;
+	padding: 0;
+}
+.img4{
+	margin-top: 30px;
+	padding: 0;
+	display: block;
+	background: url(../img/logo-footer.png);
+	width: 193px;
+	height: 35px;
+}
