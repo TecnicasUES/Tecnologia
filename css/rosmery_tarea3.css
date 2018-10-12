@@ -44,7 +44,7 @@ header{
  	display:block; 
  }
 
-.a2 > h1{
+header>div:last-child>h1{
 	color: #211203;
 	font-size: 32pt;
 	text-align: left;
@@ -54,7 +54,7 @@ header{
 	padding: 0;
 	margin-top: 120px;
 }
-.a2 > h3{
+header>div:last-child>h3{
 	color: #211203;
 	font-size: 18pt;
 	text-align: left;
@@ -318,10 +318,11 @@ footer>div:first-child>h4{
 footer>div:last-child>button{
 	border: none;
 	background: #F4B375;
-	width: 30%;
-	height: 45px;
+	width: 28%;
+	height: 40px;
 	float: left;
-	font-size: 13pt;
+	font-size: 12pt;
+	letter-spacing: 2.5px;
 	color: #470814;
 	text-align: center;
 	font-weight: bold;
