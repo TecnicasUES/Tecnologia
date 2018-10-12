@@ -10,9 +10,10 @@ html{
 }
 .contenedor {
 	background: white;
-	margin-left: 6%;
-	margin-right: 6%;
+	margin-left: 5%;
+	margin-right: 5%;
 	width: 88%;
 	float: left;
 	height: auto;
 }
+
