@@ -2,3 +2,9 @@
 {
 	padding: 0;
 	margin: 0;
+}
+html{
+	background: rgb(207, 205,205);
+	font-family: calry, arial, tahoma;
+	font-size: 20pt;
+}
