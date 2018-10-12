@@ -43,3 +43,15 @@ header{
 	margin: auto;
 	display: block;
 }
+
+.en2 > div:first-child > h3{
+	color: black;
+	font-size: 16pt;
+	letter-spacing: 1px;
+	text-align: left;
+	font-weight: normal;
+	font-family: arial;
+	margin: 0;
+	margin: 0;
+	margin-top: 50px;
+}
