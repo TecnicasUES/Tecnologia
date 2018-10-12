@@ -2401,14 +2401,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-success {
-  color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  color: black;
+  background-color: cyan;
+  border-color: #f0f0f0;
 }
 
 .btn-success:hover {
   color: #fff;
-  background-color: #218838;
+  background-color: blue;
   border-color: #1e7e34;
 }
 
