@@ -182,15 +182,93 @@ article{
 	border-bottom: 4px solid #cfcdce;
 }
 
-.separador{
+.franjaamarilla{
 	width: 100%;
 	float: left;
 	background: #EDAF73;
-	height: 15px;
+	height: 16px;
 }
 
-.first{
+.origenes{
 	width: 50%;
 	height: 330px;
 	float: left;
 }
+
+.origenes>h2{
+	color: black;
+	font-size: 20pt;
+	text-align: left;
+	font-weight:bold;
+	font-family: calibri;
+	letter-spacing:2.2px;
+	padding: 0;
+	margin: 0;
+	margin-right: 6%;
+	margin-left: 10%;
+	margin-top: 15px;
+}
+
+.origenes>p{
+	color: black;
+	letter-spacing:2px;
+	font-family: calibri;
+	font-weight:normal;
+	font-size:14pt;
+	padding:0;
+	margin:0;
+	margin-right: 20%;
+	margin-left: 10%;
+	margin-top:7px;
+	text-align: left;
+}
+
+.nuestrodise{
+	width: 50%;
+	height: 330px;
+	float: left;
+}
+
+.nuestrodise>h2{
+	color: black;
+	font-size: 22pt;
+	text-align: left;
+	font-weight:bold;
+	font-family: calibri;
+	letter-spacing:2.2px;
+	padding: 0;
+	margin: 0;
+	margin-right: 6%;
+	margin-left: 6%;
+	margin-top: 15px;
+}
+
+.nuestrodise>p{
+	color: black;
+	letter-spacing:2px;
+	font-family: calibri;
+	font-weight:normal;
+	font-size:14pt;
+	padding:0;
+	margin:0;
+	margin-right: 7%;
+	margin-left: 6%;
+	margin-top:5px;
+}
+
+.seccion4{
+	width: 100%;
+	float: left;
+	background: white;
+	height: 325px;
+	border-bottom: 1px solid #cfcdce;
+}
+
+.seccion5{
+	width: 100%;
+	float: left;
+	background: white;
+	height: 150px;
+}
+
+
