@@ -9,7 +9,7 @@ body{
 .caja1{
 	display: block;
 	margin: auto;
-	width: 70%;
+	width: 90%;
 	height: auto;
 	background: black;
 	min-height: 300px;
@@ -43,7 +43,7 @@ header{
 }
 .box2 > div:first-child > h3{
 	color:#231302;
-	font-size: 27pt;
+	font-size: 38pt;
 	letter-spacing: 1px;
 	text-align: left;
 	font-weight: normal;
@@ -51,22 +51,23 @@ header{
 	margin: 0;
 	padding: 0;
 	margin-top: 100px;
+
 }
-.box2 > div:last-child> h6{
+.sub > h6{
 	color: black;
 	text-align: center;
-	font-size: 12pt;
+	font-size: 18pt;
 	font-weight: normal;
 	font-family: arial;
-	letter-spacing: 3px;
+	letter-spacing: 3pt;
 	padding: 0;
-	margin:0;
+	margin-left: 30%;
 }
 
 #cuerpazo{
 	display: block;
 	margin: auto;
-	width: 70%;
+	width: 90%;
 	height: auto;
 	min-height: 250px;
 
@@ -93,11 +94,12 @@ section>article:first-child>div>h2{
 	font-weight:normal;
 	margin-left: 3%;
 	margin-right: 3%;
+	letter-spacing: 3pt;
 }
 section>article:first-child>div>p{
 	color: black;
 	text-align: left;
-	font-size: 11pt;
+	font-size: 14pt;
 	font-weight: normal;
 	font-family: arial;
 	letter-spacing: 3px;
@@ -114,10 +116,10 @@ section>article:first-child>div>p{
 	border-bottom: 20px solid #ffc266;
 }
 .imgspace{
-	width: 28%;
+	width: 20%;
     height:155px;
     float: left;
-    background: red;
+    background: white;
 }
 .imgxx{
 	background: url('../img/img1.png.');
@@ -126,4 +128,125 @@ section>article:first-child>div>p{
 	margin: auto;
 	display: block;
 	float: left; 
+}
+.textcup{
+	width: 72%;
+	height:155px;
+	float: left;
+	background: white;
+}
+.textcup >h2{
+    color: black;
+	text-align:left;
+	font-family:arial black;
+	padding: 0;
+	margin:0;
+	font-size:18pt;
+	padding-top:20px;
+	font-weight:normal;
+	margin-left: 5%;
+	margin-right: 3%;
+	letter-spacing: 3pt;
+}
+.textcup >p{
+	color: black;
+	text-align: left;
+	font-size: 14pt;
+	font-weight: normal;
+	font-family: arial;
+	letter-spacing: 3px;
+	padding: 0;
+	margin:0;
+	margin-left: 5%;
+	
+}
+.textcup>h3{
+	color: black;
+	text-align: left;
+	font-size: 14pt;
+	font-weight: normal;
+	font-family: arial black;
+	letter-spacing: 3px;
+	padding: 0;
+	margin:0;
+	margin-left: 65%;
+}
+
+.line{
+    width: 100%;
+	height:20px;
+	float: left;
+	background: #ffc266;
+	
+}
+.seg3shop{
+	width: 100%;
+	height:200px;
+	float: left;
+	background: white;
+
+}
+.boxtext1{
+	width: 50%;
+	height:200px;
+	float: left;
+	background: white;
+}
+.boxtext1>h2{
+	color: black;
+	text-align: left;
+	font-size: 18pt;
+	font-weight: normal;
+	font-family: arial black;
+	letter-spacing: 3px;
+	padding: 0;
+	margin:0;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+.boxtext1>p{
+	color: black;
+	text-align: left;
+	font-size: 14pt;
+	font-weight: normal;
+	font-family: arial;
+	letter-spacing: 3px;
+	padding: 0;
+	margin:0;
+	margin-left: 10%;
+	
+
+}
+
+
+.boxtext2{
+	width: 50%;
+	height:200px;
+	float: left;
+	background: white;
+}
+.boxtext2>h2{
+	color: black;
+	text-align: left;
+	font-size: 18pt;
+	font-weight: normal;
+	font-family: arial black;
+	letter-spacing: 3px;
+	padding: 0;
+	margin:0;
+	margin-left: 10%;
+	margin-top: 20px;
+}
+.boxtext2>p{
+	color: black;
+	text-align: left;
+	font-size: 14pt;
+	font-weight: normal;
+	font-family: arial;
+	letter-spacing: 3px;
+	padding: 0;
+	margin:0;
+	margin-left: 10%;
+	
+
 }
