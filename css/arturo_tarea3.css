@@ -9,7 +9,7 @@ body{
 .contenedor{
     display: block;
     margin: auto;
-    width: 93%;
+    width: 70%;
     height: auto;
     background: white;
 }
@@ -17,14 +17,14 @@ header{
 background:#FEBF81;
   margin:0;
   padding:0;
-  height: 400px;
+  height: 300px;
   width: 100%;
   float: left;
 display: block;
 }
 .cl1{
 	width: 30%;
-    height: 400px;
+    height: 300px;
     float: left;
 }
 .img1{
@@ -34,13 +34,28 @@ display: block;
   margin: 0;
   display: block;
 }
+.cl2{
+	width: 70%;
+    height: 300px;
+    float: left;
+}
 #BannerMenu>.cl2>div>h3{
   margin: 0;
   padding: 0;
   color: #754822;
-  font-size: 40pt;
+  font-size: 60pt;
   text-align: left;
   font-family: calibri;
   font-weight: bold;
   margin-top: 100px;
+}
+#BannerMenu>.cl2>div>p{
+  margin: 0;
+  margin-left: 500px;
+  padding: 0;
+  color: black;
+  font-size: 20pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight:lighter;
 }
