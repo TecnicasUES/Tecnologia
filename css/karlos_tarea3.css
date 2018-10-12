@@ -10,7 +10,7 @@ body{
 .contenedor{
 	display: block;
 	margin: auto;
-	width: 90%;
+	width: 80%;
 	height: auto;
 	background: white;
 	min-height: 60px;
@@ -24,13 +24,13 @@ header{
 }
 
 .caja1{
-	width: 35%;
+	width: 30%;
 	height: 320px;
 	float: left;
 }
 
 .caja2{
-	width: 65% ;
+	width: 70% ;
 	height:320px;
 	float: left;
 }
@@ -53,11 +53,9 @@ header{
 	font-family: tahoma; 
 	margin: 0;
 	padding: 0;
-	margin-top: 100px;
-	margin-right: 5%
 }
 
-.caja2 > div:last-child>h2{
+.caja2 > div:first-child>h1{
 	color: #261609;
 	font-size: 18pt;
 	letter-spacing: 1px;
@@ -67,4 +65,57 @@ header{
 	margin: 0;
 	padding: 0;
 	margin-left: 38%
+}
+
+header> div:last-child > div{
+	width: 97%;
+	margin-right: 3%;
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+article{
+	width: 100%;
+	float: left;
+	background: white;
+	height: auto;
+	border-bottom: 2px solid #c3c3c3;
+}
+
+section > article:first-child >div > h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 20pt;
+}
+
+section > article:first-child > div > p{
+	color: #000;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	line-height: 14pt;
+}
+
+section > article:first-child > div > p{
+	color: #000;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	line-height: 14pt;
+}
+
+section > article:last-child > div{
+	width: 92%;
+	margin-left:4%;
+	margin-right: 4%;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
