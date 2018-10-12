@@ -55,19 +55,18 @@ header{
 	margin-top: 25px;
 	margin-right: 7%;
 }
-
-/* > div:nth(2)-child > h1{
-}*/
-
 .cl2 > div:last-child > p{
-	color: #17134a;
-	text-align: left;
-	font-size: 26pt;
-	font-weight: bold;
+	color: #26150d;
+	text-align: right;
+	font-size: 20pt;
+	font-weight: normal;
 	font-family: tahoma;
 	padding: 0;
 	margin: 0;
+	margin-right: 15%;
+	letter-spacing: 4px;
 }
+
 
 
 
