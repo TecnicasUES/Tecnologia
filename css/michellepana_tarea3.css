@@ -13,13 +13,13 @@ html{
 	background: white;
 	margin-left: 5%;
 	margin-right: 5%;
-	width: 88%;
+	width: 90%;
 	float: left;
 	min-height: 1000px;
 }
 header{
 	background:#ddae76;
-	min-height:315px;
+	min-height:320px;
 	width: 100%;
 	float: left;
 
@@ -38,9 +38,17 @@ header>div:last-child{
 
 } 
 header>div:last-child>h1{
-	font-size: 50px;
-	font-family: arial !important;
-	color:rgb(38, 22, 11);
+	font-family: 60 !important;
+	color:#311e10;
 	font-weight: 900;
 	text-align: left;
 	letter-spacing: 5px;
+
+}
+.contenedor2{
+	min-height: 280px;
+	text-align: left;
+	padding-left: 5%;
+	letter-spacing: 7pt;
+	padding-top: 10px; 
+}
