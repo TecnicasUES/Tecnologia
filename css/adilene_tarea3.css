@@ -312,16 +312,17 @@ section > article:first-child > div{
 	float: left;
 }
 
-#footer > div:last-child > button{
+#footer > button{
 	border: none;
-	background: #dcaf76;
-	width: 35%;
+	background: #ddae76;
+	width: 25%;
 	height: 35px;
 	float: right;
-	color: #dfae76;
+	color: #d331402;
 	text-align: center;
 	font-weight: bold;
 	font-size: 14pt;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	margin-right: 5%;
 }
