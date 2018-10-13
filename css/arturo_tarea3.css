@@ -9,7 +9,7 @@ body{
 .contenedor{
   display: block;
   margin: auto;
-  width: 70%;
+  width: 40%;
   height: auto;
   background: white;
   min-height: 60px;
@@ -40,7 +40,8 @@ header{
   width: 70%;
     height: 300px;
     float: left;
-}header>div:last-child>h3{
+}
+header>div:last-child>h3{
   color: #211203;
   font-size: 32pt;
   text-align: left;
@@ -68,4 +69,36 @@ article{
   border-bottom: 2px solid #A5A5A5;
   background: white;
   height: auto;
+}
+.cl3{
+  width: 100%
+  height:auto;
+  float: left;
+}
+
+section > article:first-child >div> h1{
+    color: black;
+  font-size: 23pt;
+  text-align: left;
+  font-weight: bold;
+    margin-top: 22px;
+  margin-left: 55%;
+  letter-spacing: 2.3px;
+  font-family: calibri;
+  margin: 0;
+  padding: 0;
+}
+
+section > article:first-child >div> p{
+    color: black;
+  font-size: 14pt;
+  margin: 0;
+  padding: 0;
+  margin-top: 15px;
+  margin-left: 6%;
+  letter-spacing: 2.3px;
+  margin-bottom: 35px;
+  text-align: left;
+  font-weight: normal;
+  font-family: calibri;
 }
