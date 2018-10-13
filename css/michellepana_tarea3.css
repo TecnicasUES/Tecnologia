@@ -6,15 +6,16 @@
 html{
 	background: #cfcdce;
 	font-family: arial;
-	font-size: 20pt;
+	font-size: 15pt;
+	color: black
 }
 .contenedor {
 	background: white;
-	margin-left: 6%;
-	margin-right: 6%;
-	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 88%;
 	float: left;
-	height: auto;
+	min-height: 1000px;
 }
 header{
 	background:#ddae76;
@@ -24,10 +25,17 @@ header{
 
 }
 .icon-header{
-	background:url("../images/logo-header.png");
+    background: url('../img/logo-header.png');
 	width: 275px;
 	height: 274px;
 	float: left;
+
+}
+header>div:last-child{
+	width: 95%;
+ 	height: 214px;
+ 	padding-top:100px;
+
 
 }
 
