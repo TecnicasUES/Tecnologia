@@ -296,6 +296,7 @@ article{
 	margin-right: 4%;
 	margin-left: 5%;
 	margin-top:20px;
+	margin-bottom: 30px;
 }
 
 
@@ -311,8 +312,8 @@ footer{
 	width: 100%;
 	float: left;
 	background: #380C00;
-	height: 120px;
-	margin-top: 30px;
+	height: 100px;
+	margin-top: 20px;
 }
 
 .copy{
@@ -327,7 +328,7 @@ footer{
 	margin: 0;
 	padding: 0;
 	margin-left: 5%;
-	margin-top: 30px;
+	margin-top: 20px;
 	letter-spacing: 1px;
 }
 
@@ -344,13 +345,13 @@ footer{
   height: 35px;
   float: left;
   display: block;
-  margin-block-start: 45px;
+  margin-block-start: 30px;
 }
 
 .boton{
 	border: none;
 	background: #F4B375;
-	width: 28%;
+	width: 15%;
 	height: 40px;
 	float: left;
 	font-size: 12pt;
@@ -358,8 +359,8 @@ footer{
 	color: #470814;
 	text-align: center;
 	font-weight: bold;
-	margin-left: 70%;
-	margin-top: 20px;
+	margin-left: 450px;
+	margin-block-start: 30px;
 }
 
 
