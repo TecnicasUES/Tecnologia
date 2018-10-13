@@ -40,170 +40,32 @@ header{
   width: 70%;
     height: 300px;
     float: left;
-}
-#bannermenu>.cl2>div>h3{
+}header>div:last-child>h3{
+  color: #211203;
+  font-size: 32pt;
+  text-align: left;
+  font-weight: bold;
+  font-family: arial black;
   margin: 0;
   padding: 0;
-  color: #754822;
-  font-size: 60pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: bold;
-  margin-top: 100px;
+  margin-top: 120px;
 }
-#bannermenu>.cl2>div>p{
+header>div:last-child>p{
+  color: #211203;
+  font-size: 18pt;
+  text-align: left;
+  font-weight: lighter;
+  font-family: calibri;
+  letter-spacing: 3px;
   margin: 0;
-  margin-left: 500px;
   padding: 0;
-  color: black;
-  font-size: 20pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight:lighter;
+  margin-top: 4px;
+  margin-left: 38%;
 }
-#bannerbanner{
-  background:#ffffff ;
+article{
   width: 100%;
-  height: 250px;
   float: left;
-}
-#bannerbanner>.cl3>div>h1{
-  margin-left:70px;
-  color:black;
-  font-size: 20pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: bold;
-  margin-top: 30px;
-  letter-spacing: 3px
-}
-#bannerbanner>.cl3>div>p{
-  margin-left:70px;
-  color:black;
-  font-size: 15pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: lighter;
-  margin-right: 70px;
-}
-#bannerbanner>.cl3>div>.cl3-2{
-  margin-left:70px;
-  color:black;
-  font-size: 15pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: lighter;
-  margin-right: 70px;
-}
-.cl4{
-  width: 100%;
-  height: 155px;
+  border-bottom: 2px solid #A5A5A5;
   background: white;
-  float: left;
-  border-top: 2px;
+  height: auto;
 }
-.img2{
-    height: 155px;
-  width: 263px;
-  background: url('../img/img1.png');
-  margin: 0;
-  display: block;
-}
-.cl5{
-  width: 17%;
-  height: 155px;
-  background: white;
-  float: left;
-}
-#disco>.cl4>div>h2{
-  margin-left:70px;
-  color:black;
-  font-size: 15pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: lighter;
-  margin-right: 70px;
-}
-#disco>.cl4>div>.cl4-2>p{
-  margin-left:70px;
-  color:black;
-  font-size: 15pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: lighter;
-  margin-right: 70px;
-}
-.barrita{
-  width: 100%;
-  height: 20px;
-  background: #FEBF81;
-  float: left;}
-
-#cosa{
-  width: 100%;
-  height: 200px;
-  background: gray;
-  float: left;
-}
-.cl5{
-  width: 50%;
-  height: 200px;
-  float: left;
-}
-#cosa>.cl5>div>h2{
-  margin-left:70px;
-  color:black;
-  font-size: 25pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: bold;
-  margin-right: 70px;
-}
-#cosa>.cl5>div>p{
-  margin-left:70px;
-  color:black;
-  font-size: 15pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: lighter;
-  margin-right: 70px;
-}
-.cl6{
-  width: 50%;
-  height: 200px;
-  background: white;
-  float: left;
-}
-#cosa>.cl6>div>h2{
-  margin-left:70px;
-  color:black;
-  font-size: 25pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: bold;
-  margin-right: 70px;
-}
-#cosa>.cl6>div>p{
-  margin-left:70px;
-  color:black;
-  font-size: 15pt;
-  text-align: left;
-  font-family: calibri;
-  font-weight: lighter;
-  margin-right: 70px;
-}
-.cl7{
-  width: 100%;
-  height: 314px;
-  background: white;
-  float: left;
-}
-.img{
-  height: 314px;
-  width: 100px;
-  background: url('../img/article4-modificado-victoria.png');
-  margin: 0;
-  display: block;
-}
-
-
