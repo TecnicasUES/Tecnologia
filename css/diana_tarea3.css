@@ -269,7 +269,7 @@ article{
 
 .weare{
 	width: 100%;
-	height: 150px;
+	height: 180px;
 	float: left;	
 }
 
@@ -280,8 +280,8 @@ article{
 	font-weight: bold;
 	padding:0;
 	margin:0;
-	font-size:26pt;
-	letter-spacing:4px;
+	font-size:22pt;
+	letter-spacing:5px;
 	margin-top:20px;
 	margin-left:38px;		
 }
@@ -297,4 +297,61 @@ article{
 	margin-top:12.5px;
 	margin-left:42px;
 	margin-right:42px;	
+}
+
+#pie{
+	background: #3E0202;
+	width: 100%;
+	height: 85px;
+	float: left;
+}
+.f{
+	width: 10%;
+	height: 85px;
+	float: left;
+}
+
+.f> h5{
+	color:white;
+	text-align: left;
+	font-family: calibri;
+	font-weight:normal;
+	padding:0;
+	margin:0;
+	font-size:9pt;
+	margin-top:40px;
+	margin-left:30px;
+	letter-spacing:2px;
+}	
+.logo{
+	background: url('../img/logo-footer.png');
+	width:193px;
+	height: 35px;
+	float:left;
+	margin-top:20px; 
+}	
+
+.boton{
+	width: 12%;
+	height: 35px;
+	float:right;
+	background: #ddae76;
+	margin-top: 21px;
+	margin-right:125px;
+}
+
+.boton>button{
+	border:none;
+	font-weight: bolder;
+	font-family: calibri;
+	font-size: 12pt;
+	letter-spacing: 3px;
+  	height:25px;
+  	width: 100%;
+  	background: #ddae76;
+  	text-align: center;
+  	margin-top: 6px;
+}
+button:hover{
+  background: #f2a446;
 }
