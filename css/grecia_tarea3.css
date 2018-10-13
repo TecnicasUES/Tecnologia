@@ -42,7 +42,7 @@ body{
 }
 
 .a2> div:first-child>h1{
-	color: black;
+	color: #371C0B;
 	font-size: 35pt;
 	text-align: left;
 	font-weight:bold;
@@ -54,14 +54,16 @@ body{
 }
 
 .a2> div:last-child>h3{
-	color: black;
-	font-size: 16pt;
+	color: #371C0B;
+	font-size: 19pt;
 	text-align: left;
-	font-family:tahoma;
+	font-weight: normal;
+	letter-spacing: 2px;
+	font-family:calibri;
 	padding: 0;
 	margin:0;
 	margin-top:0px;
-	margin-left: 55%;
+	margin-left: 43%;
 
 }
 
@@ -264,27 +266,27 @@ article{
 .af{
 	height:314px;
 	width:100%;
-	background:red;
+	background:white;
 	float: left;
 }
 
 .img3{
 	background: url('../img/article4.png');
-	width: 900px;
+	width: 100%;
 	height:314px;
 	margin: auto;
 	display: block;
 	float: left;
 }
 
-.txt3{
+.texto3{
 	height:160px;
-	width:40%;
+	width:100%;
 	background:white;
 	float: left;
 }
 
-.txt3>h2{
+.texto3>h2{
 	color: black;
 	letter-spacing: 3px;
 	font-size: 22pt;
@@ -294,13 +296,26 @@ article{
 	padding: 0;
 	margin:0;
 	margin-top:0px;
-	margin-left:0%;
+	margin-left:5%;
+	margin-top: 20px;
 }
 
+.texto3>p{
+	color:black;
+	font-size: 13pt;
+	text-align: left;
+	font-weight:normal;
+	font-family:calibri;
+	letter-spacing: 2px;
+	padding: 0;
+	margin: 0;
+	margin-left: 5%;
+	margin-top: 12px;
 
+}
 
 #pie{
-	height:80px;
+	height:70px;
 	width:75%;
 	background:#380C00;
 	float: left;
@@ -308,17 +323,26 @@ article{
 }
 
 .plogo{
-	height:80px;
+	height:75px;
 	width:40%;
-	background:red;
+	background:#380C00;
 	float: left;
 }
 
 .boton{
-	height:80px;
-	width:60%;
-	background:green;
+	height:75px;
+	width:50%;
+	background:#380C00;
 	float: left;
+}
+
+.copyright{
+	height:75px;
+	width:10%;
+	background:#380C00;
+	float: left;
+
+
 }
 
 .img4{
@@ -328,4 +352,35 @@ article{
 	margin: auto;
 	display: block;
 	float: left;
+	margin-left:3%;
+	margin-top: 30px;
+}
+
+.copyright>h5{
+	color: white;
+	letter-spacing: 1px;
+	font-size: 12pt;
+	text-align: left;
+	font-weight: normal;
+	font-family:calibri;
+	padding: 0;
+	margin:0;
+	margin-top:43px;
+	margin-left:20%;
+}
+
+.boton>button{
+	border: none;
+	background:#EDAF73;
+	height: 38px;
+	width: 27%;
+	float: left;
+	color:#380C00;
+	text-align: center;
+	font-weight:bold;
+	font-size: 11pt;
+	margin-top: 32px;
+	margin-left: 60%;
+	font-family: arial;
+	letter-spacing: 2px;
 }
