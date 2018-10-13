@@ -47,14 +47,14 @@ header h3{
 .taza{
 	background: url(../images/logo-header.png);
 	width: 275px;
-	min-height: 274px;
+	min-height: 200px;
 	float: left;
 }
 
 .divtext1{
 	width: 92%;
 	min-height: 225px;
-	border-bottom: 2px solid rgb(195, 195, 195);
+	border-bottom: 2px solid #8d8989;
 	padding: 4%
 }
  .divtext1>h1{
@@ -70,10 +70,10 @@ header h3{
 	letter-spacing: 1px;
 
 }
-.section2´{
+.section2{
 	width: 100%;
 	min-height: 150px;
-	border-bottom: 2px solid ;
+	border-bottom: 2px solid #8d8989;
 }
 
 
