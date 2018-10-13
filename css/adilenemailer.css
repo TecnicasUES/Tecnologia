@@ -17,21 +17,21 @@ body{
 }
 
 header{
-	background: #09B3FF;
-	height: 170px;
+	background: #FF7D3B;
+	height: 150px;
 	width: 100%;
 	float: left;
 }
 
 .cl1{
 	width: 30%;
-	height: 170px;
+	height: 150px;
 	float: left;
 }
 
 .cl2{
 	width: 70%;
-	height: 170%;
+	height: 150%;
 	float: left;
 }
 
@@ -41,64 +41,63 @@ header{
 	height: 70px;
 	margin: auto;
 	display: block;
-	margin-top: 50px;
+	margin-top: 35px;
 }
 
 
 .cl2 > div:first-child  > h3{
 	color: white;
-	font-size: 18pt;
+	font-size: 16pt;
 	letter-spacing: 12px;
 	text-align: left;
 	font-weight: normal;
-	font-family: calibri;
+	font-family: arial;
 	margin: 0;
 	padding: 0;
-	margin-top: 25px;
+	margin-top: 40px;
 
 }
 
 .cl2 > div:last-child > h1{
-	color: #E88F0C;
+	color: black;
 	text-align: left;
-	font-size: 26pt;
+	font-size: 22pt;
 	font-weight: bold;
 	font-family: tahoma;
 	margin: 0;
-	padding: 0%;
+	padding: 0;
 }
 
 article{
 	width: 100%;
-	float: left;
-	background: white;
+	float:left;
+	background: black;
 	height: auto;
-	border-bottom: 1px solid #c3c3c3;
+	border-bottom: 2px solid #c3c3c3;
 }
 
-section > article:first child > div > h2{
-	color: black;
+section > article:first-child > div >h2{
+	color: white;
 	text-align: left;
 	font-family: calibri;
-	font-weight: bold;;
+	font-weight: bold;
 	padding: 0;
 	margin: 0;
 	font-size: 24pt;
-
 }
 
 
-section > article: first child > div >p{
+section > article:first-child > div >p{
 	color: gray;
 	text-align: left;
 	font-size: 12pt;
 	margin: 0;
 	padding: 0;
 	font-weight: lighter;
-	line-height: 12pt;
+	line-height: 18pt;
 }
 
-section > article:first child > div{
+section  >article:first-child > div{
 	width: 92%;
 	margin-left: 4%;
 	margin-right: 4%;
@@ -129,6 +128,7 @@ section > article:first child > div{
 	width: 115px;
 	height: 115px;
 	float: right;
+	margin-right: 20%;
 	margin-top: 15px;
 }
 
@@ -145,8 +145,8 @@ section > article:first child > div{
 .pl4 > div:last-child  > button{
 	border: none;
 	background: red;
-	width: 45%;
-	height: 45px;
+	width: 35%;
+	height: 35px;
 	float: left;
 	color: white;
 	text-align: center;
@@ -154,6 +154,116 @@ section > article:first child > div{
 	font-size: 14pt;
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
 
+.contenido{
+	background: black;
+	width: 100%;
+	height: 300px;
+	float: left;
+	padding: 0;
+	border-bottom: 2px solid #c3c3c3;
+}
+
+.img3{
+	background: url('../img/wide.png');
+	width: 90px;
+	height: 275px;
+	margin:auto;
+	display: block;
+	margin-top: 10px;
+
+}
+
+.parrafito{
+	background: black;
+	width: 100%;
+	height: 200px;
+	float: left;
+	padding: 0;
+	border-bottom: 2px solid #c3c3c3;
+
+}
+
+.parrafito  >div:first-child{
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	float: left;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+
+.parrafito > div:first-child > p{
+	color: gray;
+	text-align: left;
+	font-size: 12pt;
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 18pt;
+}
+
+#footer{
+	background: #44525f;
+	width: 100%;
+	height: 250px;
+	float: left;
+	padding: 0;
+	border-bottom: 2px solid #c3c3c3;
+}
+
+#footer > div:first-child{
+	width: 100%;
+	height: 50px;
+	margin-top: 10px;
+	float: left;
+	background: #44525f;
+}
+
+#footer > div:first-child > p{
+	color: white;
+	text-align: center;
+	font-size: 12pt;
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	line-height: 18pt;
+}
+
+.nl2{
+	width: 50%;
+	height: 190px;
+	float: right;
+	background: #44525f;
+}
+
+.nl3{
+	width: 50%;
+	height: 190px;
+	float: left;
+	background: #44525f;
+}
+
+
+.img4{
+	background: url('../img/facebook.png');
+	width: 74px;
+	height: 74px;
+	margin: auto;
+	display: block;
+	margin-top: 10px;
+	margin-left: 75%;
+
+}
+
+.img5{
+	background: url('../img/twitter.png');
+	width: 74px;
+	height: 74px;
+	margin: 2%;
+	display: block;
+	margin-top: 10px;
 	
 }
