@@ -117,20 +117,21 @@ section > article:first-child > div{
 }
 
 .t2{
-	width: 60%;
+	width: 54%;
 	height: auto;
 	float: left;
 	margin-right: 10%;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-bottom: 20px;
+	margin-left: 4%
 }
 
 .vaso{
 	background: url('../img/img1.png');
 	width: 263px;
 	height: 155px;
-	float: left;
-
+	margin: 0;
+	display: block;
 }
 
 .t2 > div:first-child > h2{
@@ -163,5 +164,95 @@ section > article:first-child > div{
 	padding: 0;
 	margin: 0;
 	font-size: 24;
+
+}
+
+.lafranja{
+	width: 100%;
+	height: 10px;
+	float: left;
+	background: #dcaf76;
+}
+
+.f1{
+	width: 40%;
+	height: auto;
+	float: left;
+	margin-right: 10%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 4%
+}
+
+.f2{
+	width: 30%;
+	height: auto;
+	float: left;
+	margin-right: 10%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 4%
+}
+
+.f1 > div:first-child > h2{
+	color: black;
+	text-align: left;
+	font-family: tahoma;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 24;
+}
+
+.f1 > div:first-child > p{
+	color: black;
+	text-align: left;
+	font-size: 13pt;
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 14pt;
+	letter-spacing: 2px;
+}
+
+
+.f2 > div:first-child > h2{
+	color: black;
+	text-align: left;
+	font-family: tahoma;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 24;
+}
+
+.f2 > div:first-child > p{
+	color: black;
+	text-align: left;
+	font-size: 13pt;
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 14pt;
+	letter-spacing: 2px;
+}
+
+.o1{
+	background: white;
+	width: 100%;
+	height: 325px;
+	float: left;
+	padding: 0;
+	border-bottom: 2px solid #cfcdce;
+}
+
+.imagen2{
+	background: url('../img/article4.png');
+	width: 900px;
+	height: 314px;
+	margin: auto;
+	padding: 0;
+	display: block;
+	float: left;
 
 }
