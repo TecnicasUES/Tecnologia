@@ -39,7 +39,7 @@ display: block;
     height: 300px;
     float: left;
 }
-#BannerMenu>.cl2>div>h3{
+#bannermenu>.cl2>div>h3{
   margin: 0;
   padding: 0;
   color: #754822;
@@ -49,7 +49,7 @@ display: block;
   font-weight: bold;
   margin-top: 100px;
 }
-#BannerMenu>.cl2>div>p{
+#bannermenu>.cl2>div>p{
   margin: 0;
   margin-left: 500px;
   padding: 0;
