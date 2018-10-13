@@ -36,6 +36,11 @@ header>div:last-child{
  	height: 214px;
  	padding-top:100px;
 
-
-}
-
+} 
+header>div:last-child>h1{
+	font-size: 50px;
+	font-family: arial !important;
+	color:rgb(38, 22, 11);
+	font-weight: 900;
+	text-align: left;
+	letter-spacing: 5px;
