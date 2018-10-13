@@ -353,25 +353,26 @@ section > article:first-child > div:last-child {
 	background: #331402;
 }
 
-.ff{
+.s{
 	width: 6%;
 	height: 80px;
 	float: left;
-	margin-top: 40px;
+	background: #331402;
 	margin-left: 5%;
-	margin-right:0;
 }
 
-.ff1{
-	width: 20%;
+.s1{
+	width: 40%;
 	height: 80px;
 	float: left;
+	background: #331402;
 }
 
-.ff2{
-	width: 75%;
+.ss1{
+	width: 49%;
 	height: 80px;
 	float: left;
+	background: #331402;
 }
 
 .f > div:first-child> h1{
@@ -382,6 +383,7 @@ section > article:first-child > div:last-child {
 	padding: 0;
 	margin: 0;
 	font-size: 10pt;
+	margin-top: 30px;
 }
 
 .imglog1{
@@ -392,4 +394,16 @@ section > article:first-child > div:last-child {
 	display: block;
 	padding: 0;
 	margin-top: 20px;
+}
+
+.f> div:last-child> button{
+	border:none;
+	background: #ddae76;
+	width: 30%;
+	height: 30px;
+	color:white;
+	font-weight: bold;
+	font-size: 12.5pt;
+	margin-left: 60%;
+	margin-top: 25px;
 }
