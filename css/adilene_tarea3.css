@@ -48,7 +48,7 @@ header{
 
 .en2 > div:first-child > h1{
 	color: black;
-	font-size: 35pt;
+	font-size: 30pt;
 	letter-spacing: 0px;
 	text-align: left;
 	font-weight: bold;
@@ -93,7 +93,7 @@ section > article:first-child > div >h2{
 section > article:first-child > div > p{
 	color: black;
 	text-align: left;
-	font-size: 14pt;
+	font-size: 12pt;
 	margin: 0;
 	padding: 0;
 	font-weight: lighter;
@@ -108,4 +108,60 @@ section > article:first-child > div{
 	float: left;
 	margin-top: 40px;
 	margin-bottom: 40px;
+}
+
+.t1{
+	width: 30%;
+	height: auto;
+	float: left;
+}
+
+.t2{
+	width: 60%;
+	height: auto;
+	float: left;
+	margin-right: 10%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.vaso{
+	background: url('../img/img1.png');
+	width: 263px;
+	height: 155px;
+	float: left;
+
+}
+
+.t2 > div:first-child > h2{
+	color: black;
+	text-align: left;
+	font-family: tahoma;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 24;
+
+}
+
+.t2 > div:first-child > p{
+	color: black;
+	text-align: left;
+	font-size: 13pt;
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 18pt;
+	letter-spacing: 3px;
+}
+
+.t2 > div:first-child >h3{
+	color: black;
+	text-align: right;
+	font-family: tahoma;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 24;
+
 }
