@@ -44,6 +44,19 @@ header h3{
 	letter-spacing: 5px;
 	font-weight: lighter;
 }
+.taza{
+	background: url(../images/logo-header.png);
+	width: 275px;
+	min-height: 200px;
+	float: left;
+}
+
+.divsection1{
+	width: 92%;
+	min-height: 225px;
+	border-bottom: 2px solid rgb(195, 195, 195);
+	padding: 4%
+}
 
 
 
