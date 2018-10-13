@@ -53,8 +53,8 @@ header h3{
 }
 .taza{
 	background: url(../images/logo-header.png);
-	width: 275px;
-	min-height: 274px;
+	width: 270px;
+	min-height: 250px;
 	float: left;
 }
 
@@ -109,6 +109,13 @@ header h3{
 	text-align: left;
 	letter-spacing: 1px;
 }
+.section3{
+	width: 92%;
+	min-height: 176px;
+	border-top: 14px solid #ddaf76;
+	border-bottom: 2px solid #8d8989;
+}
+
 
 
 
