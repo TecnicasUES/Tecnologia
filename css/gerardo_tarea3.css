@@ -6,3 +6,70 @@ body{
 	margin: 0;
 	font-family: arial;
 }
+
+.contenedor{
+ 	display: block;
+ 	margin: auto;
+ 	height: auto;
+ 	width: 84%;
+ 	background: white;
+ 	min-height: 60px;
+}
+
+header{
+	background: #f2bc7c;
+	height: 320px;
+	width: 100%;
+	float: left;
+}
+
+.caja1{
+	height: 320px;
+	width: 32%;
+	float: left;
+}
+
+.caja2{
+	height: 320px;
+	width: 68%;
+	float: left;
+}
+
+.imagen1{
+	background: url('../img/logo-header.png');
+	width: 275px;
+	height: 274px;
+	margin: auto;
+	display: block;
+	float: left;
+}
+
+.caja2 > div:first-child>h1{
+	color: #221306;
+	font-size: 36pt;
+	letter-spacing: 1px;
+	text-align: left;
+	font-weight: bold;
+	font-family: tahoma; 
+	margin: 0;
+	padding: 0;
+}
+
+.caja2 > div:first-child>h2{
+	color: #221306;
+	font-size: 18pt;
+	letter-spacing: 1px;
+	text-align: left;
+	font-weight: normal;
+	font-family: tahoma; 
+	margin: 0;
+	padding: 0;
+	margin-left: 38%
+}
+
+header> div:last-child>div{
+	width: 97%;
+	margin-top: 100px;
+	margin-right: 3%;
+	margin-bottom: 30px;
+}
