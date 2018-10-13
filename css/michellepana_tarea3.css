@@ -4,27 +4,30 @@
 	margin: 0;
 }
 html{
-	background: rgb(207, 205,205);
-	font-family: calry, arial, tahoma;
+	background: #cfcdce;
+	font-family: arial;
 	font-size: 20pt;
 }
 .contenedor {
 	background: white;
 	margin-left: 6%;
 	margin-right: 6%;
-	width: 88%;
+	width: 90%;
 	float: left;
 	height: auto;
 }
 header{
-	background: rgb(221,175,118);
-	min-height:300px;
+	background:#ddae76;
+	min-height:315px;
 	width: 100%;
 	float: left;
 
-
-
-
+}
+.icon-header{
+	background:url("../images/logo-header.png");
+	width: 275px;
+	height: 274px;
+	float: left;
 
 }
 
