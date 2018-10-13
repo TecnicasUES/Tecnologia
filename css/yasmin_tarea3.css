@@ -82,6 +82,20 @@ header h3{
 	width: 263px;
 	height:155px; 
 }
+.section2>div:last-child{
+	float: left;
+	width: 75%;
+	min-height: 155px;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+
+.section2> div:last-child>h1{
+	font-size: 27px;
+	margin-top: 2%;
+	letter-spacing: 1px;
+}
 
 
 
