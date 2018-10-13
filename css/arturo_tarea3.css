@@ -168,7 +168,7 @@ section > article:first-child >div> p{
   float: left;
   background: #FEBF81;
 }
-.cl15{
+.cl5{
   width: 50%;
   height: 178px;
   float: left;
@@ -184,6 +184,7 @@ article >div:nth-child(2)>h2{
   text-align: left;
   font-weight: bold;
   font-family: calibri;
+  letter-spacing: 2.3px;
 }
 article >div:nth-child(2)>p{
   margin: 0;
@@ -195,7 +196,7 @@ article >div:nth-child(2)>p{
   text-align: left;
   font-weight: normal;
   font-family: calibri;
-
+letter-spacing: 2.3px;
 }
 
  article >div:last-child>h2{
@@ -209,6 +210,7 @@ article >div:nth-child(2)>p{
   margin-top: 25px;
   letter-spacing: 2.6px;
   margin-left: 6%;
+  letter-spacing: 2.3px;
 }
 
  article >div:last-child>p{
@@ -220,7 +222,7 @@ article >div:nth-child(2)>p{
   margin: 0;
   padding: 0;
   margin-left:8%;
-  letter-spacing: 2.6px;
+  letter-spacing: 2.3px;
 }
 
 .img3{
