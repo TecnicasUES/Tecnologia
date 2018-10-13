@@ -298,13 +298,14 @@ article{
 	margin-top:20px;
 }
 
-.seccion6{
+
+footer{
 	width: 100%;
+	height: 80px;
 	float: left;
-	background: #380C00;
-	height: 100px;
-	margin-top: 30px;
+	background: #3B0709;
 }
+
 
 .cuadrocafe{
 	width: 100%;
@@ -313,6 +314,23 @@ article{
 	height: 120px;
 	margin-top: 30px;
 }
+
+.copy{
+	width: 12%;
+	height: 80px;
+	float: left;
+	color: white;
+	font-size: 11pt;
+	text-align: left;
+	font-weight: bold;
+	font-family: calibri;
+	margin: 0;
+	padding: 0;
+	margin-left: 5%;
+	margin-top: 30px;
+	letter-spacing: 1px;
+}
+
 
 .logo{
 	width: 20%;
@@ -326,16 +344,10 @@ article{
   height: 35px;
   float: left;
   display: block;
-  margin-top: 25px;
+  margin-block-start: 45px;
 }
 
 .boton{
-	width: 60%;
-	height: 80px;
-	float: left;
-}
-
-footer>div:last-child>button{
 	border: none;
 	background: #F4B375;
 	width: 28%;
@@ -349,6 +361,7 @@ footer>div:last-child>button{
 	margin-left: 70%;
 	margin-top: 20px;
 }
+
 
 
 
