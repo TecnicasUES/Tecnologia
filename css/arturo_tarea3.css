@@ -59,3 +59,75 @@ display: block;
   font-family: calibri;
   font-weight:lighter;
 }
+#bannerbanner{
+  background:#ffffff ;
+  width: 100%;
+  height: 250px;
+  float: left;
+}
+#bannerbanner>.cl3>div>h1{
+  margin-left:70px;
+  color:black;
+  font-size: 20pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-top: 30px;
+  letter-spacing: 3px
+}
+#bannerbanner>.cl3>div>p{
+  margin-left:70px;
+  color:black;
+  font-size: 15pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: lighter;
+  margin-right: 70px;
+}
+#bannerbanner>.cl3>div>.cl3-2{
+  margin-left:70px;
+  color:black;
+  font-size: 15pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: lighter;
+  margin-right: 70px;
+}
+.cl4{
+  width: 100%;
+  height: 155px;
+  background: red;
+  float: left;
+}
+.img2{
+    height: 155px;
+  width: 263px;
+  background: url('../img/img1.png');
+  margin: 0;
+  display: block;
+}
+.cl5{
+  width: 17%;
+  height: 155px;
+  background: blue;
+  float: left;
+}
+#disco>.cl4>div>h2{
+  margin-left:70px;
+  color:black;
+  font-size: 15pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: lighter;
+  margin-right: 70px;
+}
+#disco>.cl4>div>p{
+  margin-left:70px;
+  color:black;
+  font-size: 15pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: lighter;
+  margin-right: 70px;
+}
+
