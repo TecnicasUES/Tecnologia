@@ -11,7 +11,7 @@ body{
  	display: block;
  	margin: auto;
  	height: auto;
- 	width: 84%;
+ 	width: 900px;
  	background: white;
  	min-height: 60px;
 }
@@ -46,7 +46,7 @@ header{
 
 .caja2 > div:first-child>h1{
 	color: #221306;
-	font-size: 36pt;
+	font-size: 31pt;
 	letter-spacing: 1px;
 	text-align: left;
 	font-weight: bold;
@@ -168,4 +168,117 @@ section > article:first-child > div{
 	padding: 0;
 	margin: 0;
 	letter-spacing: 1.5px
+}
+
+.barra{
+	width: 100%;
+	height: 16px;
+	float: left;
+	background: #d2a167;
+}
+
+.a3{
+	width: 40%;
+	height: 150px;
+	float: left;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top: 20px;
+	font-family: tahoma;
+}
+
+.a4{
+	width: 40%;
+	height: 150px;
+	float: left;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top: 20px;
+	font-family: tahoma;
+}
+
+.a3 > div:first-child> h6{
+	color: black;
+	text-align: left;
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 20pt;
+	padding: 0;
+	margin: 0;
+}
+
+
+.a3 > div:last-child> p{
+	color: #000;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	line-height: 14pt;
+}
+
+
+.a4 > div:first-child> h7{
+	color: black;
+	text-align: left;
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 20pt;
+	padding: 0;
+	margin: 0;
+}
+
+.a4 > div:last-child> p{
+	color: #000;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	line-height: 14pt;
+}
+
+.a5{
+	width: 100%;
+	height: 314px;
+	float: left;
+}
+
+.imagen3{
+	background: url('../img/article4.png');
+	width: 900px;
+	height: 314px;
+	margin: 0;
+	display: block;
+	padding: 0;
+}
+
+.a6{
+	width: 90%;
+	height: 100px;
+	float: left;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top: 30px
+}
+
+.a6 > div:first-child> h8{
+	color: black;
+	text-align: left;
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 18pt;
+	padding: 0;
+	margin: 0;
+}
+
+.a6 > div:last-child> p{
+	color: #000;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 14pt;
+	padding: 0;
+	margin: 0;
+	line-height: 12pt;
 }
