@@ -188,8 +188,28 @@ body{
   
 }
 
-.child2>div:nth-last-child(1)>p{
-  font-size: 21pt;
+.child2>div:nth-child(3)>p{
+  font-family: calibri;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 0;
+  margin-top: 0;
+  padding-left: 40px;
+  text-align: left;
+  padding-right:40px;
+  letter-spacing: 2px;
+  text-align: right;
+  
 }
-  font-size: 15pt;
+
+.im4{
+  width: 100%;
+  height: 200px;
+  background: lime;
+}
+
+.cuarta_parte{
+  width: 100%;
+  height: 200px;
+  background: lime;
 }
