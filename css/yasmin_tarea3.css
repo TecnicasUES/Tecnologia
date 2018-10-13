@@ -57,7 +57,19 @@ header h3{
 	border-bottom: 2px solid rgb(195, 195, 195);
 	padding: 4%
 }
+ .divtext1>h1{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+	
+}
 
+.divtext1>p{
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 1px;
+
+}
 
 
 
