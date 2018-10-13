@@ -1,5 +1,12 @@
 @charset "utf-8";
 
+html{
+	background: rgb(195, 195, 195);
+	font-family: calibri,arial, tahoma, helvetica;
+	font-size: 12px;
+	color: black;
+}
+
 body{
 	background: #c3c3c3;
 	margin: 0;
