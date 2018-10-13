@@ -76,5 +76,14 @@ header h3{
 	border-bottom: 2px solid #8d8989;
 }
 
+.section2> div:first-child{
+	float: left;
+	background: url(../images/img1.png);
+	width: 263px;
+	height:155px; 
+}
+
+
+
 
 
