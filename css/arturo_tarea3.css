@@ -12,6 +12,7 @@ body{
     width: 70%;
     height: auto;
     background: white;
+    min-height: 60%;
 }
 header{
 background:#FEBF81;
@@ -96,8 +97,9 @@ display: block;
 .cl4{
   width: 100%;
   height: 155px;
-  background: red;
+  background: white;
   float: left;
+  border-top: 2px;
 }
 .img2{
     height: 155px;
@@ -109,7 +111,7 @@ display: block;
 .cl5{
   width: 17%;
   height: 155px;
-  background: blue;
+  background: white;
   float: left;
 }
 #disco>.cl4>div>h2{
@@ -130,4 +132,77 @@ display: block;
   font-weight: lighter;
   margin-right: 70px;
 }
+.barrita{
+  width: 100%;
+  height: 20px;
+  background: #FEBF81;
+  float: left;}
+
+#cosa{
+  width: 100%;
+  height: 200px;
+  background: gray;
+  float: left;
+}
+.cl5{
+  width: 50%;
+  height: 200px;
+  float: left;
+}
+#cosa>.cl5>div>h2{
+  margin-left:70px;
+  color:black;
+  font-size: 25pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-right: 70px;
+}
+#cosa>.cl5>div>p{
+  margin-left:70px;
+  color:black;
+  font-size: 15pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: lighter;
+  margin-right: 70px;
+}
+.cl6{
+  width: 50%;
+  height: 200px;
+  background: white;
+  float: left;
+}
+#cosa>.cl6>div>h2{
+  margin-left:70px;
+  color:black;
+  font-size: 25pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-right: 70px;
+}
+#cosa>.cl6>div>p{
+  margin-left:70px;
+  color:black;
+  font-size: 15pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: lighter;
+  margin-right: 70px;
+}
+.cl7{
+  width: 100%;
+  height: 314px;
+  background: white;
+  float: left;
+}
+.img{
+  height: 314px;
+  width: 100px;
+  background: url('../img/article4-modificado-victoria.png');
+  margin: 0;
+  display: block;
+}
+
 
