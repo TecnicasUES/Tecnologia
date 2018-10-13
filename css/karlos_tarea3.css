@@ -188,7 +188,7 @@ section > article:first-child > div:last-child {
 
 .k1{
 	width: 40%;
-	height: 150px;
+	height: 110px;
 	float: left;
 	margin-left:5%;
 	margin-right:5%;
@@ -197,7 +197,7 @@ section > article:first-child > div:last-child {
 
 .k2{
 	width: 40%;
-	height: 150px;
+	height: 110px;
 	float: left;
 	margin-left:5%;
 	margin-right:5%;
@@ -297,3 +297,51 @@ section > article:first-child > div:last-child {
 	padding: 0;
 }
 
+
+.cc{
+	width: 90%;
+	height: 100px;
+	float: left;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top: 30px
+}
+
+.cc > div:first-child> h2{
+	color: black;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	font-size: 20pt;
+}
+
+.cc > div:last-child> p{
+	color: #000;
+	text-align: left;
+	font-weight: lighter;
+	font-size: 12pt;
+	padding: 0;
+	margin: 0;
+	line-height: 14pt;
+}
+
+
+.cc > div:firts-child > article:article:nth(5)-child> h2
+  {
+	width: 60%;
+	margin-left:20%;
+	margin-right:20%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.cc > div:last-child > article:article:nth(5)-child> p
+  {
+	width: 90%;
+	margin-left:5%;
+	margin-right:5%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
