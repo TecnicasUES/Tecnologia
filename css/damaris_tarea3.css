@@ -301,8 +301,56 @@ article{
 .seccion6{
 	width: 100%;
 	float: left;
-	background: black;
+	background: #380C00;
 	height: 100px;
+	margin-top: 30px;
 }
+
+.cuadrocafe{
+	width: 100%;
+	float: left;
+	background: #380C00;
+	height: 120px;
+	margin-top: 30px;
+}
+
+.logo{
+	width: 20%;
+	height: 80px;
+	float: left;
+}
+
+.img4{
+  background: url('../img/logo-footer.png');
+  width: 193px;
+  height: 35px;
+  float: left;
+  display: block;
+  margin-top: 25px;
+}
+
+.boton{
+	width: 60%;
+	height: 80px;
+	float: left;
+}
+
+footer>div:last-child>button{
+	border: none;
+	background: #F4B375;
+	width: 28%;
+	height: 40px;
+	float: left;
+	font-size: 12pt;
+	letter-spacing: 2.5px;
+	color: #470814;
+	text-align: center;
+	font-weight: bold;
+	margin-left: 70%;
+	margin-top: 20px;
+}
+
+
+
 
 
