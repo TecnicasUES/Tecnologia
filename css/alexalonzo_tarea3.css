@@ -272,7 +272,7 @@ footer{
 
 } 
 .testo8{
-	width: 14%;
+	width: 11%;
 	height: 80px;
 	float: left;
 }
@@ -294,23 +294,28 @@ footer{
 	height: 35px;
 	float:left;
 	margin-top:25px;
-}	
-.pulsante{
+}
+.pulsante>button{
 	width: 12%;
 	height: 40px;
 	float:right;
 	background: #eebd83;
 	margin-top: 25px;
 	margin-right:75px;
+	border-radius: 10px;
+	border: 1px solid #301709;
 }
-
-.pulsante> h5{
+.pulsante>button>h5{
 	color:#301709;
 	text-align: center;
 	font-family: roboto;
-	font-weight:bold;
+	font-weight: bold;
 	padding:0;
 	margin:0;
 	font-size:12pt;
-	margin-top: 10px;
+	margin-top: 1px;
+}
+.pulsante>button:hover{
+	background: #ad8670;
+	cursor: pointer;
 }
