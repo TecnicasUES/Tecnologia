@@ -347,6 +347,67 @@ letter-spacing: 2px;
   margin-right: 4%;
 }
 
+#shoes{
+  width: 100%;
+  height: 80px;
+  background: #330C01;
+  float: left;
+}
+
+
+#shoes1{
+  width: 10%;
+  background: #330C01;
+  height: 80px;
+  float: left;
+}
+#shoes1>h5{
+  font-family: arial;
+  font-weight: normal;
+  font-size: 9pt;
+  color: white;
+  margin-left: 20%;
+  margin-top: 20px;
+  float: left;
+}
+
+#pie {
+	width: 25%;
+	margin-top: 50px;
+	height: 100px;
+	float: left;
+}
+
+#pie1 {
+	width: 65%;
+	float: left;
+	height: 100px;
+}
+
+.button {
+    width: 20%;
+	height: 30px;
+	float: right;
+	display: block;
+	margin-top: 0px;
+	margin-right: 5%;
+    background: #E4A465
+}
+
+#pie1>.button>h3 {
+    font-family: ariel;
+    text-align: center;
+  	font-weight: bold;
+  	font-size: 12pt;
+    margin-bottom: 20px;
+    padding: 0;
+    color: black;
+    margin-bottom: 20px;
+}
+
+
+
+
 
 
 
