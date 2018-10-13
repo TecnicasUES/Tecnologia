@@ -258,10 +258,10 @@ section > article:first-child > div{
 .parrafito{
 	background: white;
 	width: 100%;
-	height: 200px;
+	height: 100px;
 	float: left;
 	padding: 0;
-	border-bottom: 2px solid #cfcdce;
+
 }
 
 .parrafito{
@@ -293,3 +293,22 @@ section > article:first-child > div{
 	line-height: 14pt;
 	letter-spacing: 2px;
 }
+
+#footer{
+	background: #331402;
+	width: 100%;
+	height: 150px;
+	float: left;
+	padding: 0;
+	border-bottom: 2px solid #cfcdce;;
+}
+
+.imagen3{
+	background: url('../img/logo-footer.png');
+	width: 193px;
+	height: 95px;
+	margin: auto;
+	display: block;
+	float: left;
+}
+
