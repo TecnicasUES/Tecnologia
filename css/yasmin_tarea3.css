@@ -47,10 +47,12 @@ header h3{
 }
 
 .div_head{
-	background: url(../images/logo-header.png);
+	background: url('../images/logo-header.png');
 	width: 275px;
 	min-height: 274px;
 	float: left;
+	margin: auto;
+	display: block;
 }
 
 .divtext1{
@@ -124,5 +126,10 @@ header h3{
 	float: left;
 	width: 45%;
 	min-height: 170px;
+}
+.section3> div:first-child>h1{
+	font-family: calibri;
+	font-size: 27px;
+	letter-spacing: 1px;
 }
 
