@@ -158,11 +158,12 @@ header h3{
 }
 .imagen5{
 	background: url('../img/article4.png');
+	height: 100px;
 	width: 100%;
 	min-height:314px; 
-	border-bottom: 1px 
-	
+	border-bottom: 1px	
 }
+
 .divfoot{
 	width: 92%;
 	min-height:160px;
