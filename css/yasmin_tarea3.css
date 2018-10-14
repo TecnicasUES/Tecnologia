@@ -63,7 +63,7 @@ header h3{
  .divtext1>h1{
 	font-size: 30px;
 	font-weight: bold;
-	font-family: arial;
+	font-family: calibri;
 	
 }
 
@@ -101,14 +101,14 @@ header h3{
 }
 .section2> div:last-child>p{
 	font-size: 20px;
-	font-family: arial;
+	font-family: calibri;
 	text-align: left;
 	letter-spacing: 1px;
 }
 
 .section2> div:last-child>h2 {
 	font-size: 20px;
-	font-family: arial;
+	font-family: calibri;
 	letter-spacing: 2px;
 	font-weight: bold;
 	text-align: right;
@@ -127,13 +127,13 @@ header h3{
 	min-height: 170px;
 }
 .section3> div:first-child>h1{
-	font-family: arial;
+	font-family: calibri;
 	font-size: 27px;
 	letter-spacing: 1px;
 }
 .section3> div:first-child>p{
 	font-size: 20px;
-	font-family: arial;
+	font-family:calibri;
 	text-align: left;
 	letter-spacing: 1px;
 }
@@ -145,14 +145,14 @@ header h3{
 	min-height: 170px;
 }
 .section3>div:last-child> h1{
-	font-family: arial;
+	font-family: calibri;
 	font-size: 27px;
 	letter-spacing: 1px;
 }
 
 .section3>div:last-child>p{
 	font-size: 20px;
-	font-family: arial;
+	font-family: calibri;
 	text-align: left;
 	letter-spacing: 1px;
 }
@@ -169,14 +169,14 @@ header h3{
 	padding: 4%;
 }
 .divfoot>h1{
-	font-family: arial;
+	font-family: calibri;
 	font-size: 27px;
 	letter-spacing: 1px;
 }
 
 .divfoot>p{
 	font-size: 20px;
-	font-family: arial;
+	font-family: calibri;
 	text-align: left;
 	letter-spacing: 1px;
 }
@@ -186,4 +186,15 @@ footer{
 	background-color: #331402;
 	padding-top: 35px;
 	padding-right: 2%;
+}
+footer>div:nth-child(1){
+	float: left;
+	padding-top: 10px;
+	padding-left: 18px;
+}
+
+footer>div:nth-child(1)>p{
+	font-size: 15px;
+	font-family: calibri;
+	color: white;
 }
