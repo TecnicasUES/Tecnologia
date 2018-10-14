@@ -1,11 +1,5 @@
 @charset "utf-8";
 
-html{
-	background: rgb(195, 195, 195);
-	font-family: calibri,arial, tahoma, helvetica;
-	font-size: 12px;
-	color: black;
-}
 
 body{
 	background: #c3c3c3;
@@ -43,7 +37,7 @@ header>div:last-child>h1{
 }
 header h3{
 	font-size: 24px;
-	font-family: calibri;
+	font-family: arial;
 	font-color:#26160b;
 	margin-top: 1%;
 	margin-right: 95px;
@@ -51,10 +45,11 @@ header h3{
 	letter-spacing: 5px;
 	font-weight: lighter;
 }
-.taza{
+
+.div_head{
 	background: url(../images/logo-header.png);
-	width: 270px;
-	min-height: 250px;
+	width: 275px;
+	min-height: 274px;
 	float: left;
 }
 
@@ -109,12 +104,21 @@ header h3{
 	text-align: left;
 	letter-spacing: 1px;
 }
+
+.section2> div:last-child>h2 {
+	font-size: 20px;
+	font-family: arial;
+	letter-spacing: 1px;
+	font-weight: bold;
+	text-align: right;
+	margin-right: 10px;
+}
 .section3{
-	width: 92%;
+	width: 100%;
 	min-height: 176px;
 	border-top: 14px solid #ddaf76;
 	border-bottom: 2px solid #8d8989;
-}
+}	
 
 
 
