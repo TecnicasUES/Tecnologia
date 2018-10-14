@@ -42,7 +42,7 @@ header>div:last-child>h1{
 	color:#372110;
 	font-weight: 900;
 	text-align: left;
-	letter-spacing: 4px;
+	letter-spacing: 6px;
 
 }
 header h3{
@@ -78,4 +78,16 @@ header h3{
 	min-height: 160px;
 	border-bottom:2px; 
 }
+.picture2> div:first-child{
+	float: left;
+	width: 75%;
+	min-height: 155px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.picture2> div:last-child>h1{
+	font-size: 30px;
+	margin-top: 3%;
+	letter-spacing: 1px;
+	
 
