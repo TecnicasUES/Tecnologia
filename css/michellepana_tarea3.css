@@ -96,13 +96,38 @@ header h3{
 	text-align: left;
 	letter-spacing: 1px;
 }
-.picture2> div:last-child>h2 {
+.picture2> div:last-child>h2{
 	font-size: 22px;
 	font-family: calibri;
 	letter-spacing: 1px;
 	font-weight: bold;
 	text-align: right;
 	margin-right: 10px;
+}
+.cajita3{
+	width: 90%;
+	min-height: 177px;
+	border-top: 14px solid;
+	border-bottom: 2px solid;
+	padding: 4%;
+}
+.cajita3> div:first-child{
+	float: left;
+	width: 46%;
+	min-height: 173px;
+}
+.cajita3> div:first-child>h1{
+	font-family: calibri;
+	font-size: 28px;
+	letter-spacing: 1px;
+}
+.cajita3>div:first-child>p{
+	font-size: 20px;
+	font-family: calibri;
+	text-align: left;
+	letter-spacing: 1px;
+	
+
 
 
 
