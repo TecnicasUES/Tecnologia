@@ -13,7 +13,7 @@ body{
 	margin-right: 5%;
 	width: 90%;
 	background: white;
-	min-height:1000px
+	min-height:1000px;
 }
 header{
 	width: 100%;
@@ -145,4 +145,21 @@ header h3{
 	width: 45%;
 	min-height: 170px;
 }
+.section3>div:last-child> h1{
+	font-family: arial;
+	font-size: 27px;
+	letter-spacing: 1px;
+}
 
+.section3>div:last-child>p{
+	font-size: 20px;
+	font-family: arial;
+	text-align: left;
+	letter-spacing: 1px;
+}
+.cuadro4{
+	background: url(../images/article4.png);
+	width: 100%;
+	min-height:314px; 
+	border-bottom: 1px 
+	solid: #8d8989;
