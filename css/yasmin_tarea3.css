@@ -128,8 +128,21 @@ header h3{
 	min-height: 170px;
 }
 .section3> div:first-child>h1{
-	font-family: calibri;
+	font-family: arial;
 	font-size: 27px;
 	letter-spacing: 1px;
+}
+.section3> div:first-child>p{
+	font-size: 20px;
+	font-family: arial;
+	text-align: left;
+	letter-spacing: 1px;
+}
+
+.section3>div:last-child{
+	margin-left: 70px;
+	float: left;
+	width: 45%;
+	min-height: 170px;
 }
 
