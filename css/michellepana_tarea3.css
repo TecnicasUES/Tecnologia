@@ -75,8 +75,8 @@ header h3{
 }
 .picture2{
 	width: 100%;
-	min-height: 160px;
-	border-bottom:2px; 
+	min-height: 155px;
+	border-bottom:2px solid; 
 }
 .picture2> div:first-child{
 	float: left;
@@ -85,9 +85,24 @@ header h3{
 	padding-left: 20px;
 	padding-right: 20px;
 }
-.picture2> div:last-child>h1{
-	font-size: 30px;
-	margin-top: 3%;
+.picture2>div:last-child>h1{
+	font-size: 26px;
+	margin-top: 2%;
 	letter-spacing: 1px;
-	
+}
+.picture2>div:last-child>p{
+	font-size: 20px;
+	font-family: calibri;
+	text-align: left;
+	letter-spacing: 1px;
+}
+.picture2> div:last-child>h2 {
+	font-size: 22px;
+	font-family: calibri;
+	letter-spacing: 1px;
+	font-weight: bold;
+	text-align: right;
+	margin-right: 10px;
+
+
 
