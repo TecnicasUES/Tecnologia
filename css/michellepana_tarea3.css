@@ -10,24 +10,23 @@ html{
 	color: black
 }
 .contenedor {
-	background: white;
 	margin-left: 5%;
 	margin-right: 5%;
 	width: 90%;
+	background: white;
 	float: left;
 	min-height: 1000px;
 }
 header{
-	background:#ddae76;
-	min-height:320px;
 	width: 100%;
-	float: left;
+	height: 314px;
+	background: #ddae76;
 
 }
 .icon-header{
     background: url('../img/logo-header.png');
 	width: 275px;
-	height: 274px;
+	height: 273px;
 	float: left;
 
 }
@@ -38,17 +37,45 @@ header>div:last-child{
 
 } 
 header>div:last-child>h1{
-	font-family: 60 !important;
-	color:#311e10;
+	font-size: 50px;
+	font-family: arial !important;
+	color:#372110;
 	font-weight: 900;
 	text-align: left;
-	letter-spacing: 5px;
+	letter-spacing: 4px;
 
 }
-.contenedor2{
-	min-height: 280px;
-	text-align: left;
-	padding-left: 5%;
-	letter-spacing: 7pt;
-	padding-top: 10px; 
+header h3{
+	font-size: 24px;
+	font-family: calibri;
+	font-color:#372110;
+	margin-top: 1%;
+	margin-right: 95px;
+	text-align: right;
+	letter-spacing: 5px;
+	font-weight: lighter;
 }
+.cuadro1{
+	width: 90%;
+	min-height: 230px;
+	border-bottom: 2px;
+	padding: 4%;
+}
+.cuadro1>h1{
+	font-family: 30px;
+	font-weight: bold;
+	font-family: calibri
+
+}
+.cuadro1>p{
+    font-size: 20px;
+	font-family: calibri;
+	text-align: left;
+	letter-spacing: 1px;
+}
+.picture2{
+	width: 100%;
+	min-height: 160px;
+	border-bottom:2px; 
+}
+
