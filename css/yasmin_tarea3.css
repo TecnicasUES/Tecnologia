@@ -156,7 +156,7 @@ header h3{
 	text-align: left;
 	letter-spacing: 1px;
 }
-.img{
+.cuadro4{
 	background: url('../img/article4.png');
 	width: 100%;
 	min-height:314px; 
@@ -167,4 +167,23 @@ header h3{
 	width: 92%;
 	min-height:160px;
 	padding: 4%;
+}
+.divfoot>h1{
+	font-family: arial;
+	font-size: 27px;
+	letter-spacing: 1px;
+}
+
+.divfoot>p{
+	font-size: 20px;
+	font-family: arial;
+	text-align: left;
+	letter-spacing: 1px;
+}
+footer{
+	width: 98%;
+	min-height: 75px;
+	background-color: #331402;
+	padding-top: 35px;
+	padding-right: 2%;
 }
