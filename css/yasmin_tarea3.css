@@ -96,8 +96,8 @@ header h3{
 
 .section2> div:last-child>h1{
 	font-size: 27px;
-	margin-top: 2%;
-	letter-spacing: 1px;
+	margin-top: 0%;
+	letter-spacing: 0px;
 }
 .section2> div:last-child>p{
 	font-size: 20px;
