@@ -151,6 +151,50 @@ font-family: calibri;
 	text-align: left;
 	letter-spacing: 1px;
 }
+.text5{
+	width: 92%;
+	min-height:160px;
+	padding: 4%;
+}
+.text5>h1{
+	font-family: calibri;
+	font-size: 25px;
+	letter-spacing: 1px;
+}
+.text5>p{
+	font-family: calibri;
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 1px;
+
+}
+footer{
+	width: 90%;
+	background.color: #051202;
+	min-height: 75px;
+	padding-top: 36px;
+	padding-right: 2%;
+
+}
+footer>div:nth-child(1){
+	padding-left: 20px;
+	padding-top: 11px;
+	float: left;
+}
+footer>div:nth-child(1)>p{
+	font-size: 15px;
+	font-family:cañibri;
+	color: white;
+}
+footer>div:nth-child(2){ 
+	width: 190px;
+	background: url('../img/logo-footer.png');
+	min-height: 36px;
+	margin-left: 11px;
+	float: left;
+}
+
+
 
 
 
