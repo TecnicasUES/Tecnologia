@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+body{
+	background: white;
+	font-family: arial;
+	color:black;
+	margin:0;
+	padding: 0;
+}
