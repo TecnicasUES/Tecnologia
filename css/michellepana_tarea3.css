@@ -187,12 +187,26 @@ footer>div:nth-child(1)>p{
 	color: white;
 }
 footer>div:nth-child(2){ 
-	width: 190px;
+	width: 194px;
 	background: url('../img/logo-footer.png');
-	min-height: 36px;
+	min-height: 34px;
 	margin-left: 11px;
 	float: left;
+
 }
+footer>div:nth-child(3)>input{
+	background-color: #331402;
+	height: 51px;
+	min-width: 10%;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 15px 15px 15px 15px;
+	margin-top: 11px;
+	text-decoration: none;
+	border:none:!important;
+	float: left;
+
 
 
 
