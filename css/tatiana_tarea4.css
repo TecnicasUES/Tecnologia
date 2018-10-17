@@ -62,7 +62,7 @@ li:hover{
 }
 .fondo{
 	background: url(../img/crecimiento2.png);
-	width: 1404px;
+	width: 100%;
 	height: 498px;
 	float: left;
 }
@@ -97,6 +97,7 @@ li:hover{
 	width: 70%;
 	font-weight: lighter;
 	font-size: 18pt;
+	line-height: 25pt;
 	padding-top: 125px;
 }
 .a2>div:last-child>button{
@@ -109,4 +110,6 @@ li:hover{
 	margin-left: 2%;
 	background: white;
 	color: #b6640e;
+	margin-top: 10px;
+	font-size: 12pt
 }
