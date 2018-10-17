@@ -1,0 +1,164 @@
+@charset"utf-8"
+body{
+	background: :ffffff;
+	font-family: arial;
+	margin: 0;
+	padding:0;
+}
+#encabezado{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background: #b6640e;
+	
+}
+#encabezado>div>ul>li>a{
+	text-decoration: none;
+	font-family: arial;
+	font-weight: normal;
+	font-size: 12pt;
+	color: #ffffff;
+  text-align: center;
+}
+#encabezado>div>ul>li{
+	list-style: none;
+	display: black;
+	float: left;
+	width: 12%;
+	border-right: 1px solid #d17d25;
+	height:40px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding-top:20px;	
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+.banner{
+	width: 100%;
+	 height: 490px;
+	 float: left;
+	 background: url('../img/crecimiento2.png')no-repeat;
+}
+.child1{
+	width: 40%;
+	height: 500px;
+	float: left;
+}
+.child2{
+	width: 60%;
+	height: 500px;
+	float: left;
+}
+.img1{
+	background: url('../img/persona.png')no-repeat;
+	width: 501%;
+	height: 500px;
+}
+.child2>div:first-child>h1{
+	width: 100%;
+	height: 60px;
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-top: 100px;
+	font-size: 24pt;
+	font-weight: bold;
+	font-family: calibri;
+	letter-spacing: 2pt;
+	}
+	.child2>div:last-child>button{
+	text-decoration: none;
+	border: 1px  solid#b6640e;
+	height: 50px;
+	border-radius: 5px;
+    width: 20%;
+	margin-left: 10%;
+	float: left
+	}
+#contenido{
+	width: 100%;
+}
+.sec2{
+	background:#ffffff;
+	margin: 0 auto;
+	width: 100%;
+	height: 240px;
+}
+.sec2>div>div{
+		background-color: #f0f0f0;
+		margin: 10px 8px;
+		width: 24%;
+	    height: 230px;
+		float: left;
+	
+}
+.sec2>div>div>div:first-child{
+  width: 25%;
+  margin-left: 5%;
+  height: 230px;
+  float: left;
+}
+.img2{
+  background: url('../img/icono1.png') no-repeat;
+  width: 100%;
+  height: 118px;
+  float: left;
+  margin-top: 10px;
+}
+.img3{
+  background: url('../img/icono2.png') no-repeat;
+  width: 100%;
+  height: 118px;
+  float: left;
+  margin-top: 10px;
+
+}
+.img4{
+  background: url('../img/icono3.png') no-repeat;
+  width: 100%;
+  height: 118px;
+  float: left;
+  margin-top: 10px;
+}
+.img5{
+  background: url('../img/icono4.png') no-repeat;
+  width: 100%;
+  height: 118px;
+  float: left;
+  margin-top: 10px;
+  }
+.sec2>div>div:last-child>h2{
+  font-family: calibri;
+  font-size: 20pt;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  margin: 0;
+  padding: 0;
+  padding-top: 20px;
+}
+
+.sec2>div>div>div:last-child>p{
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: lighter;
+  letter-spacing: 2pt;
+  margin: 0;
+  padding: 0;
+}
+
+	#pie{
+	width: 100%;
+	height: 60px;
+	float: left;
+	background:#040108;
+}
+#pie>p{
+	text-align: center;
+	font-weight: normal;
+	color: #ffffff;
+	font-size: 14pt;
+}
+	
