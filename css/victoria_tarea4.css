@@ -196,6 +196,7 @@ ul{
 	float: left;
 	margin-top: 50px;
 	background:#040108;
+	overflow: hidden;
 }
 #pie>p{
 	text-align: center;
