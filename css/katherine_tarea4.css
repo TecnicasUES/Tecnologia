@@ -33,15 +33,20 @@ header{
 }	
 
 .barra2{
-	width:97%;
+	width:94%;
 	height:40px;
 	float:left;
 }
 
+#menu{
+	width:94%;
+	height:40px;
+	float:left;
+}
 
 #menu>li{
   width:12%;
-  height:45px;
+  height:40px;
   display: block;
   float:left;
   text-align: center;
@@ -53,3 +58,44 @@ header{
   text-align: center;
 }
 
+.portada{
+	width:1404%;
+	height:674px;
+	float:left;
+}
+.img2{
+	background: url('../img/crecimiento2.png');
+	width:1404px;
+	height:674px;
+	display: block;
+}	
+
+.hijo1{
+	width:40%;
+	height:674px;
+	float:left;
+}
+.img2a{
+	background: url('../img/persona.png');
+	width:567px;
+	height:498px;
+	display: block;
+}	
+
+.hijo2{
+	width:60%;
+	height:674px;
+	float:left;
+}
+
+.hijo2>h1{
+	color: #b6640e;
+	text-align: left;
+	font-family: calibri;
+	font-weight: bold;
+	padding:0;
+	margin:0;
+	font-size:30pt;
+	margin-top:50px;
+	
+}
