@@ -111,8 +111,9 @@ ul{
 .sec2>div>div{
 	background-color: #f0f0f0;
 	margin: 14px 8px;
-	width: 24%;
-	height: 300px;
+	padding: 0 10px;
+	width: 22.9%;
+	height: 100%;
 	float: left;
 	
 }
@@ -124,9 +125,10 @@ ul{
 }
 .sec2>div>div>div p{
   font-family: calibri;
-  font-size: 12pt;
+  font-size: 14pt;
   font-weight: lighter;
   letter-spacing: 2pt;
+  line-height: 22px;
   margin-bottom: 12px;
   padding: 4px 8px;
 }
@@ -192,6 +194,7 @@ ul{
 	width: 100%;
 	height: 60px;
 	float: left;
+	margin-top: 50px;
 	background:#040108;
 }
 #pie>p{
