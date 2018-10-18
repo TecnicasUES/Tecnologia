@@ -153,64 +153,136 @@ header{
     background: white;
 }
 
+#d{
+    width: 1404px;
+    height: 520px;
+    float: left;
+    background: white;
+}
+
+
 
 .c1art{
     width: 24%;
-    margin-left: 1%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
     margin-top: 25px;
     margin-bottom: 25px;
-    height: 350px;
+    height: 430px;
     float: left;
-    background: #F0EDEE;
+    background: #ECECED;
 }
 
 .c1art>div:first-child{
-    margin-left:2%;
-    width: 95%;
+    margin-left:4%;
+    margin-right: 4%;
+    width: 92%;
     height: 350px;
     float:left;
 }
 
 .c1art>div:nth-child(2){
-    margin-left: 3%;
-    width: 95%;
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
     height: 350px;
     float:left;
 }
 
 .c1art>div:nth-child(3){
-    margin-left: 3%;
-    width: 95%;
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
     height: 350px;
     float:left;
 }
 
 .c1art>div:last-child{
-    margin-left: 2%;
-    width: 95%;
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
     height: 350px;
     float:left;
 }
 
-.c1art>.c1{
-    width: 30%;
-    height: 4100px;
+.c1a{
+    width: 40%;
+    height: 130px;
     float: left;
 }
 
-.c1art>.c2{
-    width: 70%;
+.c1b{
+    width: 60%;
+    height: 130px;
+    float: left;
+}
+
+.c1art>.c1{
+    width: 40%;
     height: 410px;
     float: left;
 }
 
+
+.c1art>.c2{
+    width: 60%;
+    height: 410px;
+    float: left;
+}
+
+.c1art>div>.c1>.c1a>.img4{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono1.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+.c1art>div>.c1>.c1a>.img5{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono2.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+.c1art>div>.c1>.c1a>.img6{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono3.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+.c1art>div>.c1>.c1a>.img7{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono4.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+.c1art>div>.c1>.c1b>h2{
+    font-family: calibri;
+    color: black;
+    font-size: 20pt;
+    margin:0;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
 .c1art>div>.c2>p{
   font-family: calibri;
-  font-size: 15pt;
-  font-weight: lighter;
+  font-size: 13pt;
+  font-weight: normal;
   text-align: left;
-  color: #424242;
-  line-height: 18pt;
+  color: #212121;
+  margin-left: 5%;
+  line-height: 16pt;
   padding: 0;
   margin:0;
 }
