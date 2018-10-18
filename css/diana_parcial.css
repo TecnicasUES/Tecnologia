@@ -166,13 +166,142 @@ a{
 }
 
 header>.boton>button^{
-  width: 4%;
-	height: 30px;
-	float:right;
-	background: #bc7bbd;
+  height:30px;
+  border-radius: 5px;
+  width:100%;
+  background:#bc7bbd;
+  color:white; 
+  font-size: 11pt 
+  margin-right:5px;
+  margin-top:5px;
 }
 .boton>button:hover{
   background: #d9d3ef;
   cursor: pointer;
   color: white;
 }
+
+.ban{
+  width:1404%;
+  height:690px;
+  float:left;
+}
+
+.img2{
+  background: url('../img/crecimiento2.png');
+  width:1404px;
+  height:674px;
+  display: block;
+} 
+  
+.caja1{
+  width:60%;
+  height:674px;
+  float:left;
+}
+
+.caja2{
+  width:40%;
+  height:674px;
+  float:left;
+}
+.img3{
+  background: url('../img/persona3.png');
+  width:567px;
+  height:498px;
+  display: block;
+} 
+.caja1>h1{
+  color: #5f0581;
+  text-align:center;
+  font-family: calibri;
+  font-weight: bold;
+  padding:0;
+  margin-left:10px;
+  font-size:30pt;
+  margin-top:50px;  
+}
+
+.caja1>p{
+  color:   #7f7e83;
+  text-align:left;
+  font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-weight: lighter;
+  font-size: 14pt;
+  padding:0;
+  margin-left:150px; 
+  text-align: left;
+  line-height: 30px;
+  margin-right: 150px;
+}
+
+.caja1>div>button{
+  height: 38px;
+  width: 12%;
+  border-radius: 2px;
+  border: 1px solid #7d0581;
+  text-align: center;
+  font-family: calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  margin-left: 10%;
+  margin-right: 15%
+  margin-top: 10px;
+  color:#7d0581;
+}
+
+.caja1>div>button:first-child{
+  height: 38px;
+  width: 12%;
+  border-radius: 5px;
+  border: 1px solid #7d0581;
+  text-align: center;
+  font-family: calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  margin-left: 20%;
+  margin-top: 10px;
+  color:#7d0581;
+}
+.caja1>div>button:nth-child(2){
+  height: 38px;
+  width: 12%;
+  border-radius: 5px;
+  border: 1px solid #7d0581;
+  text-align: center;
+  font-family: calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  margin-left: 2%;
+  margin-top: 10px;
+  color:#7d0581;
+}
+.caja1>div>button:nth-child(3){
+  height: 38px;
+  width: 12%;
+  border-radius: 5px;
+  border: 1px solid #7d0581;
+  text-align: center;
+  font-family: calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  margin-left: 2%;
+  margin-top: 10px;
+  color:#7d0581;
+}
+.caja1>div>button:last-child{
+  height: 38px;
+  width: 12%;
+  border-radius: 5px;
+  border: 1px solid #7d0581;
+  text-align: center;
+  font-family: calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  margin-left: 2%;
+  margin-top: 10px;
+  color:#7d0581;
+}
+
+
+
