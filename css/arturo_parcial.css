@@ -44,12 +44,56 @@ background: black;
 #menu>li>a:hover{
   color: black;
 }
-section>article>div{
+.texto{
+  width: 60%;
+  height:100px;
+}
+.mujer{
+  width: 40%;
+  height: 100px;
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+section>article>div:first-child{
   height: 674px;
   width: 1404px;
   background: url('../img/crecimiento2.png');
   margin: auto;
   display: block;
+  float: left;
+}
+section>article>div>div>h2{
+ margin: 0;
+  padding: 0;
+ letter-spacing: 2px;
+  color: purple;
+  font-size: 35pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-top: 100px;
+  margin-left: 100px;
+  background: :  #7617d5;
+}
+section>article>div>div>p{
+ letter-spacing: 2px;
+  color: black;
+  font-size: 15pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: lighter;
+  margin-top: 10px;
+  margin-left: 100px;
+
+}
+.img2{
+  height: 498px;
+  width: 567px;
+  background: url('../img/persona3.png');
+  margin: auto;
+  display: block;
+  float: right;
 }
 #art2{
   width: 100%;
