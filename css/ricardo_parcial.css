@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+body{
+  background: #DDFAF0;
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+header{
+  width: 100%;
+  height: 45px;
+  background: white;
+  float: left;
+}
+
+#menus{
+  width: 100%;
+  height: 45px;
+  background: black;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#menus>li>first-child{
+  width: 6%;
+  height: 45px;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+.img1{
+  width: 33px;
+  height: 22px;
+  background: url('../img/icono_purple.png');
+  margin-left:10%
+}
+#menus>li{
+  width: 6%;
+	height:30px;
+	display: block;
+	float: left;
+	border-right: 1px solid gray;
+	text-align: center; 
+  margin-left: 1%;
+  padding-top: 15px;
+  
+}
+#menus>li>a{
+    font-family: arial;
+    font-size: 8pt;
+    font-weight: normal;
+    color: #FFFFFF;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#menus>li:hover{
+  background: #816AC7;
+}
+#menus>button{
+  background-color: #EF74C7;
+  color: white;
+  font-size:10pt;
+  width: 8%;
+  height: 30px;
+  margin-top: 7px;
+  margin-left: 8%;
+  border-radius: 7px;
+  font-weight: bold; 
+  border: solid #EF74C7;
+}
+
+#menus>button:hover{
+  background:  #816AC7;
+}
+
+
+
+
+
+
+
+
+
+
+ 
