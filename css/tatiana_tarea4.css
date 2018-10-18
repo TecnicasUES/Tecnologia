@@ -150,6 +150,21 @@ button:hover{
 	width: 100px;
 	height: 100px;
 }
+.imagenb2{
+	background: url('../img/icono2.png');
+	width: 100px;
+	height: 100px;
+}
+.imagenb3{
+	background: url('../img/icono3.png');
+	width: 100px;
+	height: 100px;
+}
+.imagenb4{
+	background: url('../img/icono4.png');
+	width: 100px;
+	height: 100px;
+}
 .child2>div>div>div:nth-child(2){
 	width: 49.5%;	
 	height: 100px;
