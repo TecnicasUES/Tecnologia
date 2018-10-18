@@ -52,11 +52,7 @@ body{
 	height:674px;
 	background: url('../img/crecimiento2.png');
 }
-#banner1>.cl1{
-	width: 100%;
-	height: 50px;
-	float: right;
-}
+
 .texto{
 	margin-right:5px;
 	float: left;
