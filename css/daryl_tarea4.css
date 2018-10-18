@@ -57,11 +57,78 @@ li:hover{
 
 .debajo{
 	background: url('../img/crecimiento2.png') ;
-	width: 1404px;
+	width: 70%;
 	height: 498px;
 }
 .maitro{
 	background: url('../img/persona.png');
 	width:567px;
 	height: 498px;
+
+}
+.text{
+    
+	width:60%;
+	height: 500px;
+	float: right;
+
+}
+.text>h2{
+	color:#B45F04;
+	text-align: left;
+	font-family: arial;
+	padding:0;
+	margin: 0;
+	font-size: 30pt;
+    padding-top: 70px;
+    font-weight: bold;
+
+}
+.text>p{
+	color: #434242;
+	text-align:left;
+	font-family:tahoma;
+	padding:0;
+	margin:0;
+	font-size:16pt;
+	margin-right: 20%;
+    letter-spacing: 1pt;
+    line-height: lighter;
+    line-height: 20pt;
+}
+.pucho1{
+	border:1px solid  #B45F04;
+	height: 50px;
+	width: 20%;
+	background: white;
+	text-decoration:none;
+	border-radius: 5px;
+	text-align:center;
+	color: #B45F04;
+	font-size: 12pt; 
+}
+.pucho2{
+	border:1px solid  #B45F04;
+	height: 50px;
+	width: 20%;
+	background: white;
+	text-decoration:none;
+	border-radius: 5px;
+	text-align:center;
+	color: #B45F04;
+	font-size: 12pt; 
+	margin-left:2%;
+}
+.pucho3{
+	border:1px solid  #B45F04;
+	height: 50px;
+	width: 20%;
+	background: white;
+	text-decoration:none;
+	border-radius: 5px;
+	text-align:center;
+	color: #B45F04;
+	font-size: 12pt; 
+	margin-left:2%;
+
 }
