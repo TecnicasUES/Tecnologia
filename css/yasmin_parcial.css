@@ -30,6 +30,15 @@ body{
 	text-align: center;
 	border-right: 1px solid #eaece7;
 }
+.boton1{
+	margin-right: 50px; 
+	float: right;
+	width: 7%;
+	height: 30px;
+	color:white; 
+	border:none;
+	background: #bc7bbd;
+} 
 
 #icono_purple{
 	float: left;
