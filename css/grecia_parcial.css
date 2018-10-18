@@ -18,7 +18,7 @@ body{
 }
 
 .icono{
-	width:4%;
+	width:9%;
 	height: 45px;
 	float: left;
 	margin: 0;
@@ -28,7 +28,7 @@ body{
 }
 
 .menu{
-	width:85%;
+	width:80%;
 	height: 45px;
 	float: left;
 	margin: 0;
@@ -47,5 +47,43 @@ body{
 }
 
 .menu>li{
-	
+	width: 9%;
+	height:30px;
+	display: block;
+	float: left;
+	text-align: center;
+	padding-top: 15px;
+	border-right: 1px solid white;
+}
+
+.menu>li>a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	font-size: 10pt;
+	font-weight: bold;
+
+	}
+#caja1>.icono>.img1{
+	width: 33px;
+	height: 22px;
+	background: url('../img/icono_purple.png');
+	margin: auto;
+	display: block;
+	margin-top:12px;
+	margin-left: 10px;
+}
+
+#caja1>.boton>button{
+	height:32px; 
+	width:100px;
+	background: #BD7ABD;
+	border-radius: 5px;
+	border:#BD7ABD 2px;
+	color: white;
+	font-family:calibri;
+	font-weight: normal;
+	margin-top: 5px;
+	margin-left: 60px;
+	font-size: 13pt; 
 }
