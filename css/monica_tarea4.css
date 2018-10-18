@@ -104,7 +104,7 @@ header{
 }
 
 .ba2{
-	width:62%;
+	width:45%;
 	height:495px;
 	float:left;
 }
@@ -115,17 +115,18 @@ header{
     font-size:30pt;
 	text-align: left;
 	font-weight: bold;
-	margin-top: 75px;
 	padding:0;
+	margin:0;
+    margin-top: 70px;
 }
 
 .ba2>p{
-    margin: 0;
-    padding: 0;
-    color: black;
-    letter-spacing: 2px;
-    font-size: 16pt;
-    text-align: left;
-    font-family: calibri;
-    font-weight: lighter;
+  font-family: calibri;
+  font-size: 18pt;
+  font-weight: lighter;
+  text-align: left;
+  color: #6E6C6D;
+  line-height: 27pt;
+  padding: 0;
+  margin:0;
 }
