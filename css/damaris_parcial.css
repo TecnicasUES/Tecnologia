@@ -124,32 +124,62 @@ header{
 }
 
 
-.imagh1>div>button{
+.boton1{
   background: white;
   width: 12%;
   height: 40px;
   font-family: calibri;
   font-size: 11pt;
   font-weight: lighter;
-  color: #D40FBE;
+  color: #820C7A;
   margin-left: 20%;
   margin-top: 10px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 4px;
   border: 1px solid; 
 }
 
-.imagh1>div>button:ntd-child(2){
+.boton2{
   background: white;
   width: 12%;
   height: 40px;
   font-family: calibri;
   font-size: 11pt;
   font-weight: lighter;
-  color: #D40FBE;
+  color: #820C7A;
   margin-left: 2%;
   margin-top: 10px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 4px;
+  border: 1px solid; 
+}
+
+.boton3{
+  background: white;
+  width: 12%;
+  height: 40px;
+  font-family: calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  color: #820C7A;
+  margin-left: 2%;
+  margin-top: 10px;
+  text-align: center;
+  border-radius: 4px;
+  border: 1px solid; 
+}
+
+.boton4{
+  background: white;
+  width: 12%;
+  height: 40px;
+  font-family: calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  color: #820C7A;
+  margin-left: 2%;
+  margin-top: 10px;
+  text-align: center;
+  border-radius: 4px;
   border: 1px solid; 
 }
