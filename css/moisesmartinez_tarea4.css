@@ -35,7 +35,7 @@ li{
 	float: left;
 }
 
-#menu>div>ul>li{
+#menu>div>div>ul>li{
 	width: 11.6%;
 	height: 30px;
 	padding-top: 10px;
@@ -45,7 +45,7 @@ li{
 	border-right: 1px solid white;
 }
 
-#menu>div>ul>li>a{
+#menu>div>div>ul>li>a{
 	text-decoration: none;
 	color: white;
 	text-align: center;
@@ -58,7 +58,7 @@ li{
 	float: left;
 }
 
-#menu>div>ul>li:first-child{
+#menu>div>div>ul>li:first-child{
 	width: 3.5%;
 	height: 22px;
 	float: left;
