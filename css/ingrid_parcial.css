@@ -6,13 +6,23 @@ body{
   color: black;
   padding:0;
 }
-header {
+header{
   background: #232323;
   margin: 0;
   padding: 0;
  height: 45px;
   width: 100%;
   float: left;
+}
+header>.cl1{
+	width: 10%;
+  height: 0;
+  /*! display: block; */
+  float: left;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+ border-right: 1px solid cyan;
 }
 header>.cl1>.img1{
  width: 33px;
@@ -22,15 +32,76 @@ header>.cl1>.img1{
   margin: left;
   margin-top: 11px;
 }
-header>#menu{
-   width: 100%;
+#menu{
+  width: 80%;
+  height: 45px;
+  display: block;
+  float: left;
+  padding: 0;
+  margin: 0;
+  margin-left: 180px;
+}
+#menu>li{
+  width: 8%;
+  height: 35px;
+  display: block;
+  float: left;
+  padding: 0;
+  font-size: 9pt;
+  margin: 0;
+  padding-top: 15px;
+  margin-left: 1%;
+  text-align: center;
+ border-right: 1px solid white;
+}
+#menu>li>a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  float: left;
+  margin-left: 2%;
+}
+header>div{
+ width: 100%;
   height: 0px;
   float: left;
    margin: 0;
   padding: 0;
+  text-align: center;
 }
-
-
+header>div>button{
+  background: #bc7bbd;
+  height: 28px;
+  width: 8%;
+  border-radius: 2px;
+  border: 1px solid #bc7bbd;
+  text-align: center;
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: lighter;
+  padding: 0;
+  margin: 0;
+  margin-right: 1%;
+  margin-top: 10px;
+  float: right;
+}
+#banner{
+  width: 100%;
+  height: 520px;
+  float: left;
+  background: url('../img/crecimiento2.png');
+}
+#banner>.cl2>.img2{
+  width: 501px;
+  height: 501px;
+  background: url('../img/persona3.png');
+  margin: auto;
+  display: block;
+  float: right;
+  margin-right: 6px;
+}
 
 
 
