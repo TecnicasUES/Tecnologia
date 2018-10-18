@@ -47,24 +47,16 @@ body{
 	width: 22px;
 	background: url('../img/icono_purple.png');
 }
-
-#banner>.cl1{
-	width: 100%;
-	height: 50px;
-	float: right;
-}
-
-#banner>.cl1>.creci{
+#banner{
 	width: 1404px;
 	height:674px;
 	background: url('../img/crecimiento2.png');
 }
-#banner>.cl1>.persona3{
-	width: 567px;
-	height:498px;
-	background: url('../img/persona3.png');
+#banner1>.cl1{
+	width: 100%;
+	height: 50px;
+	float: right;
 }
-
 .texto{
 	float: left;
 	color: black;
@@ -74,5 +66,12 @@ body{
 	padding: 0;
 	margin: 0;
 }
-}	
+#banner>.cl1>.persona3{
+	float: right;
+	width: 567px;
+	height:498px;
+	background: url('../img/persona3.png');
+}
+
+	
 	
