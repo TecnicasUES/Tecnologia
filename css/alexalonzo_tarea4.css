@@ -1,0 +1,131 @@
+@charset "utf-8";
+body{
+	background: white;
+	font-family: arial;
+	margin: 0;
+	padding: 0;
+}
+header{
+	background: #9f6b34;
+	height: 40px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.record{
+	width: 4%;
+	height: 40px;
+	float:left;
+	border-right: 1px solid #e2a564;
+}
+.imagine1{
+	background: url('../img/icono_logo.png');
+	width: 33px;
+	height: 22px;
+	margin-left: 10px;
+	margin-top: 8px;
+	display: block;
+}
+.record:hover{
+	background: #997e62;
+	color: white;
+}
+.sezioni{
+	width: 95%;
+	height: 40px;
+	float: left;
+}
+#pulsanti{
+	width: 99%;
+	height: 40px;
+	float:left;
+	padding: 0;
+	margin: 0;
+}
+#pulsanti>li{
+	width: 12%;
+	height: 30px;
+	display: block;
+	text-align: center;
+	border-right: 1px solid #e2a564;
+	padding-top: 10px;
+	float: left;
+}
+#pulsanti>li>a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+#pulsanti>li:hover{
+	background: #997e62;
+}
+#pulsanti>li>a:hover{
+	color: white;
+}
+.ritratto{
+	width:1404%;
+	height:674px;
+	float:left;
+}
+#imagine2{
+	background: url('../img/crecimiento2.png');
+	width: auto;
+	height:674px;
+	display: block;
+}
+.contenitore1{
+	width:40%;
+	height:674px;
+	float:left;
+}
+.imagine3{
+	background: url('../img/persona.png');
+	width:567px;
+	height:498px;
+	display: block;
+}
+.contenitore2{
+	width:50%;
+	height:674px;
+	float:left;
+}
+.contenitore2>h1{
+	color: #b6640e;
+	text-align: left;
+	font-family: roboto;
+	font-weight: bold;
+	padding:0;
+	margin:0;
+	font-size:30pt;
+	margin-top:50px;	
+}
+.contenitore2>p{
+  letter-spacing: 2px;
+  color: black;
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 12pt;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+.contenitore2>div>button{
+  background: white;
+  height: 50px;
+  width: 14%;
+  border: 1px solid #9f6b34;
+  border-radius: 4px;
+  text-align: center;
+  font-family: calibri;
+	color: #9f6b34;
+  font-weight: lighter;
+  font-size: 12pt;
+  margin-left: 10%;
+  margin-top: 10px;  
+}
+.contenitore2>div>button:hover{
+	background: #997e62;
+	cursor: pointer;
+	color: white;
+}
