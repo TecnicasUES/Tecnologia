@@ -107,7 +107,7 @@ header{
 }
 
 .b1>.img2{
-    width: 1404px;
+    width: 100%;
     height: 498px;
     background: url('../img/crecimiento2.png');
     margin: auto;
@@ -115,7 +115,7 @@ header{
 }
 
 .ba1{
-    width:57%;
+    width:60%;
     height:495px;
     margin left: 15%;
     float:left;
@@ -124,90 +124,90 @@ header{
 
 .ba1>h1{
     font-family: calibri;
-    color: #8154A3;
+    color: #600487;
     font-size:30pt;
     text-align: left;
     font-weight: bold;
     padding:0;
     margin:0;
     margin-top: 70px;
-    margin-left: 15%;
+    margin-left: 17%;
 }
 
 .ba1>p{
-  font-family: calibri;
-  font-size: 18pt;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16pt;
   font-weight: lighter;
   text-align: left;
   color: #35393B;
   line-height: 27pt;
   padding: 0;
   margin:0;
-  margin-left: 15%;
+  margin-left: 17%;
   margin-right: 20%;
 }
 
 
 .ba1>div>button{
     background: white;
-    height: 45px;
+    height: 47px;
     width: 12%;
     border-radius: 5px;
-    border: 1px solid #6D478A;
+    border: 1px solid #600487;
     text-align: center;
     color:#6D478A;
     font-family: arial;
     font-size: 11pt;
     font-weight: lighter;
     margin-left: 20%;
-    margin-top: 5px;
+    margin-top: 6px;
 }
 
 .ba1>div>button:nth-child(2){
     background: white;
-    height: 45px;
+    height: 47px;
     width: 12%;
     border-radius: 5px;
-    border: 1px solid #6D478A;
+    border: 1px solid #600487;
     text-align: center;
     color:#6D478A;
     font-family: arial;
     font-size: 11pt;
     font-weight: lighter;
     margin-left: 3%;
-    margin-top: 5px;
+    margin-top: 6px;
 }
 
 
 .ba1>div>button:nth-child(3){
     background: white;
-    height: 45px;
+    height: 47px;
     width: 12%;
     border-radius: 5px;
-    border: 1px solid #6D478A;
+    border: 1px solid #600487;
     text-align: center;
     color:#6D478A;
     font-family: arial;
     font-size: 11pt;
     font-weight: lighter;
     margin-left: 3%;
-    margin-top: 5px;
+    margin-top: 6px;
 }
 
 
 .ba1>div>button:last-child{
     background: white;
-    height: 45px;
+    height: 47px;
     width: 12%;
     border-radius: 5px;
-    border: 1px solid #6D478A;
+    border: 1px solid #600487;
     text-align: center;
     color:#6D478A;
     font-family: arial;
     font-size: 11pt;
     font-weight: lighter;
     margin-left: 3%;
-    margin-top: 5px;
+    margin-top: 6px;
 }
 .ba2{
     width:40%;
@@ -221,4 +221,117 @@ header{
     background: url('../img/persona3.png');
     margin: auto;
     display: block;
+}
+
+#c{
+    width: 100%;
+    height: 450px;
+    float: left;
+    background: white;
+}
+
+
+.c1art{
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    height: 350px;
+    float: left;
+    background: #F1F1F1;
+}
+
+.c1art>div:first-child{
+    margin-left: 3%;
+    width: 29%;
+    height: 250px;
+    float:left;
+}
+
+.c1art>div:nth-child(2){
+    margin-left: 3%;
+    width: 29%;
+    height: 250px;
+    float:left;
+}
+
+.c1art>div:last-child{
+    margin-left: 3%;
+    width: 29%;
+    height: 250px;
+    float:left;
+}
+
+.c1a{
+    width: 40%;
+    height: 130px;
+    float: left;
+}
+
+.c1b{
+    width: 60%;
+    height: 130px;
+    float: left;
+}
+
+.c1art>.c1{
+    width: 40%;
+    height: 410px;
+    float: left;
+}
+
+
+.c1art>.c2{
+    width: 60%;
+    height: 410px;
+    float: left;
+}
+
+.c1art>div>.c1>.c1a>.img4{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono1.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+
+.c1art>div>.c1>.c1a>.img5{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono6.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+.c1art>div>.c1>.c1a>.img6{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono7.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+
+
+.c1art>div>.c1>.c1b>h2{
+    font-family: calibri;
+    color: black;
+    font-size: 20pt;
+    margin:0;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.c1art>div>.c2>p{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 12pt;
+  font-weight: normal;
+  text-align: left;
+  color: #212121;
+  line-height: 16pt;
+  padding: 0;
+  margin:0;
 }
