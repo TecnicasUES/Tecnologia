@@ -79,11 +79,46 @@ header{
 	width: 100%;
 	background: url('../img/crecimiento2.png');
 	float: left;
-	margin-bottom: 20px;
+	padding: 0;
+	margin: 0;
 }
 
 .imagh1{
 	width: 40%;
 	height: 600px;
 	float: left;
+}
+
+.imagh1>h1{
+	width: 100%;
+	height: 75px;
+	font-size: 30pt;
+	font-family: calibri;
+	color: #820C7A;
+	margin-left: 150px;
+	
+}
+
+.imagh1>p{
+	width: 100%;
+	height: 75px;
+	font-size: 20pt;
+	font-family: calibri;
+	color: black;
+	margin-left: 150px;
+	font-weight: lighter;
+	
+}
+
+.imagh2{ 
+	height: 500px;
+	width: 40%;
+	float: left;
+}
+
+.imagen2{
+	background: url('../img/persona3.png');
+	height: 500px;
+	width: 100%;
+	margin-left: 300px
 }
