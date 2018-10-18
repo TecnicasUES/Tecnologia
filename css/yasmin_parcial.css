@@ -58,6 +58,7 @@ body{
 	float: right;
 }
 .texto{
+	margin-right:5px;
 	float: left;
 	color: black;
 	text-align: left;
