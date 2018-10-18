@@ -133,7 +133,7 @@ button:hover{
 	height: 350px;
 	margin-right: 1%;
 	float: left;
-		margin-top: 20px;
+	margin-top: 20px;
 }
 .child2>div>div>div:first-child{
 	width: 40%;
@@ -172,7 +172,7 @@ button:hover{
 	border:1px solid green;
 }
 .child2>div>div>div:nth-child(2)>h2{
-	font-size: 14pt;
+	font-size: 18pt;
 	font-weight: bolder;
 	margin: 0;
 	padding: 0;
@@ -186,7 +186,7 @@ button:hover{
 	border:1px solid black;
 }
 .child2>div>div>div:last-child>p{
-  font-size:12pt;
+  font-size:13pt;
   font-weight:lighter;
   margin:0;
   padding:0;
