@@ -39,7 +39,6 @@ button{
 	background: #c083c1;
 	width: 7%;
 	height: 30px;
-	color:#c083c;
 	font-weight: bold;
 	font-size: 10pt;
 	margin-bottom:10px;
@@ -247,20 +246,132 @@ button{
 .c1>h2{
     margin-left: 3%;
     width: 50%;
-    height: 100px;
+    height: 30px;
     float:left; 
     font-family: Calibri;
   	font-size: 20pt;
-  	font-weight: lighter;
+  	font-weight: bold;
   	line-height: 27pt;
   	padding: 0;
   	margin:0;
   	margin-left: 15%;
   	text-align: left;
-  	color: #454545;
+  	color: #black;	
+    margin-top: 15px;
+    border-bottom: 1px solid black
 }
 
 .c1>p{
+  font-family: Calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  line-height: 15pt;
+  padding: 0;
+  margin:0;
+  margin-left: 15%;
+  margin-right: 20%;
+  text-align: left;
+  color: #454545;
+  margin-top: 0px;
+}
+
+.c2{
+	width: 33.33%;
+	height:320px;
+	float: left;
+}
+
+.img2{
+    background: url('../img/icono6.png');
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    display: block;
+    padding: 0;
+
+}
+
+.c2>div:first-child{
+    margin-left: 3%;
+    width: 22%;
+    height: 100px;
+    float:left;
+}
+
+.c2>h2{
+    margin-left: 3%;
+    width: 50%;
+    height: 30px;
+    float:left; 
+    font-family: Calibri;
+  	font-size: 20pt;
+  	font-weight: bold;
+  	line-height: 27pt;
+  	padding: 0;
+  	margin:0;
+  	margin-left: 15%;
+  	text-align: left;
+  	color: black;
+    margin-top: 15px;
+    border-bottom: 1px solid black
+}
+
+.c2>p{
+  font-family: Calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  line-height: 15pt;
+  padding: 0;
+  margin:0;
+  margin-left: 15%;
+  margin-right: 20%;
+  text-align: left;
+  color: #454545;
+}
+
+
+.c3{
+	width: 33.34%;
+	height:320px;
+	float: left;
+}
+
+.img3{
+    background: url('../img/icono7.png');
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    display: block;
+    padding: 0;
+
+}
+
+.c3>div:first-child{
+    margin-left: 3%;
+    width: 22%;
+    height: 100px;
+    float:left;
+}
+
+.c3>h2{
+    margin-left: 3%;
+    width: 50%;
+    height: 30px;
+    float:left; 
+    font-family: Calibri;
+  	font-size: 20pt;
+  	font-weight: bold;
+  	line-height: 27pt;
+  	padding: 0;
+  	margin:0;
+  	margin-left: 15%;
+  	text-align: left;
+  	color: black;
+    margin-top: 15px;
+    border-bottom: 1px solid black
+}
+
+.c3>p{
   font-family: Calibri;
   font-size: 10pt;
   font-weight: lighter;
