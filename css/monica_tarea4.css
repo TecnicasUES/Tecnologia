@@ -9,7 +9,7 @@ body{
 }
 
 header{
-    background:#C46B3F;
+    background:#B26139;
     margin:0;
     padding:0;
     width:1404px;
@@ -104,7 +104,7 @@ header{
 }
 
 .ba2{
-	width:45%;
+	width:47%;
 	height:495px;
 	float:left;
 }
@@ -130,3 +130,19 @@ header{
   padding: 0;
   margin:0;
 }
+
+.ba2>div>button{
+    background: white;
+    height: 45px;
+    width: 26%;
+    border-radius: 2px;
+    border: 1px solid #C46B3F;
+    text-align: center;
+    color:#C46B3F;
+    font-family: arial;
+    font-size: 11pt;
+    font-weight: lighter;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
