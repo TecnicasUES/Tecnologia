@@ -24,7 +24,6 @@ header{
   float: left;
 }
 
-
 #menu>li{
   width: 8%;
   height: 25px;
@@ -52,10 +51,51 @@ header{
   color: white;
 }
 
-article>div>.fondo{
+#banner{
   background: url('../img/crecimiento2.png');
   width: 1404px;
   height: 674px;
   float: left;
   display: block;
+}
+
+
+#banner>.persona{
+	width: 40%;
+	height: 674px;
+	float: left;
+}
+
+#banner>.texto1{
+	width: 60%;
+	height: 674px;
+	float: left;
+}
+
+#banner>div:first-child>.img{
+	background: url('../img/persona.png');
+	width: 567px;
+	height: 498px;
+	float: left;
+}
+
+#banner>div:last-child>h1{
+  margin: 0;
+  padding: 0;
+  margin-top: 40px;
+  font-size: 28pt;
+  font-weight: bold;
+  text-align: left;
+  color: #c66e27;
+}
+
+#banner>div:nth-child(2)>p{
+  margin: 0;
+  padding: 0;
+  margin-top: 40px;
+  font-size: 16pt;
+  font-weight: lighter;
+  text-align: left;
+  color: #686767;
+  line-height: 26pt;
 }
