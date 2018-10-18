@@ -29,13 +29,13 @@ header{
 	float: left;
 
 }
-#ic_morado{
+#icono_purple{
 	margin:center;
 	height: 40px;
 	margin:center;
 	width: 20px;
 	height:30px;
-	background: url('../img/ic_morado.png');
+	background: url('../img/icono_purple.png');
 }
 #banner1>.cl1{ 
 	width: 200%;
@@ -43,6 +43,17 @@ header{
 	float: left;
 
 }
+#banner2>.cl2{
+ width: 60%;
+ height: 501px;
+ float: left;
+}
+#banner>.cl1>.crecimiento2{
+	width: 100%;
+	height: 500px;
+	background: url('../img/crecimiento2.png');
+}
+
 
 
 
