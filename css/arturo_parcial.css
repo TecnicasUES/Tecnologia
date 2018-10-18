@@ -63,6 +63,18 @@ article>.img1{
   display: block;
   float: left;
 }
+section>article>div>div>button{
+  width: 17%;
+  height: 40px;
+  border-radius: 5px;
+  border:1px solid #843893;
+  float: right;
+  text-align: center;
+  font-size: 11pt;
+  color: #843893;
+  background: white;
+  margin-left: 5%;
+}
 section>article>div>div>h2{
  margin: 0;
   padding: 0;
@@ -195,6 +207,30 @@ article>div>div>h2{
   height: 250px;
   float: left;
   background:  #e7e7e7;
+}
+#art3>div:first-child{
+  margin-left: 5%;
+  width: 27%;
+  height: 250px;
+  float: left;
+}
+#art3>div>.cl5{
+  width: 30%;
+  height: 250px;
+  float: left;
+}
+#art3>div>.cl4{
+  width: 70%;
+  height: 250px;
+  float: left;
+  }
+  #art3>div>.cl3>.img6{
+  width: 100px;
+  height: 100px;
+ background: url('../img/icono5.png');
+  margin: auto;
+  display: block;
+  margin-top: 15px;
 }
 footer>div{
   background: purple;
