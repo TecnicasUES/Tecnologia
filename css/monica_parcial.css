@@ -12,7 +12,7 @@ header{
     background:#292925;
     margin:0;
     padding:0;
-    width:1404px;
+    width:100%;
     height:40px;
     float: left;
 }
@@ -61,20 +61,116 @@ header{
 }
 
 #menu>li:hover{
-    background: #EDB176;
+    background: #AB70C4;
 }
 
 #menu>li>a:hover{
    color: black;
 }
+
 .a2{
-    width:65%;
+    width:70%;
     height:40px;
     float:left;
 }
 
 .a3{
-    width:10%;
+    width:7%;
     height:40px;
     float:left;
+}
+
+.a3>button{
+    background: #AB70C4;
+    height: 30px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #AB70C4;
+    text-align: center;
+    color:white;
+    font-family: calibri;
+    font-size: 11pt;
+    font-weight: normal;
+    margin-left:7%;
+    margin-top:5px;
+}
+
+.a3>button:hover{
+   background: #292925;
+   color: white;
+}
+
+#b{
+    width:100%;
+    height:498px;
+    float:left;
+}
+
+.b1>.img2{
+    width: 1404px;
+    height: 498px;
+    background: url('../img/crecimiento2.png');
+    margin: auto;
+    display: block;
+}
+
+.ba1{
+    width:60%;
+    height:495px;
+    float:left;
+}
+
+
+.ba1>h1{
+    font-family: calibri;
+    color: #8154A3;
+    font-size:30pt;
+    text-align: left;
+    font-weight: bold;
+    padding:0;
+    margin:0;
+    margin-top: 70px;
+    margin-left: 15%;
+}
+
+.ba1>p{
+  font-family: calibri;
+  font-size: 18pt;
+  font-weight: lighter;
+  text-align: left;
+  color: #35393B;
+  line-height: 27pt;
+  padding: 0;
+  margin:0;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+
+.ba1>div>button{
+    background: white;
+    height: 45px;
+    width: 26%;
+    border-radius: 2px;
+    border: 1px solid #C46B3F;
+    text-align: center;
+    color:#C46B3F;
+    font-family: arial;
+    font-size: 11pt;
+    font-weight: lighter;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+.ba2{
+    width:40%;
+    height:495px;
+    float:left;
+}
+
+.ba2>.img3{
+    width: 567px;
+    height: 498px;
+    background: url('../img/persona3.png');
+    margin: auto;
+    display: block;
 }
