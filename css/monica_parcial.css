@@ -129,9 +129,9 @@ section{
 
 
 .ba1>h1{
-    font-family: calibri;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     color: #600487;
-    font-size:30pt;
+    font-size:26pt;
     text-align: left;
     font-weight: bold;
     padding:0;
@@ -295,7 +295,7 @@ section{
 .c1art>div>.c1>.c1a>.img4{
     width: 100px;
     height: 100px;
-    background: url('../img/icono1.png');
+    background: url('../img/icono5.png');
     margin: 0;
     margin-top: 20px;
     display: block;
@@ -422,7 +422,7 @@ section{
 .d1art>div>.d1>.d1a>.img7{
     width: 100px;
     height: 100px;
-    background: url('../img/icono1.png');
+    background: url('../img/icono5.png');
     margin: 0;
     margin-top: 20px;
     display: block;
