@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+body{
+	background:gray;
+	font-family: arial;
+	margin: 0;
+	padding: 0;
+}
+
+#enca{
+	height: 50px;
+	width: 100%;
+	background: black;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+#enca>div>ul>li{
+	list-style: none;
+	display: block;
+	float: left;
+	width: 8%;
+	height: 40px;
+	margin:0;
+	padding: 0;
+	color:white;
+	padding-top: 9px;
+	border-right: 1px  solid white;
+	text-align: center;
+	text-decoration: none;
+	
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+
+}
+
+a:hover{
+	color: white;
+}
+
+li:hover{
+	color: white;
+}
+
+#enca>div>ul>li>button{
+	border:solid white;
+	height: 30px;
+	background:purple;
+	text-decoration:none;
+	border-radius: 5px;
+	
+
+}
