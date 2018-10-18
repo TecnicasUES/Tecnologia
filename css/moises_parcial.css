@@ -68,7 +68,7 @@ li:hover{
 	color: purple; 
 	padding: 0;
 	margin: 0;
-	font-size:30pt;
+	font-size:19pt;
 	text-align:left;
 	font-family: arial;
 	padding-top: 70px;
@@ -77,8 +77,8 @@ li:hover{
 	 }
 
 .t{
-	width: 
-	height
+	width: 50%
+	height:800px;
 	
 }	 
 
@@ -88,7 +88,7 @@ text-align: left;
 font-family:  segoe UI;
 padding: 0;
 margin:0;
-font-size: 14pt;
+font-size: 15pt;
 margin-right: 20px;
 margin-left: :18px;
 }
@@ -113,3 +113,45 @@ margin-left: :18px;
 	margin-left: 55%;
 }
 
+.b1{
+	border:solid purple;
+	height: 60px;
+	background:white;
+	text-decoration:none;
+	border-radius: 2px;
+	text-align: center;
+	color: purple;
+	font-size: 12pt;
+}
+
+.b2{
+	border:solid purple;
+	height: 60px;
+	background:white;
+	text-decoration:none;
+	border-radius: 2px;
+	text-align: center;
+	color: purple;
+	font-size: 12pt;
+}
+
+.b3{
+	border:solid purple;
+	height: 60px;
+	background:white;
+	text-decoration:none;
+	border-radius: 2px;
+	text-align: center;
+	color: purple;
+	font-size: 12pt;
+}
+.b4{
+	border:solid purple;
+	height: 60px;
+	background:white;
+	text-decoration:none;
+	border-radius: 2px;
+	text-align: center;
+	color: purple;
+	font-size: 12pt;
+}
