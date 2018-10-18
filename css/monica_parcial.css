@@ -115,8 +115,9 @@ header{
 }
 
 .ba1{
-    width:60%;
+    width:57%;
     height:495px;
+    margin left: 15%;
     float:left;
 }
 
@@ -146,21 +147,68 @@ header{
   margin-right: 20%;
 }
 
+
 .ba1>div>button{
     background: white;
     height: 45px;
-    width: 26%;
-    border-radius: 2px;
-    border: 1px solid #C46B3F;
+    width: 12%;
+    border-radius: 5px;
+    border: 1px solid #6D478A;
     text-align: center;
-    color:#C46B3F;
+    color:#6D478A;
     font-family: arial;
     font-size: 11pt;
     font-weight: lighter;
-    margin-left: 2%;
-    margin-top: 10px;
+    margin-left: 20%;
+    margin-top: 5px;
 }
 
+.ba1>div>button:nth-child(2){
+    background: white;
+    height: 45px;
+    width: 12%;
+    border-radius: 5px;
+    border: 1px solid #6D478A;
+    text-align: center;
+    color:#6D478A;
+    font-family: arial;
+    font-size: 11pt;
+    font-weight: lighter;
+    margin-left: 3%;
+    margin-top: 5px;
+}
+
+
+.ba1>div>button:nth-child(3){
+    background: white;
+    height: 45px;
+    width: 12%;
+    border-radius: 5px;
+    border: 1px solid #6D478A;
+    text-align: center;
+    color:#6D478A;
+    font-family: arial;
+    font-size: 11pt;
+    font-weight: lighter;
+    margin-left: 3%;
+    margin-top: 5px;
+}
+
+
+.ba1>div>button:last-child{
+    background: white;
+    height: 45px;
+    width: 12%;
+    border-radius: 5px;
+    border: 1px solid #6D478A;
+    text-align: center;
+    color:#6D478A;
+    font-family: arial;
+    font-size: 11pt;
+    font-weight: lighter;
+    margin-left: 3%;
+    margin-top: 5px;
+}
 .ba2{
     width:40%;
     height:495px;
