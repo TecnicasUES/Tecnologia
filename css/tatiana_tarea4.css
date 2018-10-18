@@ -109,7 +109,7 @@ li:hover{
 	background: white;
 	color: #b6640e;
 	margin-top: 10px;
-	font-size: 12pt
+	font-size: 11pt
 }
 button:hover{
   background:#ffb86e !important;
@@ -117,30 +117,31 @@ button:hover{
 .child2{
 	background: white;
 	width: 100%;
-	height: 840px;
+	height: 860px;
 	float: left;
 }
 .child2>div{
 	width: 99%;
-	height: 780px;
+	height: 860px;
 	margin-left: 1%
 
 }
 .child2>div>div{
 	background: #f0f0f0;
 	width: 24%;
-	height: 360px;
+	height: 380px;
 	margin-right: 1%;
 	float: left;
 	margin-top: 20px;
 }
 .child2>div>div>div:first-child{
 	width: 40%;
-	height: 100px;
+	height: 110px;
 	float: left;
 	margin:0;
   	padding:0;
 	margin-left: 5%;
+	margin-top: 15px;
 
 }
 .imagenb1{
