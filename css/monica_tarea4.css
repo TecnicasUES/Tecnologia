@@ -1,9 +1,113 @@
 @charset "utf-8";
 
 body{
-    background:#f6f8f1;
-    font-family:arial;
+    background:white;
+    font-family:calibri;
     margin:0;
     padding:0;
     color:black;
+}
+
+header{
+    background:#C46B3F;
+    margin:0;
+    padding:0;
+    width:1404px;
+    height:40px;
+    float: left;
+}
+
+.a1{
+	width:4%;
+	height:40px;
+	float:left;
+	border-right: 1px solid #EDAF73;
+}
+
+.a1>.img1{
+    width: 32px;
+    height: 23px;
+    background: url('../img/icono_logo.png');
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 2%;
+    display: block;
+}
+
+.a2{
+	width:95%;
+	height:40px;
+	float:left;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+#menu>li{
+    width: 12%;
+    height:28px;
+    display: block;
+    float:left;
+    padding-top: 12px;
+    font-family: calibri;
+    font-size: 10pt;
+    text-align: center;
+    border-right: 1px solid #EDAF73;
+}
+
+#menu>li>a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+#menu>li:hover{
+    background: #EDB176;
+}
+
+#menu>li>a:hover{
+   color: black;
+}
+
+.b{
+	width:100%;
+	height:498px;
+	float:left;
+}
+
+.b1>.img2{
+    width: 1404px;
+    height: 498px;
+    background: url('../img/crecimiento2.png');
+    margin: auto;
+    display: block;
+}
+
+.ba1{
+	width:38%;
+	height:495px;
+	float:left;
+}
+.ba1>.img3{
+    width: 567;
+    height: 498px;
+    background: url('../img/persona.png');
+    margin: auto;
+    display: block;
+}
+
+.ba2>h1{
+    font-family: calibri;
+    color: #C46B3F;
+    font-size:30pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin:0;
 }
