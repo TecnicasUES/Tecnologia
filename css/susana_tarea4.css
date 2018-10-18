@@ -12,10 +12,17 @@ body{
   float: left;
   background: #b6640e;
 }
+#encabezado>div>ul>li:first-child{
+  width: 4%;
+  height: 30px;
+  float: left;
+  margin: 0;
+  padding-top: 10px; 
+}
 #encabezado>div>ul>li>a{
   text-decoration: none;
   font-weight: normal;
-  font-size: 14pt;
+  font-size: 13pt;
   color: #ffffff;
   text-align: center;
 }
@@ -23,11 +30,10 @@ body{
   list-style: none;
   display: block;
   float: left;
-  width: 10%;
+  width: 11.5%;
   border-right: 1px solid #ffffff;
   height: 30px;
   margin: 0;
-  padding: 0;
   text-align: center; 
   padding-top: 10px;
 }
