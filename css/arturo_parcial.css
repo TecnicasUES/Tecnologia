@@ -44,3 +44,39 @@ background: black;
 #menu>li>a:hover{
   color: black;
 }
+section>article>div{
+  height: 674px;
+  width: 1404px;
+  background: url('../img/crecimiento2.png');
+  margin: auto;
+  display: block;
+}
+#art2{
+  width: 100%;
+  margin-bottom: 40px;
+  margin-top: 30px;
+  height: 250px;
+  float: left;
+  background: gray;
+}
+section>article>div>h2{
+   margin: 0;
+  padding: 0;
+ letter-spacing: 2px;
+  color: purple;
+  font-size: 26pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-top: 100px;
+}
+section>article>div>p{
+  letter-spacing: 2px;
+  color: black;
+  font-family: calibri;
+  font-weight: lighter;
+  font-size: 16pt;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
