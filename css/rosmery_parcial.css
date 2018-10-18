@@ -26,13 +26,16 @@ header{
 
 #menu>li{
   width: 8%;
-  height: 25px;
+  height: 40px;
   display: block;
   float: left;
   text-align: center;
   border-right: 1px solid white;
-  padding-top: 15px;
-  font-size: 10pt
+
+  font-size: 10pt;
+  margin: 0;
+  padding: 0;
+    padding-top: 15px; 
 }
 
 #menu>li>a{
@@ -40,6 +43,25 @@ header{
   color: white;
   text-align: center;
 }
+
+.btng>button{
+  position: absolute;
+  top:0;
+  right: 50px;
+  padding-top: 0 !important; 
+  width: 7%;
+  height: 30px;
+  border-radius:5px;
+  border: 1px solid#843893;
+  float: left;
+  text-align: center;
+  font-size: 11pt;
+  color:white;
+  background: purple;
+
+}
+
+
 #menu>li:hover{
   background: #843893;
   height: 25px;
@@ -80,18 +102,24 @@ section>article>div:first-child>.hijo1>p{
   line-height: 25pt;
   
 }
-section>article>div>.hijo1>button{
-  width: 18%;
+section>article>div>div>button{
+  width: 17%;
   height: 40px;
   border-radius:5px;
   border: 1px solid#843893;
-  display: block;
-  float: left;
+  float: right;
   text-align: center;
   font-size: 11pt;
   color:#843893;
   background: white;
-  margin-left: 5%;
- 
+  margin-left: 5%; 
 }
+
+section>article>div:last-child>.mujer{
+background: url('../img/persona3.png');
+width: 567px;
+height: 498px;
+float: right;
+}
+
 
