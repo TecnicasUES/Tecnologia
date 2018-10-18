@@ -47,17 +47,17 @@ header{
 .btng>button{
   position: absolute;
   top:0;
-  right: 50px;
+  right: 43px;
   padding-top: 0 !important; 
-  width: 7%;
-  height: 30px;
-  border-radius:5px;
+  width: 8%;
+  height: 40px;
+  border-radius:3px;
   border: 1px solid#843893;
   float: left;
   text-align: center;
   font-size: 11pt;
   color:white;
-  background: purple;
+  background: #c561d8;
 
 }
 
