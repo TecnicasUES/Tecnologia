@@ -40,17 +40,29 @@ body{
 
 #banner>.cl1{
 	width: 100%;
-	height: 520px;
+	height: 50px;
 	float: right;
 }
-#banner2>.cl2{
-	width: 60%;
-	height: 520px;
-	float: left;
-}
+
 #banner>.cl1>.creci{
-	width: 100%;
-	height: 501px;
+	width: 1404px;
+	height:674px;
 	background: url('../img/crecimiento2.png');
+}
+#banner>.cl1>.persona3{
+	width: 567px;
+	height:498px;
+	background: url('../img/persona3.png');
+}
+
+.texto{
+	float: left;
+	color: black;
+	text-align: left;
+	font-family: candara;
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
+}
 }	
 	
