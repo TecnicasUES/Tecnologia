@@ -29,35 +29,184 @@ header{
 	height: 22px;
 	margin: 0;
 	padding: 0;
-	margin-top: 10px;
+	margin-bottom;15px;
+	
 }
 
 button{
-	border: solid;
+	border-radius: 7px;
 	background: #c083c1;
 	width: 7%;
 	height: 30px;
 	color:white;
-	font-weight: normal;
-	font-size: 12.5pt;
-}
-
-#menu>li{
-	width: 100%;
-	height:45px;
-	display: block;
-	float: left;
-	border-right: 1px solid gray;
-	text-align: center;
-	padding: 0;
-	margin: 0;
+	font-weight: bold;
+	font-size: 10pt;
+	margin-bottom:10px;
 	
 }
 
-#menu>li>first-child{
-	padding: 0;
-	margin:0;
-	float: leff;
-	background: white;
+#menu>button:hover{
+    background: #c083c1;
 }
 
+
+#menu{
+    width: 99%;
+    height: 40px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+
+#menu>li{
+    width: 8%;
+    height:28px;
+    display: block;
+    float:left;
+    padding-top: 12px;
+    font-family: tahoma;
+    font-size: 8pt;
+    text-align: center;
+    border-right: 1px solid white;
+}
+
+#menu>li>a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+#menu>li:hover{
+    background: #c083c1;
+}
+
+#menu>li>a:hover{
+   color: #000;
+}
+
+#k{
+	width: 100%;
+	height: 674px;
+}
+
+.imgm{
+	background: url('../img/crecimiento2.png');
+	width: 1404px;
+	height: 674px;
+	margin: 0;
+	display:block;
+	padding: 0;
+}
+
+.k1{
+    width:57%;
+    height:495px;
+    margin left: 15%;
+    float:left;
+}
+
+
+.k1>h4{
+    font-family: arial;
+    color: #6e278f;
+    text-align: left;
+    font-weight: bold;
+    padding:0;
+    margin:0;
+    margin-top: 70px;
+    margin-left: 15%;
+    font-size:30pt;
+}
+
+.k1>p{
+  font-family: Calibri;
+  font-size: 20pt;
+  font-weight: lighter;
+  line-height: 27pt;
+  padding: 0;
+  margin:0;
+  margin-left: 15%;
+  margin-right: 20%;
+  text-align: left;
+  color: #454545;
+
+}
+
+
+.k1>div>button{
+    background: white;
+    height: 45px;
+    width: 12%;
+    font-family: tahoma;
+    font-size: 10pt;
+    font-weight: lighter;
+    margin-left: 15%;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #84167e;
+    text-align: center;
+    color:#84167e;
+}
+
+.k1>div>button:nth-child(2){
+    background: white;
+    height: 45px;
+    width: 12%;
+    font-family: tahoma;
+    font-size: 10pt;
+    font-weight: lighter;
+    margin-left: 3%;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #84167e;
+    text-align: center;
+    color:#84167e;
+}
+
+
+.k1>div>button:nth-child(3){
+    background: white;
+    height: 45px;
+    width: 12%;
+    font-family: tahoma;
+    font-size: 10pt;
+    font-weight: lighter;
+    margin-left: 5%;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #84167e;
+    text-align: center;
+    color:#84167e;
+}
+
+
+.k1>div>button:last-child{
+    background: white;
+    height: 45px;
+    width: 12%;
+    font-family: tahoma;
+    font-size: 10pt;
+    font-weight: normal;
+    margin-left: 3%;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #84167e;
+    text-align: center;
+    color:#84167e;
+}
+
+.k2{
+    width:40%;
+    height:495px;
+    float:left;
+}
+
+.imgm2{
+    background: url('../img/persona3.png');
+    width: 567px;
+    height: 498px;
+    margin: 0;
+    display: block;
+    padding: 0;
+}
