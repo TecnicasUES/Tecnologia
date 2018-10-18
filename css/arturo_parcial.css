@@ -55,7 +55,7 @@ background: black;
   margin: 0;
   padding: 0;
 }
-section>article>div:first-child{
+article>.img1{
   height: 674px;
   width: 1404px;
   background: url('../img/crecimiento2.png');
@@ -187,4 +187,30 @@ article>div>div>h2{
   font-family: calibri;
   font-weight: bold;
   margin-top: 100px;
+}
+.art3{
+  width: 100%;
+  margin-bottom: 40px;
+  margin-top: 30px;
+  height: 250px;
+  float: left;
+  background:  #e7e7e7;
+}
+footer>div{
+  background: purple;
+  height: 120px;
+  width: 100%;
+float: left;
+}
+
+footer>div>p{
+    text-align: center;
+  font-size: 12pt;
+  font-family: arial;
+  color: white;
+}footer>div>div>p{
+    text-align: center;
+  font-size: 12pt;
+  font-family: arial;
+  color: white;
 }
