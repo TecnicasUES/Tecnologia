@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body{
+	background: white;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+header{
+	background: black;
+	margin: 0;
+	padding: 0;
+	height: 55px;
+	width: 100%;
+	float: left;
+}
+
+#menu{
+	width: 120%;
+	height: 70px;
+	float: left;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.loguito{
+	background: url('../img/icono_purple.png');
+	width: 33px;
+	height: 22px;
+	margin: auto;
+	display: block;
+	float: left;
+	margin-top: 15px;
+}
+
+#menu>li{
+	width: 7%;
+	height: 40px;
+	display: block;
+	float: left;
+	text-align: center;
+	padding-top: 15px;
+	border-right: 1px solid #c3c3c3;
+	text-align: center;
+	color: cyan;
+
+
+}
+
+#menu>li>a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+
