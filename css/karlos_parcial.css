@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+body{
+	background: #f6f8f1;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 100%;
+	height: auto;
+	background: white;
+	min-height: 0px;
+}
+
+header{
+	background:black;
+	height:40px;
+	width: 100%;
+  float: left;
+}
+
+.imglogo{
+	background: url('../img/icono_purple.png');
+	width: 33px;
+	height: 22px;
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+}
+
+button{
+	border: solid;
+	background: #c083c1;
+	width: 7%;
+	height: 30px;
+	color:white;
+	font-weight: normal;
+	font-size: 12.5pt;
+}
+
+
+
+
