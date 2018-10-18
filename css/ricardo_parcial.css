@@ -190,8 +190,16 @@ header{
   background: #C7BDB3;
   float: left;
 }
-
-  
+.part3_1{
+	width: 35%;
+	height: 300px;
+	float: left;
+}
+.part3_2{
+	width: 35%;
+	height: 300px;
+	float: left;
+}  
 
 
 
