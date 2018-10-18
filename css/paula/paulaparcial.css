@@ -69,27 +69,26 @@ header{
 
 
 #banner>.cl1>.img1>h1{
-	width: 60%;
-	height: 150px;
+	width: 100%;
 	display: block;
-	float: center;
+	float:left;
 	font-family: tahoma;
-
-
-
+	font-weight: bold;
+	font size: 50pt;
+	color: #5f0581;
 	
 }
 
 
 #banner>.cl1>.img1>h1>p{
-	width: 60%;
-	height: 650px;
+	width: 40%;
 	margin: auto;
 	display: block;
-	float: right;
+	float: left;
 	font-family: tahoma;
 	font-weight: lighter;
-	color: solid black;
+	font size: 40pt;
+	color: black;
 
 	
 }
@@ -100,8 +99,7 @@ header{
 	background: url('../../img/1.jpg');
 	margin: auto;
 	display: block;
-	opacity: 0.2
-	;
+	opacity: 0.2;
 
 }
 
