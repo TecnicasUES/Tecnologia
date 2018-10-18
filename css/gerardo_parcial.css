@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-	background: #fbf1d8;
+	background: white;
 	padding: 0;
 	margin: 0;
 	font-family: arial;
@@ -36,12 +36,12 @@ header{
 button{
   background-color: #cd72a6;
   color: white;
-  margin-top: 4px;
-  margin-left: 8%;
   font-size:10pt;
   width: 8%;
   height: 30px;
   font-weight: bold; 
+  margin-top: 4px;
+  margin-left: 8%;
   border: solid #cd72a6;
   border-radius: 7px;
 }
@@ -82,4 +82,128 @@ button{
 
 #menu1>li>a:hover{
    color: black;
+}
+
+#g{
+    width:100%;
+    height:500px;
+    float:left;
+}
+
+.g1>.imagen1{
+    width: 1400px;
+    height: 500px;
+    background: url('../img/crecimiento2.png');
+    margin: auto;
+    display: block;
+}
+
+.ga1{
+    width:57%;
+    height:495px;
+    margin left: 15%;
+    float:left;
+}
+
+
+.ga1>h1{
+    font-family: helvetica;
+    font-size:32pt;
+    font-weight: bold;
+    color: #795094;
+    text-align: left;
+    padding:0;
+    margin:0;
+    margin-top: 70px;
+    margin-left: 15%;
+}
+
+.ga1>p{
+  font-family: helvetica;
+  font-size: 16pt;
+  font-weight: lighter;
+  line-height: 27pt;
+  text-align: left;
+  color: #35393B;
+  padding: 0;
+  margin:0;
+  margin-left: 15%;
+  margin-right: 20%;
+}
+
+
+.ga1>div>button{
+    background: white;
+    height: 46px;
+    width: 12%;
+    border-radius: 5px;
+    border: 1px solid #7f589c;
+    font-family: helvetica;
+    font-size: 10pt;
+    font-weight: lighter;
+    text-align: center;
+    color:#7f589c;
+    margin-left: 22%;
+    margin-top: 10px;
+}
+
+.ga1>div>button:nth-child(2){
+    background: white;
+    height: 46px;
+    width: 12%;
+    border-radius: 5px;
+    border: 1px solid #7f589c;
+    font-family: helvetica;
+    font-size: 10pt;
+    font-weight: lighter;
+    text-align: center;
+    color:#7f589c;
+    margin-left: 2.5%;
+    margin-top: 10px;
+}
+
+
+.ga1>div>button:nth-child(3){
+    background: white;
+    height: 46px;
+    width: 12%;
+    border-radius: 5px;
+    border: 1px solid #7f589c;
+    font-family: helvetica;
+    font-size: 10pt;
+    font-weight: lighter;
+    text-align: center;
+    color:#7f589c;
+    margin-left: 2.5%;
+    margin-top: 10px;
+}
+
+
+.ga1>div>button:last-child{
+    background: white;
+    height: 46px;
+    width: 12%;
+    border-radius: 5px;
+    border: 1px solid #7f589c;
+    font-family: helvetica;
+    font-size: 10pt;
+    font-weight: lighter;
+    text-align: center;
+    color:#7f589c;
+    margin-left: 2.5%;
+    margin-top: 10px;
+}
+.ga2{
+    width:40%;
+    height:500px;
+    float:left;
+}
+
+.ga2>.imagen2{
+    width: 560px;
+    height: 500px;
+    background: url('../img/persona3.png');
+    margin: auto;
+    display: block;
+    margin-right: 10px;
 }
