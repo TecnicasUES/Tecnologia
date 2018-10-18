@@ -9,7 +9,7 @@ body{
 }
 header{
   width: 100%;
-  height: 100px;
+  height:60px;
   background: #994006;
   margin: 0;
   padding: 0;
@@ -17,7 +17,7 @@ header{
 }
 #menu{
     width: 100%;
-	height: 100px;
+	height: 60px;
 	float: left;
 	margin: 0;
 	padding: 0;
@@ -33,20 +33,31 @@ header{
 }
 
 .img1{
-    width: 88px;
-    height:75px;
-    background: url('../img/v2.png');
-    margin: 10px
+    width: 33px;
+    height:21px;
+    background: url('../img/icono_logo.png');
+    margin-left: 20%;
 }
 
 #menu>li{
     width: 10.5%;
-	height: 75px;
+	height:40px;
 	display: block;
 	float: left;
 	border-right: 1px solid bisque;
-	padding-top: 30px;
+	padding-top: 20px;
 	text-align: center;
+}
+#menu>li>a{
+	font-family: arial;
+    font-size: 11pt;
+    font-weight: normal;
+    color: #FFFFFF;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 
