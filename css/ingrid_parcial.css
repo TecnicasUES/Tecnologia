@@ -102,12 +102,74 @@ header>div>button{
   float: right;
   margin-right: 6px;
 }
-
-
-
-
-
-
+#banner>div> .cl3 > div > h1{
+  margin:0;
+  padding: 0;
+  letter-spacing: 1px;
+  color:  #5f0581;
+  font-size: 30pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+#banner>div> .cl3 > div >p{
+  letter-spacing: 2px;
+  color: black;
+   font-family: calibri;
+   font-weight: lighter;
+  font-size: 14pt;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  margin-left: 100px;
+}
+#banner>div> div>div>div>button{
+  height: 35px;
+  width: 8%;
+  border-radius: 1px;
+  border: 2px solid #bc7bbd;
+  text-align: center;
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: lighter;
+  padding: 0;
+  margin: 0;
+  margin-right: 6px;
+  margin-top: 10px;
+  float: right;
+  margin-left: 10px;
+}
+#banner>div>div>div>div>button:hover{
+  cursor: pointer;
+  color: blue;
+}
+#art2{
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  height: 350px;
+  float: left;
+  background: #f0f0f0;
+}
+#art2>div:first-child{
+  margin-left: 5%;
+  width: 27%;
+  height: 250px;
+  float: left;
+}
+#art2>div:nth-child(2){
+  margin-left: 5%;
+  width: 27%;
+  height: 250px;
+  float: left;
+}
+#art2>div:last-child{
+  margin-left: 5%;
+  width: 27%;
+  height: 250px;
+  float: left;
 
 
 
