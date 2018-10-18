@@ -2,7 +2,7 @@
 
 body{
   background: white;
-  font-family: arial;
+  font-family: calibri;
   margin:0;
   padding:0;
 }
@@ -24,6 +24,7 @@ header{
   float: left;
 }
 
+
 #menu>li{
   width: 8%;
   height: 25px;
@@ -32,5 +33,29 @@ header{
   display: block;
   margin: 0;
   padding: 15px;
-  
+  border-right: 1px solid white;
+}
+
+#menu>li>a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+  font-size: 10pt;
+}
+
+#menu>li:hover{
+   background:   #b84216;
+
+}
+
+#menu>li>a:hover{
+  color: white;
+}
+
+article>div>.fondo{
+  background: url('../img/crecimiento2.png');
+  width: 1404px;
+  height: 674px;
+  float: left;
+  display: block;
 }
