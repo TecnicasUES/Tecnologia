@@ -90,7 +90,6 @@ li:hover{
   width: 67%;
   font-weight: lighter;
 }
-
 .child2>div:last-child>button{
   text-decoration: none;
   color: #b6640e;
@@ -101,8 +100,9 @@ li:hover{
   margin-left: 1%;
   background: #ffffff;
   margin-top: 15px;
+  font-size: 12pt;
+  letter-spacing: 1pt;
 }
-
 button:hover{
   background: #c3c3c3 !important;
 }
