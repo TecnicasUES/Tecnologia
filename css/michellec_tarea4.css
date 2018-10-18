@@ -1,1 +1,47 @@
 @charset "utf-8";
+
+body{
+  background: #ffffff;
+  font-family: arial;
+  margin: 0;
+  padding: 0;
+}
+
+#menú{
+	width: 100%;
+  height: 50px;
+  float: left;
+  background: #b6640e;
+  padding: 0;
+  margin: 0;
+}
+
+#menú>div>ul>li>a{
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 12pt;
+  color: #ffffff;
+  text-align: center;
+}
+
+#menú>div>ul>li{
+  list-style: none;
+  display: block;
+  float: left;
+  width: 11%;
+  border-right: 1px solid white;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+#menú>div>ul: first-child>li>{
+  width: 8%;
+  
+}
+
+.img1{
+  background: url(../img/icono_logo.png);
+  width: 33px;
+  height: 22px;
+}
