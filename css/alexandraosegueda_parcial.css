@@ -15,22 +15,23 @@ header{
 }
 
 .icon{
-  width: 6%;
+  width: 12%;
   height: 50px;
   margin: auto;
   float: left;
 }
 
-.img1{
-	width: 33px;
+.img{
+ width: 33px;
 	height: 22px;
 	background: url('../img/icono_purple.png');
     display: block;
-    margin-top: 15px;
+   margin-top: 15px;
+	float: left;
 }
 
 #menu{
-  width:94%;
+  width:88%;
   height: 50px;
   float: left;
   margin: 0;
@@ -55,14 +56,14 @@ header{
 
 .grande{
   width: 100%;
-  height: auto;
+  height: 500px;
   margin: auto;
   float: left;
 }
 
 .img2{
 	width: 1404px;
-	height: auto;
+	height: 500px;
 	background: url('../img/crecimiento2.png');
     display: block;
     margin-top: 0px;
@@ -71,7 +72,7 @@ header{
 .cl2{
 
 	width: 50%;
-	height:200%;
+	height:500px;
 	float: left;
 }
 
@@ -112,11 +113,16 @@ header{
   margin-left: 10%;
   margin-top: 10px;
 }
-	
+
+.cl2>div>div>button:hover{
+  background: yellow;
+  cursor:pointer;
+  color:purple;
+}
 .mujer{
-	width: 50%
-	height:200px;
-	margin-left: 
+	width: 50%;
+  height: 500px;
+	float: left;
 }
 
 .img3{
@@ -130,18 +136,73 @@ header{
  
 }
 
-.papa{
-	width: 100%;
-  height:350px;
-  float: left;
-  background: white;
-}
-
-.hijo{
+#art2{
   width: 100%;
-  height: 300;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  height: 300px;
+  float: left;
+  background:#F2F2F2 ;
+}
+#art2>div:first-child{
+  margin-left: 5%;
+  width: 27%;
+  height: 300px;
   float: left;
 }
 
+#art2>div:nth-child(2){
+  margin-left: 5%;
+  width: 27%;
+  height: 300px;
+  float: left;
+}
+#art2>div:last-child{
+  margin-left: 5%;
+  width: 27%;
+  height: 300px;
+  float: left;
+}
+#art2>div>.cl3{
+  width: 30%;
+  height: 300px;
+  float: left;
+}
+#art2>div>.cl4{
+  width: 70%;
+  height: 250px;
+  float: left;
+}
 
+#art2>div>.cl3>.img2{
+  width: 100px;
+  height: 100px;
+  background: url('../img/icono5.png');
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+}
+#art2>div>.cl3>.img3{
+  width: 100px;
+  height: 100px;
+  background: url('../img/icono6.png');
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+}
 
+#art2>div>.cl3>.img4{
+  width: 100px;
+  height: 100px;
+  background: url('../img/icono7.png');
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+}
+#art2>div>.cl4>p{
+  font-family: calibri;
+  color: black;
+  letter-spacing: 1px;
+  font-size: 10pt;
+  font-weight: :lighter;
+}
