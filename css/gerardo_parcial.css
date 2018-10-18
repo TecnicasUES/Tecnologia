@@ -12,13 +12,23 @@ body{
  	margin: auto;
  	height: auto;
  	width: 100%;
- 	background: white;
- 	min-height: 60px;
+ 	background: #232323;
+ 	min-height: 30px;
 }
 
 header{
 	background:#232323;
 	width: : 100%; 
-	height: 320px;
+	height: 30px;
 	float: left;
+}
+
+.logo{
+	background: url('../img/icono_purple.png');
+	width: 33px;
+	height: 22px;
+	margin: 0;
+	display: block;
+	padding: 0;
+	margin-top: 5px;
 }
