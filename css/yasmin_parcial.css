@@ -31,10 +31,16 @@ body{
 }
 
 .icono_purple{
+	margin:center;
 	float: left;
 	height: 33px;
 	width: 22px;
 	background: url('../img/icono_purple.png');
 }
-	
+#banner{
+	width: 100%
+	height: 520px;
+	float: left;
+	background: url('../img/crecimiento2.png');
+}	
 	
