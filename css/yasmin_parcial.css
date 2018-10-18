@@ -30,8 +30,7 @@ body{
 	border-right: 1px solid #eaece7;
 }
 
-.icono_purple{
-	margin:center;
+#icono_purple{
 	float: left;
 	height: 33px;
 	width: 22px;
