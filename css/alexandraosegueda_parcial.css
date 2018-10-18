@@ -55,14 +55,14 @@ header{
 
 .grande{
   width: 100%;
-  height: 200px;
+  height: auto;
   margin: auto;
   float: left;
 }
 
 .img2{
 	width: 1404px;
-	height: 674px;
+	height: auto;
 	background: url('../img/crecimiento2.png');
     display: block;
     margin-top: 0px;
@@ -128,6 +128,19 @@ header{
   float:left;
     
  
+}
+
+.papa{
+	width: 100%;
+  height:350px;
+  float: left;
+  background: white;
+}
+
+.hijo{
+  width: 100%;
+  height: 300;
+  float: left;
 }
 
 
