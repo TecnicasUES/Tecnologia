@@ -1,12 +1,11 @@
 @charset "utf-8";
 
 body{
-  background: #ffffff;
+  background: White;
   font-family: arial;
   margin: 0;
   padding: 0;
 }
-
 #menú{
 	width: 100%;
   height: 50px;
@@ -15,33 +14,54 @@ body{
   padding: 0;
   margin: 0;
 }
-
 #menú>div>ul>li>a{
   text-decoration: none;
   font-weight: normal;
-  font-size: 12pt;
+  font-size: 11pt;
   color: #ffffff;
   text-align: center;
 }
-
 #menú>div>ul>li{
   list-style: none;
   display: block;
   float: left;
-  width: 11%;
+  width: 11.5%;
   border-right: 1px solid white;
-  height: 50px;
+  height: 35px;
   margin: 0;
   padding: 0;
   text-align: center;
+  padding-top: 15px;
 }
-#menú>div>ul: first-child>li>{
-  width: 8%;
-  
+#menú>div>ul>li:first-child{
+  width: 4%;
 }
 
 .img1{
   background: url(../img/icono_logo.png);
   width: 33px;
   height: 22px;
+  margin-left: 12px;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+a:hover{
+  color: #eeb880 !important;
+}
+li:hover{
+  background: #85531e !important;
+}
+.child1{
+  width: 100%;
+  height: 500px;
+  float: left;
+  background: white;
+}
+.fondoimg2{
+  background: url(../img/crecimiento2.png);
+  width: 100%;
+  height: 500px;
+  float: left
 }
