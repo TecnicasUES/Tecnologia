@@ -165,7 +165,84 @@ header{
 	color:#5e0480;
 }
 
+#seccion2{
+	width: 100%;
+	height:320px;
+	float:left;	
+	background: #d0cfcf;
+}
 
+.p1{
+	width: 30%;
+	height:320px;
+	float:left;	
+	background: #d0cfcf;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+
+
+
+#seccion2>div:first-child{
+	margin-left: 5%;
+	width: 27%;
+	height: 250px;
+	float: left;
+}
+
+#seccion2>div:nth-child(2){
+	margin-left: 5%;
+	width: 27%;
+	height: 250px;
+	float: left;
+}
+
+#seccion2>div:last-child{
+	margin-left: 5%;
+	width: 27%;
+	height: 250px;
+	float: left;
+}
+
+#seccion2>div>.cl3{
+  width: 30%;
+	height: 250px;
+	float:left;
+}
+
+#seccion2>div>.cl4{
+  width: 70%;
+  height: 250px;
+  float:left;
+}
+
+#seccion2>div>.cl3>.img2{
+	width: 86px;
+	height: 85px;
+	background: url('../img/icono5.png');
+	margin: auto;
+	display: block;
+	margin-top: 15px;	
+}
+
+#seccion2>div>.cl3>.img3{
+	width: 86px;
+	height: 85px;
+	background: url('../img/icono6.png');
+	margin: auto;
+	display: block;
+	margin-top: 15px;	
+}
+
+#seccion2>div>.cl3>.img4{
+	width: 86px;
+	height: 85px;
+	background: url('../img/icono7.png');
+	margin: auto;
+	display: block;
+	margin-top: 15px;	
+}
 
 
 
