@@ -20,5 +20,10 @@ body{
 	color: #f3f8f6;
 	text-align: center;
 }
+.icono_purple{
+	height: 33px;
+	width: 22px;
+	background: url('../img/icono_purple.png');
+}
 	
 	
