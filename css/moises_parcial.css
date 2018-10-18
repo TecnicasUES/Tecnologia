@@ -30,6 +30,12 @@ body{
 	text-decoration: none;
 	
 }
+#enca>div>ul>li>a{
+	text-decoration:none;
+	color: white;
+	text-align: center;
+	font-size: 9pt;
+}
 
 ul{
 	margin: 0;
@@ -56,7 +62,9 @@ li:hover{
 	font-size: 9pt;
 }
 
-.bod>h2{
+
+
+.t>h2{
 	color: purple; 
 	padding: 0;
 	margin: 0;
@@ -67,6 +75,24 @@ li:hover{
 	font-weight: bold;
 
 	 }
+
+.t{
+	width: 
+	height
+	
+}	 
+
+.t>p{
+color: gray;
+text-align: left;
+font-family:  segoe UI;
+padding: 0;
+margin:0;
+font-size: 14pt;
+margin-right: 20px;
+margin-left: :18px;
+}
+
 .sec1{
 	width: 100%;
 	height:800Px;
@@ -74,15 +100,16 @@ li:hover{
 	background:white;
 }
 
-.fondo{
+.back{
 	background: url('../img/crecimiento2.png');
 	width: 100%;
-	height:500px;
+	height:490px;
 }
 
 .mujer{
 	background: url('../img/persona3.png');
-	width: 565px;
+	width: 560px;
 	height:500px;
-	margin-left: 60%;
+	margin-left: 55%;
 }
+
