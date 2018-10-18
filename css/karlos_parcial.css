@@ -29,7 +29,8 @@ header{
 	height: 22px;
 	margin: 0;
 	padding: 0;
-	margin-bottom;15px;
+	margin-bottom;30px;
+    margin-left: 8%;
 	
 }
 
@@ -38,10 +39,12 @@ button{
 	background: #c083c1;
 	width: 7%;
 	height: 30px;
-	color:white;
+	color:#c083c;
 	font-weight: bold;
 	font-size: 10pt;
 	margin-bottom:10px;
+    margin-left: 2.5%;
+    margin-top: 5px;
 	
 }
 
@@ -87,13 +90,13 @@ button{
 
 #k{
 	width: 100%;
-	height: 674px;
+	height: 540px;
 }
 
 .imgm{
 	background: url('../img/crecimiento2.png');
 	width: 1404px;
-	height: 674px;
+	height: 540px;
 	margin: 0;
 	display:block;
 	padding: 0;
@@ -101,7 +104,7 @@ button{
 
 .k1{
     width:57%;
-    height:495px;
+    height:498px;
     margin left: 15%;
     float:left;
 }
@@ -136,12 +139,12 @@ button{
 
 .k1>div>button{
     background: white;
-    height: 45px;
-    width: 12%;
+    height: 47px;
+    width: 11%;
     font-family: tahoma;
     font-size: 10pt;
     font-weight: lighter;
-    margin-left: 15%;
+    margin-left: 20%;
     margin-top: 5px;
     border-radius: 5px;
     border: 1px solid #84167e;
@@ -151,8 +154,8 @@ button{
 
 .k1>div>button:nth-child(2){
     background: white;
-    height: 45px;
-    width: 12%;
+    height: 47px;
+    width: 11%;
     font-family: tahoma;
     font-size: 10pt;
     font-weight: lighter;
@@ -167,8 +170,8 @@ button{
 
 .k1>div>button:nth-child(3){
     background: white;
-    height: 45px;
-    width: 12%;
+    height: 47px;
+    width: 11%;
     font-family: tahoma;
     font-size: 10pt;
     font-weight: lighter;
@@ -183,8 +186,8 @@ button{
 
 .k1>div>button:last-child{
     background: white;
-    height: 45px;
-    width: 12%;
+    height: 47px;
+    width: 11%;
     font-family: tahoma;
     font-size: 10pt;
     font-weight: normal;
@@ -209,4 +212,63 @@ button{
     margin: 0;
     display: block;
     padding: 0;
+}
+
+
+.c{
+	width: 100%;
+	height:320px;
+	background: #f0f0f0;
+}
+
+.c1{
+	width: 33.33%;
+	height:320px;
+	float: left;
+}
+
+.img1{
+    background: url('../img/icono5.png');
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    display: block;
+    padding: 0;
+
+}
+
+.c1>div:first-child{
+    margin-left: 3%;
+    width: 20%;
+    height: 100px;
+    float:left;
+}
+
+.c1>h2{
+    margin-left: 3%;
+    width: 50%;
+    height: 100px;
+    float:left; 
+    font-family: Calibri;
+  	font-size: 20pt;
+  	font-weight: lighter;
+  	line-height: 27pt;
+  	padding: 0;
+  	margin:0;
+  	margin-left: 15%;
+  	text-align: left;
+  	color: #454545;
+}
+
+.c1>p{
+  font-family: Calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  line-height: 15pt;
+  padding: 0;
+  margin:0;
+  margin-left: 15%;
+  margin-right: 20%;
+  text-align: left;
+  color: #454545;
 }
