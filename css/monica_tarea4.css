@@ -146,3 +146,11 @@ header{
     margin-top: 10px;
 }
 
+#c1art{
+    width: 1404px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    height: 250px;
+    float: left;
+    background: white;
+}
