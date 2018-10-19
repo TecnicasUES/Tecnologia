@@ -278,4 +278,38 @@ button:hover{
   height: 800px;
   float: left;
 }
-
+.child3>div:first-child{
+  width: 50%;
+  height: 400px;
+  float: left;
+}
+.child3>div>div>div:first-child{
+  width: 40%;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+.child3>div>div>div:nth-child(2){
+  width:60%;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  float: left;
+  }
+.child3>div>div>div:nth-child(2)>h2{
+  font-family: calibri;
+  font-size: 20pt;
+  font-weight: bold;
+  letter-spacing: 2pt;
+  margin: 0;
+  padding: 0;
+  padding-top: 20px;
+}
+.child3>div>div>div:last-child>p{
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: lighter;
+  letter-spacing: 2pt;
+  margin: 0;
+  padding: 0;
