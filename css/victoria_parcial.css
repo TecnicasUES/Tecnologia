@@ -89,12 +89,12 @@ ul{
 	.child2>div:last-child>button{
 	text-decoration: none;
 	background-color: #ffffff;
-	border: 1px solid #b6640e;
-	color: #b6640e;
+	border: 1px solid #053381;
+	color: #053381;
 	font-size: 13pt;
 	height: 50px;
 	border-radius: 5px;
-    width: 28%;
+    width: 20%;
 	margin-left: 3%;
 	margin-top: 32px;
 	float: left
