@@ -38,6 +38,7 @@ header{
 
 #inicio >div >ul >li >a{
   text-decoration: none;
+  font-family: tahoma;
   font-weight: lighter;
   font-size: 12pt;
   color: white;
