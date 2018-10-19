@@ -115,7 +115,7 @@ header{
 	font-family: arial;
 	font-weight: normal;
 	font-size: 12pt;
-	letter-spacing: 3px;
+	letter-spacing: 2px;
 	line-height: 35px;
 	margin-top: 20px;
 	text-align: left;
@@ -128,7 +128,7 @@ header{
 	height: 40px;
 	background: none;
 	color: blue;
-	margin-top: 15px;
+	margin-top: 5px;
 	margin-left: 2%;
 	border-radius: 5px;
 }
