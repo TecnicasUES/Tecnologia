@@ -118,13 +118,63 @@ li:hover{
 	width: 100%;
 	height: 800px;
 	float: left;
-	margin-top: 30px;
-	margin-bottom: 40px;
+	margin: 0;
+	padding: 0;
+	color: white;	
 }
-#caja2>div{
-	width: 99%;
-	height: 800px;
-	color: gray;
-	margin-left: 1%;
+.informacion>div{
+	background: gray;
+	width: 20%;
+	height: 380px;
+	margin-left: 10px;
+	margin-top: 15px;
 }
+.informacion>div>div{
+	width: 30%;
+	height: 100px;
+	float: left;
+	margin-left: 5px;
+}
+.fig1{
+	background: url(../img/icono1.png)no-repeat;
+	width: 100%;
+	height: 100px;
+}
+.fig2{
+	background: url(../img/icono2.png)no-repeat;
+	width: 100%;
+	height: 100px;
+}
+.fig3{
+	background: url(../img/icono3.png)no-repeat;
+	width: 100%;
+	height: 100px;
+}
+.fig4{
+	background: url(../img/icono4.png)no-repeat;
+	width: 100%;
+	height: 100px;
+}
+.informacion>div>div>div{
+	width: 70%;
+	height: 80px;
+	float: left;
+	margin-top: 25px;
+	margin: 0;
+	padding: 0;
+	margin-left: 5px;
+}
+.informacion>div>div>div>p{
+	width: 100%;
+	height: 80px;
+	float: left;
+	margin-top: 25px;
+	margin: 0;
+	padding: 0;
+	margin-left: 5px;
+}
+}
+
+
+
 
