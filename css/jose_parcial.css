@@ -74,7 +74,7 @@ button:hover{
   float: left;
   background: url(../img/crecimiento2.png);
   width: 1404px;
-  height: 674px;
+  height: 500px;
   margin: 0;
   padding: 0;
 }
@@ -121,4 +121,55 @@ button:hover{
   background: white;
   text-align: center;
   color: #053381;
+}
+.banner2{
+  width: 100%;
+  height: 400px;
+  margin: 0;
+  padding: 0;
+  float: left;
+  background: white;
+}
+.b1{
+  background: #e4e2e2;
+  width: 31%;
+  height: 360px;
+  float: left;
+  margin-left: 2%
+}
+.b2{
+  background: #e4e2e2;
+  width: 31%;
+  height: 360px;
+  float: left;
+  margin-left: 1.5%
+}
+.b3{
+  background: #e4e2e2;
+  width: 31%;
+  height: 360px;
+  float: left;
+  margin-left: 1.5%
+}
+.b1a{
+  background: none;
+  width: 30%;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+.b1b{
+  background: none;
+  width: 70%;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+.banner2>.b1>.b1a>.imagen3{
+  background: url(../img/icono5.png);
+  width: 100px;
+  height: 100px;
+  margin: 10px;
 }
