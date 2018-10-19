@@ -144,28 +144,32 @@ li:hover{
 	width: 120px;
 	height: 120px;
 	float: left;
-
+	display: block;
+	margin-top: 10px;
 }
-
 .cont2{
 	background: url("../img/icono6.png")no-repeat;
 	width: 115px;
 	height: 119px;
 	float: left;
+	display: block;
+	margin-top: 10px;
 }
-
 .cont3{
 	background: url("../img/icono7.png")no-repeat;
 	width: 120px;
 	height: 120px;
 	float: left;
+	display: block;
+	margin-top: 10px;
 }
-
 .cont4{
 	background: url("../img/icono8.png")no-repeat;
 	width: 119px;
 	height: 120px;
 	float: left;
+	display: block;
+	margin-top: 10px; 
 }
 article{
 	background:#f0f0f0;
@@ -183,8 +187,7 @@ article{
 	padding: 20px;
 	font-family: calibri;
 	margin-top: 10px;
-	line-height: 16pt;
-	padding: 3% 1px 3% 1px;
+	line-height: 14pt;
 }
 .sec{
 	width: 49%;
@@ -204,11 +207,11 @@ article{
 	width: 90%;
 	border-left: 2px;
 	display: block;
-	padding: 2% 1px 2% 1px;
 	margin: 5px;
 	float: left;
 	padding: 5%;
 	font-family: calibri;
+	line-height: 14pt;
 }
 article > p{
 	margin-top: 5px;
