@@ -27,7 +27,7 @@ header{
 }
 
 #menu>li{
-	width: 10%;
+	width: 9%;
 	height: 40px;
 	float: left;
 	text-align: center;
@@ -45,20 +45,22 @@ header{
 	background: url(../img/icono_blue.png) no-repeat;
 	width: 33px;
 	height: 22px;
+	margin-top: 10px
 }
 
 #menu>li>a>div:first-child{
-	width: 5%;
+	width: 2%;
 	height: 40px;
 	float: left;
 	margin: 0;
 	padding: 0;
 }
 
-#menu>li:first-child{
-	width: 5%;
+#menu>li:last-child{
+	width: 10%;
 	height: 40px;
 	float: left;
+	border: 0;
 }
 
 #menu>li:hover{
@@ -67,6 +69,17 @@ header{
 
 #menu>li>a:hover{
   color: cyan;
+ }
+
+ #menu>li>a>button{
+ 	width: 80%;
+ 	height: 20px;
+ 	float: left;
+ 	background: #00a1f9;
+ 	margin-top: 10px;
+ 	margin-left: 50%;
+ 	color: white;
+ 	border:0;
  }
 
 .fondo{
