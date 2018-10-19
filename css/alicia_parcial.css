@@ -25,7 +25,7 @@ body{
 	float: left;
 	width: 3%;
 	border-right: 1px solid white;
-	height: 50px;
+	height: 40px;
 	margin: 0;
 	padding: 0;
 	padding-top: 10px;
@@ -36,7 +36,7 @@ body{
 	float: left;
 	width: 7%;
 	border-right: 1px solid white;
-	height: 50%;
+	height: 40px;
 	margin: 0;
 	padding: 0;
 	text-align: center;
@@ -62,9 +62,22 @@ ul{
 }
 a:hover:{
 	color: gray !important;
+	float: left;
+	width: 7%;
+	border-right: 1px solid white;
+	height: 40%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding-top: 10px;
 }
 li:hover{
 	background: gray !important;
+}
+#info{
+	width: 100%;
+	height: 500px;
+	background: white
 }
 .banner{
 	background: url("../img/crecimiento2.png");
@@ -72,9 +85,151 @@ li:hover{
 	width: 100%;
 	height: 500px;
 }
-.img-banner{
+.hijo1{
+	width: 35%;
+	height: 498px;
+	float: left;
+}
+.imagenmujer{
 	background: url("../img/persona3nueva.png");
 	width: 500px;
 	height: 500px;
 	float: left;
+}
+.tex1{
+	width: 50%;
+	height: 500px;
+	float: left;
+}
+.tex1>div>h1{
+	width: 100%;
+	height: 50px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-size: 30pt;
+	color: #053b81;
+	padding: 0;
+	margin: 0;
+	padding-top: 30px;
+	font-weight: bold;
+}
+.tex1>div>p{
+	width: 100%;
+	height: 50px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-size: 16pt;
+	color: black;
+	padding: 0;
+	margin: 0;
+	padding-top: 30px;
+	font-weight: lighter;
+}
+.tex1>div>button{
+	text-decoration: none;
+	border:1px solid blue;
+	border-radius: 5px;
+	height: 50px;
+	width: 20%;
+	background: white;
+	margin-left: 2%;
+	text-align: center;
+	color: blue;
+	margin-top: 30px;
+	font-size: 11pt;
+}
+.tex1>div>button:hover{
+	background: #c3c3c3 !important;
+}
+.cont1{
+	background: url("../img/icono5.png")no-repeat;
+	width: 120px;
+	height: 120px;
+	float: left;
+
+}
+
+.cont2{
+	background: url("../img/icono6.png")no-repeat;
+	width: 115px;
+	height: 119px;
+	float: left;
+}
+
+.cont3{
+	background: url("../img/icono7.png")no-repeat;
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+.cont4{
+	background: url("../img/icono8.png")no-repeat;
+	width: 119px;
+	height: 120px;
+	float: left;
+}
+article{
+	background:#f0f0f0;
+	width: 32%;
+    margin: 5px;
+	float: left;
+	display: block;
+	height: 350px;
+}
+
+.caja1{
+	width: 90%;
+	display: block;
+	float: left;
+	padding: 20px;
+	font-family: calibri;
+	margin-top: 10px;
+	line-height: 16pt;
+	padding: 3% 1px 3% 1px;
+}
+.sec{
+	width: 49%;
+    margin: 5px;
+	float: left;
+	display: block;
+	height: 350px; 
+}
+.sec2{
+	width: 49%;
+    margin: 5px;
+	float: left;
+	display: block;
+	height: 350px;
+}
+.caja2{
+	width: 90%;
+	border-left: 2px;
+	display: block;
+	padding: 2% 1px 2% 1px;
+	margin: 5px;
+	float: left;
+	padding: 5%;
+	font-family: calibri;
+}
+article > p{
+	margin-top: 5px;
+	float: left;
+	width: 70%;
+	text-align: left;
+}
+section{
+	width: 100%;
+	margin-top: 2%;
+	float: left;
+}
+
+footer{
+	margin-top: 1px;
+	width: 100%;
+	float: left;
+	height: 50px;
+	color: white;
+	text-align: center;
+	background: #013968;
+	font-family: calibri;
+
 }
