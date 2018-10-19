@@ -1,0 +1,291 @@
+@charset "utf-8";
+body{
+  background: white;
+  font-family:calibri;
+  margin:0;
+  padding:0;
+}
+
+header{
+  width: 100%;
+  height: 50px;
+  float: left;
+}
+
+section{
+  width: 100%;
+  height: auto;
+  float: left;
+}
+
+#inicio{
+  width: 100%;
+  height: 50px;
+  float: left;
+  background: #b6640e;
+}
+
+.son1{
+  width: 5%;
+  height: 50px;
+  float: left;
+  background: #b6640e;
+}
+
+.img1{
+  background: url('../img/icono_logo.png');
+  background-repeat: no-repeat;
+  width: 51px;
+  height: 50px;
+  background-position: center;
+}
+
+#inicio >div >ul >li >a{
+  text-decoration: none;
+  font-weight: lighter;
+  font-size: 12pt;
+  color: white;
+  text-align: center;
+}
+
+#inicio>div>ul>li{
+  list-style: none;
+  display: block;
+  float:left;
+  width: 11%;
+  border-right: 1px solid #d17d25;
+  height: 40px;
+  margin:0;
+  padding: 0;
+  text-align: center;
+  padding-top: 10px;
+}
+
+ul{
+  margin:0;
+  padding: 0;
+}
+
+a:hover{
+  color: blue !important;
+}
+
+li:hover{
+  background: green !important;
+}
+
+.son2{
+  width: 5%;
+  height: 50px;
+  float: left;
+  background: #b6640e;
+  border-left: #d17d25 1px solid;
+}
+
+.banner{
+  background: url('../img/crecimiento2.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 400px;
+  background-size: 100%;
+}
+
+.son3{
+  width: 45%;
+  height: 400px;
+  float: left;
+}
+
+.img2{
+  background: url('../img/persona.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 400px;
+  background-size: 100%;
+}
+
+.son4{
+  width: 55%;
+  height: 400px;
+  float: left;
+  margin:0;
+}
+
+.son4>div:first-child>h1{
+  width: 100%;
+  height: 60px;
+  float: left;
+  margin: 0;
+  padding:0;
+  padding-top: 30px;
+  margin-bottom: 30px;
+  color: #b6640e;
+  font-size: 30pt;
+  font-weight: bold;
+  font-family: calibri;
+  letter-spacing: 2pt;
+}
+
+.son4>div:nth-child(2)>p{
+   font-family: calibri;
+  letter-spacing: 2pt;
+  text-align: left;
+  color: black;
+  line-height: 12pt;
+  font-size: 14pt;
+  font-weight: lighter;
+  width: 90%;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  margin-right: 2%;
+}
+
+.son4>div:last-child>button{
+  width: 30%;
+  height: 50px;
+  color: #b6640e;
+  float: left;
+  background: white;
+  border: #b6640e 1px solid;
+  font-weight: normal;
+  font-size: 10pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 2%;
+}
+
+.contenedor{
+  background: white;
+  width: 100%;
+  height: 680px;
+  float: left;
+}
+
+.contenedor>div>div{
+  background: white;
+  width: 25%;
+  height: 680px;
+  float: left;
+}
+
+.contenedor>div>div>div{
+  background: #f0f0f0;
+  width: 92%;
+  height: 300px;
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left:4%;
+  margin-right: 4% 
+}
+
+.contenedor>div>div>div>div{
+  background: #f0f0f0;
+  width: 92%;
+  height: 90px;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left:4%;
+  margin-right: 4% 
+}
+
+.imagen{
+  background: #f0f0f0;
+  width: 30%;
+  height: 100px;
+  float: left;
+
+}
+
+.titulo{
+  background: #f0f0f0;
+  width: 70%;
+  height: 100px;
+  float: left;
+
+}
+
+.titulo>h2{
+   font-family: calibri;
+  text-align: left;
+  text-decoration: underline;
+  color: black;
+  font-size: 14pt;
+  font-weight: bold;
+  width: 99%;
+  padding-top: 0;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  margin-right: 2%;
+}
+
+.img4{
+  background: url('../img/icono1.png');
+  background-repeat: no-repeat;
+  width: 61px;
+  height: 60px;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 50px;
+}
+
+
+.parrafo>p{
+  font-family: calibri;
+  letter-spacing: 2pt;
+  text-align: left;
+  color: black;
+  line-height: 12pt;
+  font-size: 10pt;
+  font-weight: lighter;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.img5{
+  background: url('../img/icono2.png');
+  background-repeat: no-repeat;
+  width: 61px;
+  height: 60px;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 50px;
+}
+
+.img6{
+  background: url('../img/icono3.png');
+  background-repeat: no-repeat;
+  width: 61px;
+  height: 60px;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 50px;
+}
+
+.img7{
+  background: url('../img/icono4.png');
+  background-repeat: no-repeat;
+  width: 61px;
+  height: 60px;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 50px;
+}
+
+#pie{
+  width: 100%;
+  height: 100px;
+  float: left;
+  background: black;
+}
+
+#pie>p{
+  text-align: center;
+  font-weight: normal;
+  color: white;
+  font-size: 14pt;
+}
