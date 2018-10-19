@@ -1,0 +1,72 @@
+@charset "utf-8";
+body{
+	background: white;
+	font-family: calibri;
+	margin:0;
+	padding: 0;
+}
+#cabeza{
+	width: 100%;
+	height:50px;
+	float: left;
+	background:#01478d;
+}
+#cabeza>div>ul>li>a{
+text-decoration: none;
+font-weight: normal;
+font-size: 12pt;
+color: white;
+text-align: center;
+	padding: 0;
+	margin: 0;
+}
+#cabeza>div>ul>li:first-child{
+	float: left;
+	width: 4%;
+	height: 50px;
+	margin: 0;
+	padding: 0;
+}
+.im1{
+	background: url(../img/icono_blue.png);
+	width:33px;  
+	height: 22px;
+	padding: 0;
+	margin: 0;
+}
+#cabeza>div>ul>li{
+	list-style: none;
+	display: block;
+	float: left;
+    width: 7.5%;
+    border-right: 1px solid #0abcca;
+    height:30px;
+    margin:0;
+    padding:0;
+    text-align: center;
+    padding-top: 10px;
+height: 40px;
+}
+#cabeza>div:last-child>button{
+	text-decoration: none;
+	border: 1px solid white;
+	height:40px;
+	border-radius: 5px;
+	width: 10%;
+	text-align: center;
+	margin-left: 14%;
+	background: #00a1f9;
+	color: white;
+	margin-top: 5px;
+	font-size: 11pt 
+}
+button:hover{
+  background:#0583c7 !important;
+}
+ul{
+	padding: 0;
+	margin: 0;
+}
+li:hover{
+	background: #236db6;
+}
