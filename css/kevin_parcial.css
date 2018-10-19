@@ -69,6 +69,10 @@ li:hover{
   background: #0a6aca !important;
 }
 
+button:hover{
+  background: #0abcca !important;
+}
+
 .child3{
   width: 22%;
   height: 50px;
@@ -106,7 +110,7 @@ li:hover{
 }
 
 .img2{
-  background: url('../img/persona3.png');
+  background: url('../img/persona3nueva.png');
   background-repeat: no-repeat;
   width: 100%;
   height: 567px;
@@ -311,4 +315,29 @@ li:hover{
   float: left;
   margin-top: 5px;
   margin-bottom: 5px;
+}
+
+.img7{
+  background: url('../img/icono8.png');
+  background-repeat: no-repeat;
+  width: 81px;
+  height: 80px;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 50px;
+}
+
+#pie{
+  width: 100%;
+  height: 150px;
+  float: left;
+  background: #013968;
+  margin-top: 20px;
+}
+
+#pie>p{
+  text-align: center;
+  font-weight: normal;
+  color: white;
+  font-size: 14pt;
 }
