@@ -13,12 +13,7 @@ body {
 	color: #212529;
 	background-color: #fff;
 }
-.contenedor{
-	width:70%;
-	min-height: 500px;
-	float:left;
-	margin-left:15%;
-}
+
 #menu{
 	width:100%;
 	background:#b6640e;
@@ -107,8 +102,8 @@ header > #menu > ul > li > a {
 
 .bannerimg{
   background: url("../img/persona.png");
-  width:420px;
-  height:430px;
+  width:567px;
+  height:490px;
   float: left;
 }
 article{
@@ -124,7 +119,7 @@ article > div > div:first-child{
   margin-right:5%; 
 }
 .img1{
-  background: url("../../img/icono1.png");
+  background: url("../img/icono1.png");
   width:100px;
   height:100px;
   float:left;
@@ -136,37 +131,37 @@ article > div > div:first-child{
   float:left;
 }
 .img3{
-  background: url("../img/icono7.png");
+  background: url("../img/icono3.png");
   width:100px;
   height:100px;
   float:left;
 }
 .img4{
-  background: url("../images/icono8.png");
+  background: url("../img/icono4.png");
   width:100px;
   height:100px;
   float:left;
 }
 .img5{
-  background: url("../images/icono5.png");
+  background: url("../img/icono1.png");
   width:100px;
   height:100px;
   float:left;
 }
 .img6{
-  background: url("../images/icono6.png");
+  background: url("../img/icono2.png");
   width:100px;
   height:100px;
   float:left;
 }
 .img7{
-  background: url("../images/icono7.png");
+  background: url("../img/icono3.png");
   width:100px;
   height:100px;
   float:left;
 }
 .img8{
-  background: url("../images/icono8.png");
+  background: url("../img/icono4.png");
   width:100px;
   height:100px;
   float:left;
@@ -190,12 +185,12 @@ article > div > div:last-child > p{
 }
 footer{
   margin-top: 20px;
-  background: rgb(129, 6, 27);
+  background: black;
   height: 90px;
-  width: 70%;
-	margin-left:15%; 
+  width: 100%; 
   float: left;
   text-align: center;
   color:white;
-	margin-bottom:15px;
+  margin-top: 75px;
+
 }
