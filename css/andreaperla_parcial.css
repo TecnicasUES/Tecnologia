@@ -110,7 +110,7 @@ body {
 }
 
 .banner{
-	background: url("../img/crecimiento2.png");
+	background: url("../img/crecimiento2.png") no-repeat;
 	float: left;
 	width: 100%;
 	min-height: 300px;
@@ -225,6 +225,7 @@ article{
 	float: left;
 	padding: 5%;
 }
+
 article > p{
 	margin-top: 10px;
 	float: left;
