@@ -33,58 +33,137 @@ header{
 }	
 
 .barra2{
-	width:94%;
+	width:92%;
 	height:40px;
 	float:left;
 }
 
 #menu{
-	width:94%;
+	width:100%;
 	height:40px;
 	float:left;
+	padding:0;
+	margin:0;
 }
 
-#menu>li{
-  width:12%;
-  height:40px;
+#menu>li:hover{
+  background:  #C3C3C3;
+}
+
+#menu>li:first-child{
+  width:12.4%;
+  height:33px;
   display: block;
   float:left;
   text-align: center;
+  padding-top:7px;
   border-right: 1px solid #e2a564;
 }
+
+#menu>li:nth-child(2){
+  width:12.4%;
+  height:33px;
+  display: block;
+  float:left;
+  text-align: center;
+  padding-top:7px;
+  border-right: 1px solid #e2a564;
+}
+
+#menu>li:nth-child(3){
+  width:12.4%;
+  height:33px;
+  display: block;
+  float:left;
+  text-align: center;
+  padding-top:7px;
+  border-right: 1px solid #e2a564;
+}
+
+#menu>li:nth-child(4){
+  width:12.4%;
+  height:33px;
+  display: block;
+  float:left;
+  text-align: center;
+  padding-top:7px;
+  border-right: 1px solid #e2a564;
+}
+
+#menu>li:nth-child(5){
+  width:12.4%;
+  height:33px;
+  display: block;
+  float:left;
+  text-align: center;
+  padding-top:7px;
+  border-right: 1px solid #e2a564;
+}
+#menu>li:nth-child(6){
+  width:12.4%;
+  height:33px;
+  display: block;
+  float:left;
+  text-align: center;
+  padding-top:7px;
+  border-right: 1px solid #e2a564;
+}
+
+#menu>li:nth-child(7){
+  width:12.4%;
+  height:33px;
+  display: block;
+  float:left;
+  text-align: center;
+  padding-top:7px;
+  border-right: 1px solid #e2a564;
+  }
+
+  #menu>li:last-child{
+  width:12.4%;
+  height:33px;
+  display: block;
+  float:left;
+  text-align: center;
+  padding-top:7px;
+  border-right: 1px solid #e2a564;
+  }	
+
 #menu>li>a{
   text-decoration: none;
-  color:black;
+  color:white;
   text-align: center;
+  font-family: calibri;
+  font-size: 10pt;
 }
 
 .portada{
-	width:1404%;
+	width:100%;
 	height:674px;
 	float:left;
 }
 .img2{
 	background: url('../img/crecimiento2.png');
-	width:1404px;
-	height:674px;
+	width:100%;
+	height:540px;
 	display: block;
 }	
 
 .hijo1{
 	width:40%;
-	height:674px;
+	height:400px;
 	float:left;
 }
 .img2a{
 	background: url('../img/persona.png');
 	width:567px;
 	height:498px;
-	display: block;
+	
 }	
 
 .hijo2{
-	width:60%;
-	height:674px;
+	width:58%;
+	height:498px;
 	float:left;
 }
 
@@ -95,7 +174,217 @@ header{
 	font-weight: bold;
 	padding:0;
 	margin:0;
-	font-size:30pt;
-	margin-top:50px;
+	font-size:28pt;
+	margin-top:65px;
 	
+}
+
+.hijo2>p{
+  color:#454343;
+  font-weight: lighter;
+  font-size: 14pt;
+  margin-right:230px;
+  padding: 0;
+  text-align: left;
+  line-height: 35px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  
+}
+
+.hijo2>div>button{
+
+  height: 40px;
+  width: 18%;
+  border-radius: 5px;
+  border: 1px solid #b6640e;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 10pt;
+  font-weight:normal;
+  margin-top: 15px;
+  color: #b6640e;
+  background: white;
+  
+}
+
+
+.hijo2>div>button:first-child{
+  height: 40px;
+  width: 20%;
+  border-radius: 5px;
+  border: 1px solid #b6640e;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 10pt;
+  font-weight:normal;
+  margin-top: 10px;
+  margin-left:18px;
+  color: #b6640e;
+  background: white;
+ 
+}
+ 
+ .hijo2>div>button:nth-child(2){
+  height: 40px;
+  width: 20%;
+  border-radius: 5px;
+  border: 1px solid #b6640e;
+  text-align: center;
+  margin-left: 5px; 
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 10pt;
+  font-weight:normal;
+  color: #b6640e;
+  background: white;
+ 
+}
+
+.hijo2>div>button:last-child{
+  height: 40px;
+  width: 20%;
+  border-radius: 5px;
+  border: 1px solid #b6640e;
+  text-align: center;
+  margin-left: 5px; 
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 10pt;
+  font-weight:normal;
+  color: #b6640e;
+  background: white;
+ 
+}
+
+	
+#parte2{
+    width: 100%;
+	  height: 420px;
+	  margin-left: 1%
+    margin-top: 20px;
+    float: left; 
+  }
+  
+  #parte2>div:first-child{
+    margin-top:20px;
+    margin-left:5px;
+    width:24.3%;
+    height: 400px;
+    float:left;
+    background:#e0dede;
+  }
+  #parte2>div:nth-child(2){
+    margin-top:20px;
+    margin-left:10px;
+    width: 24.3%;
+    height:400px;
+    float:left; 
+    background:#e0dede;
+  } 
+  
+   #parte2>div:nth-child(3){
+    margin-top:20px;
+    margin-left:10px;
+    width: 24.3%;
+    height: 400px;
+    float:left;
+    background:#e0dede;   
+  } 
+
+#parte2>div:last-child{
+    margin-top:20px;
+    margin-left:10px;
+    width: 24.3%;
+    height: 400px;
+    float:left;
+    background:#e0dede;   
+  }
+  
+  #parte2>div>.icono{
+    width: 30%;
+    height:100px;
+    float: left;
+  }
+  
+  #parte2>div>.texto{
+    width: 100%;
+    height: 400px;
+    margin-top:10px;
+    
+  }
+  
+  #parte2>div>.texto>h2{
+    font-family:arial;
+    color:black;
+    font-size: 14pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top:20px;
+  }
+  
+  #parte2>div>.icono>.icn2{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono1.png');
+    margin:auto;
+    display: block;
+    margin-top: 15px;
+    margin-left:10px;
+ }   
+    
+  #parte2>div>.icono>.icn3{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono2.png');
+    margin:auto;
+    display: block;
+    margin-top: 15px;
+    margin-left:10px;
+ }     
+  #parte2>div>.icono>.icn4{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono3.png');
+    margin:auto;
+    display: block;
+    margin-top: 15px;
+    margin-left:10px;
+ } 
+
+   #parte2>div>.icono>.icn5{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono4.png');
+    margin:auto;
+    display: block;
+    margin-top: 15px;
+     margin-left:10px;
+ }     
+ 
+    #parte2>div>.texto>p{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color:black;
+    font-size: 10pt;
+    font-weight: lighter;
+    margin-top: 60px;
+    margin-left:12px;
+    line-height: 20px;
+    
+  }
+
+  hr{
+    width: 200px;
+    color: #c3c3c3;
+    margin-left: 18px;
+ }   
+
+ footer{
+  background:black;
+  height:100px;
+  width:100%;
+  float:left;
+  margin-top: 50px;
+}
+footer>div>p{
+  font-family: calibri;
+  color:white;
+  text-align: center;
 }
