@@ -91,3 +91,182 @@ body {
 	height: 30px;
 	margin-top: 0.3%;
 }
+.banner1{
+	background: url("../img/crecimiento2.png");
+	float: left;
+	width: 1404px;
+	min-height: 500px;
+}
+
+.banner-img {
+	background: url("../img/persona3nueva.png");
+	width: 567px;
+	height: 498px;
+	float: left;
+}
+.banner1 > div > div > h1{
+	margin-top: 5%;
+	font-size: 26pt;
+	color: rgb(5, 59, 129);
+	margin-left: 40%; 
+}
+.banner1 > div > div > p{
+	font-size: 16pt;
+	margin-bottom: 2%;
+	text-align: left;
+	line-height: 1.8em;
+	color: rgb(0, 0, 0);
+	font-weight: lighter;
+	margin-left: 40%;
+	margin-right: 15%;
+}
+.banner1 input[type="button"]{
+	background: rgb(255, 255, 255);
+	width: 7%;
+	padding: 15px;
+	margin-left: 2%;
+	color: rgb(5, 59, 129);
+	border-radius: 5px;
+	border: 1px solid rgb(5, 59, 129);
+	font-size: 14px;
+}
+
+.body-1{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.ico5a{
+	background: url("../img/icono5.png");
+	width: 100px;
+	height: 100px;
+	margin-right: 20%;
+	float: left;
+}
+
+.ico6a{
+	background: url("../img/icono6.png");
+	width: 100px;
+	height: 100px;
+	margin-right: 20%;
+	float: left;
+}
+
+.ico7a{
+	background: url("../img/icono7.png");
+	width: 100px;
+	height: 100px;
+	margin-right: 20%;
+	float: left;
+}
+article{
+	background: rgb(240, 240, 240);
+	width: 28%;
+	float: left;
+	display: block;
+	min-height: 300px;
+	margin-left: 4%;
+	margin-top: 40px;
+}
+section{
+	border-top: 40px solid rgb(255, 255, 255);
+}
+.ico5b{
+	background: url("../img/icono5.png");
+	width: 100px;
+	height: 100px;
+	margin-right: 20%;
+	float: left;
+}
+
+.ico6b{
+	background: url("../img/icono6.png");
+	width: 100px;
+	height: 100px;
+	margin-right: 20%;
+	float: left;
+}
+.duo1a{
+	background: rgb(240, 240, 240);
+	width: 45%;!important
+	float: left;
+	display: block;
+	min-height: 270px;
+	margin-left: 5%;
+	margin-top: 40px;
+}
+
+.duo1b{
+	background: rgb(240, 240, 240);
+	width: 45%;!important
+	float: left;
+	display: block;
+	min-height: 270px;
+	margin-left: 0%;
+	margin-top: 40px;
+}
+
+
+.body-1a{
+	margin-right: 2%;
+	margin-bottom: 4%;
+}
+
+.body-1b{
+	margin-right: 2%;
+	margin-bottom: 4%;
+}
+
+.texto-pequeno{
+	padding-left: 4%;
+	padding-right: 4%;
+	margin-top: 20%;
+}
+
+.texto-pequenob{
+	padding-left: 4%;
+	padding-right: 4%;
+	margin-top: 10%;
+}
+
+
+.texto-pequeno2{
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+.ico5c{
+	background: url("../img/icono7.png");
+	width: 100px;
+	height: 100px;
+	margin-right: 20%;
+	float: left;
+}
+
+.ico6c{
+	background: url("../img/icono8.png");
+	width: 100px;
+	height: 100px;
+	margin-right: 20%;
+	float: left;
+}
+
+.body-1a{
+	margin-top: 5%;
+}
+
+.body-1b{
+	margin-top: 5%;
+}
+
+footer{
+	margin-top: 5%;
+	width: 100%;
+	float: left;
+	height: 70px;
+	text-align: center;
+	font-weight: lighter;
+	color: rgb(255, 255, 255);
+	background: rgb(1, 57, 104);
+}
