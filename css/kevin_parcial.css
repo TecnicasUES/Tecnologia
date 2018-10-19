@@ -90,3 +90,225 @@ li:hover{
   margin-bottom: 10px;
   margin-right: 10%;
 }
+
+.banner{
+  background: url('../img/crecimiento2.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 567px;
+  background-size: 100%;
+}
+
+.child4{
+  width: 45%;
+  height: 567px;
+  float: left;
+}
+
+.img2{
+  background: url('../img/persona3.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 567px;
+  background-size: 100%;
+  background-position: center;
+}
+
+.child5{
+  width: 55%;
+  height: 567px;
+  float: left;
+  margin:0;
+}
+
+.child5>div:first-child>h1{
+  width: 100%;
+  height: 60px;
+  float: left;
+  margin: 0;
+  padding:0;
+  padding-top: 60px;
+  margin-bottom: 40px;
+  color: #053b83;
+  font-size: 30pt;
+  font-weight: bold;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 2pt;
+}
+
+.child5>div:nth-child(2)>p{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 2pt;
+  text-align: left;
+  color: black;
+  line-height: 30pt;
+  font-size: 14pt;
+  font-weight: lighter;
+  width: 90%;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  margin-right: 2%;
+}
+
+.child5>div:last-child>button{
+  width: 20%;
+  height: 50px;
+  color: #053381;
+  float: left;
+  background: white;
+  border: #053381 1px solid;
+  font-weight: normal;
+  font-size: 10pt;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 2%;
+}
+
+.contenedor{
+  background: white;
+  width: 100%;
+  height: 330px;
+  float: left;
+}
+
+.contenedor>div>div{
+  background: white;
+  width: 33%;
+  height: 330px;
+  float: left;
+}
+
+.contenedor>div>div>div{
+  background: #f0f0f0;
+  width: 92%;
+  height: 300px;
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left:4%;
+  margin-right: 4% 
+}
+
+.contenedor>div>div>div>div{
+  background: #f0f0f0;
+  width: 92%;
+  height: 90px;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left:4%;
+  margin-right: 4% 
+}
+
+.imagen{
+  background: #f0f0f0;
+  width: 30%;
+  height: 100px;
+  float: left;
+
+}
+
+.titulo{
+  background: #f0f0f0;
+  width: 70%;
+  height: 100px;
+  float: left;
+
+}
+
+.titulo>h2{
+   font-family: calibri;
+  text-align: left;
+  color: black;
+  font-size: 22pt;
+  font-weight: bold;
+  width: 99%;
+  padding-top: 0;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  margin-right: 2%;
+  border-bottom: black solid 1px;
+}
+
+.img4{
+  background: url('../img/icono5.png');
+  background-repeat: no-repeat;
+  width: 81px;
+  height: 80px;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 50px;
+}
+
+
+.parrafo>p{
+  font-family: calibri;
+  letter-spacing: 2pt;
+  text-align: left;
+  color: black;
+  line-height: 14pt;
+  font-size: 14pt;
+  font-weight: lighter;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.img5{
+  background: url('../img/icono6.png');
+  background-repeat: no-repeat;
+  width: 81px;
+  height: 80px;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 50px;
+}
+
+.img6{
+  background: url('../img/icono7.png');
+  background-repeat: no-repeat;
+  width: 81px;
+  height: 80px;
+  background-position: center;
+  background-size: 100%;
+  padding-top: 50px;
+}
+
+.contenedor2{
+  background: white;
+  width: 98%;
+  height: 330px;
+  float: left;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.contenedor2>div>div{
+  background: white;
+  width: 50%;
+  height: 330px;
+  float: left;
+}
+
+.contenedor2>div>div>div{
+  background: #f0f0f0;
+  width: 98%;
+  height: 300px;
+  float: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-right: 1%
+  padding-left: 1%;
+
+}
+
+.contenedor2>div>div>div>div{
+  background: #f0f0f0;
+  width: 92%;
+  height: 90px;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
