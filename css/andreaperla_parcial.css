@@ -204,7 +204,7 @@ article{
 .body-1{
 	width: 80%;
 	display: block;
-	margin: auto;
+	margin: 5px;
 	float: left;
 	padding: 5%;
 }
@@ -213,7 +213,7 @@ article{
 	width: 70%;
 	border-left: 1px;
 	display: block;
-	margin: auto;
+	margin: 5px;
 	float: left;
 	padding: 5%;
 }
