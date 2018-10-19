@@ -1,6 +1,6 @@
 @charset "utf-8";
 body{
-  background: #aeaeae;
+  background: white;
   font-family: calibri;
   margin: 0;
   padding: 0;
@@ -54,4 +54,71 @@ a:hover{
 }
 li:hover{
   background: #082f56 !important;
+}
+#menu>div>button{
+  text-decoration: none;
+  border: 1px solid #6fd8ff;
+  height: 35px;
+  border-radius: 5px;
+  width: 8%;
+  margin-left: 11%;
+  margin-top: 7px;
+  background: #00a1f9;
+  text-align: center;
+  color: white;
+}
+button:hover{
+  background: #0c74ad !important;
+}
+.banner{
+  float: left;
+  background: url(../img/crecimiento2.png);
+  width: 1404px;
+  height: 674px;
+  margin: 0;
+  padding: 0;
+}
+.a{
+  float: left;
+  width: 45%;
+  height: 500px;
+}
+.b{
+  float: left;
+  width: 55%;
+  height: 500px;
+}
+.banner>div>.imagen2{
+  background: url(../img/persona3nueva.png);
+  width: 567px;
+  height: 500px;
+  margin: 0px;
+}
+.banner>div>.texto2>div>h1{
+  font-family: -apple-system, BlinkMac SystemFont, "Segoe UI", Roboto; "Helvetica Neue", Arial, sans-serif;
+  color: #053b81;
+  font-size: 25pt;
+  width: 70%;
+  height: 35px;
+}
+.banner>div>.texto2>div>p{
+  font-family: -apple-system, BlinkMac SystemFont, "Segoe UI", Roboto; "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 2pt;
+  text-align: left;
+  color:black;
+  line-height: 24pt;
+  font-weight: lighter;
+  width: 70%;
+}
+.banner>div>div>div>button{
+  text-decoration: none;
+  border: 1px solid #053381;
+  height: 50px;
+  border-radius: 5px;
+  width: 12%;
+  margin-left: 5%;
+  margin-top: 20px;
+  background: white;
+  text-align: center;
+  color: #053381;
 }
