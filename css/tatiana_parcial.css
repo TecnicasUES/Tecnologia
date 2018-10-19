@@ -1,7 +1,6 @@
 @charset "utf-8";
 body{
 	background: white;
-	font-family: calibri;
 	margin:0;
 	padding: 0;
 }
@@ -14,18 +13,18 @@ body{
 #cabeza>div>ul>li>a{
 text-decoration: none;
 font-weight: normal;
-font-size: 12pt;
+font-size: 11pt;
 color: white;
 text-align: center;
 	padding: 0;
 	margin: 0;
+	font-family:calibri;
 }
 #cabeza>div>ul>li:first-child{
 	float: left;
 	width: 4%;
-	height: 50px;
-	margin: 0;
-	padding: 0;
+	height: 38px;
+
 }
 .im1{
 	background: url(../img/icono_blue.png);
@@ -33,6 +32,7 @@ text-align: center;
 	height: 22px;
 	padding: 0;
 	margin: 0;
+	margin-left: 10px;
 }
 #cabeza>div>ul>li{
 	list-style: none;
@@ -44,21 +44,22 @@ text-align: center;
     margin:0;
     padding:0;
     text-align: center;
-    padding-top: 10px;
-height: 40px;
+    padding-top:12px;
+height: 38px;
 }
 #cabeza>div:last-child>button{
 	text-decoration: none;
-	border: 1px solid white;
-	height:40px;
+	border: 1px solid #86d7f5;
+	height:35px;
 	border-radius: 5px;
-	width: 10%;
+	width: 7%;
 	text-align: center;
-	margin-left: 14%;
+	margin-left: 17%;
 	background: #00a1f9;
 	color: white;
-	margin-top: 5px;
+	margin-top:8px;
 	font-size: 11pt 
+	font-family:calibri;
 }
 button:hover{
   background:#0583c7 !important;
@@ -69,4 +70,131 @@ ul{
 }
 li:hover{
 	background: #236db6;
+}
+.hijo1{
+	width: 100%;
+	height: 498px;
+	float:left;
+	background:white;
+}
+.fondo{
+	background: url(../img/crecimiento2.png);
+	width: 100%;
+	height: 498px;
+	float: left;
+}
+.a1{
+	width: 40%;
+	height:498px;
+	float:left;
+}
+.a2{
+	width: 60%;
+	height:498px;
+	float: left;
+}
+.im2{
+	background: url(../img/persona3nueva.png);
+	width: 567px;
+	height: 498px;
+}
+.a2>div:first-child>h1{
+	width: 100%;
+	height: 50px;
+	float: left;
+	color:#053b95;
+	font-size: 30pt;
+	padding: 0;
+	padding-top: 50px;
+	margin: 0;
+	font-family:  -apple-system, BlinkMac SystemFont, "SegoeUI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.a2>div:nth-child(2)>p{
+	width: 75%;
+	font-weight: lighter;
+	font-size: 14pt;
+	line-height: 25pt;
+	padding-top: 100px;
+	font-family: -apple-system, BlinkMac SystemFont, "SegoeUI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.a2>div:last-child>button{
+	text-decoration:none;
+	border: 1px solid #063482;
+	height:50px;
+	border-radius: 5px;
+	width: 12%;
+	text-align: center;
+	margin-left: 2%;
+	background: white;
+	color: #063482;
+	font-size: 10pt;
+}
+button:hover{
+  background:#98bbf8 !important;
+}
+.hijo2{
+	background: white;
+	width: 100%;
+	height: 400px;
+	float: left;
+}
+.hijo2>div{
+	width: 99%;
+	height: 400px;
+	margin-left: 1%
+	border: 1px solid red;
+}
+.hijo2>div>div{
+	background: #f0f0f0;
+	width: 33%;
+	height: 360px;
+	margin-right: 1%;
+	float: left;
+	margin-top: 20px;
+}
+.hijo2>div>div>div:first-child{
+	width: 40%;
+	height: 100px;
+	float: left;
+	margin:0;
+  	padding:0;
+	margin-left: 5%;
+	margin-top: 15px;
+	border: 1px solid blue;
+}
+.imagenuno{
+	background: url('../img/icono5.png')no-repeat;
+	width: 100px;
+	height: 100px;
+}
+.hijo2>div>div>div:nth-child(2){
+	width: 50%;
+	height: 100px;
+	float: left;
+	border: 1px solid red;
+}
+.hijo2>div>div>div:nth-child(2)>h2{
+	font-family: calibri;
+	font-size: 18pt;
+	font-weight: bolder;
+	margin: 0;
+	padding: 0;
+	padding-top: 20px;
+}
+.hijo2>div>div>div:last-child{
+	width: 90%;
+	height: 240px;
+	float: left;
+	margin-left: 5%;
+	border: 1px solid red;
+}
+.chijo2>div>div>div:last-child>p{
+  font-family: calibri;
+  font-size:13pt;
+  font-weight:lighter;
+  margin:0;
+  padding:0;
+}
+hr{
+	color:#f0f0f0;
 }
