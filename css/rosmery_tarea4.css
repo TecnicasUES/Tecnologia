@@ -16,7 +16,7 @@ header{
   background: #cf7833;
 }
 
-.icono{
+header>.icono{
 	width: 3%;
 	height: 40px;
 	float: left;
@@ -24,7 +24,7 @@ header{
 }
 
 
-.icono>.camara{
+header>.icono>.camara{
 	width: 32px;
     height: 23px;
     background: url('../img/icono_logo.png');
@@ -33,7 +33,7 @@ header{
     display: block;
 }
 
-.barra{
+header>.barra{
   width: 97%;
   height: 40px;
   float: left;
@@ -82,8 +82,9 @@ header>div:last-child>ul>li>a{
   height: 674px;
   float: left;
   display: block;
+  margin: 0;
+  padding: 0;
 }
-
 
 #banner>.persona{
 	width: 40%;
@@ -149,9 +150,9 @@ header>div:last-child>ul>li>a{
 
 #s2{
   width: 100%;
-  height: 1000px;
+  height: 900px;
   float: left;
-  background: black;
+  background: white;
   margin: 0;
   padding: 0;
 }
@@ -159,7 +160,7 @@ header>div:last-child>ul>li>a{
 article>#s2>.parte1{
   width: 100%;
   height: 400px;
-  background: orange;
+  background: white;
 }
 
 article>#s2>.parte1>.caja1{
@@ -181,6 +182,8 @@ article>#s2>.parte1>.caja1>.hijo1>.img2{
   background: url('../img/icono1.png');
   width: 100px;
   height: 100px;
+  float: left;
+  margin-left: 15%;
 }
 
 article>#s2>.parte1>.caja1>.texto2{
@@ -191,11 +194,11 @@ article>#s2>.parte1>.caja1>.texto2{
 }
 
 article>#s2>.parte1>.caja1>.texto3{
-  width: 94%;
-  margin-left: 3%;
-  margin-right: 3%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   float: left;
-  margin-top: 25px;
+  margin-top: 15px;
   line-height: 18pt;
 }
 
@@ -203,16 +206,40 @@ article>#s2>.parte1>.caja1>.hijo1>.img3{
   background: url('../img/icono2.png');
   width: 100px;
   height: 100px;
+    float: left;
+  margin-left: 15%;
 }
 
 article>#s2>.parte1>.caja1>.hijo1>.img4{
   background: url('../img/icono3.png');
   width: 100px;
   height: 100px;
+    float: left;
+  margin-left: 15%;
 }
 
 article>#s2>.parte1>.caja1>.hijo1>.img5{
   background: url('../img/icono4.png');
   width: 100px;
   height: 100px;
+    float: left;
+  margin-left: 15%;
+}
+
+footer>div{
+  width: 100%;
+  height: 120px;
+  float: left;
+  background: black;
+}
+
+footer>div>p{
+  text-align: center;
+  font-size: 12pt;
+  color: white;
+  font-weight: normal;
+  font-family: century gothic;
+  margin: 0;
+  padding: 0;
+  margin: 10px;
 }
