@@ -1,0 +1,130 @@
+@charset "utf-8";
+
+body{
+  background: #c3c3c3;
+  font-family: font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding:0;
+}
+#hea{
+	width: 100%;
+	height: 50px;
+	float: left;
+	background: #045FB4;
+}
+.hea1{
+	width: 2%;
+	height: 50px;
+	float: left;
+	border-right: 1px solid #2EFEF7;
+	padding: 0px 1% 0px 1%;
+}
+.imag{
+	width: 33px;
+	height: 22px;
+	float: left;
+	margin-top: 12px;
+}
+#hea>div>ul>li>a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-size: 10pt;
+	text-align: center;
+}
+#hea>div>ul>li{
+	list-style: none;
+	display: block;
+	float: left;
+	width: 7.5%;
+	border-right: 1px solid #2EFEF7;
+	height: 38px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding-top: 12px;
+}
+
+.buton{
+  background: blue;
+  width: 7%;
+  padding: 5px;
+  margin-left: 10%;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  border: 1px solid rgb(131, 211, 246);
+  font-size: 16px;
+  height: 30px;
+  margin-top: 0.3%;
+
+
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+.imagfond{
+	background: url('../img/crecimiento2.png')no-repeat;
+	width: 1404px;
+	height: 500px;
+	float: left;
+}
+.hi1{
+	width: 40%;
+	height: 300px;
+	float: left;
+}
+.image1{
+	background: url('../img/persona3nueva.png');
+	width: 567px;
+	height: 498px;
+	float: left;
+}
+.hi2{
+	width: 52%;
+	height: 390px;
+	float: left;
+	padding: 0px 8% 0px 0%;
+}
+.hi2>div>h1{
+	width: 100%;
+	height: 60px;
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-top: 100px;
+	color:  #045FB4;
+	font-size: 28pt;
+	font-weight: bold;
+}
+.hi2>div>p{ 
+	font-family: calibri;
+	letter-spacing: 0pt;
+	text-align: left;
+	color: black;
+	line-height: 28pt;
+	font-size: 18pt;
+	width: 90%;
+	font-weight: lighter;
+}
+.hi2>div>button{
+	text-decoration: none;
+	border: 1px solid #045FB4;
+	height: 50px;
+	border-radius: 5px;
+	width: 15%;
+	margin-left: 1%;
+	background: white;
+	text-align: center;
+	margin-top: 15px;
+	color: #045FB4;
+	font-size: 11pt;
+}
+button:hover{
+	background: #04B4AE !important;
+	color: white !important;
+}
