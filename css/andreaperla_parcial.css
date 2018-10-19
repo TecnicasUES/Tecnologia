@@ -163,29 +163,30 @@ body {
 	color: rgb(255, 255, 255);
 }
 
+
 .ico1{
-	background: url("../img/icono5.png");
+	background: url("../img/icono5.png") no-repeat;
 	width: 120px;
 	height: 120px;
 	float: left;
 }
 
 .ico2{
-	background: url("../img/icono6.png");
+	background: url("../img/icono6.png") no-repeat;
 	width: 115px;
 	height: 119px;
 	float: left;
 }
 
 .ico3{
-	background: url("../img/icono7.png");
+	background: url("../img/icono7.png") no-repeat;
 	width: 120px;
 	height: 120px;
 	float: left;
 }
 
 .ico4{
-	background: url("../img/icono8.png");
+	background: url("../img/icono8.png") no-repeat;
 	width: 119px;
 	height: 120px;
 	float: left;
