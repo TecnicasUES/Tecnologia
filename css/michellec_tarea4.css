@@ -87,13 +87,32 @@ li:hover{
   margin: 0;
   padding: 0;
   color: #b5630d;
-  font-size: 30pt;
+  font-size: 24pt;
   font-weight: bold;
   font-family: arial;
-  padding-top: 50px;
-  padding-left: 15px;
+  padding-top: 60px;
+  padding-left: 45px;
 }
 .b>div:nth-child(2)>p{
   font-family: calibri;
-  
+  text-align: left;
+  color: black;
+  line-height: 30pt;
+  font-size: 18pt;
+  font-weight: lighter;
+  width: 70%;
+  padding-left: 45px;
+  padding-top: 100px;
+}
+.b>div:last-child>button{
+  text-decoration: none;
+  border: 1px solid #b5630d;
+  height: 50px;
+  border-radius: 5px;
+  width: 20%;
+  margin-left: 2%;
+  background: white;
+  text-align: center;
+  margin-top: 20px;
+ 
 }
