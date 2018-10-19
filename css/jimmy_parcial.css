@@ -8,9 +8,31 @@ body{
 	padding:0;
 }
 
-#cabeza>div{
+#cabeza{
 	width: 100%;
 	height: 40px;
 	float: left;
 	background: #01478d;
 }
+
+#cabeza>div>ul>li{
+	width: 9%;
+	height: 40px;
+	float: left;
+	text-align: center;
+	display: block;
+	border-right: 1px solid white;
+	margin: 0;
+	padding: 0;
+}
+
+#cabeza>li>a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+
+#cabeza>div>ul>li:first-child{
+	width: 3.5%;
+	height: 40px;
+	float: left;
