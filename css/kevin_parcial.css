@@ -1,0 +1,92 @@
+@charset "utf-8";
+body{
+  background: white;
+  font-family:calibri;
+  margin:0;
+  padding:0;
+}
+
+header{
+  width: 100%;
+  height: 50px;
+  float: center;
+}
+
+#inicio{
+  width: 100%;
+  height: 50px;
+  float: center;
+  background: #01478d;
+}
+
+.child1{
+  width: 5%;
+  height: 50px;
+  float: left;
+  background: #01478d;
+  border-right: #0a6aca 1px solid;
+}
+
+.img1{
+  background: url('../img/icono_blue.png');
+  background-repeat: no-repeat;
+  width: 51px;
+  height: 50px;
+  background-position: center;
+}
+
+#inicio >div >ul >li >a{
+  text-decoration: none;
+  font-weight: lighter;
+  font-size: 12pt;
+  color: white;
+  text-align: center;
+}
+
+#inicio>div>ul>li{
+  list-style: none;
+  display: block;
+  float:left;
+  width: 8%;
+  border-right: 1px solid #0abcca;
+  height: 40px;
+  margin:0;
+  padding: 0;
+  text-align: center;
+  padding-top: 10px;
+}
+
+ul{
+  margin:0;
+  padding: 0;
+}
+
+a:hover{
+  color: #0abcca !important;
+}
+
+li:hover{
+  background: #0a6aca !important;
+}
+
+.child3{
+  width: 22%;
+  height: 50px;
+  float: right;
+  background: #01478d;
+  border-left: #0a6aca 1px solid;
+}
+
+.child3>div:last-child>button{
+  width: 30%;
+  height: 30px;
+  color: white;
+  float: right;
+  background: #00a1f9;
+  border: #86d7f5 1px solid;
+  font-weight: normal;
+  font-size: 10pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10%;
+}
