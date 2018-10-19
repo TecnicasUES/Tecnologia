@@ -310,11 +310,13 @@ button:hover{
 
 .contenedor2>div>div>div>div{
   background: #f0f0f0;
-  width: 92%;
+  width: 90%;
   height: 90px;
   float: left;
   margin-top: 5px;
   margin-bottom: 5px;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 .img7{
