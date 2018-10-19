@@ -17,7 +17,7 @@ body{
 	text-decoration: none;
 	font-family: arial;
 	font-weight: normal;
-	font-size: 12pt;
+	font-size: 10pt;
 	color: #ffffff;
 	height:52px;
 	padding: 18px 0;
@@ -35,7 +35,7 @@ body{
 	border-right: 1px solid #0abcca;
 	height: 60px;
 	text-align: center;
-    width: 11.5%;
+    width: 7%;
 	/*padding-top:20px;	*/
 }
 ul{
