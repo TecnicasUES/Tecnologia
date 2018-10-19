@@ -288,11 +288,7 @@ fff
   text-align: center;
 }
 
-.sec2>div>div>div hr {
-	height: 2px;
-	background-color: #9a9a9a;
-	width: 68%;
-}
+
 #pie{
 	width: 100%;
 	height: 60px;
