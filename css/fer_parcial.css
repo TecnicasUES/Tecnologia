@@ -22,9 +22,10 @@ body {
 	min-height:10px;
 }
 header > #menu >div{
-	width: 5%;
+	width: 6%;
 	float: left;
 	height: auto;
+ 
 }
 header > #menu > ul{
 	width:85%;
@@ -269,6 +270,9 @@ footer{
   color: white;
   width: 90px;
   
-
-
 }
+
+button:hover{
+	background: #lime;
+}
+
