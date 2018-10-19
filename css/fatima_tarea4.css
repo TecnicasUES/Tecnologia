@@ -22,7 +22,10 @@ height: 65px;
 }
 
 .cuadro1{  
-	width: 6%;
+	background: #b6640e;
+	width: 6%; 
+	float:left; 
+	height: 65px;
 }
 	
 .imag1{ 
