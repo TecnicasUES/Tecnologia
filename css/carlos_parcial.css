@@ -50,23 +50,23 @@ ul{
 }
 .banner{
 	width: 100%;
-	height: 674px;
+	height: 500px;
 	float: left;
 	background:url(../img/crecimiento2.png);
 }
 .imgpr3{
 	width: 40%;
-	height: 674px;
+	height: 500px;
 	float: left;
 }
 .ctx{
   width: 60%;
-  height:674px;
+  height:500px;
   float: left;
 }
 .textbnr{
   width: 70%;
-  height: 574px;
+  height: 500px;
   margin-left: 10%;
   margin-top: 70px;
 }
@@ -94,4 +94,94 @@ ul{
   text-align: center;
   margin-left: 4%;
   margin-top: 10px;
+}
+.bloque1{
+  width: 100%;
+  height: 380px;
+  float: left;
+  background: white;
+  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.b1h1{
+  width: 30%;
+  height: 300px;
+  float: left;
+  background:  #e5e7e9;
+  margin-top: 40px;
+  margin-left: 1%;
+}
+.b1h2{
+  width: 30%;
+  height: 300px;
+  float: left;
+  background:  #e5e7e9;
+  margin-top: 40px;
+  margin-left: 4%;
+}
+.b1h3{
+  width: 30%;
+  height: 300px;
+  float: left;
+  background:  #e5e7e9;
+  margin-top: 40px;
+  margin-left: 4%;
+}
+.b1n1{
+  width:25%;
+  height: 110px;
+  float: left;
+  background: url(../img/icono5.png);
+  padding-left: 3%;
+}
+.b1n2{
+  width:70%;
+  padding-top:20px;
+  height: 90px;
+  float: left;
+}
+.b1h1tx{
+  width: 92%;
+  height: 190px;
+  margin-left: 4%;
+}
+h3{
+  border-bottom:1px solid gray;
+  font-weight: bold;
+  font-size: 16pt;
+}
+.b1n3{
+  width:22%;
+  height: 110px;
+  float: left;
+  background: url(../img/icono6.png);
+  padding-left: 4%;
+}
+.b1n4{
+  width:70%;
+  padding-top:20px;
+  height: 90px;
+  float: left;
+}
+.b2h2tx{
+  width: 92%;
+  height: 190px;
+  margin-left: 4%;
+}
+.b1n5{
+  width:22%;
+  height: 110px;
+  float: left;
+  background: url(../img/icono7.png);
+  padding-left: 4%;
+}
+.b1n6{
+  width:70%;
+  padding-top:20px;
+  height: 90px;
+  float: left;
+}
+.b2h3tx{
+  width: 92%;
+  height: 190px;
+  margin-left: 4%;
 }
