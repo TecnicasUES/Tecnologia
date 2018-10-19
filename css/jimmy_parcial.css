@@ -3,36 +3,39 @@
 
 body{
 	background: gray;
-	font-family: calibri;
+	font-family: arial;
+	color:black;
 	margin:0;
-	padding:0;
+	padding: 0;
 }
 
-#cabeza{
+header{
+	background: #01478d;
+	height: 40px;
+	width: 100%;
+	padding: 0;
+	margin:0;
+	float: left;
+}
+
+#menu{
 	width: 100%;
 	height: 40px;
 	float: left;
-	background: #01478d;
+	margin: 0;
+	padding: 0;
 }
 
-#cabeza>div>ul>li{
+#menu>li{
 	width: 9%;
 	height: 40px;
 	float: left;
 	text-align: center;
 	display: block;
-	border-right: 1px solid white;
-	margin: 0;
-	padding: 0;
+	border-right: 1px solid #0abcca;
 }
 
-#cabeza>li>a{
+#menu>li>a{
 	text-decoration: none;
 	color: white;
 	text-align: center;
-}
-
-#cabeza>div>ul>li:first-child{
-	width: 3.5%;
-	height: 40px;
-	float: left;
