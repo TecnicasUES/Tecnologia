@@ -27,7 +27,7 @@ header > #menu >div{
 }
 header > #menu > ul{
 	width:95%;
-	float:right;
+	float:left;
 	height: auto;
 }
 header > #menu > ul > li{
@@ -87,6 +87,7 @@ header > #menu > ul > li > a {
   background: rgb(255, 255, 255);
   font-size: 11pt;
   margin-top: 3%;
+  color: #b6640e;
 }
 .banner1{
   width:100%;
@@ -95,7 +96,7 @@ header > #menu > ul > li > a {
   float:left;
 }
 .banner2{
-  width:50%;
+  width:80%;
   float:left;
   height:auto;
 }
@@ -171,7 +172,7 @@ h3{
   float: left;
 }
 hr{
-  width:65%;
+  width:60%;
   float: left;
   color: rgb(240, 240, 240);
   
