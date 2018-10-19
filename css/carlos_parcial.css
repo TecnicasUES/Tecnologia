@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+body{
+  background: white;
+  font-family:arial;
+  margin:0;
+  padding:0;
+}
+ #mn{
+ 	width: 100%;
+ 	height: 60px;
+ 	float: left;
+ 	background: #1a5276;
+ }
+
+ #mn>div>ul>li>a{
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 10pt;
+  color: white;
+  text-align: center;
+}
+#mn>div>ul>li{
+  list-style: none;
+  display:block;
+  float: left;
+  width: 9%;
+  border-right:1px solid #FAE5D3;
+  height: 40px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  padding-top:20px;
+}
+.mnicono{
+  width: 5%;
+  float: left;
+}
+.btmn{
+  border: 1px solid white;
+  width: 70%;
+  height: 25px;
+  background: #2e86c1;
+  color:white;  
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+.banner{
+	width: 100%;
+	height: 674px;
+	float: left;
+	background:url(../img/crecimiento2.png);
+}
+.imgpr3{
+	width: 100%;
+	height: 674px;
+	float: left;
+}
