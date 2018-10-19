@@ -139,9 +139,9 @@ li:hover{
   background: white;
 }
 .child2>div{
-  width: 99%;
+  width: 97%;
   height: 400px;
-  margin-left: 2%;
+  margin-left: 3%;
 }
 .child2>div>div{
   width: 30%;
@@ -222,7 +222,7 @@ li:hover{
   background: white;
 }
 .child3>div{
-  width: 99%;
+  width: 98%;
   height: 650px;
   margin-left: 2%;
 }
