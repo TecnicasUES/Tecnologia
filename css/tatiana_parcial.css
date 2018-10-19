@@ -44,7 +44,7 @@ text-align: center;
     padding:0;
     text-align: center;
     padding-top:12px;
-height: 38px;
+	height: 38px;
 }
 #cabeza>div:last-child>button{
 	text-decoration: none;
@@ -155,7 +155,7 @@ button:hover{
 	height: 100px;
 	float: left;
 	margin:0;
-  padding:0;
+  	padding:0;
 	margin-left: 5%;
 	margin-top: 15px;
 }
