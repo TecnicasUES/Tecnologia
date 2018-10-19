@@ -131,8 +131,8 @@ ul{
 }
 .sec2>div>div{
 	background-color: #f0f0f0;
-	margin: 14px 25px;
-	padding: 0 10px;
+	margin: 14px 30px;
+	padding: 0 8px;
 	width: 22.9%;
 	height: 100%;
 	float: left;
@@ -168,7 +168,7 @@ ul{
 }
 .sec3>div>div{
 	background-color: #f0f0f0;
-	margin: 14px 25px;
+	margin: 14px 5px;
 	padding: 0 10px;
 	width: 40%;
 	height: 100%;
@@ -202,7 +202,7 @@ fff
 }
 .sec4>div>div{
 	background-color: #f0f0f0;
-	margin: 14px 25px;
+	margin: 14px 5px;
 	padding: 0 10px;
 	width: 40%;
 	height: 100%;
