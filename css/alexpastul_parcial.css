@@ -46,6 +46,23 @@ body{
 	text-align: center;
 	padding-top: 12px;
 }
+.header-boton{
+  width: 10%;
+  height: 30px;
+  float: right;
+  padding: 5px;
+  margin-right: 1%;
+  margin-top: 10px;
+  background: #2ECCFA;
+  border-radius: 6px;
+  border: 1px solid;
+  border-color: white;
+  color: white;
+}
+.header-boton:hover{
+	background: #04B4AE !important;
+	color: #045FB4 !important;
+}
 ul{
 	margin: 0;
 	padding: 0;
