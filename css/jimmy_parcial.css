@@ -95,7 +95,7 @@ header{
 	height: 498px;
 }
 
-.b1{
+.ban1{
 	width: 40%;
 	height: 498px;
 	float: left;
@@ -107,13 +107,13 @@ header{
 	height: 498px;
 }
 
-.b2{
+.ban2{
 	width: 60%;
 	height: 647px;
 	float: left;
 }
 
-.b2>h2{
+.ban2>h2{
 	color: #053b81;
 	font-family: calibri;
 	font-weight: bold;
@@ -123,7 +123,7 @@ header{
 	text-align: left;
 }
 
-.b2>p{
+.ban2>p{
 	color: black;
 	font-family: arial;
 	font-weight: normal;
@@ -134,7 +134,7 @@ header{
 	text-align: left;
 }
 
-.b2>button{
+.ban2>button{
 	text-decoration: none;
 	border: 1px solid blue;
 	width: 10%;
