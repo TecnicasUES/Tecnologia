@@ -93,13 +93,13 @@ button:hover{
 }
 .banner{
 	width: 1404px;
-	height: 674px;
+	height: 530px;
 	float: left;
 	background: url('../img/crecimiento2.png');
 }
 .imagen1{
 	width: 40%;
-	height: 674px;
+	height: 680px;
 	float: left;
 }
 .text1{
@@ -121,7 +121,7 @@ button:hover{
 	height: 350px;
 }
 .text2>h3{
-	color: black;
+	color: solid gray;
   font-family: calibri;
   font-size: 23pt;
   font-weight: lighter;
@@ -277,7 +277,7 @@ section>article>button>h4{
 }
 .c1{
 	width: 46%;
-	height: 360px;
+	height: 300px;
 	float: left;
 	background: #f0f0f0;
 	margin-left: 36px;
@@ -309,7 +309,7 @@ section>article>button>h4{
 }
 .c2{
 	width: 48%;
-	height: 360px;
+	height: 300px;
 	float: left;
 	background: #f0f0f0;
 	margin-left: 6px;
@@ -341,7 +341,7 @@ section>article>button>h4{
 }
 .cajita{
 	width: 46%;
-	height: 360px;
+	height: 300px;
 	float: left;
 	background: #f0f0f0;
 	margin-left: 36px;
@@ -373,7 +373,7 @@ section>article>button>h4{
 }
 .cajita2{
 	width: 48%;
-	height: 360px;
+	height: 300px;
 	float: left;
 	background: #f0f0f0;
 	margin-left: 6px;
@@ -408,6 +408,7 @@ footer{
 	height: 140px;
 	background: #013968;
 	float: left;
+	margin-top: 60px;
 }
 
 footer>div{
