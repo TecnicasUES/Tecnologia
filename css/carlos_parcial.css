@@ -24,7 +24,7 @@ body{
   list-style: none;
   display:block;
   float: left;
-  width: 9%;
+  width: 8%;
   border-right:1px solid #FAE5D3;
   height: 40px;
   margin: 0;
@@ -32,22 +32,22 @@ body{
   text-align: center;
   padding-top:20px;
 }
-.mnicono{
-  width: 5%;
-  float: left;
-}
-.btmn{
+#mn>div>button{
+  text-decoration: none;
   border: 1px solid white;
-  width: 70%;
-  height: 25px;
+  width: 8%;
+  height: 40px;
   background: #2e86c1;
-  color:white;  
+  color:white;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 8%;
+  margin-top: 10px;
 }
 ul{
 	margin: 0;
 	padding: 0;
 }
-
 .banner{
 	width: 100%;
 	height: 674px;
@@ -55,7 +55,43 @@ ul{
 	background:url(../img/crecimiento2.png);
 }
 .imgpr3{
-	width: 100%;
+	width: 40%;
 	height: 674px;
 	float: left;
+}
+.ctx{
+  width: 60%;
+  height:674px;
+  float: left;
+}
+.textbnr{
+  width: 70%;
+  height: 574px;
+  margin-left: 10%;
+  margin-top: 70px;
+}
+.ctx> div> h1{
+  font-size: 24pt;
+  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-weight: bold; 
+  color:#1a5276;
+}
+.ctx> div> p{
+  font-size: 12pt;
+  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 22pt;
+  color:gray;
+}
+
+.ctx>.textbnr>.botones>button{
+  text-decoration: none;
+  border: 1px solid #2e86c1;
+  width: 20%;
+  height: 40px;
+  background: white;
+  color: #2e86c1;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 4%;
+  margin-top: 10px;
 }
