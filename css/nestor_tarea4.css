@@ -17,42 +17,21 @@ header{
   width: 100%;
   float: left;
 }
-.img0{
-	width: auto;
-	height: 22px;
-	margin: 8px;
-}
-.menu{
+.inicio{
 	width: 100%;
 	height: 40px;
-	float: left;
-	padding: 0;
-	font-family: roboto;
+	
 }
-.menu1{
+.child1{
 	width: 4%;
-	height: auto;
-	float: left;
-	padding: 0;
-	align-self: center;
-}
-.menu2{
-	width:11.5%;
 	height: 40px;
 	float: left;
-	font-size: 18pt;
-	padding: 0%; 
-}
-.fondo{
-	width: 100%;
-	height: 700px;
-	float: left;
-	padding: 0;
-
+	background: #b6640e;
 }
 .img1{
-	width: 100%;
-	height: 674px;
-	float:; left;
-
+  background: url('../img/icono_logo.png');
+  background-repeat:no-repeat;
+  background-position: center;
+  width: 55px;
+  height: 40px;
 }
