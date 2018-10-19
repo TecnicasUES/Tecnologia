@@ -30,8 +30,7 @@ text-align: center;
 	width:33px;  
 	height: 22px;
 	padding: 0;
-	margin: 0;
-	margin-left: 5px;
+	margin-left: 8%;
 }
 #cabeza>div>ul>li{
 	list-style: none;
@@ -60,9 +59,6 @@ text-align: center;
 	font-size: 11pt; 
 	font-family:calibri;
 }
-button:hover{
-  background:#0583c7 !important;
-}
 ul{
 	padding: 0;
 	margin: 0;
@@ -77,7 +73,7 @@ li:hover{
 	background:white;
 }
 .fondo{
-	background: url(../img/crecimiento2.png);
+	background: url(../img/crecimiento2.png)no-repeat;
 	width: 100%;
 	height: 498px;
 	float: left;
@@ -106,7 +102,7 @@ li:hover{
 	padding: 0;
 	padding-top: 50px;
 	margin: 0;
-	font-family:  -apple-system, BlinkMac SystemFont, "SegoeUI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 .a2>div:nth-child(2)>p{
 	width: 75%;
@@ -114,7 +110,7 @@ li:hover{
 	font-size: 14pt;
 	line-height: 25pt;
 	padding-top: 100px;
-	font-family: -apple-system, BlinkMac SystemFont, "SegoeUI", Roboto, "Helvetica Neue", Arial, sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 .a2>div:last-child>button{
 	text-decoration:none;
