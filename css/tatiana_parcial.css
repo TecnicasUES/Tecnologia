@@ -22,9 +22,8 @@ text-align: center;
 }
 #cabeza>div>ul>li:first-child{
 	float: left;
-	width: 4%;
+	width: 5%;
 	height: 38px;
-
 }
 .im1{
 	background: url(../img/icono_blue.png);
@@ -32,7 +31,7 @@ text-align: center;
 	height: 22px;
 	padding: 0;
 	margin: 0;
-	margin-left: 10px;
+	margin-left: 5px;
 }
 #cabeza>div>ul>li{
 	list-style: none;
@@ -58,7 +57,7 @@ height: 38px;
 	background: #00a1f9;
 	color: white;
 	margin-top:8px;
-	font-size: 11pt 
+	font-size: 11pt; 
 	font-family:calibri;
 }
 button:hover{
@@ -135,20 +134,19 @@ button:hover{
 .hijo2{
 	background: white;
 	width: 100%;
-	height: 400px;
+	height: 380px;
 	float: left;
 }
 .hijo2>div{
 	width: 99%;
-	height: 400px;
-	margin-left: 1%
-	border: 1px solid red;
+	height: 380px;
+	margin-left: 1%;
 }
 .hijo2>div>div{
 	background: #f0f0f0;
-	width: 33%;
-	height: 360px;
-	margin-right: 1%;
+	width: 32%;
+	height: 340px;
+	margin-right: 1.3%;
 	float: left;
 	margin-top: 20px;
 }
@@ -157,13 +155,22 @@ button:hover{
 	height: 100px;
 	float: left;
 	margin:0;
-  	padding:0;
+  padding:0;
 	margin-left: 5%;
 	margin-top: 15px;
-	border: 1px solid blue;
 }
 .imagenuno{
 	background: url('../img/icono5.png')no-repeat;
+	width: 100px;
+	height: 100px;
+}
+.imagendos{
+	background: url('../img/icono6.png')no-repeat;
+	width: 100px;
+	height: 100px;
+}
+.imagentres{
+	background: url('../img/icono7.png')no-repeat;
 	width: 100px;
 	height: 100px;
 }
@@ -171,24 +178,22 @@ button:hover{
 	width: 50%;
 	height: 100px;
 	float: left;
-	border: 1px solid red;
+	margin-top: 15px;
 }
 .hijo2>div>div>div:nth-child(2)>h2{
 	font-family: calibri;
 	font-size: 18pt;
 	font-weight: bolder;
 	margin: 0;
-	padding: 0;
 	padding-top: 20px;
 }
 .hijo2>div>div>div:last-child{
 	width: 90%;
-	height: 240px;
+	height: 220px;
 	float: left;
 	margin-left: 5%;
-	border: 1px solid red;
 }
-.chijo2>div>div>div:last-child>p{
+.hijo2>div>div>div:last-child>p{
   font-family: calibri;
   font-size:13pt;
   font-weight:lighter;
@@ -197,4 +202,77 @@ button:hover{
 }
 hr{
 	color:#f0f0f0;
+}
+.hijo3{
+	background: white;
+	width: 100%;
+	height: 700px;
+	float: left;
+}
+.hijo3>div{
+	width: 99%;
+	height: 700px;
+	margin-left: 1%;
+}
+.hijo3>div>div{
+	background: #f0f0f0;
+	width: 49.1%;
+	height: 300px;
+	margin-right: 0.3%;
+	float: left;
+	margin-top: 15px;
+}
+.hijo3>div>div>div:first-child{
+	width: 40%;
+	height: 100px;
+	float: left;
+	margin:0;
+  	padding:0;
+	margin-left: 5%;
+	margin-top: 15px;
+}
+.imagencuatro{
+	background: url('../img/icono8.png')no-repeat;
+	width: 100px;
+	height: 100px;
+}
+.hijo3>div>div>div:nth-child(2){
+	width: 50%;
+	height: 100px;
+	float: left;
+	margin-top: 15px;
+}
+.hijo3>div>div>div:nth-child(2)>h2{
+	font-family: calibri;
+	font-size: 18pt;
+	font-weight: bolder;
+	margin: 0;
+	padding-top: 20px;
+}
+.hijo3>div>div>div:last-child{
+	width: 90%;
+	height: 150px;
+	float: left;
+	margin-left: 5%;
+}
+.hijo3>div>div>div:last-child>p{
+  font-family: calibri;
+  font-size:13pt;
+  font-weight:lighter;
+  margin:0;
+  padding:0;
+}
+#pie{
+	background: #013968;
+	width: 100%;
+	height: 100px;
+	float: left;
+}
+#pie>div{
+	font-family: calibri;
+	font-size: 12pt;
+	color: white;
+	text-align: center;
+	font-weight: lighter;
+	margin-top: 2px;
 }
