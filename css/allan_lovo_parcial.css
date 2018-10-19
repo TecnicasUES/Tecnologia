@@ -27,19 +27,9 @@ header{
 	padding: 0;
 }
 
-#menu>div>.button1{
-	background: mediumslateblue;
-	width: 35%;
-	height: 25px;
-	color: white;
-	float: right;
-	border: 1px solid lightblue;
-	border-radius: 5px;
-	margin-top: 7px;
-}
 
 button:hover{
-	background: gray !important;
+	background-color: gray !important;
 }
 
 #menu>div:first-child{
@@ -52,42 +42,52 @@ button:hover{
 
 #menu>div:ntc-child(2){
 	background: indigo;
-	width: 70%;
+	width: 68.9%;
 	height: 40px;
 	float: left;
 }
 
 #menu>div:last-child{
 	background: indigo;
-	width: 15%;
+	width: 23%;
 	height: 40px;
 	float: left;
 }
 
 #menu>div>ul>li{
-	width: 8.75%;
+	width: 9%;
 	height: 30px;
 	float: left;
-	text-align: center;
 	display: block;
-	border-right: 1px solid white;
 	padding-top: 9px;
+	text-align: center;
+	border-right: 1px solid white;
 }
 
 #menu>div>ul>li>a{
+	text-align: center;
 	text-decoration: none;
 	color: white;
-	text-align: center;
 }
 
 .icon{
 	background: url('../img/icono_purple.png')no-repeat;
-	width: 33px;
-	height: 22px;
+	width: 35px;
+	height: 24px;
 	float: left;
-	margin: 9px;
+	margin: 10px;
 }
 
+#menu>div>.button1{
+	background: mediumslateblue;
+	width: 35%;
+	height: 25px;
+	color: white;
+	float: right;
+	border-radius: 5px;
+	margin-top: 7px;
+	border: 1px solid lightblue;
+}
 
 ul{
 	margin: 0;
@@ -95,4 +95,263 @@ ul{
 
 li{
 	margin: 0;
+}
+
+li:hover{
+	background-color: gray !important;
+}
+
+/*FIN DEL HEADER*/
+
+section{
+	background: white;
+	width: 100%;
+	height: 1730px;
+	float: right;
+}
+
+#cont_body{
+	width: 100%;
+	float: right;
+	background: white
+}
+
+.imagen{
+	background: url('../img/crecimiento2.png')no-repeat;
+	width: 100%;
+	height: 500px;
+	float: right;
+}
+
+.s1{
+	width: 60%;
+	height: 498px;
+	float: right;
+}
+
+/*TEXTO "WE ARE GENIUS"*/
+
+.s1>div:first-child>h1{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 28pt;
+	width: 100%;
+	height: 60px;
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-top: 60px;
+	margin-left: 8%;
+	color: darkblue;
+}
+
+.s1>div:nth-child(2)>p{
+	font-family: arial;
+	font-weight: lighter;
+	text-align: left;
+	color: lightslategray;
+	line-height: 30pt;
+	font-size: 17pt;
+	width: 70%;
+	margin-left: 8%;
+}
+
+.s1>div>div{
+	width: 100;
+	height: 30px;
+	background: green;
+	float: right;
+}
+
+.s1>div>button{
+	border: 1px solid purple;
+	border-radius: 5px;
+	width: 11%;
+	height: 40px;
+	background: white;
+	color: purple;
+	text-decoration: none;
+	margin-top: 20px;
+	margin-left: 8%;
+}
+
+.s2{
+	background: url('../img/persona3nueva.png')no-repeat;
+	width: 40%;
+	height: 498px;
+	float: right;
+}
+
+button:hover{
+	background-color: gray !important;
+}
+
+/*FIN ARTICULO 1 */
+
+#arti2{
+	background: honeydew;
+	width: 95%;
+	height: 376px;
+	float: left;
+	margin-top: 20px;
+
+}
+
+#arti2>div>div{
+	background: honeydew;
+	width: 32%;
+	height: 360px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 1%;
+}
+
+#arti2>div>div>div:first-child{
+	width: 40%;
+	height: 110px;
+	float: left;
+	margin: 0;
+	padding-top: 0;
+	margin-top: 15px;
+	margin-left: 5%;
+}
+
+#arti2>div{
+	width: 99%;
+	height: 366px;
+	margin-left: 1%;
+}
+
+.img1{
+	background: url('../img/icono5.png')no-repeat;
+	width: 100px;
+	height: 100px;
+}
+
+.img2{
+	background: url('../img/icono6.png')no-repeat;
+	width: 100px;
+	height: 100px;
+}
+
+.img3{
+	background: url('../img/icono7.png')no-repeat;
+	width: 100px;
+	height: 100px;
+}
+
+.img4{
+	background: url('../img/icono8.png')no-repeat;
+	width: 100px;
+	height: 100px;
+}
+
+#arti2>div>div>div:nth-child(2){
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+
+#arti2>div>div>div:nth-child(2)>h1{
+	font-size: 18pt;
+	font-weight: bold;
+	padding: 0;
+	padding-top: 20px;
+	margin: 0;
+}
+
+#arti2>div>div>div:last-child{
+	width: 90%;
+	height: 244px;
+	float: left;
+	margin-left: 5%;
+}
+
+#arti2>div>div>div:last-child>p{
+	margin: 0;
+	padding: 0;
+	font-size: 12pt;
+	font-weight: lighter;
+	line-height: 14pt;
+}
+
+/*FIN DEL ARTICULO 2*/
+
+#arti3{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: white;
+}
+
+#arti3>div{
+	width: 99%;
+	height: 360px;
+	margin-left: 1%;
+}
+
+#arti3>div>div{
+	width: 47%;
+	height: 360px;
+	margin-right: 1%;
+	margin-top: 20px;
+	float: left;
+	background: honeydew;
+}
+
+#arti3>div>div>div:first-child{
+	width: 47%;
+	height: 110px;
+	margin: 0;
+	padding-top: 0;
+	float: left;
+	margin-left: 5%;
+	margin-top: 15px;
+}
+
+#arti3>div>div>div:nth-child(2){
+	width: 55%;
+	height: 100px;
+	float: left;
+	margin-left: -10%;
+}
+
+#arti3>div>div>div:nth-child(2)>h1{
+	font-size: 18pt;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	padding-top: 20px;
+}
+
+#arti3>div>div>div:last-child{
+	width: 95%;
+	height: 240px;
+	float: left;
+	margin-left: 2%;
+}
+
+#arti3>div>div>div:last-child>p{
+	font-size: 12pt;
+	font-weight: lighter;
+	line-height: 16pt;
+	margin: 0;
+	padding: 0;
+}
+
+/*FIN DEL WORLD :V*/
+
+footer{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: midnightblue;
+}
+
+footer>div{
+	font-family: arial;
+	font-size: 10pt;
+	text-align: center;
+	color: white;
+	padding-top: 5px;
 }
