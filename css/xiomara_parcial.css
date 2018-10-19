@@ -53,6 +53,9 @@ header>.father>.contenido>.menu>ul>li>a{
 	text-align: center;
 	font-size: 13pt;
 }
+li:hover{
+	background-color: purple !important;
+}
 .contenido{
   width: 80%;
   height: 60px;
@@ -176,7 +179,241 @@ button:hover{
 	color: #053b81;
 	margin-left: 25pt;
 }
-
 section>article>button>h4{
 	font-weight: lighter;
+}
+.caja1{
+	width: 30%;
+	height: 300px;
+	float: left;
+	background: #f0f0f0;
+	margin-left: 35px;
+}
+.icon{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+.t1{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 160px;
+}
+.t2{
+	color: black;
+  font-family: calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 20px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+.caja2{
+	width: 30%;
+	height: 300px;
+	float: left;
+	background: #f0f0f0;
+	margin-left: 40px;
+}
+.icon2{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+.te1{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 160px;
+}
+.te2{
+	color: black;
+  font-family: calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 20px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+.caja3{
+	width: 30%;
+	height: 300px;
+	float: left;
+	background: #f0f0f0;
+	margin-left: 40px;
+}
+.icon3{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+.tex1{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 160px;
+}
+.tex2{
+	color: black;
+  font-family: calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 20px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+.c1{
+	width: 46%;
+	height: 360px;
+	float: left;
+	background: #f0f0f0;
+	margin-left: 36px;
+	margin-top: 60px;
+}
+.icono{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+.textito{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: lighter;
+	padding: 0;
+  margin-left: 250px;
+}
+.textito2{
+	color: black;
+  font-family: calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+.c2{
+	width: 48%;
+	height: 360px;
+	float: left;
+	background: #f0f0f0;
+	margin-left: 6px;
+	margin-top: 60px;
+}
+.icono2{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+.textito3{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 250px;
+}
+.textito4{
+	color: black;
+  font-family: calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+.cajita{
+	width: 46%;
+	height: 360px;
+	float: left;
+	background: #f0f0f0;
+	margin-left: 36px;
+	margin-top: 20px;
+}
+.iconito{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+.textito5{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 250px;
+}
+.textito6{
+	color: black;
+  font-family: calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+.cajita2{
+	width: 48%;
+	height: 360px;
+	float: left;
+	background: #f0f0f0;
+	margin-left: 6px;
+	margin-top: 20px;
+}
+.a{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+.b{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 250px;
+}
+.c{
+	color: black;
+  font-family: calibri;
+  font-size: 10pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+footer{
+	width: 100%;
+	height: 140px;
+	background: #013968;
+	float: left;
+}
+
+footer>div{
+	font-family: calibri;
+	font-size: 10pt;
+	text-align: center;
+	color: white;
+	padding-top: 5px;
 }
