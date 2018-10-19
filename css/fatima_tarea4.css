@@ -1,10 +1,4 @@
 @charset "utf-8";   
-.body{
-  background:white;
-  font-family:arial;
-  margin:1;
-  padding:0; 
-}
 .menuinicial{ 
 background: #ff5733; 
 font-family: arial; 
@@ -50,6 +44,20 @@ margin-right: 20%;
 
 }
 	
+.text_1>h5{ 
+ 
+ font-family: arial; 
+ font-size: 5pt; 
+ font-weight: normal; 
+ margin-right: 23%; 
+ width: 92% 
+ color:white; 
+ text-align: center; 
+ letter-spacing: 2pt; 
+
+
+
+
 
 
  
