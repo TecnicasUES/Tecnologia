@@ -21,7 +21,7 @@ body{
 	float: left;
 }
 .imagen{
-	width: 6%;
+	width: 8%;
 	height: 60px;
 	background: #b6640e;
 	float: left;
@@ -30,14 +30,152 @@ body{
 	border-right-style: solid;
 }
 .img_center{
-	width: 82%;
+	width: 50%;
   display: block;
-	margin-top: 4px;
-	margin-left: 6px;
+	margin-top: 5px;
+	margin-left: 10px;
 }
 .home{
-	width: 10%;
+	width: 11%;
 	height: 60px;
 	background: #b6640e;
 	float:left;
+	border-color: white;
+	border-width: 1px;
+	border-right-style: solid;
+}
+.home>h3{
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+  padding: 0;
+	margin: 0;
+	margin-top: 18px;
+	margin-left: 48pt;
+}
+.ourservices{
+	width: 11%;
+	height: 60px;
+	background: #b6640e;
+	float:left;
+	border-color: white;
+	border-width: 1px;
+	border-right-style: solid;
+}
+.ourservices>h3{
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+  padding: 0;
+	margin: 0;
+	margin-top: 18px;
+	margin-left: 32pt;
+}
+.ourhistory{
+	width: 11%;
+	height: 60px;
+	background: #b6640e;
+	float:left;
+	border-color: white;
+	border-width: 1px;
+	border-right-style: solid;
+}
+.ourhistory>h3{
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+  padding: 0;
+	margin: 0;
+	margin-top: 18px;
+	margin-left: 33pt;
+}
+.examples{
+	width: 11%;
+	height: 60px;
+	background: #b6640e;
+	float:left;
+	border-color: white;
+	border-width: 1px;
+	border-right-style: solid;
+}
+.examples>h3{
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+  padding: 0;
+	margin: 0;
+	margin-top: 18px;
+	margin-left: 38pt;
+}
+.documentation{
+	width: 11%;
+	height: 60px;
+	background: #b6640e;
+	float:left;
+	border-color: white;
+	border-width: 1px;
+	border-right-style: solid;
+}
+.documentation>h3{
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+  padding: 0;
+	margin: 0;
+	margin-top: 18px;
+	margin-left: 24pt;
+}
+.letsplay{
+	width: 11%;
+	height: 60px;
+	background: #b6640e;
+	float:left;
+	border-color: white;
+	border-width: 1px;
+	border-right-style: solid;
+}
+.letsplay>h3{
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+  padding: 0;
+	margin: 0;
+	margin-top: 18px;
+	margin-left: 40pt;
+}
+.photos{
+	width: 11%;
+	height: 60px;
+	background: #b6640e;
+	float:left;
+	border-color: white;
+	border-width: 1px;
+	border-right-style: solid;
+}
+.photos>h3{
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+  padding: 0;
+	margin: 0;
+	margin-top: 18px;
+	margin-left: 46pt;
+}
+.contactus{
+	width: 11%;
+	height: 60px;
+	background: #b6640e;
+	float:left;
+	border-color: white;
+	border-width: 1px;
+	border-right-style: solid;
+}
+.contactus>h3{
+	color: white;
+	font-weight: normal;
+	font-size: 12pt;
+  padding: 0;
+	margin: 0;
+	margin-top: 18px;
+	margin-left: 34pt;
 }
