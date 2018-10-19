@@ -1,8 +1,8 @@
 @charset "utf-8";
 
 *{
-  margin:0;
-  padding:0;
+	margin:0;
+	padding:0;
 }
 body {
 	margin: 0;
@@ -25,7 +25,7 @@ header > #menu >div{
 	width: 6%;
 	float: left;
 	height: auto;
- 
+	
 }
 header > #menu > ul{
 	width:85%;
@@ -37,12 +37,12 @@ header > #menu > ul > li{
 	display: block;
 	float: left;
 	width: 8%;
-  border-width: 1px;
-  border-style: solid;
-  border-color: #ffffff;
-  text-align: center;
-  height: 30px;
-  
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ffffff;
+	text-align: center;
+	height: 30px;
+	
 }
 header > #menu > ul > li > a {
 	color: rgb(255, 255, 255);
@@ -53,10 +53,10 @@ header > #menu > ul > li > a {
 
 }
 .banner{
-  width:100%;
-  float:left;
-  min-height: 300px; 
-  background: url("../img/crecimiento2.png");
+	width:100%;
+	float:left;
+	min-height: 300px; 
+	background: url("../img/crecimiento2.png");
 }
 .banner > div:first-child{
 	width: 50%;
@@ -64,192 +64,192 @@ header > #menu > ul > li > a {
 	height: auto;
 	margin-top:50px;
 	margin-left:5%;
-  margin-right: 40px;
+	margin-right: 40px;
 }
 .banner > div:first-child > div:first-child > h1{
-  font-weight: bold;
-  font-family: "calibri";
-  font-size: 36pt;
-  line-height: 1.4em;
-  color: #043a80;
+	font-weight: bold;
+	font-family: "calibri";
+	font-size: 36pt;
+	line-height: 1.4em;
+	color: #043a80;
 }
 .banner > div:first-child > div:first-child > p{
-  font-size:12pt;
-  text-align: left;
-  line-height: 1.5em;
-  text-align: left;
-  margin-bottom: 2%;
-  width: 70%;
+	font-size:12pt;
+	text-align: left;
+	line-height: 1.5em;
+	text-align: left;
+	margin-bottom: 2%;
+	width: 70%;
 }
 .banner > div:first-child > div:last-child > input{
-  width:21%;
-  margin-left:3%;
-  height:auto;
-  float:right;
-  padding: 10px;
-  border-radius: 5px;
-  border: 1px solid rgb(5, 51 ,129);
-  background: rgb(255, 255, 255);
-  font-size: 11pt;
-  margin-top: 3%;
-  color: #053381;
-  margin-right: 1%
+	width:21%;
+	margin-left:3%;
+	height:auto;
+	float:right;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid rgb(5, 51 ,129);
+	background: rgb(255, 255, 255);
+	font-size: 11pt;
+	margin-top: 3%;
+	color: #053381;
+	margin-right: 1%
 }
 .banner1{
-  width:100%;
-  margin-left:1%;
-  height: auto;
-  float:left;
+	width:100%;
+	margin-left:1%;
+	height: auto;
+	float:left;
 }
 .banner2{
-  width:70%;
-  float:left;
-  height:auto;
+	width:70%;
+	float:left;
+	height:auto;
 }
 
 .bannerimg{
-  background: url("../img/persona3nueva.png");
-  width:567px;
-  height:490px;
-  float: left;
+	background: url("../img/persona3nueva.png");
+	width:567px;
+	height:490px;
+	float: left;
 }
 
 article{
-  width: 32%;
-  margin-right:1%;
-  margin-top:30px;
-  height: auto;
-  float: left;  
-  background: rgb(240, 240, 240);
+	width: 32%;
+	margin-right:1%;
+	margin-top:30px;
+	height: auto;
+	float: left;  
+	background: rgb(240, 240, 240);
 }
 article > div > div:first-child{
-  width:90%;
-  margin-right:5%; 
+	width:90%;
+	margin-right:5%; 
 }
 .img1{
-  background: url("../img/icono5.png");
-  width:100px;
-  height:100px;
-  float:left;
+	background: url("../img/icono5.png");
+	width:100px;
+	height:100px;
+	float:left;
 }
 .img2{
-  background: url("../img/icono6.png");
-  width:100px;
-  height:100px;
-  float:left;
+	background: url("../img/icono6.png");
+	width:100px;
+	height:100px;
+	float:left;
 }
 .img3{
-  background: url("../img/icono7.png");
-  width:100px;
-  height:100px;
-  float:left;
+	background: url("../img/icono7.png");
+	width:100px;
+	height:100px;
+	float:left;
 }
 .img4{
-  background: url("../img/icono4.png");
-  width:100px;
-  height:100px;
-  float:left;
+	background: url("../img/icono4.png");
+	width:100px;
+	height:100px;
+	float:left;
 }
 .img5{
-  background: url("../img/icono5.png");
-  width:100px;
-  height:100px;
-  float:left;
+	background: url("../img/icono5.png");
+	width:100px;
+	height:100px;
+	float:left;
 }
 .img6{
-  background: url("../img/icono6.png");
-  width:100px;
-  height:100px;
-  float:left;
+	background: url("../img/icono6.png");
+	width:100px;
+	height:100px;
+	float:left;
 }
 .img7{
-  background: url("../img/icono7.png");
-  width:100px;
-  height:100px;
-  float:left;
+	background: url("../img/icono7.png");
+	width:100px;
+	height:100px;
+	float:left;
 }
 .img8{
-  background: url("../img/icono8.png");
-  width:100px;
-  height:100px;
-  float:left;
+	background: url("../img/icono8.png");
+	width:100px;
+	height:100px;
+	float:left;
 }
 h3{
-  width:50%;
-  float: right;
+	width:50%;
+	float: right;
 }
 hr{
-  width:50%;
-  float: right;
-  color: rgb(240, 240, 240);
-  
+	width:50%;
+	float: right;
+	color: rgb(240, 240, 240);
+	
 }
 article > div > div:last-child > p{
-  width: 90%;
-  text-align: justify;
-  float: left;
-  height: auto;
-  margin-right:5%;
+	width: 90%;
+	text-align: justify;
+	float: left;
+	height: auto;
+	margin-right:5%;
 }
 
 .body2{
-  width: 100%;
-  margin-left:0%;
-  margin-top:30px;
-  height: auto;
-  float: left;  
-  background: rgb(240, 240, 240);
-  margin-left: 
+	width: 100%;
+	margin-left:0%;
+	margin-top:30px;
+	height: auto;
+	float: left;  
+	background: rgb(240, 240, 240);
+	margin-left: 
 }
 
 .body3{
-  width:100%;
-  margin-right:1%;
-  margin-top:30px;
-  height: auto;
-  float: left;  
-  background: rgb(240, 240, 240);
+	width:100%;
+	margin-right:1%;
+	margin-top:30px;
+	height: auto;
+	float: left;  
+	background: rgb(240, 240, 240);
 }
 
 
 
 
 footer{
-  margin-top: 20px;
-  background: #013968;
-  height: 90px;
-  width: 100%; 
-  float: left;
-  text-align: center;
-  color:white;
-  margin-top: 75px;
+	margin-top: 20px;
+	background: #013968;
+	height: 90px;
+	width: 100%; 
+	float: left;
+	text-align: center;
+	color:white;
+	margin-top: 75px;
 
 }
 .medida1{
-  width:50%;
-  margin-right:1%;
-  margin-top:30px;
-  height: auto;
-  float: left;  
-  background: rgb(240, 240, 240);
+	width:50%;
+	margin-right:1%;
+	margin-top:30px;
+	height: auto;
+	float: left;  
+	background: rgb(240, 240, 240);
 }
 
 .medida2{
-  width:46%;
-  margin-right:1%;
-  margin-top:30px;
-  height: auto;
-  float: left;  
-  background: rgb(240, 240, 240);
+	width:46%;
+	margin-right:1%;
+	margin-top:30px;
+	height: auto;
+	float: left;  
+	background: rgb(240, 240, 240);
 }
 
 .medida3{
-  width:50%;
-  margin-right:1%;
-  margin-top:30px;
-  height: auto;
-  float: left;  
-  background: rgb(240, 240, 240);
+	width:50%;
+	margin-right:1%;
+	margin-top:30px;
+	height: auto;
+	float: left;  
+	background: rgb(240, 240, 240);
 }
 
 .medida4{
@@ -264,15 +264,15 @@ footer{
 #menu> div > button{
 	text-decoration: none;
 	border: 1px solid #86d7f5;
-  background: #00a1f9;
-  border-radius: 5px;
-  height: 25px;
-  color: white;
-  width: 90px;
-  
+	background: #00a1f9;
+	border-radius: 5px;
+	height: 25px;
+	color: white;
+	width: 90px;
+	
 }
 
 button:hover{
-	background: #lime;
+	background: #ffffff;
 }
 
