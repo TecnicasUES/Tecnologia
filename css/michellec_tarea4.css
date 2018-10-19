@@ -147,5 +147,7 @@ button:hover{
 }
 .c>div>div>div:first-child{
   width: 25%;
-  height: 
+  height: 400px;
+  float: left;
+  margin-left: 10%;
 }
