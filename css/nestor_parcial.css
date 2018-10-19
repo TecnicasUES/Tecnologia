@@ -100,6 +100,13 @@ li:hover{
   height: 500px;
   float: left;
 }
+.banner{
+	width: 100%;
+	height: 500px;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
 .chera{
 	width: 50%;
 	height: 500px;
@@ -108,4 +115,96 @@ li:hover{
   background-repeat: no-repeat;
   background-position: center;
 
+}
+.textosbanner{
+	width: 50%;
+	height: 500px;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.text1{
+  width: 100%;
+  height: 100px;
+	font-family: helvetica;
+	font-size: 35pt;
+	font-weight: bolder;
+  color: #053b81;
+  padding-top: 50px
+
+}
+.text2{
+  width: 100%;
+  height: 250px;
+	font-family: Segoe UI;
+	font-size: 20pt;
+	font-weight: lighter;
+  color: black;
+  margin-top: -40px;
+}
+.boton>div:last-child>button{
+  width: 30%;
+  height: 30px;
+  color: white;
+  float: right;
+  background: #00a1f9;
+  border: #86d7f5 1px solid;
+  font-weight: normal;
+  font-size: 10pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10%;
+}
+.botones{
+	width: 100%;
+	height: 150px;
+	float: left;
+}
+.botones>botones>button{
+	width: 33.33%;
+  height: 30px;
+  color: white;
+  float: right;
+  background: #00a1f9;
+  border: #86d7f5 1px solid;
+  font-weight: normal;
+  font-size: 10pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10%;
+}
+.contenedor{
+  background: white;
+  width: 100%;
+  height: 350px;
+  float: left;
+}
+
+.contenedor>div>div{
+  background: white;
+  width: 33%;
+  height: 350px;
+  float: left;
+}
+
+.contenedor>div>div>div{
+  background: #f0f0f0;
+  width: 92%;
+  height: 320px;
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left:4%;
+  margin-right: 4% 
+}
+
+.contenedor>div>div>div>div{
+  background: #f0f0f0;
+  width: 92%;
+  height: 90px;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left:4%;
+  margin-right: 4% 
 }
