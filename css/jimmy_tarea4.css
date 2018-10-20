@@ -147,7 +147,7 @@ button:hover{
 }
 
 #art1>div:nth-child(2){
-  width: 30%;
+  width: 23%;
   height: 450px;
   float: left;
   margin-left: 2%;
@@ -156,7 +156,7 @@ button:hover{
 }
 
 #art1>div:nth-child(3){
-  width: 13%;
+  width: 23%;
   height: 450px;
   float: left;
   margin-left: 2%;
@@ -179,5 +179,20 @@ button:hover{
 	height: 100px;
 }
 
+#art1>div>div.img3{
+	background: url(../img/icono2.png);
+	width: 100px;
+	height: 100px;
+}
 
+#art1>div>div.img4{
+	background: url(../img/icono3.png);
+	width: 100px;
+	height: 100px;
+}
 
+#art1>div>div.img5{
+	background: url(../img/icono4.png);
+	width: 100px;
+	height: 100px;
+}
