@@ -1,87 +1,82 @@
 @charset "utf-8";   
-.menuinicial{ 
+body{ 
 background: white; 
-font-family: calibri; 
+font-family: arial; 
 padding: 0; 
 margin: 0; 
 
 }  
-
-.header{ 
-width: 100%;
-height:60px;  
-float: left; 
-
-}  
-
-.section{
- width: 100%;
- height: auto;
- float: left;   
-
+header{
+  width: 100%;
+  height: 60px;
+  float: left;
 }
 
-#menuinicial{
- width: 100%;
- height: 60px;
- float: left;
- background: #b6640e; 
+.section{
+  width: 100%;
+  height: auto;
+  float: left;
+}
 
+#piedepagina{
+  width: 100%;
+  height: 60px;
+  float: left;
+  background: #b6640e;
 }
 
 .fulanito{
- width: 5%;
- height: 60px;
- float: left;
- background: #b6640e; 
-
-} 
+  width: 5%;
+  height: 60px;
+  float: left;
+  background: #b6640e;
+}
 
 .img1{
- background: url('../img/icono_logo.png');
- background-position: center;
- width: 50px;
- height: 60px; 
- background-repeat: no-repeat; 
-
-}
-#menuincial>div >ul >li >a{
- text-decoration: none;
- font-weight: lighter;
- font-size: 14pt;
- color: white;
- text-align: center; 
-
-} 
-
-#menuincial>div>ul>li{
- float:left;
- width: 11%;
- border-right: 1px solid #d17d25;
- height: 40px;
- list-style: none;margin:0;
- display: block;
- padding: 0;
- text-align: center;
- padding-top: 11px;
-
+  background: url('../img/icono_logo.png');
+  background-repeat: no-repeat;
+  width: 51px;
+  height: 55px;
+  background-position: center;
 }
 
-ul{
+#piedepagina >div >ul >li >a{
+  text-decoration: none;
+  font-weight: lighter;
+  font-size: 14pt;
+  color: white;
+  text-align: center;
+}
+
+#piedepagina>div>ul>li{
+  list-style: none;
+  display: block;
+  float:left;
+  width: 11%;
+  border-right: 1px solid #d17d25;
+  height: 40px;
+  margin:0;
+  padding: 0;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.ul{
   margin:0;
   padding: 0;
 }
 
-a:hover{
-  color: blue;
-}
-li:hover{
-  background: green;
+.a:hover{
+  color: blue !important;
 }
 
-.sutanito{
+.li:hover{
+  background: green !important;
+}
+
+.menganito{
   width: 5%;
-  height: 60px;
+  height: 50px;
   float: left;
   background: #b6640e;
   border-left: #d17d25 1px solid;
@@ -91,13 +86,13 @@ li:hover{
   background: url('../img/crecimiento2.png');
   background-repeat: no-repeat;
   width: 100%;
-  height: 395px;
+  height: 400px;
   background-size: 100%;
 }
 
-.menganito{
+.sutanito{
   width: 45%;
-  height: 395px;
+  height: 400px;
   float: left;
 }
 
@@ -105,16 +100,16 @@ li:hover{
   background: url('../img/persona.png');
   background-repeat: no-repeat;
   width: 100%;
-  height: 395px;
+  height: 400px;
   background-size: 100%;
 }
 
 .chela{
   width: 55%;
-  height: 395px;
+  height: 400px;
   float: left;
   margin:0;
-} 
+}
 
 .chela>div:first-child>h1{
   width: 100%;
@@ -122,8 +117,8 @@ li:hover{
   float: left;
   margin: 0;
   padding:0;
-  padding-top: 25px;
-  margin-bottom: 25px;
+  padding-top: 30px;
+  margin-bottom: 30px;
   color: #b6640e;
   font-size: 30pt;
   font-weight: bold;
@@ -136,8 +131,8 @@ li:hover{
   letter-spacing: 2pt;
   text-align: left;
   color: black;
-  line-height: 13pt;
-  font-size: 15pt;
+  line-height: 12pt;
+  font-size: 14pt;
   font-weight: lighter;
   width: 90%;
   margin-top: 50px;
@@ -146,11 +141,11 @@ li:hover{
 }
 
 .chela>div:last-child>button{
-  background: white;
-  width: 25%;
-  height: 60px;
+  width: 30%;
+  height: 50px;
   color: #b6640e;
   float: left;
+  background: white;
   border: #b6640e 1px solid;
   font-weight: normal;
   font-size: 10pt;
@@ -162,21 +157,21 @@ li:hover{
 .contenedor{
   background: white;
   width: 100%;
-  height: 675px;
+  height: 680px;
   float: left;
 }
 
 .contenedor>div>div{
   background: white;
-  width: 20%;
-  height: 675px;
+  width: 25%;
+  height: 680px;
   float: left;
 }
 
 .contenedor>div>div>div{
   background: #f0f0f0;
   width: 92%;
-  height: 295px;
+  height: 300px;
   float: left;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -186,14 +181,14 @@ li:hover{
 
 .contenedor>div>div>div>div{
   background: #f0f0f0;
-  width: 90%;
+  width: 92%;
   height: 90px;
   float: left;
-  margin-top: 4px;
-  margin-bottom: 3px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   margin-left:4%;
   margin-right: 4% 
-} 
+}
 
 .imagen{
   background: #f0f0f0;
@@ -248,7 +243,7 @@ li:hover{
   margin-top: 10px;
   margin-bottom: 10px;
   padding-right: 2%;
-  padding-left-texto; 
+  padding-left: 2%;
 }
 
 .img5{
