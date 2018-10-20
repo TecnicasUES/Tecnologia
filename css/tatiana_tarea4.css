@@ -1,6 +1,6 @@
 @charset "utf-8";
 body{
-	background: gray;
+	background: white;
 	font-family: calibri;
 	margin:0;
 	padding: 0;
@@ -61,7 +61,7 @@ li:hover{
 	background:white;
 }
 .fondo{
-	background: url(../img/crecimiento2.png);
+	background: url(../img/crecimiento2.png)no-repeat;
 	width: 100%;
 	height: 498px;
 	float: left;
