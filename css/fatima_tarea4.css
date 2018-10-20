@@ -1,63 +1,196 @@
 @charset "utf-8";   
 .menuinicial{ 
-background: #ff5733; 
-font-family: arial; 
+background: white; 
+font-family: calibri; 
 padding: 0; 
 margin: 0; 
-width: 100%; 
-height: 65px; 
+
+}  
+
+.header{ 
+width: 100%;
+height:60px;  
+float: left; 
+
+}  
+
+.section{
+ width: 100%;
+ height: auto;
+ float: left;   
+
+}
+
+#menuinicial{
+ width: 100%;
+ height: 60px;
+ float: left;
+ background: #b6640e; 
+
+}
+
+.fulanito{
+ width: 5%;
+ height: 60px;
+ float: left;
+ background: #b6640e; 
+
 } 
-.text_1{  
-	width: 5%; 
-	height: 50px; 
-	float: left; 
-	background: #b6640e; 
-	border-left: #d17d25 1px solid; 
-}
 
-.cuadro1{  
-	background: #b6640e;
-	width: 6%; 
-	float:left; 
-	height: 65px;
-}
-	
-.imag1{ 
-	background: url('../img/icono_logo.png');
-	background-repeat: no-repeat; 
-	width: 52px; 
-	height: 51px; 
-	background-position: center;  
+.img1{
+ background: url('../img/icono_logo.png');
+ background-position: center;
+ width: 50px;
+ height: 60px; 
+ background-repeat: no-repeat; 
 
 }
- 
-.text_1{ 
-font-family: arial; 
-letter-spacing: 2pt; 
-text-align: right; 
-color: white; 
-line-height: 5.5pt; 
-font-size: 6pt 
-font-weight: normal; 
-width: 90%; 
-margin-right: 20%; 
-
-}
-	
-.text_1>h5{ 
- 
- font-family: arial; 
- font-size: 5pt; 
- font-weight: normal; 
- margin-right: 23%; 
- width: 92% 
- color:white; 
+#menuincial>div >ul >li >a{
+ text-decoration: none;
+ font-weight: lighter;
+ font-size: 14pt;
+ color: white;
  text-align: center; 
- letter-spacing: 2pt; 
 
+} 
 
+#menuincial>div>ul>li{
+ float:left;
+ width: 11%;
+ border-right: 1px solid #d17d25;
+ height: 40px;
+ list-style: none;margin:0;
+ display: block;
+ padding: 0;
+ text-align: center;
+ padding-top: 11px;
 
+}
 
+ul{
+  margin:0;
+  padding: 0;
+}
 
+a:hover{
+  color: blue;
+}
+li:hover{
+  background: green;
+}
 
- 
+.sutanito{
+  width: 5%;
+  height: 60px;
+  float: left;
+  background: #b6640e;
+  border-left: #d17d25 1px solid;
+}
+
+.banner{
+  background: url('../img/crecimiento2.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 395px;
+  background-size: 100%;
+}
+
+.menganito{
+  width: 45%;
+  height: 395px;
+  float: left;
+}
+
+.img2{
+  background: url('../img/persona.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 395px;
+  background-size: 100%;
+}
+
+.chela{
+  width: 55%;
+  height: 395px;
+  float: left;
+  margin:0;
+} 
+
+.chela>div:first-child>h1{
+  width: 100%;
+  height: 60px;
+  float: left;
+  margin: 0;
+  padding:0;
+  padding-top: 25px;
+  margin-bottom: 25px;
+  color: #b6640e;
+  font-size: 30pt;
+  font-weight: bold;
+  font-family: calibri;
+  letter-spacing: 2pt;
+}
+
+.chela>div:nth-child(2)>p{
+   font-family: calibri;
+  letter-spacing: 2pt;
+  text-align: left;
+  color: black;
+  line-height: 13pt;
+  font-size: 15pt;
+  font-weight: lighter;
+  width: 90%;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  margin-right: 2%;
+}
+
+.chela>div:last-child>button{
+  background: white;
+  width: 25%;
+  height: 60px;
+  color: #b6640e;
+  float: left;
+  border: #b6640e 1px solid;
+  font-weight: normal;
+  font-size: 10pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 2%;
+}
+
+.contenedor{
+  background: white;
+  width: 100%;
+  height: 675px;
+  float: left;
+}
+
+.contenedor>div>div{
+  background: white;
+  width: 20%;
+  height: 675px;
+  float: left;
+}
+
+.contenedor>div>div>div{
+  background: #f0f0f0;
+  width: 92%;
+  height: 295px;
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left:4%;
+  margin-right: 4% 
+}
+
+.contenedor>div>div>div>div{
+  background: #f0f0f0;
+  width: 90%;
+  height: 90px;
+  float: left;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left:4%;
+  margin-right: 4% 
+}
