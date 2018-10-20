@@ -65,18 +65,19 @@ header{
 }
 .ritratto{
 	width:1404%;
-	height:674px;
+	height: 498px;
 	float:left;
 }
 #imagine2{
 	background: url('../img/crecimiento2.png');
 	width: auto;
-	height:674px;
+	height:498px;
+	padding-top: 40px;
 	display: block;
 }
 .contenitore1{
 	width:40%;
-	height:674px;
+	height:498px;
 	float:left;
 }
 .imagine3{
@@ -87,7 +88,7 @@ header{
 }
 .contenitore2{
 	width:50%;
-	height:674px;
+	height:498px;
 	float:left;
 }
 .contenitore2>h1{
@@ -105,6 +106,7 @@ header{
   color: black;
   font-family: helvetica;
   font-weight: lighter;
+	line-height: 35px;
   font-size: 12pt;
   margin: 0;
   padding: 0;
@@ -118,7 +120,7 @@ header{
   border-radius: 4px;
   text-align: center;
   font-family: calibri;
-	color: #9f6b34;
+  color: #9f6b34;
   font-weight: lighter;
   font-size: 12pt;
   margin-left: 10%;
@@ -128,4 +130,250 @@ header{
 	background: #997e62;
 	cursor: pointer;
 	color: white;
+}
+.contenedore3{
+	width: 100%;
+	height: 450px;
+	background: white;
+	float: left;
+}
+.caja{
+    width: 20%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 4%;
+    height: 425px;
+    float: left;
+    background: #ECECED;
+}
+.caja>div:first-child{
+    margin-left:4%;
+    margin-right: 4%;
+    width: 92%;
+    height: 425px;
+    float:left;
+}
+.caja>div:nth-child(2){
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
+    height: 425px;
+    float:left;
+}
+.caja>div:nth-child(3){
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
+    height: 425px;
+    float:left;
+}
+.caja>div:last-child{
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
+    height: 425px;
+    float:left;
+}
+.caja1{
+    width: 40%;
+    height: 130px;
+    float: left;
+}
+.caja2{
+    width: 60%;
+    height: 130px;
+    float: left;
+}
+.caja>.vacio1{
+    width: 40%;
+    height: 410px;
+    float: left;
+}
+.caja>.vacio2{
+    width: 60%;
+    height: 410px;
+    float: left;
+}
+.caja>div>.vacio1>.caja1>.img4{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono1.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+.caja>div>.vacio1>.caja1>.img5{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono2.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+.caja>div>.vacio1>.caja1>.img6{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono3.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+.caja>div>.vacio1>.caja1>.img7{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono4.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+.caja>div>.vacio1>.caja2>h2{
+	text-align: right;
+    font-family: calibri;
+    color: black;
+    font-size: 20pt;
+    margin:0;
+    margin-top: 25px;
+    font-weight: bold;
+}
+.caja>div>.vacio2>p{
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: normal;
+  text-align: justify;
+  color: #212121;
+  margin-left: 5%;
+  line-height: 16pt;
+  padding: 0;
+  margin:0;
+}
+.contenedore4{
+    width: 100%;
+    height: 425px;
+    background: white;
+    font-family: helvetica;
+    float: left;
+}
+.caja3{
+    width: 20%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 4%;
+    height: 425px;
+    float: left;
+    background: #ECECED;
+}
+.caja3>div:first-child{
+    margin-left:4%;
+    margin-right: 4%;
+    width: 92%;
+    height: 425px;
+    float:left;
+}
+.caja3>div:nth-child(2){
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
+    height: 425px;
+    float:left;
+}
+.caja3>div:nth-child(3){
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
+    height: 425px;
+    float:left;
+}
+.caja3>div:last-child{
+    margin-left: 4%;
+    margin-right: 4%;
+    width: 92%;
+    height: 425px;
+    float:left;
+}
+.caja1{
+    width: 40%;
+    height: 130px;
+    float: left;
+}
+.caja2{
+    width: 60%;
+    height: 130px;
+    float: left;
+}
+.caja3>.vacio1{
+    width: 40%;
+    height: 410px;
+    float: left;
+}
+.caja3>.vacio2{
+    width: 60%;
+    height: 410px;
+    float: left;
+}
+.caja3>div>.vacio1>.caja1>.img8{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono1.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+.caja3>div>.vacio1>.caja1>.img9{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono2.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+.caja3>div>.vacio1>.caja1>.img10{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono3.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+.caja3>div>.vacio1>.caja1>.img11{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono4.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+.caja3>div>.vacio1>.caja2>h2{
+    text-align: right;
+    font-family: calibri;
+    color: black;
+    font-size: 20pt;
+    margin:0;
+    margin-top: 25px;
+    font-weight: bold;
+}
+.caja3>div>.vacio2>p{
+  font-family: calibri;
+  font-size: 12pt;
+  font-weight: normal;
+  text-align: justify;
+  color: #212121;
+  margin-left: 5%;
+  line-height: 16pt;
+  padding: 0;
+  margin:0;
+}
+#pie{
+  width: 100%;
+  height: 90px;
+  float: left;
+  background: #232323;
+}
+#pie>p{
+  text-align: center;
+  font-weight: normal;
+  color:white;
+  font-family: calibri;
+  font-size: 12pt;
+  margin:0;
+  margin-top: 25px;
 }
