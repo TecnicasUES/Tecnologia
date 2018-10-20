@@ -2,7 +2,7 @@
 
 body{
 	background:white;
-	font-family: arial;
+	font-family: geneva;
 	margin: 0;
 	color:black;
 	padding: 0;
@@ -11,89 +11,614 @@ body{
 header{
 	background: #b6640e;
 	margin: 0;
-	height: 70px;
+	height: 50px;
 	width: 100%;
 	float: left;
 }
 
 #menu{
 	width: 100%;
-	height: 70px;
+	height: 50px;
 	float: left;
 	margin: 0;
 	padding: 0;
 }
+.pic1{
+    width: 30%;
+    height:50px;
+    background: url('../../img/icono_logo.png') no-repeat;
+    margin-left: 5%;
 
+}
 #menu>li{
-	width: 12%;
+	width: 11%;
 	height: 45px;
 	display: block;
 	float: left;
 	text-align: center;
-	padding-top:  25px;
-	border-right: 1px solid cyan;	
+	padding-top:  20px;
+	border-right: 1px solid white;	
+	font-size: 10pt;
 }
 
 
 #menu>li>a{
 	text-decoration: none;
-	color: #b6640e;
+	color: #ffffff;
 	text-align: center;
 }
 
 #menu>li:hover {
-	background: #41F0FF;
+	background: #ffff;
 }
 
 #menu>li>a:hover{
 	color: black;
 }
 
+
+
 #banner{
 	width: 100%;
-	height: 520px;
+	height: 550px;
 	float: left;
-	background: cyan;
+	background: white;
 }
 
-#banner> .cl1{
-	width: 40%;
-	height: 520px;
+.pic2{
+	height: 500px;
+	width: 100%;
+    background: url('../../img/crecimiento2.png') no-repeat;
+    float: left;
+}
+.hijo1{
+	height: 500px;
+	width: 50%;
+	float: left;
+}
+.hijo1>.pic3{
+	height: 500px;
+	width: 100%;
+    background: url('../../img/persona.png') no-repeat;
+    float: left;
+    margin-left: 15%;
+    display: block;
+}
+
+.hijo2{
+	height: 500px;
+	width: 50%;
 	float: left;
 }
 
-#banner> .cl2{
-	width: 60%;
-	height: 520px;
-	float: left;
-}
-#banner>.cl1>.img{
-	width: 501px;
-	height: 501px;
-	background: url('../img/img-flat.png');
-	margin: auto;
-	display: block;
+.hijo2>h1{
+    font-family: tahoma;
+    color: #b6640e;
+    font-size:25pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 60px;
 }
 
-
-
-
-#banner>.cl2>div>div>button{
-	background: cyan;
-	height: 50px;
-	width: 15%;
-	border-radius: 2px;
-	border: 1px solid purple;
-	text-align: center;
-	font-family: calibri;
-	font-size: 12pt;
+.hijo2>p{
+    font-family: gill sans;
+    width: 80%;
+    color: gray;
+    font-size:15pt;
+	text-align: left;
 	font-weight: lighter;
-	margin-left: 10%;
-	margin-top: 10px;
+	line-height: 30pt;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 0px;
+    margin-right: 37%;
+}
+.hijo2>div>button{
+    background: #ffff;
+    height: 40px;
+    width: 20%;
+    border-radius: 6px;
+    border: 1px solid #b6640e;
+    text-align: center;
+    color:#b6640e;
+    font-family: tahoma;
+    font-size: 8pt;
+    font-weight: lighter;
+    margin-left: 0%;
+    margin-top: 0px;
+}
+.hijo2>div>button:hover{
+	background: #b6640e;
+}
+.hijo2>div>button:hover{
+	color: #ffff;
 }
 
-#banner>.cl2>div>div>button:hover{
-	background: black;
-	cursor: pointer;
-	color: white;
+
+.hijo3{
+	height: 870px;
+	width: 100%;
+	float: left;
+	background: white;
 }
+.hijo3a{
+	height: 410px;
+	width: 100%;
+	background: #ffff;
+	float: left;
+}
+.hijo3a>.a1{
+	height: 410px;
+	width: 25%;
+	background: white;
+	float: left;
+}
+.hijo3a>.a1>.cuad1{
+	height: 385px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-top: 25px;
+	margin-right: 3%;
+	margin-left: 3%;
+	float: left;
+}
+
+.hijo3a>.a1>.cuad1>.cuad1a>.pic4{
+	height: 105px;
+	width: 40%;
+    background: url('../../img/icono1.png') no-repeat;
+    float: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    display: block;
+
+}
+.hijo3a>.a1>.cuad1>.cuad1b>h2{
+	width: 50%;
+    font-family: tahoma;
+    color: black;
+    font-size:17pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+.hijo3a>.a1>.cuad1>.cuad1b>h2:hover{
+	color: #b6640e;
+}
+
+.hijo3a>.a1>.cuad1>.cuad1c>p{
+	width: 90%;
+    font-family: gill sans;
+    color: black;
+    font-size:14pt;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin-left: 3%;
+    margin-top: 5px;
+    display: block;
+    line-height: 17pt;
+    float: left;
+}
+.hijo3a>.a2{
+	height: 410px;
+	width: 25%;
+	background: white;
+	float: left;
+}
+.hijo3a>.a2>.cuad2{
+	height: 385px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-top: 25px;
+	margin-right: 3%;
+	margin-left: 3%;
+	float: left;
+}
+.hijo3a>.a2>.cuad2>.cuad2a>.pic5{
+	height: 105px;
+	width: 40%;
+    background: url('../../img/icono2.png') no-repeat;
+    float: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    display: block;
+
+}
+.hijo3a>.a2>.cuad2>.cuad2b>h3{
+	width: 50%;
+    font-family: tahoma;
+    color: black;
+    font-size:17pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+.hijo3a>.a2>.cuad2>.cuad2b>h3:hover{
+	color: #b6640e;
+}
+
+
+.hijo3a>.a2>.cuad2>.cuad2c>p{
+	width: 90%;
+    font-family: gill sans;
+    color: black;
+    font-size:14pt;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin-left: 3%;
+    margin-top: 5px;
+    display: block;
+    line-height: 17pt;
+    float: left;
+}
+.hijo3a>.a3{
+	height: 410px;
+	width: 25%;
+	background: white;
+	float: left;
+}
+.hijo3a>.a3>.cuad3{
+	height: 385px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-top: 25px;
+	margin-right: 3%;
+	margin-left: 3%;
+	float: left;
+}
+
+.hijo3a>.a3>.cuad3>.cuad3a>.pic6{
+	height: 105px;
+	width: 40%;
+    background: url('../../img/icono3.png') no-repeat;
+    float: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    display: block;
+
+}
+.hijo3a>.a3>.cuad3>.cuad3b>h4{
+	width: 50%;
+    font-family: tahoma;
+    color: black;
+    font-size:17pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+.hijo3a>.a3>.cuad3>.cuad3b>h4:hover{
+	color: #b6640e;
+}
+
+
+.hijo3a>.a3>.cuad3>.cuad3c>p{
+	width: 90%;
+    font-family: gill sans;
+    color: black;
+    font-size:14pt;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin-left: 3%;
+    margin-top: 5px;
+    display: block;
+    line-height: 17pt;
+    float: left;
+}
+.hijo3a>.a4{
+	height: 410px;
+	width: 25%;
+	background: white;
+	float: left;
+}
+.hijo3a>.a4>.cuad4{
+	height: 385px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-top: 25px;
+	margin-right: 3%;
+	margin-left: 3%;
+	float: left;
+}
+
+.hijo3a>.a4>.cuad4>.cuad4a>.pic7{
+	height: 105px;
+	width: 40%;
+    background: url('../../img/icono4.png') no-repeat;
+    float: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    display: block;
+
+}
+.hijo3a>.a4>.cuad4>.cuad4b>h5{
+	width: 50%;
+    font-family: tahoma;
+    color: black;
+    font-size:17pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+.hijo3a>.a4>.cuad4>.cuad4b>h5:hover{
+	color: #b6640e;
+}
+
+
+.hijo3a>.a4>.cuad4>.cuad4c>p{
+	width: 90%;
+    font-family: gill sans;
+    color: black;
+    font-size:14pt;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin-left: 3%;
+    margin-top: 5px;
+    display: block;
+    line-height: 17pt;
+    float: left;
+}
+
+
+.hijo3b{
+	height: 410px;
+	width: 100%;
+	background: #ffff;
+	float: left;
+}
+.hijo3b>.a5{
+	height: 410px;
+	width: 25%;
+	background: white;
+	float: left;
+}
+.hijo3b>.a5>.cuad5{
+	height: 385px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-top: 25px;
+	margin-right: 3%;
+	margin-left: 3%;
+	float: left;
+}
+.hijo3b>.a5>.cuad5>.cuad5a>.pic8{
+	height: 105px;
+	width: 40%;
+    background: url('../../img/icono1.png') no-repeat;
+    float: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    display: block;
+}
+.hijo3b>.a5>.cuad5>.cuad5b>h6{
+	width: 50%;
+    font-family: tahoma;
+    color: black;
+    font-size:17pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+.hijo3b>.a5>.cuad5>.cuad5c>p{
+	width: 90%;
+    font-family: gill sans;
+    color: black;
+    font-size:14pt;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin-left: 3%;
+    margin-top: 5px;
+    display: block;
+    line-height: 17pt;
+    float: left;
+}
+.hijo3b>.a5>.cuad5>.cuad5b>h6:hover{
+	color: #b6640e;
+}
+
+.hijo3b>.a6{
+	height: 410px;
+	width: 25%;
+	background: white;
+	float: left;
+}
+.hijo3b>.a6>.cuad6{
+	height: 385px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-top: 25px;
+	margin-right: 3%;
+	margin-left: 3%;
+	float: left;
+}
+.hijo3b>.a6>.cuad6>.cuad6a>.pic9{
+	height: 105px;
+	width: 40%;
+    background: url('../../img/icono2.png') no-repeat;
+    float: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    display: block;
+}
+.hijo3b>.a6>.cuad6>.cuad6b>h7{
+	width: 50%;
+    font-family: tahoma;
+    color: black;
+    font-size:17pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+.hijo3b>.a6>.cuad6>.cuad6c>p{
+	width: 90%;
+    font-family: gill sans;
+    color: black;
+    font-size:14pt;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin-left: 3%;
+    margin-top: 5px;
+    display: block;
+    line-height: 17pt;
+    float: left;
+}
+.hijo3b>.a6>.cuad6>.cuad6b>h7:hover{
+	color: #b6640e;
+}
+.hijo3b>.a7{
+	height: 410px;
+	width: 25%;
+	background: white;
+	float: left;
+}
+.hijo3b>.a7>.cuad7{
+	height: 385px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-top: 25px;
+	margin-right: 3%;
+	margin-left: 3%;
+	float: left;
+}
+.hijo3b>.a7>.cuad7>.cuad7a>.pic10{
+	height: 105px;
+	width: 40%;
+    background: url('../../img/icono3.png') no-repeat;
+    float: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    display: block;
+}
+.hijo3b>.a7>.cuad7>.cuad7b>h8{
+	width: 50%;
+    font-family: tahoma;
+    color: black;
+    font-size:17pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+.hijo3b>.a7>.cuad7>.cuad7c>p{
+	width: 90%;
+    font-family: gill sans;
+    color: black;
+    font-size:14pt;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin-left: 3%;
+    margin-top: 5px;
+    display: block;
+    line-height: 17pt;
+    float: left;
+}
+.hijo3b>.a7>.cuad7>.cuad7b>h8:hover{
+	color: #b6640e;
+}
+.hijo3b>.a8{
+	height: 410px;
+	width: 25%;
+	background: white;
+	float: left;
+}
+.hijo3b>.a8>.cuad8{
+	height: 385px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-top: 25px;
+	margin-right: 3%;
+	margin-left: 3%;
+	float: left;
+}
+.hijo3b>.a8>.cuad8>.cuad8a>.pic11{
+	height: 105px;
+	width: 40%;
+    background: url('../../img/icono4.png') no-repeat;
+    float: left;
+    margin-left: 3%;
+    margin-top: 20px;
+    display: block;
+}
+.hijo3b>.a8>.cuad8>.cuad8b>h9{
+	width: 50%;
+    font-family: tahoma;
+    color: black;
+    font-size:17pt;
+	text-align: left;
+	font-weight: bold;
+	padding:0;
+	margin-left: 0%;
+    margin-top: 30px;
+    display: block;
+    float: left;
+}
+.hijo3b>.a8>.cuad8>.cuad8c>p{
+	width: 90%;
+    font-family: gill sans;
+    color: black;
+    font-size:14pt;
+	text-align: left;
+	font-weight: lighter;
+	padding:0;
+	margin-left: 3%;
+    margin-top: 5px;
+    display: block;
+    line-height: 17pt;
+    float: left;
+}
+.hijo3b>.a8>.cuad8>.cuad8b>h9:hover{
+	color: #b6640e;
+}
+#foot{
+  width: 100%;
+  height: 100px;
+  float: left;
+  background: black;
+  padding: 0px;
+}
+
+#foot>p{
+  text-align: center;
+  font-weight: normal;
+  color:white;
+  font-family: tahoma;
+  font-weight: lighter;
+  font-size: 14pt;
+  margin-top: 30px;
+}
+
