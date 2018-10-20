@@ -86,8 +86,8 @@ header{
     width: 100%;
     height: 75px;
     font-family: arial;
-    font-size: 20pt;
-    font-weight: bold;
+    font-size: 24pt;
+    font-weight: bolder;
     margin: 0;
     padding: 0;
     letter-spacing: 2px;
@@ -95,4 +95,45 @@ header{
     color: #AB5B00;
     padding-top: 65px;
 }
+.hjo2>div>p{
+    font-family: calibri;
+    font-size: 16pt;
+    font-weight:lighter;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+    float: left;
+    color: black;
+    margin-right:30%;
+    line-height: 2;
+}
+.hjo2>div>botton{
+    text-decoration: none;
+	background-color: #ffffff;
+	border: 1px solid #b6640e;
+	color: #AB5B00;
+	font-size: 13pt;
+	border-radius: 6px;
+    width: 18%;
+    height: 40px;
+	margin-left:2%;
+	margin-top: 32px;
+	float: left;
+    text-align: center;
+    padding-top: 10px
+}
+.hjo2>div>botton:hover{
+    background: #D67610;
+    color: white;
+}
+#menu>li>a:hover{
+    background: #D67610;
+    color: #27EBB8;
+}
+
+
+
+
+
+
 
