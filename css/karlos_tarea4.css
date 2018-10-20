@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+body{
+	background: #f6f8f1;
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+.contenedor{
+	display: block;
+	margin: auto;
+	width: 100%;
+	height: auto;
+	background: white;
+	min-height: 0px;
+}
+
+header{
+	background:#b6640e;
+	height:40px;
+	width: 100%;
+  float: left;
+}
+
+.imgl{
+	background: url('../img/icono_logo.png');
+	width: 33px;
+	height: 22px;
+	margin: 0;
+	padding: 0;
+	margin-bottom;60px;
+    margin-left: 8%;
+	
+}
+
+#menu{
+    width: 110%;
+    height: 40px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+
+#menu>li{
+    width: 9.7%;
+    height:28px;
+    display: block;
+    float:left;
+    padding-top: 12px;
+    font-family: tahoma;
+    font-size: 8pt;
+    text-align: center;
+    border-right: 1px solid #f9ad35;
+}
+
+#menu>li>a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+#menu>li:hover{
+    background: #c083c1;
+}
+
+#menu>li>a:hover{
+   color: #000;
+}
