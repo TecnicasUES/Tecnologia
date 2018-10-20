@@ -183,6 +183,15 @@ button:hover{
 	margin-top: 15px;
 }
 
+#art1>div>div>h1{
+	font-size: 18pt;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	padding-top: 25px;
+}
+
+
 #art1>div>div.img2{
 	background: url(../img/icono1.png);
 	width: 100px;
