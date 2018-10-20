@@ -9,7 +9,7 @@ body{
 }
 header{
   width: 100%;
-  height:60px;
+  height:40px;
   background: #994006;
   margin: 0;
   padding: 0;
@@ -17,7 +17,7 @@ header{
 }
 #menu{
     width: 100%;
-	height: 60px;
+	height: 40px;
 	float: left;
 	margin: 0;
 	padding: 0;
@@ -41,11 +41,11 @@ header{
 
 #menu>li{
     width: 10.5%;
-	height:40px;
+	height:30px;
 	display: block;
 	float: left;
 	border-right: 1px solid bisque;
-	padding-top: 20px;
+	padding-top: 10px;
 	text-align: center;
 }
 #menu>li>a{
@@ -120,7 +120,7 @@ header{
 	margin-top: 32px;
 	float: left;
     text-align: center;
-    padding-top: 10px
+    padding-top: 15px
 }
 .hjo2>div>botton:hover{
     background: #D67610;
@@ -135,17 +135,17 @@ header{
 .parte3{
 	background: white;
 	width: 100%;
-	height: 860px;
+	height: 900px;
 	float: left;
 }
 .parte3>div{
 	width: 99%;
-	height: 860px;
+	height: 900px;
 	margin-left: 1%
 
 }
 .parte3>div>div{
-	background: #DCEBEB;
+	background: #D5DEDC;
 	width: 24%;
 	height: 525px;
 	margin-right: 1%;
@@ -154,7 +154,7 @@ header{
 }
 .parte3>div>div>div:first-child{
 	width: 30%;
-	height: 110px;
+	height: 100px;
 	float: left;
 	margin:0;
   	padding:0;
@@ -207,3 +207,53 @@ header{
   padding:0;
   line-height: 2;
 }
+
+footer{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: black;
+    margin-top: 250px
+}
+footer>div{
+    color: white;
+	text-align: center;
+	font-weight: normal;
+	font-size: 10pt;
+    margin-top: 10px
+}
+
+footer>div:hover{
+    color: #0BFFAF;
+}
+
+.uno1:hover{
+    background: #F5FFFC;
+}
+.dos2:hover{
+     background: #F5FFFC;
+}
+.tres3:hover{
+     background: #F5FFFC;
+}
+.cuatro4:hover{
+     background: #F5FFFC;
+}
+.cinco5:hover{
+     background: #F5FFFC;
+}
+.seis6:hover{
+     background: #F5FFFC;
+}
+.siete7:hover{
+     background: #F5FFFC;
+}
+.ocho8:hover{
+     background: #F5FFFC;
+}
+
+
+
+
+
+
