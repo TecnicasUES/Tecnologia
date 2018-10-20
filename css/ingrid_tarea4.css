@@ -207,6 +207,22 @@ header>div{
   float: left;
   background: #e2dcdc;
 }
+footer{
+  background: #040108;
+  height: 100px;
+  width: 100%;
+  float: left;
+}
+
+footer>p{
+  color:white;
+  text-align: center;
+   font-family: calibri;
+   font-weight: lighter;
+  font-size: 13pt;
+  margin: 0;
+  padding: 0;
+}
 
 
 
