@@ -10,45 +10,53 @@ body {
 	background-color: #fff;
 }
 
-contenedor{
-  width: 100%;
+.contenedor{
+    width: 100%;
 	min-height: 500px;
 	float: left;
-  margin: auto;
+    margin: auto;
   
 }
-header > #menu{
+
+.icono{
+	background-image: url("../img/icono_logo.png");
+	float: left;
+	width: 80%;
+	height: 22px;
+}
+
+header>#menu{
 	width: 100%;
 	background: rgb(182, 99, 13);
 	float: left;
-	min-height: 50px;	
-	position: fixed;
+	height: 40px;	
 }
-header > #menu > div{
+
+header>#menu>div{
 	width: 3%;
 	background: rgb(182,99,13);
 	float: left;
-	height: auto;
+	height: 22px;
 	margin: 1%;
 }
-header > #menu > ul{
-	width: 93%;
+
+header>#menu>ul{
+	width: 89%;
 	float: left;
 	height: auto;	
 }
 
-header > #menu > ul > li{
-	list-style: none;
+header>#menu>ul>li{
 	display: block;
 	float: left;
 	color: rgb(255, 255, 255);
 	width: 10%;
-	height: 60px;
+	height: 40px;
 	text-align: center;
 	border-left: 1px solid rgb(255, 255, 255)
 }
 
-#menu > ul > li{
+#menu>ul>li{
 	list-style: none;
 	display: block;
 	float: left;
@@ -57,27 +65,28 @@ header > #menu > ul > li{
 	height: 40px;
 	text-align: center;
 }
-#menu > ul > li:last-child{
+
+#menu>ul>li:last-child{
 	border-right: 1px solid rgb(255, 255, 255)
 }
 
 
-#menu > ul > li > a{
+#menu>ul>li>a{
 	text-decoration: none;
-	margin-top:20px;
 	display: block;
 	color: rgb(255, 255, 255);
 	font-size: 12px;
 	font-weight: lighter;
 }
 
-#menu > ul > li:hover{
+#menu>ul>li:hover{
 	background: rgb(27, 93, 132);
 	color: rgb(255, 255, 255);
 	font-size: 12px;
 	font-weight: lighter;
 }
-#menu > ul > li:active{
+
+#menu>ul>li:letras{
 	background: black;
 	color: rgb(255, 255, 255);
 	font-size: 12px;
