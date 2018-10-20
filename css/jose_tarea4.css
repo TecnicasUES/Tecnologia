@@ -15,6 +15,18 @@ ul{
   margin: 0;
   padding: 0;
 }
+#menu>div>ul>li{
+  list-style: none;
+  display: block;
+  float: left;
+  width: 11.5%;
+  border-right: 1px solid white;
+  height:30px;
+  margin:0;
+  padding:0;
+  text-align: center;
+  padding-top: 10px;
+}
 #menu>div>ul>li>a{
   text-decoration: none;
   font-weight: normal;
@@ -35,18 +47,6 @@ ul{
   height: 22px;
   margin: 10px;
 }
-#menu>div>ul>li{
-  list-style: none;
-  display: block;
-  float: left;
-  width: 11.5%;
-  border-right: 1px solid white;
-  height:30px;
-  margin:0;
-  padding:0;
-  text-align: center;
-  padding-top: 10px;
-}
 a:hover{
   color: #ffc62b !important;
 }
@@ -55,7 +55,23 @@ li:hover{
 }
 .Bloque1{
   background:white;
+  float:left;
   width: 100%;
-	height: 498px;
+	height: 500px;
+}
+.fondo{
+  background: url(../img/crecimiento2.png)no-repeat;
+  float: left;
+	width: 100%;
+	height: 500px;
+}
+.Ba{
+  width: 40%;
+	height:500px;
+	float:left;
+}
+.Bb{
+  width: 60%;
+  height:500px;
 	float:left;
 }
