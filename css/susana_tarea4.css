@@ -82,7 +82,7 @@ li:hover{
 }
 .child2>div:nth-child(2)>p{
   font-family: calibri;
-  letter-spacing: 2pt;
+  letter-spacing: 1pt;
   text-align: left;
   color: black;
   line-height: 24pt;
