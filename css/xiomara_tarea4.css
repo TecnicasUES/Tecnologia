@@ -55,6 +55,9 @@ body{
 	text-align: center;
 	font-size: 9pt;
 }
+li:hover{
+	background-color: slateblue !important;
+}
 
 .contenedor{
  width: 90%;
@@ -77,7 +80,7 @@ ul{
 
 .banner{
 	width: 1404px;
-	height: 674px;
+	height: 500px;
 	float: left;
 	background: url('../img/crecimiento2.png');
 }
@@ -114,11 +117,10 @@ ul{
   font-size: 23pt;
   font-weight: lighter;
   padding:0;
-	margin:0;
 }
 
 .juan{
-	width: 15%;
+	width: 17%;
 	height: 60px;
 	float: left;
 	margin-top: 20px;
@@ -139,7 +141,7 @@ ul{
 }
 
 .tu{
-	width: 15%;
+	width: 17%;
 	height: 60px;
 	float: left;
 	margin-top: 20px;
@@ -161,7 +163,7 @@ ul{
 }
 
 .tri{
-	width: 15%;
+	width: 17%;
 	height: 60px;
 	float: left;
 	margin-top: 20px;
@@ -180,4 +182,323 @@ ul{
   font-weight: lighter;
   padding:0;
 	margin:0;
+}
+
+button:hover{
+	background-color: slateblue;
+}
+
+#primero{
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+
+.cuadro1{
+	width: 24%;
+	float: left;
+	height: 450px;
+	background: #f0f0f0;
+	margin-left: 8px;
+	margin-top: 20pt;
+}
+
+.icon{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+
+.a{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 125px;
+}
+
+.b{
+	color: black;
+  font-family: calibri;
+  font-size: 13pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+
+.cuadro2{
+	width: 24%;
+	float: left;
+	height: 450px;
+	background: #f0f0f0;
+	margin-left: 20px;
+	margin-top: 20pt;
+}
+
+.icono{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+
+.c{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 125px;
+}
+
+.d{
+	color: black;
+  font-family: calibri;
+  font-size: 13pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+
+.cuadro3{
+	width: 24%;
+	float: left;
+	height: 450px;
+	background: #f0f0f0;
+	margin-left: 20px;
+	margin-top: 20pt;
+}
+
+.icono3{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+
+.e{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 125px;
+}
+
+.f{
+	color: black;
+  font-family: calibri;
+  font-size: 13pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+
+.cuadro4{
+	width: 23%;
+	float: left;
+	height: 450px;
+	background: #f0f0f0;
+	margin-left:20px;
+	margin-top: 20pt;
+}
+
+.icono4{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+
+.g{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 125px;
+}
+
+.h{
+	color: black;
+  font-family: calibri;
+  font-size: 13pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+}
+
+#segundo{
+	width: 100%;
+	height: 200px;
+	float: left;
+	margin-top:280px;
+}
+
+.cuadro5{
+	width: 24%;
+	float: left;
+	height: 450px;
+	background: #f0f0f0;
+	margin-left: 8px;
+	margin-top: 20pt;
+}
+
+.i{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+
+.j{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 125px;
+}
+
+.k{
+	color: black;
+  font-family: calibri;
+  font-size: 13pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+
+.cuadro6{
+	width: 24%;
+	float: left;
+	height: 450px;
+	background: #f0f0f0;
+	margin-left: 20px;
+	margin-top: 20pt;
+}
+
+.l{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+
+.m{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 125px;
+}
+
+.n{
+	color: black;
+  font-family: calibri;
+  font-size: 13pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+
+.cuadro7{
+	width: 24%;
+	float: left;
+	height: 450px;
+	background: #f0f0f0;
+	margin-left: 20px;
+	margin-top: 20pt;
+}
+
+.o{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+
+.p{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 125px;
+}
+
+.q{
+	color: black;
+  font-family: calibri;
+  font-size: 13pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+	margin-right: 20pt;
+}
+
+.cuadro8{
+	width: 23%;
+	float: left;
+	height: 450px;
+	background: #f0f0f0;
+	margin-left:20px;
+	margin-top: 20pt;
+}
+
+.r{
+	width: 20%;
+	height: 20px;
+	float: left;
+}
+
+.s{
+	width: 60%;
+	height: 30px;
+	color: black;
+	font-family: calibri;
+	font-weight: bold;
+	padding: 0;
+  margin-left: 125px;
+}
+
+.t{
+	color: black;
+  font-family: calibri;
+  font-size: 13pt;
+  font-weight: lighter;
+  padding:0;
+	margin-left: 30px;
+	margin-top: 60px;
+}
+
+footer{
+	width: 100%;
+	height: 140px;
+	background: black;
+	float: left;
+	margin-top: 350px;
+}
+
+footer>div{
+	font-family: calibri;
+	font-size: 13pt;
+	text-align: center;
+	color: white;
+	padding-top: 5px;
 }
