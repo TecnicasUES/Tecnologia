@@ -1,1 +1,157 @@
 @charset "utf-8";
+
+body {
+	margin: 0;
+	font-family: Arial;
+	font-size: 1rem;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #212529;
+	background-color: #fff;
+}
+
+contenedor{
+  width: 100%;
+	min-height: 500px;
+	float: left;
+  margin: auto;
+  
+}
+header > #menu{
+	width: 100%;
+	background: rgb(182, 99, 13);
+	float: left;
+	min-height: 50px;	
+	position: fixed;
+}
+header > #menu > div{
+	width: 3%;
+	background: rgb(182,99,13);
+	float: left;
+	height: auto;
+	margin: 1%;
+}
+header > #menu > ul{
+	width: 93%;
+	float: left;
+	height: auto;	
+}
+
+header > #menu > ul > li{
+	list-style: none;
+	display: block;
+	float: left;
+	color: rgb(255, 255, 255);
+	width: 10%;
+	height: 60px;
+	text-align: center;
+	border-left: 1px solid rgb(255, 255, 255)
+}
+
+#menu > ul > li{
+	list-style: none;
+	display: block;
+	float: left;
+	color: rgb(255, 255, 255);
+	width: 10%;
+	height: 40px;
+	text-align: center;
+}
+#menu > ul > li:last-child{
+	border-right: 1px solid rgb(255, 255, 255)
+}
+
+
+#menu > ul > li > a{
+	text-decoration: none;
+	margin-top:20px;
+	display: block;
+	color: rgb(255, 255, 255);
+	font-size: 12px;
+	font-weight: lighter;
+}
+
+#menu > ul > li:hover{
+	background: rgb(27, 93, 132);
+	color: rgb(255, 255, 255);
+	font-size: 12px;
+	font-weight: lighter;
+}
+#menu > ul > li:active{
+	background: black;
+	color: rgb(255, 255, 255);
+	font-size: 12px;
+	font-weight: lighter;
+}
+
+.banner{
+	background-image: url("../img/crecimiento2.png");
+	float: left;
+	width: 100%;
+	min-height: 300px;
+}
+
+.img-banner{
+	background: url("../img/persona.png");
+	width: 567px;
+	height: 498px;
+	float: left;
+}
+
+
+.banner > div:first-child{
+	width: 40%;
+	float: left;
+	height: auto;
+}
+
+.banner > div:last-child{
+	width: 60%;
+	float: left;
+	height: auto;
+}
+
+
+.banner > div:last-child > div{
+	width: 75%;
+	float: left;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+.banner > div:last-child > div > h1{
+	margin-top: 10%;
+	font-size: 26pt;
+	color: rgb(52, 20, 98);
+}
+
+.banner > div:last-child > div > p{
+	font-size: 16pt;
+	margin-bottom: 2%;
+	text-align: left;
+	line-height: 1.8em;
+	color: rgb(0, 0, 0);
+	font-weight: lighter;
+}
+.banner > div:last-child > div > div{
+	width: 100%;
+	float: left;
+	height: auto;
+}
+
+.banner input[type="button"]{
+	background: rgb(255, 255, 255);
+	width: 30%;
+	padding: 15px;
+	margin-left: 1%;
+	color: rgb(183, 99, 13);
+	border-radius: 5px;
+	border: 1px solid rgb(182, 99, 13);
+	font-size: 14px;
+}
+
+.banner input[type="button"]:hover{
+	background: rgb(152, 150, 154);
+	color: rgb(255, 255, 255);
+}
