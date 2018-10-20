@@ -71,3 +71,170 @@ header>div{
   padding: 0;
   text-align: center;
 }
+#banner{
+  width: 100%;
+  height: 100%;
+  float: left;
+  background: url('../img/crecimiento2.png');
+}
+#banner>.cl2>.img2{
+  width: 567px;
+  height: 498px;
+  background: url('../img/persona.png');
+  margin: auto;
+  display: block;
+  float: left;
+  margin-right: 6px;
+}
+#banner>div>.cl3>div>h1{
+  margin:0;
+  padding: 0;
+  letter-spacing: 1px;
+  color:  #b5630d;
+  font-size: 30pt;
+  text-align: left;
+  font-family: calibri;
+  font-weight: bold;
+  margin-top: 60px;
+}
+#banner>div> .cl3 > div >p{
+  letter-spacing: 1px;
+  color: black;
+   font-family: calibri;
+   font-weight: lighter;
+  font-size: 16pt;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  margin-left: 150px;
+  margin-right: 175px;
+  line-height: 45px;
+}
+#banner>div> div>div>div>button{
+  height: 45px;
+  width: 13%;
+  border-radius: 5px;
+  border: 1px solid #b6640e;
+  text-align: center;
+  font-family: arial;
+  font-size: 11pt;
+  font-weight: lighter;
+  padding: 0;
+  margin: 0;
+  margin-right: 2px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+  color: #b6640e;
+}
+#banner>div>div>div>div>button:hover{
+  cursor: pointer;
+  color: #641811;
+}
+#art2{
+  width: 100%;
+  margin-top: 25px;
+  height: 350px;
+  float: left;
+  background: #ffffff;
+}
+#art2>div:first-child{
+  margin-left: 0.5%;
+  width: 24%;
+  height: 350px;
+  float: left;
+  background: #e2dcdc;
+}
+#art2>div:nth-child(2){
+  margin-left: 1%;
+  width: 24%;
+  height: 350px;
+  float: left;
+  background: #e2dcdc;
+}
+#art2>div:nth-child(3){
+  margin-left: 1%;
+  width: 24%;
+  height: 350px;
+  float: left;
+  background: #e2dcdc;
+}
+#art2>div:last-child{
+  margin-left: 1%;
+  margin-right: 0.5%;
+  width: 24%;
+  height: 350px;
+  float: left;
+  background: #e2dcdc;
+}
+
+/*D:::::::::: coment*/
+
+#art3{
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 4px;
+  height: 350px;
+  float: left;
+  background: #ffffff;
+}
+#art3>div:first-child{
+  margin-left: 0.5%;
+  width: 24%;
+  height: 350px;
+  float: left;
+  background: #e2dcdc;
+}
+#art3>div:nth-child(2){
+  margin-left: 1%;
+  width: 24%;
+  height: 350px;
+  float: left;
+  background: #e2dcdc;
+}
+#art3>div:nth-child(3){
+  margin-left: 1%;
+  width: 24%;
+  height: 350px;
+  float: left;
+  background: #e2dcdc;
+}
+#art3>div:last-child{
+  margin-left: 1%;
+  margin-right: 0.5%;
+  width: 24%;
+  height: 350px;
+  float: left;
+  background: #e2dcdc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
