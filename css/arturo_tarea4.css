@@ -30,7 +30,7 @@ border-right: 1px solid white;
 height:35px;
 }
 header>#menu>.principal{
-width: 95%;
+width: 96%;
 height: 35px;
 float: left;
 }
@@ -47,7 +47,7 @@ header>#menu>.principal>#principalesbotones{
   padding: 0;
   margin: 0;
   float: left;
-  border-right: 1px solid white;
+  border-right: 0px solid white;
 }
 header>#menu>.principal>#principalesbotones>li{
   display: block;
@@ -55,7 +55,7 @@ header>#menu>.principal>#principalesbotones>li{
   font-size: 10pt;
   text-align: center;
   padding-top: 10px;
-  width: 12.446%;
+  width: 12%;
   height: 28px;
   border-right:1px solid white
 }
