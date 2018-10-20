@@ -66,12 +66,34 @@ li:hover{
 	height: 500px;
 }
 .Ba{
-  width: 40%;
+  width: 42%;
 	height:500px;
 	float:left;
 }
 .Bb{
-  width: 60%;
+  width: 58%;
   height:500px;
 	float:left;
+}
+.imagen2{
+  background: url(../img/persona.png);
+	width: 567px;
+	height: 498px;
+}
+.Bb>div:first-child>h1{
+  width: 100%;
+  height: 55px;
+  color: #b6640e;
+  font-size: 28pt;
+  margin: 0;
+  padding: 0;
+  padding-top: 60px;
+  float: left;
+}
+.Bb>div:nth-child(2){
+  width: 75%;
+	font-weight: lighter;
+	font-size: 16pt;
+	line-height: 25pt;
+	padding-top: 110px;
 }
