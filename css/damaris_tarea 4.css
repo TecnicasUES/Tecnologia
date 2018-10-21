@@ -91,43 +91,47 @@ article{
 }
 
 
-.c2> div:first-child >h2{
-	font-weight: bold;
-	margin: 0;
-	padding: 0;
-	font-size: 24pt;
-	color: #b6640e;
-	text-align: left;
-	font-family: tahoma;
-	
+.contenido3{
+	width:47%;
+	height:495px;
+	float:left;
 }
 
-.c2> div:first-child >p{
-	margin: 0;
-	padding: 0;
-	font-weight: lighter;
-	line-height: 25pt;
-	font-family: calibri;
-	color: gray;
-	text-align: left;
-	font-size: 14pt;
-	letter-spacing: 3px;
+.contenido3>h1{
+    font-weight: bold;
+    padding:0;
+    margin:0;
+    margin-top: 70px;
+    font-family: calibri;
+    color: #b6640e;
+    font-size:28pt;
+    text-align: left;
 }
 
-
-.c2> div:last-child >button{
-	text-align: center;
-	font-weight: normal;
-	font-size: 14pt;
-	color: #b6640e;
-	font-family: calibri;
-	margin-left: 3%;
-	border: 1px solid #b6640e;
-	background: white;
-	width: 25%;
-	height: 45px;
-	border-radius: 5px;
-	float: left;
-	margin-top: 35px;
+.contenido3>p{
+    color: #000;
+    line-height: 30pt;
+    padding: 0;
+    margin:0;
+    font-family: calibri;
+    font-size: 16pt;
+    font-weight: lighter;
+    text-align: left;
+  
 }
 
+.contenido3>div>button{
+	color:#b6640e;
+    font-family: arial;
+    font-size: 11pt;
+    font-weight: lighter;
+    margin-left: 2%;
+    margin-top: 10px;
+    background: white;
+    height: 50px;
+    width: 26%;
+    border-radius: 2px;
+    border: 1px solid #b6640e;
+    text-align: center;
+    
+}
