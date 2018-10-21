@@ -16,20 +16,22 @@ header{
 }
 
 .icono{
-	width: 10%;
+	width: 8%;
 	height: 60px;
 	padding:0;
 	margin:0;
 	float: left;
+	border-right:1px solid #d48a3d; 
 
 
 }
 
 .img{
-	width: 80px;
-	height: 80px;
-	background: url('../img/v2.png');
+	width: 33px;
+	height: 22px;
+	background: url('../img/icono_logo.png');
 	margin: auto;
+	margin-top: 15%;
 		
 }
 
@@ -57,7 +59,7 @@ header{
 	float: left;
 	text-align: center;
 	padding-top: 25px;
-	border-right: 1px solid white;
+	border-right: 1px solid #d48a3d;
 	
 }
 
@@ -130,4 +132,29 @@ header{
 	margin-top: 40px;
 	letter-spacing: 2px;
 
+}
+
+.botones{
+	background: solid white;
+	width: 95%;
+	height: 40px;
+	float: left;
+	margin-top: 5%;
+	margin-left: 10%;
+	border-radius: 3px;
+}
+
+.botones>button{
+	background: solid white;
+	height: 50px;
+	width: 15%;
+	border-radius: 2px;
+	border:1px solid #b6640e;
+	text-align: center;
+	font-family: calibri;
+	font-size: 14pt;
+	font-weight: lighter;
+	margin-left: 3%;
+	border-radius: 5px;
+	color:#b6640e;
 }
