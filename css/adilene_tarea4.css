@@ -134,7 +134,7 @@ article{
 	height: 400px;
 	float: left;
 	background: white;
-	border-bottom: 20px: solid white;
+	border-bottom: 20px solid white;
 }
 
 .sec1{
@@ -425,8 +425,33 @@ article{
 	margin-left: 5%;
 }
 
+.seccion3{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: white;
+	border-bottom: 60px solid white;
+}
 
+footer>div{
+	width: 100%;
+	height: 150px;
+	background: black;
+	float: left;
+}
 
+footer>div>p{
+	color: white;
+	text-align: center;
+	font-size: 16pt;
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 20pt;
+	font-family: calibri;
+	letter-spacing: 2px;
+	margin-top: 4px;
+}
 
 
 
