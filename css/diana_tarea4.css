@@ -227,7 +227,13 @@ header{
   color: #b6640e;
   background: white;
 }
- 
+
+ .barr2>div>button:hover{
+  background: #e1a4aa;
+  cursor:pointer;
+  color:black;
+}
+
  .barr2>div>button:nth-child(2){
   height: 40px;
   width: 20%;
@@ -242,6 +248,12 @@ header{
   background: white;
 }
 
+ .barr2>div>button:hover{
+  background: #e1a4aa;
+  cursor:pointer;
+  color:black;
+}
+
 .barr2>div>button:last-child{
   height: 40px;
   width: 20%;
@@ -254,6 +266,12 @@ header{
   font-weight:normal;
   color: #b6640e;
   background: white;
+}
+
+ .barr2>div>button:hover{
+  background: #e1a4aa;
+  cursor:pointer;
+  color:black;
 }
 
 #cuatro{
