@@ -256,9 +256,16 @@ header{
   color: #b6640e;
   background: white;
 }
+#cuatro{
+    width: 100%;
+    height: 410px;
+    float: left;
+    background: white;
+}
+
 #ocho{
     width: 100%;
-    height: 480px;
+    height: 450px;
     float: left;
     background: white;
 }
@@ -269,7 +276,7 @@ header{
     margin-right: 0.5%;
     margin-top: 20px;
     margin-bottom: 20px;
-    height: 460px;
+    height: 380px;
     float: left;
     background: #f0f0f0;
 }
@@ -365,4 +372,38 @@ header{
     margin: 0;
     margin-top: 20px;
     display: block;
+}
+
+.barr3>div>.b1>.b1b>h2{
+    font-family: calibri;
+    color: black;
+    font-size: 20pt;
+    margin:0;
+    margin-top: 25px;
+    font-weight: normal;
+}
+
+.barr3>div>.parrafo>p{
+  font-family: calibri;
+  font-size: 12.3pt;
+  font-weight: lighter;
+  text-align: left;
+  color: #1e1c1c;
+  margin-left: 5%;
+  line-height: 16pt;
+  padding: 0;
+  margin:0;
+}
+
+footer{
+  background:black;
+  height:100px;
+  width:100%;
+  float:left;
+  margin-top: 20px;
+}
+footer>p{
+  font-family: calibri;
+  color:white;
+  text-align: center;
 }
