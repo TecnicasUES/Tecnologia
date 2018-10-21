@@ -1,0 +1,126 @@
+@charset "utf-8";
+
+body{
+	background: gray;
+	font-family: arial;
+	margin:0;
+	padding: 0;
+
+}
+
+
+
+#encabe{
+	height:45px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	float:left;
+	background: #bd670a;
+}
+
+
+#encabe>div>ul>li>a{
+	text-decoration: none;
+	font-weight: normal;
+	font-size: 10pt;
+	color:white;
+	text-align: center;
+}
+#encabe>div>ul>li{
+   width: 10%; 
+   list-style:none;
+   display: block;
+   float: left;
+   height: 35px;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   padding-top:10px;  
+   color:white;
+   border-right: 1px solid orange;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+a:hover{
+	color:white ;
+}
+li:hover{
+	background: orange ;
+}
+
+.son{
+  width: 100%;
+  height: 510px;
+  float: left;
+  background: white;
+}
+.img2f{
+  background: url(../img/crecimiento2.png) no-repeat;
+  width: 100%;
+  height: 510px;
+  float: left;
+}
+.a{
+ 
+  float: left;
+  width: 35%;
+  height: 500px;
+}
+.ima3{
+  background: url(../img/persona.png);
+  width: 567px;
+  height: 498px;
+}
+
+
+.erp{
+  width: 65%;
+  height: 500px;
+  float: left;
+}
+.erp>div:first-child>h1{
+  width: 100%;
+  height: 50px;
+  float: left;
+  margin: 0;
+  padding: 0;
+  color: #b5630d;
+  font-size: 24pt;
+  font-weight: bold;
+  font-family: arial;
+  padding-top: 60px;
+  padding-left: 45px;
+}
+.erp>div:nth-child(2)>p{
+  font-family: calibri;
+  text-align: left;
+  color: black;
+  line-height: 30pt;
+  font-size: 18pt;
+  font-weight: lighter;
+  width: 70%;
+  padding-left: 45px;
+  padding-top: 100px;
+}
+.erp>div:last-child>button{
+  text-decoration: none;
+  border: 1px solid #b5630d;
+  height: 50px;
+  border-radius: 5px;
+  width: 18%;
+  margin-left: 2%;
+  background: white;
+  text-align: center;
+  margin-top: 20px;
+}
+.erp>div:last-child{
+  margin-left: 5%;
+}
+button:hover{
+  background: #eeb880 !important;
+}
+
+
