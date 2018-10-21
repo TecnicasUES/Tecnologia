@@ -135,3 +135,129 @@ article{
     text-align: center;
     
 }
+
+
+#contenido4{
+    width: 1404px;
+    height: 450px;
+    float: left;
+    background: white;
+}
+
+#d{
+    width: 1404px;
+    height: 520px;
+    float: left;
+    background: white;
+}
+
+
+.con41{
+    margin-bottom: 25px;
+    height: 430px;
+    float: left;
+    background: #ECECED;
+    width: 24%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-top: 25px;
+    
+}
+
+.con41>div:first-child{
+    width: 92%;
+    height: 350px;
+    margin-left:4%;
+    margin-right: 4%;
+    float:left;
+}
+
+.con41>div:nth-child(2){
+    width: 92%;
+    height: 350px;
+    margin-left: 4%;
+    margin-right: 4%;
+    float:left;
+}
+
+.con41>div:nth-child(3){
+    width: 92%;
+    height: 350px;
+    margin-left: 4%;
+    margin-right: 4%;
+    float:left;
+}
+
+.con41>div:last-child{
+    width: 92%;
+    height: 350px;
+    margin-left: 4%;
+    margin-right: 4%;
+    float:left;
+}
+
+.c41a{
+    width: 40%;
+    height: 130px;
+    float: left;
+}
+
+.c41b{
+    width: 60%;
+    height: 130px;
+    float: left;
+}
+
+.con41>.c41{
+    width: 40%;
+    height: 410px;
+    float: left;
+}
+
+
+.con41>.c41c{
+    width: 60%;
+    height: 410px;
+    float: left;
+}
+
+.con41>div>.c41>.c41a>.imgfolder{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono1.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+.con41>div>.c41>.c41a>.imgtabla{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono2.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+
+.con41>div>.c41>.c41a>.imgperson{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono3.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+
+.con41>div>.c41>.c41a>.imgnota{
+    width: 100px;
+    height: 100px;
+    background: url('../img/icono4.png');
+    margin: 0;
+    margin-top: 20px;
+    display: block;
+}
+
+
+
