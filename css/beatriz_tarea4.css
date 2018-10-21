@@ -66,6 +66,68 @@ header{
 	color: white;
 	text-align: center;
 	font-size: 12pt;
-	font-family: calibri;	
+	font-family: calibri;		
+}
+
+.banner{
+	width: 100%;
+	height:674px;
+	float:left;	
+}
+
+.banner>.img4{
+	width: 100%;
+	height: 674px;
+	background: url('../img/crecimiento2.png');
+	display: block;
+	margin: 0;
+	float:left;
+}
+
+.imagenhombre{
+	width: 40%;
+	height:600px;
+	float:left;	
+}
+
+.img3{
+	width: 598px;
+	height: 550px;
+	background: url('../img/persona.png');
+	display: block;
+	margin: 0;
+	float:left;
+}
+
+.texto{
+	width: 60%;
+	height:600px;
+	float:left;
+}
+
+.texto>h2{
+	letter-spacing: 3px;
+	color: #b6640e;
+	font-family: calibri;
+	font-weight: bold;
+	font-size: 25pt;	
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	margin-left:70px;
+	margin-top: 40px;
+}
+
+.texto>p{
+	color: black;
+	font-family: calibri;
+	font-weight: lighter;
+	font-size: 18pt;	
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	margin-left:70px;
+	margin-top: 40px;
+	letter-spacing: 2px;
 	
 }
