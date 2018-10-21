@@ -14,6 +14,10 @@ body{
   padding: 0;
   margin: 0;
 }
+ul{
+  margin: 0;
+  padding: 0;
+}
 #menú>div>ul>li>a{
   text-decoration: none;
   font-weight: normal;
@@ -36,16 +40,11 @@ body{
 #menú>div>ul>li:first-child{
   width: 4%;
 }
-
 .img1{
   background: url(../img/icono_logo.png);
   width: 33px;
   height: 22px;
   margin-left: 12px;
-}
-ul{
-  margin: 0;
-  padding: 0;
 }
 a:hover{
   color: #eeb880 !important;
@@ -66,7 +65,7 @@ li:hover{
   float: left
 }
 .a{
-  width: 35%;
+  width: 40%;
   height: 500px;
   float: left;
 }
@@ -76,7 +75,7 @@ li:hover{
   height: 498px;
 }
 .b{
-  width: 65%;
+  width: 60%;
   height: 500px;
   float: left;
 }
@@ -98,9 +97,9 @@ li:hover{
   text-align: left;
   color: black;
   line-height: 30pt;
-  font-size: 18pt;
+  font-size: 16pt;
   font-weight: lighter;
-  width: 67%;
+  width: 63%;
   padding-left: 45px;
   padding-top: 100px;
 }
@@ -109,13 +108,15 @@ li:hover{
   border: 1px solid #b5630d;
   height: 50px;
   border-radius: 5px;
-  width: 18%;
+  width: 19%;
   margin-left: 2%;
   background: white;
   text-align: center;
   margin-top: 20px;
+  color: #b5630d;
 }
 .b>div:last-child{
+  width: 100%;
   margin-left: 5%;
 }
 button:hover{
@@ -123,7 +124,7 @@ button:hover{
 }
 .child2{
   width: 100%;
-  height:870px;
+  height:890px;
   float: left;
   background: white;
 }
@@ -198,5 +199,17 @@ button:hover{
 .child2>div>div>div:last-child>p{
   text-align: left;
   font-size: 12.5pt;
+  font-weight: lighter;
+}
+#pie{
+  width: 100%;
+  height: 90px;
+  background: #040108;
+  float: left;
+}
+#pie>div{
+  color: white;
+  text-align: center;
+  font-size: 12pt;
   font-weight: lighter;
 }
