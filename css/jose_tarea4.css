@@ -188,3 +188,15 @@ hr{
 	width: 100px;
 	height: 100px;
 }
+#final{
+  width: 100%;
+  height: 150px;
+  float: left;
+  background: black;
+}
+#final>div{
+  text-align: center;
+  font-weight: lighter;
+  color: white;
+  font-size: 13pt;
+}
