@@ -24,10 +24,12 @@ header{
 	padding: 0;
 }
 .pic1{
-    width: 30%;
-    height:50px;
+    width: 40%;
+    height:45px;
     background: url('../../img/icono_logo.png') no-repeat;
     margin-left: 5%;
+    display: block;
+  
 
 }
 #menu>li{
@@ -404,7 +406,7 @@ header{
 }
 .hijo3b>.a5>.cuad5>.cuad5a>.pic8{
 	height: 105px;
-	width: 40%;
+	width: 30%;
     background: url('../../img/icono1.png') no-repeat;
     float: left;
     margin-left: 3%;
