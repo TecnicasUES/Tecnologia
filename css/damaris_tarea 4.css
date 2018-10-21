@@ -83,4 +83,9 @@ article{
 
 .hombre{
 	background: url('../img/persona.png');
+	width: 567px;
+	height: 500px;
+	display: block;
+	margin: 0;
+	float: left;
 }
