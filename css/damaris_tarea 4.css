@@ -113,3 +113,20 @@ article{
 	font-size: 14pt;
 	letter-spacing: 3px;
 }
+
+
+.c2> div:last-child >button{
+	text-align: center;
+	font-weight: normal;
+	font-size: 14pt;
+	color: #b6640e;
+	font-family: calibri;
+	margin-left: 3%;
+	border: 1px solid #b6640e;
+	background: white;
+	width: 25%;
+	height: 45px;
+	border-radius: 5px;
+	float: left;
+	margin-top: 35px;
+}
