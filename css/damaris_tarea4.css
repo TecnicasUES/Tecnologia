@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+
+body{
+	background: white;
+	font-family: calibri;
+	margin:  0;
+	padding: 0;
+}
+
+
+header{
+	background: #b6640e;
+	width: 100%;
+	height: 45px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+
+.cuadrouno{
+	width: 100%;
+	height: 60px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	float: left;
+	margin-left: 2%;
+}
+
+
+.cuadrouno>li{
+	width: 1%;
+	height: 30px;
+	float: left;
+	text-align: center;
+	display: block;
+	padding-top: 14px;
+	border-right: 0.5px solid white;
+	border-left: 1px solid white;
+	color: white;
+}
+
+
+.cuadrouno>li>a{
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+.img1{
+	background: url('../img/icono_logo.png');
+	width: 33px;
+	height: 22px;
+	display: block;
+	margin: auto;
+	float: left;
+	margin-top: 13px;
+	margin-left: 1%;
+}
