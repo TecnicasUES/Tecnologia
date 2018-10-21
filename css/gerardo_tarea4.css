@@ -27,14 +27,14 @@ body {
 
 header>#menu{
 	width: 100%;
-	background: rgb(182, 99, 13);
+	background: #b6640e;
 	float: left;
 	height: 40px;	
 }
 
 header>#menu>div{
 	width: 3%;
-	background: rgb(182,99,13);
+	background: #b6640e;
 	float: left;
 	height: 22px;
 	margin: 1%;
@@ -49,46 +49,46 @@ header>#menu>ul{
 header>#menu>ul>li{
 	display: block;
 	float: left;
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	width: 10%;
 	height: 40px;
 	text-align: center;
-	border-left: 1px solid rgb(255, 255, 255)
+	border-left: 1px solid white;
 }
 
 #menu>ul>li{
 	list-style: none;
 	display: block;
 	float: left;
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	width: 10%;
 	height: 40px;
 	text-align: center;
 }
 
 #menu>ul>li:last-child{
-	border-right: 1px solid rgb(255, 255, 255)
+	border-right: 1px solid white;
 }
 
 
 #menu>ul>li>a{
 	text-decoration: none;
 	display: block;
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	font-size: 12px;
 	font-weight: lighter;
 }
 
 #menu>ul>li:hover{
-	background: rgb(27, 93, 132);
-	color: rgb(255, 255, 255);
+	background: #1b5d84;
+	color: #ffffff;
 	font-size: 12px;
 	font-weight: lighter;
 }
 
 #menu>ul>li:letras{
 	background: black;
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	font-size: 12px;
 	font-weight: lighter;
 }
@@ -132,7 +132,7 @@ header>#menu>ul>li{
 .banner > div:last-child > div > h1{
 	margin-top: 10%;
 	font-size: 26pt;
-	color: rgb(52, 20, 98);
+	color: #341462;
 }
 
 .banner > div:last-child > div > p{
@@ -140,7 +140,7 @@ header>#menu>ul>li{
 	margin-bottom: 2%;
 	text-align: left;
 	line-height: 1.8em;
-	color: rgb(0, 0, 0);
+	color: #000000;
 	font-weight: lighter;
 }
 .banner > div:last-child > div > div{
@@ -150,7 +150,7 @@ header>#menu>ul>li{
 }
 
 .banner input[type="button"]{
-	background: rgb(255, 255, 255);
+	background: #ffffff;
 	width: 30%;
 	padding: 15px;
 	margin-left: 1%;
@@ -164,3 +164,79 @@ header>#menu>ul>li{
 	background: rgb(152, 150, 154);
 	color: rgb(255, 255, 255);
 }
+
+.icono1{
+	background: url("../img/icono1.png") ;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.icono2{
+	background: url("../img/icono2.png") ;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.icono3{
+	background: url("../img/icono3.png");
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.icono4{
+	background: url("../img/icono4.png");
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+
+article{
+	margin-top: 20px;
+  	width: 22%;
+  	float: left;
+  	height: auto;
+  	margin-left:2.5%;
+  	background: rgb(240, 240, 239);
+}
+
+.g{
+	width: 75%;
+	margin: auto;
+	float: left;
+	padding: 5%;
+}
+
+.ga{
+	width: 75%;
+	display: block;
+	margin: auto;
+	float: left;
+	padding: 5%;
+}
+
+article p{
+	float: left;
+	width: 75%;
+	text-align: left;
+}
+
+section{
+	margin-top: 2%;
+	float: left;
+}
+
+footer{
+	margin-top: 5%;
+	width: 100%;
+	float: left;
+	height: 80px;
+	text-align: center;
+	font-weight: lighter;
+	color: rgb(255, 255, 255);
+	background: rgb(0, 0, 0);
+}
+
