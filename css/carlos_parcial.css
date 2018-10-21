@@ -25,7 +25,7 @@ body{
   display:block;
   float: left;
   width: 8%;
-  border-right:1px solid #FAE5D3;
+  border-right:1px solid white;
   height: 40px;
   margin: 0;
   padding: 0;
@@ -97,91 +97,241 @@ ul{
 }
 .bloque1{
   width: 100%;
-  height: 380px;
+  height: 460px;
   float: left;
   background: white;
   font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  padding:30px 1% 30px 1%;
 }
 .b1h1{
-  width: 30%;
-  height: 300px;
+  width: 26%;
+  height: 440px;
   float: left;
-  background:  #e5e7e9;
-  margin-top: 40px;
-  margin-left: 1%;
+  background:  #ecf0f1 ;
+  padding: 10px 2% 10px 2%;
+  margin-right:4%;
 }
 .b1h2{
-  width: 30%;
-  height: 300px;
+  width: 26%;
+  height: 440px;
   float: left;
-  background:  #e5e7e9;
-  margin-top: 40px;
-  margin-left: 4%;
+  background:  #ecf0f1 ;
+  padding: 10px 2% 10px 2%;
+  margin-right:4%;
 }
 .b1h3{
-  width: 30%;
-  height: 300px;
+  width: 26%;
+  height: 440px;
   float: left;
-  background:  #e5e7e9;
-  margin-top: 40px;
-  margin-left: 4%;
+  background:   #ecf0f1;
+  padding: 10px 2% 10px 2%;
 }
 .b1n1{
-  width:25%;
-  height: 110px;
+  width: 100%;
+  height: 100px;
   float: left;
-  background: url(../img/icono5.png);
-  padding-left: 3%;
 }
 .b1n2{
-  width:70%;
-  padding-top:20px;
-  height: 90px;
+  width: 100%;
+  height: 340px;
   float: left;
 }
-.b1h1tx{
-  width: 92%;
-  height: 190px;
-  margin-left: 4%;
+.b1s1{
+  width: 40%;
+  height: 100px;
+  float: left;
 }
-h3{
-  border-bottom:1px solid gray;
-  font-weight: bold;
-  font-size: 16pt;
+.b1s2{
+  width: 60%;
+  height: 100px;
+  float: left;
 }
 .b1n3{
-  width:22%;
-  height: 110px;
+  width: 100%;
+  height: 100px;
   float: left;
-  background: url(../img/icono6.png);
-  padding-left: 4%;
 }
 .b1n4{
-  width:70%;
-  padding-top:20px;
-  height: 90px;
+  width: 100%;
+  height: 340px;
   float: left;
 }
-.b2h2tx{
-  width: 92%;
-  height: 190px;
-  margin-left: 4%;
+.b1s3{
+  width: 40%;
+  height: 100px;
+  float: left;
+}
+.b1s4{
+  width: 60%;
+  height: 100px;
+  float: left;
 }
 .b1n5{
-  width:22%;
-  height: 110px;
+  width: 100%;
+  height: 100px;
   float: left;
-  background: url(../img/icono7.png);
-  padding-left: 4%;
 }
 .b1n6{
-  width:70%;
-  padding-top:20px;
-  height: 90px;
+  width: 100%;
+  height: 340px;
   float: left;
 }
-.b2h3tx{
-  width: 92%;
-  height: 190px;
-  margin-left: 4%;
+.b1s5{
+  width: 40%;
+  height: 100px;
+  float: left;
+}
+.b1s6{
+  width: 60%;
+  height: 100px;
+  float: left;
+}
+.bloque2{
+  width: 100%;
+  height: 460px;
+  float: left;
+  background: white;
+  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  padding:30px 1% 30px 1%;
+}
+.b2h1{
+  width: 46%;
+  height: 440px;
+  float: left;
+  background:  #ecf0f1 ;
+  padding: 10px 2% 10px 2%;
+
+}
+.b2h2{
+  width: 45%;
+  height: 440px;
+  float: left;
+  background:  #ecf0f1 ;
+  padding: 10px 2% 10px 2%;
+  border-left:2px solid white;
+}
+.b2n1{
+  width: 100%;
+  height: 100px;
+  float: left;
+}
+.b2n2{
+  width: 100%;
+  height: 340px;
+  float: left;
+}
+.b2s1{
+  width: 40%;
+  height: 100px;
+  float: left;
+}
+.b2s2{
+  width: 60%;
+  height: 100px;
+  float: left;
+}
+.b2n3{
+  width: 100%;
+  height: 100px;
+  float: left;
+}
+.b2n4{
+  width: 100%;
+  height: 340px;
+  float: left;
+}
+.b2s3{
+  width: 40%;
+  height: 100px;
+  float: left;
+}
+.b2s4{
+  width: 60%;
+  height: 100px;
+  float: left;
+}
+h2{
+  font-size: 20pt;
+  border-bottom:1px solid gray;
+  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.bloque3{
+  width: 100%;
+  height: 460px;
+  float: left;
+  background: white;
+  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  padding:30px 1% 30px 1%;
+}
+.b3h1{
+  width: 46%;
+  height: 440px;
+  float: left;
+  background:  #ecf0f1 ;
+  padding: 10px 2% 10px 2%;
+
+}
+.b3h2{
+  width: 45%;
+  height: 440px;
+  float: left;
+  background:  #ecf0f1 ;
+  padding: 10px 2% 10px 2%;
+  border-left:2px solid white;
+}
+.b3n1{
+  width: 100%;
+  height: 100px;
+  float: left;
+}
+.b3n2{
+  width: 100%;
+  height: 340px;
+  float: left;
+}
+.b3s1{
+  width: 40%;
+  height: 100px;
+  float: left;
+}
+.b3s2{
+  width: 60%;
+  height: 100px;
+  float: left;
+}
+.b3n3{
+  width: 100%;
+  height: 100px;
+  float: left;
+}
+.b3n4{
+  width: 100%;
+  height: 340px;
+  float: left;
+}
+.b3s3{
+  width: 40%;
+  height: 100px;
+  float: left;
+}
+.b3s4{
+  width: 60%;
+  height: 100px;
+  float: left;
+}
+.contactos{
+  width: 100%;
+  height: 90px;
+  background: #1a5276;
+  float: left;
+}
+.datosalm{
+  width: 20%;
+  height: 40px;
+  float: left;
+  margin-left: 40%;
+}
+.contactos>.datosalm>p{
+  color:white;
+  text-align: center;
 }
