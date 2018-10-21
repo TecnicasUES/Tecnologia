@@ -202,3 +202,21 @@ article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img5{
   float: left;
   margin-left: 12%;
 }
+footer>div{
+  background: purple;
+  height: 120px;
+  width: 100%;
+float: left;
+}
+
+footer>div>p{
+    text-align: center;
+  font-size: 12pt;
+  font-family: arial;
+  color: white;
+}footer>div>div>p{
+    text-align: center;
+  font-size: 12pt;
+  font-family: arial;
+  color: white;
+}
