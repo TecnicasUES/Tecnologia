@@ -10,7 +10,6 @@ body {
 
 .contenedor{
     width: 100%;
-	min-height: 500px;
 	float: left;
     margin: auto;
   
@@ -127,7 +126,7 @@ header>#menu>ul>li{
 }
 
 .banner>div:last-child>div>h1{
-	margin-top: 10%;
+	padding-top: 40%;
 	font-size: 28pt;
 	color: #c87b2b;
 }
