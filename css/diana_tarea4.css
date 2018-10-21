@@ -213,7 +213,6 @@ header{
   background: white; 
 }
 
-
 .barr2>div>button:first-child{
   height: 40px;
   width: 20%;
@@ -256,6 +255,7 @@ header{
   color: #b6640e;
   background: white;
 }
+
 #cuatro{
     width: 100%;
     height: 410px;
