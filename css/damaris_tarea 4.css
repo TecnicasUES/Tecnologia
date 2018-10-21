@@ -89,3 +89,27 @@ article{
 	margin: 0;
 	float: left;
 }
+
+
+.c2> div:first-child >h2{
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	font-size: 24pt;
+	color: #b6640e;
+	text-align: left;
+	font-family: tahoma;
+	
+}
+
+.c2> div:first-child >p{
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 25pt;
+	font-family: calibri;
+	color: gray;
+	text-align: left;
+	font-size: 14pt;
+	letter-spacing: 3px;
+}
