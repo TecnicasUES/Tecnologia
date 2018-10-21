@@ -53,7 +53,7 @@ a:hover{
 li:hover{
   background: #9c5409 !important;
 }
-.Bloque1{
+.bloque1{
   background:white;
   float:left;
   width: 100%;
@@ -65,12 +65,12 @@ li:hover{
 	width: 100%;
 	height: 500px;
 }
-.Ba{
+.ba{
   width: 42%;
 	height:500px;
 	float:left;
 }
-.Bb{
+.bb{
   width: 58%;
   height:500px;
 	float:left;
@@ -80,7 +80,7 @@ li:hover{
 	width: 567px;
 	height: 498px;
 }
-.Bb>div:first-child>h1{
+.bb>div:first-child>h1{
   width: 100%;
   height: 55px;
   color: #b6640e;
@@ -90,10 +90,26 @@ li:hover{
   padding-top: 60px;
   float: left;
 }
-.Bb>div:nth-child(2){
+.bb>div:nth-child(2){
   width: 75%;
 	font-weight: lighter;
 	font-size: 16pt;
 	line-height: 25pt;
 	padding-top: 110px;
+}
+.bloque1>div>.bb>div>button{
+  text-decoration: none;
+  border: 1px solid #b6640e;
+  height: 45px;
+  width: 22%;
+  border-radius: 4px;
+  margin-left: 2%;
+  margin-top: 30px;
+  background: white;
+  text-align: center;
+  color: #b6640e;
+  font-size: 11pt;
+}
+button:hover{
+  background: #f4b472 !important;
 }
