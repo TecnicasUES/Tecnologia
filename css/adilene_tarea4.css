@@ -64,13 +64,14 @@ article{
 	height: 500px;
 	background: url('../img/crecimiento2.png') no-repeat;
 	float: left;
-	border-bottom: 20px: solid white;
+	border-bottom: 20px solid white;
 }
 
 .a1{
 	width: 40%;
 	height: 500px;
 	float: left;
+
 }
 
 .a2{
@@ -126,3 +127,21 @@ article{
 	color: #b6640e;
 	font-family: calibri;
 	margin-left: 3%;
+}
+
+.seccion2{
+	width: 100%;
+	height: 400px;
+	float: left;
+	background: cyan;
+	border-bottom: 20px: solid white;
+}
+
+.sec1{
+	width: 24%;
+	height: 400px;
+	float: left;
+	background: #f0f0f0;
+	margin-left: 0.5%;
+	
+}
