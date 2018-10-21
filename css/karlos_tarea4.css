@@ -202,12 +202,12 @@ header{
 }
 
 .aa{
-    width:80%;
+    width:95%;
     height:320px;
-    background:#9d9d9d ;
+    background:#d9d9d9 ;
     float:left;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
     margin-top: 30px;
 }
 
@@ -231,7 +231,7 @@ header{
   	line-height: 27pt;
   	padding: 0;
   	margin:0;
-  	margin-left: 50%;
+  	margin-left: 45%;
   	text-align: left;
   	color: #black;	
     margin-top: 15px;
@@ -240,7 +240,65 @@ header{
 
 .aa>p{
   font-family: Calibri;
-  font-size: 10pt;
+  font-size: 11pt;
+  font-weight: lighter;
+  line-height: 15pt;
+  padding: 0;
+  margin:0;
+  margin-left: 2%;
+  margin-right:1%;
+  text-align: left;
+  color: #454545;
+  margin-top: 0px;
+}
+
+
+.b1{
+    width:25%;
+    height:350px;
+    float:left;
+}
+
+.bb{
+    width:95%;
+    height:320px;
+    background:#d9d9d9 ;
+    float:left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 30px;
+}
+
+.imgb1{
+    background: url('../img/icono2.png');
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+
+}
+
+.imgb1>h2{
+    width: 50%;
+    height: 30px;
+    float:left; 
+    font-family: Calibri;
+  	font-size: 20pt;
+  	font-weight: bold;
+  	line-height: 27pt;
+  	padding: 0;
+  	margin:0;
+  	margin-left: 45%;
+  	text-align: left;
+  	color: #black;	
+    margin-top: 15px;
+    border-bottom: 1px solid gray
+}
+
+.bb>p{
+  font-family: Calibri;
+  font-size: 11pt;
   font-weight: lighter;
   line-height: 15pt;
   padding: 0;
@@ -251,7 +309,5 @@ header{
   color: #454545;
   margin-top: 0px;
 }
-
-
 
 
