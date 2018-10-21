@@ -110,7 +110,7 @@ header{
 	color: #b6640e;
 	font-family: calibri;
 	font-weight: bold;
-	font-size: 25pt;	
+	font-size: 30pt;	
 	margin: 0;
 	padding: 0;
 	text-align: left;
@@ -122,12 +122,12 @@ header{
 	color: black;
 	font-family: calibri;
 	font-weight: lighter;
-	font-size: 18pt;	
+	font-size: 20pt;	
 	margin: 0;
 	padding: 0;
 	text-align: left;
 	margin-left:70px;
 	margin-top: 40px;
 	letter-spacing: 2px;
-	
+
 }
