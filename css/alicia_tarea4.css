@@ -115,66 +115,94 @@ li:hover{
 	background: #c3c3c3 !important;
 }
 #caja2{
+	background: white;
 	width: 100%;
-	height: 800px;
+	height: 450px;
 	float: left;
 	margin: 0;
 	padding: 0;
-	color: white;	
 }
-.informacion>div{
-	background: gray;
-	width: 20%;
-	height: 380px;
-	margin-left: 10px;
+#caja2>div{
+	background: #F0EFEF;
+	display: block;
+	width: 23.5%;
+	height: 430px;
 	margin-top: 15px;
+	margin-left: 1.5%;
+	float: left;
 }
-.informacion>div>div{
+#caja2>div>cuadro1{
+	width: 100%;
+	height: 125px;
+	float: left;
+}
+#caja2>div>{
+	width: 80%;
+	height: 283px;
+	float: left;
+	padding: 1px 5% 20px 5%;
+}
+#caja2>div>div>fig{
 	width: 30%;
 	height: 100px;
 	float: left;
 	margin-left: 5px;
+	padding: 22px 1% 0px 4%;
 }
-.fig1{
-	background: url(../img/icono1.png)no-repeat;
+#caja2>div>div>tex1{
 	width: 100%;
 	height: 100px;
-}
-.fig2{
-	background: url(../img/icono2.png)no-repeat;
-	width: 100%;
-	height: 100px;
-}
-.fig3{
-	background: url(../img/icono3.png)no-repeat;
-	width: 100%;
-	height: 100px;
-}
-.fig4{
-	background: url(../img/icono4.png)no-repeat;
-	width: 100%;
-	height: 100px;
-}
-.informacion>div>div>div{
-	width: 70%;
-	height: 80px;
 	float: left;
-	margin-top: 25px;
 	margin: 0;
 	padding: 0;
-	margin-left: 5px;
 }
-.informacion>div>div>div>p{
-	width: 100%;
-	height: 80px;
+#caja2>div>tex2{
+	width: 80%;
+	height: 283px;
 	float: left;
-	margin-top: 25px;
+	padding: 1px 5% 20px 5%;
+	color: black;
+}
+
+#caja2>div>div>div>h2{
+	font-family: arial;
+	font-size: 17pt;
+	margin-top: 20px;
+	margin-bottom: 0;
+	padding: 2% 5px 2% 5px;
+}
+#caja2>div>div>div>hr{
+	float: left;
+	border: 1px solid;
+	width: 90%;
 	margin: 0;
 	padding: 0;
-	margin-left: 5px;
 }
+#caja2>div>div>p{
+	float: left;
+	font-family: arial;
+	font-size: 12pt;
+	margin-top: 0px;
+	line-height: 20pt;
 }
-
-
-
-
+#piesito{
+	width: 100%;
+	height: 160px;
+	float: left;
+	background: white;
+}
+#foofeet>div{
+	width: 100%;
+	height: 100px;
+	float: left;
+	background: #040108;
+	margin-top:20px;
+}
+#foofeet>div>p{
+	font-family: calibri;
+	color: white;
+	text-align: center;
+	margin-top: 25px;
+	padding: 0;
+	font-weight: lighter;	
+}
