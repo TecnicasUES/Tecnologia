@@ -89,18 +89,13 @@ section>#articulo1{
   height: 498px;
   float: left;
 }
-#banner>div:first-child>.img{
+#banner>div:first-child>.img1{
   background: url('../img/persona.png');
   width: 567px;
   height: 498px;
   float: left;
 }
-#banner>div:first-child>.img{
-  background: url('../img/persona.png');
-  width: 567px;
-  height: 498px;
-  float: left;
-}
+
 #banner>.txt{
   width: 50%;
   height: 674px;
@@ -158,8 +153,52 @@ article>#seccion2>.area1de4cajas{
 article>#seccion2>.area1de4cajas>.cuadro1{
   width: 23.7%;
   height: 380px;
-  background: #D1D1D1;
+  background: #EEEEEE;
   margin-top: 10px;
   float: left;
   margin-left: 1%;
+}
+article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img2{
+  background: url('../img/icono1.png');
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 12%;
+}
+article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.texto2{
+  width: 58%;
+  margin-left: 10%;
+  margin-right: 5%;
+  float: left;
+}
+article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.texto3{
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 18px;
+  line-height: 17pt;
+  float: left;
+}
+article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img3{
+  background: url('../img/icono2.png');
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 12%;
+}
+
+article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img4{
+  background: url('../img/icono3.png');
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 12%;
+}
+
+article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img5{
+  background: url('../img/icono4.png');
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 12%;
 }
