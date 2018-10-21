@@ -81,7 +81,7 @@ li:hover{
   height: 500px;
   float: left;
 }
-.erp>div:first-child>h1{
+.erp>div>h1{
   width: 100%;
   height: 50px;
   float: left;
@@ -94,7 +94,7 @@ li:hover{
   padding-top: 60px;
   padding-left: 45px;
 }
-.erp>div:nth-child(2)>p{
+.erp>div>p{
   font-family: calibri;
   text-align: left;
   color: black;
@@ -105,7 +105,7 @@ li:hover{
   padding-left: 45px;
   padding-top: 100px;
 }
-.erp>div:last-child>button{
+.erp>div>button{
   text-decoration: none;
   border: 1px solid #b5630d;
   height: 50px;
@@ -116,11 +116,325 @@ li:hover{
   text-align: center;
   margin-top: 20px;
 }
-.erp>div:last-child{
+.erp>div{
   margin-left: 5%;
 }
 button:hover{
-  background: #eeb880 !important;
+  background: #eaaf73 !important;
 }
+
+.sondos{
+  height:800px;
+  width: 100%;
+  float: left;
+  background: white;
+}
+
+.one{
+  width: 100%;
+  height:440px;
+  float: left;
+  background:white;
+
+}
+
+
+.end{
+  width:23.5%;
+  height:400px;
+  margin-top:30px; 
+  background: #e5e5e5;
+  margin-left: 1%;
+  float: left;
+
+}
+
+
+.ob{
+  width: 100%;
+  height:100px;
+  background:;
+  float: left;
+
+}
+
+
+.ob>h2{
+  color:black;
+  text-align: left;
+  font-family: calibri;
+  padding:0;
+  margin: 0;
+  font-size: 22pt;
+    padding-top: 5px;
+    font-weight: bold;
+    float:right;
+    margin-right: 15%;
+    border-bottom: 1px solid black; 
+    margin-top: 10px;
+    
+}
+
+.im{
+  width: 40%;
+  height:100px;
+  background: url('../img/icono1.png')no-repeat ;
+  float: left;
+  margin-top:10px;
+  margin-left: 3%;
+
+}
+
+
+.pafo{
+  width: 100%;
+  height: 250px;
+  float: left;
+  background: ;
+  display: block;
+}
+.pafo>p{
+  color: black;
+  text-align:left;
+  font-family:calibri;
+  font-size:12pt;
+  background: ;
+  margin top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+  line-height: 16pt;
+  
+  
+}
+
+
+.one2{
+  width: 100%;
+  height:470px;
+  float: left;
+  background: white;
+}
+
+.end2{
+  width:23.5%;
+  height:400px;
+  margin-top:30px; 
+  background: #e5e5e5;
+  margin-left: 1%;
+  float: left;
+}
+
+
+.end3{
+  width:23.5%;
+  height:400px;
+  margin-top:30px; 
+  background: #e5e5e5;
+  margin-left: 1%;
+  float: left;
+}
+.end4{
+  width:23.5%;
+  height:400px;
+  margin-top:30px; 
+  background: #e5e5e5;
+  margin-left: 1%;
+  float: left;
+
+}
+
+.ob2{
+  width: 100%;
+  height:100px;
+  background:;
+  float: left;
+}
+.im2{
+  width: 40%;
+  height:100px;
+  background: url('../img/icono2.png')no-repeat ;
+  float: left;
+  margin-top:10px;
+  margin-left: 3%;
+
+}
+.ob2>h2{
+  color:black;
+  text-align: left;
+  font-family: calibri;
+  padding:0;
+  margin: 0;
+  font-size: 22pt;
+    padding-top: 5px;
+    font-weight: bold;
+    float:right;
+    margin-right: 7%;
+    border-bottom: 1px solid black; 
+    margin-top: 10px;
+   
+
+}
+.pafo2{
+  width: 100%;
+  height: 250px;
+  float: left;
+  background: ;
+  display: block;
+}
+.pafo2>p{
+  color: black;
+  text-align:left;
+  font-family:calibri;
+  font-size:12pt;
+  background: ;
+  margin top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+  line-height: 16pt;
+}
+
+
+
+.ob3{
+  width: 100%;
+  height:100px;
+  background:;
+  float: left;
+}
+.im3{
+  width: 40%;
+  height:100px;
+  background: url('../img/icono3.png')no-repeat ;
+  float: left;
+  margin-top:10px;
+  margin-left: 3%;
+
+}
+.ob3>h2{
+  color:black;
+  text-align: left;
+  font-family: calibri;
+  padding:0;
+  margin: 0;
+  font-size: 22pt;
+    padding-top: 5px;
+    font-weight: bold;
+    float:right;
+    margin-right: 15%;
+    border-bottom: 1px solid black; 
+    margin-top: 10px;
+  
+}
+.pafo3{
+  width: 100%;
+  height: 250px;
+  float: left;
+  background: ;
+  display: block;
+}
+.pafo3>p{
+  color: black;
+  text-align:left;
+  font-family:calibri;
+  font-size:12pt;
+  background: ;
+  margin top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+  line-height: 16pt;
+}
+
+
+
+.ob4{
+  width: 100%;
+  height:100px;
+  background:;
+  float: left;
+}
+.im4{
+  width: 40%;
+  height:100px;
+  background: url('../img/icono4.png')no-repeat ;
+  float: left;
+  margin-top:10px;
+  margin-left: 3%;
+
+}
+.ob4>h2{
+  color:black;
+  text-align: left;
+  font-family: calibri;
+  padding:0;
+  margin: 0;
+  font-size: 22pt;
+    padding-top: 5px;
+    font-weight: bold;
+    float:right;
+    margin-right: 15%;
+    border-bottom: 1px solid black; 
+    margin-top: 10px;
+  
+
+}
+.pafo4{
+  width: 100%;
+  height: 250px;
+  float: left;
+  background: ;
+  display: block;
+}
+.pafo4>p{
+  color: black;
+  text-align:left;
+  font-family:calibri;
+  font-size:12pt;
+  background: ;
+  margin top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+  line-height: 16pt;
+}
+
+
+
+#pie{
+  width: 100%;
+  height: 105px;
+  background: black;
+  float: left;
+  margin-top: 100px;
+  }
+
+
+#pie>p{
+  color:white;
+  text-align: center;
+  font-weight: normal;
+  font-size: 14pt;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
