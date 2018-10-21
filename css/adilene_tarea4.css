@@ -74,11 +74,55 @@ article{
 }
 
 .a2{
-	width: 60%;
+	width: 50%;
 	height: 500px;
 	float: left;
+	margin-top: 55px;
 }
 
 .persona{
 	background: url('../img/persona.png');
+	width: 567px;
+	height: 498px;
+	float: left;
+	margin: 0;
+	display: block;
+
 }
+
+.a2> div:first-child >h2{
+	color: #b6640e;
+	text-align: left;
+	font-family: tahoma;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	font-size: 24pt;
+}
+
+.a2> div:first-child >p{
+	color: gray;
+	text-align: left;
+	font-size: 14pt;
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+	line-height: 25pt;
+	font-family: calibri;
+	letter-spacing: 3px;
+}
+
+.a2> div:last-child >button{
+	border: 1px solid #b6640e;
+	background: white;
+	width: 25%;
+	height: 45px;
+	border-radius: 5px;
+	float: left;
+	margin-top: 35px;
+	text-align: center;
+	font-weight: normal;
+	font-size: 12pt;
+	color: #b6640e;
+	font-family: calibri;
+	margin-left: 3%;
