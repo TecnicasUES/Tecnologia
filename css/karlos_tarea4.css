@@ -9,20 +9,20 @@ body{
 
 .contenedor{
 	display: block;
-	 margin: 0 auto;
+	margin: 0 auto;
 	width: 100%;
 	height: auto;
 	background: white;
 	min-height: 0px;
+	position: relative;
+	zoom: 1;
 }
 
 header{
 	background:#b6640e;
 	height:40px;
 	width: 100%;
-	max-width: 1404px;
-
-   float: left;
+    float: left;
 }
 
 .imglogo{
@@ -55,7 +55,7 @@ header{
 }
 
 .hhh{
-	background-color: #cc7b0f !important;
+	background-color: #b6640e !important;
 
 	}
 #menu>li>a{
@@ -310,4 +310,117 @@ header{
   margin-top: 0px;
 }
 
+.c1{
+    width:25%;
+    height:350px;
+    float:left;
+}
 
+.cc{
+    width:95%;
+    height:320px;
+    background:#d9d9d9 ;
+    float:left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 30px;
+}
+
+.imgc1{
+    background: url('../img/icono3.png');
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+
+}
+
+.imgc1>h2{
+    width: 50%;
+    height: 30px;
+    float:left; 
+    font-family: Calibri;
+  	font-size: 20pt;
+  	font-weight: bold;
+  	line-height: 27pt;
+  	padding: 0;
+  	margin:0;
+  	margin-left: 45%;
+  	text-align: left;
+  	color: #black;	
+    margin-top: 15px;
+    border-bottom: 1px solid gray
+}
+
+.cc>p{
+  font-family: Calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  line-height: 15pt;
+  padding: 0;
+  margin:0;
+  margin-left: 5%;
+  margin-right:5%;
+  text-align: left;
+  color: #454545;
+  margin-top: 0px;
+}
+
+
+.d1{
+    width:25%;
+    height:350px;
+    float:left;
+}
+
+.dd{
+    width:95%;
+    height:320px;
+    background:#d9d9d9 ;
+    float:left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 30px;
+}
+
+.imgd1{
+    background: url('../img/icono4.png');
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+
+}
+
+.imgd1>h2{
+    width: 50%;
+    height: 30px;
+    float:left; 
+    font-family: Calibri;
+  	font-size: 20pt;
+  	font-weight: bold;
+  	line-height: 27pt;
+  	padding: 0;
+  	margin:0;
+  	margin-left: 45%;
+  	text-align: left;
+  	color: #black;	
+    margin-top: 15px;
+    border-bottom: 1px solid gray
+}
+
+.dd>p{
+  font-family: Calibri;
+  font-size: 11pt;
+  font-weight: lighter;
+  line-height: 15pt;
+  padding: 0;
+  margin:0;
+  margin-left: 5%;
+  margin-right:5%;
+  text-align: left;
+  color: #454545;
+  margin-top: 0px;
+}
