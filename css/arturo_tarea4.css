@@ -54,7 +54,7 @@ header>#menu>.principal>#principalesbotones>li{
   float: left;
   font-size: 10pt;
   text-align: center;
-  padding-top: 7%;
+  padding-top: 7px;
   width: 12%;
   height: 28px;
   border-right:1px solid white
