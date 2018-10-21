@@ -85,7 +85,7 @@ section>#articulo1{
   display: block;
 }
 #banner>.hombre{
-  width: 50%;
+  width: 45%;
   height: 498px;
   float: left;
 }
@@ -97,7 +97,7 @@ section>#articulo1{
 }
 
 #banner>.txt{
-  width: 50%;
+  width: 55%;
   height: 674px;
   float: left;
 }
