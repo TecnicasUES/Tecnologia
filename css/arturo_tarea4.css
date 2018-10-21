@@ -164,28 +164,14 @@ article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img2{
   width: 100px;
   height: 100px;
   float: left;
-  margin-left: 12%;
-}
-article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.texto2{
-  width: 58%;
-  margin-left: 10%;
-  margin-right: 5%;
-  float: left;
-}
-article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.texto3{
-  width: 90%;
-  margin-left: 5%;
-  margin-right: 5%;
-  margin-top: 18px;
-  line-height: 17pt;
-  float: left;
+  margin-left: 7%;
 }
 article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img3{
   background: url('../img/icono2.png');
   width: 100px;
   height: 100px;
   float: left;
-  margin-left: 12%;
+  margin-left: 7%;
 }
 
 article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img4{
@@ -193,7 +179,7 @@ article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img4{
   width: 100px;
   height: 100px;
   float: left;
-  margin-left: 12%;
+  margin-left: 7%;
 }
 
 article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img5{
@@ -201,8 +187,23 @@ article>#seccion2>.area1de4cajas>.cuadro1>.caja1>.img5{
   width: 100px;
   height: 100px;
   float: left;
-  margin-left: 12%;
+  margin-left: 7%;
 }
+article>#seccion2>.area1de4cajas>.cuadro1>.texto2{
+  width: 50%;
+  margin-left: 7%;
+  margin-right: 5%;
+  float: left;
+}
+article>#seccion2>.area1de4cajas>.cuadro1>.texto3{
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 8px;
+  line-height: 17pt;
+  float: left;
+}
+
 footer>div{
   background: black;
   height: 120px;
