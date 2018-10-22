@@ -137,7 +137,7 @@ header{
 }
 
 .botones{
-	background: solid white;
+	background: white;
 	width: 95%;
 	height: 40px;
 	float: left;
@@ -147,7 +147,7 @@ header{
 }
 
 .botones>button{
-	background: solid white;
+	background: white;
 	height: 50px;
 	width: 20%;
 	border-radius: 2px;
