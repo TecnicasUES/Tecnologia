@@ -40,7 +40,7 @@
 						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Features</a>
+						<a class="nav-link" href="#sec1">Features</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#">Pricing</a>
@@ -79,7 +79,7 @@
         <br>
         <br>
         <br>
-		<article class="container">
+		<article class="container" id="sec1">
 			<div class="row">
 			<div class="col-lg-7">
 				<hr>
@@ -135,6 +135,11 @@
 
 <script type="text/javascript"  src="../../js/jquery-1.12.4.js"></script>
 <script type="text/javascript"  src="../../js/bootstrap.min.js"></script>
+
+<script>
+	var scroll=new SmoothScroll('a[href*="#"]');
+</script>
+
 <script type="text/javascript"  src="../../js/smooth-scroll.polyfills.js"></script>
 <script>$('.carousel').carousel({
   interval: 2000
