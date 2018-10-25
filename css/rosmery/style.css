@@ -3,3 +3,9 @@
 .bg-dark {
 	background-color: #67269c !important;
 }
+
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+	word-break: break-all !important;;
+}
