@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.red{
+	background: red;
+	height: 50px;
+}
+.green{
+	background: green;
+	height: 50px;
+}
+.cyan{
+	background: cyan;
+	height: 50px;
+}
+
+.nopadding{
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
