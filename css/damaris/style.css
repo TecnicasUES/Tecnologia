@@ -4,3 +4,9 @@
   background-color: #0e6568 !important;
 
 }
+
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+  word-wrap: break-word;
+}
