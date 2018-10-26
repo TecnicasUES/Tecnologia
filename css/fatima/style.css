@@ -2,3 +2,12 @@
 .bg-dark {
 	background-color: #7656a4 !important;
 }
+
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+	word-wrap: break-word;
+} 
+.alturita{ 
+	height: 100px;
+ }
