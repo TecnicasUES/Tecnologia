@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.bg-dark {
+	background-color: #f63d16 !important;
+}
+
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+	word-wrap: break-word;
+}
+
+.alturita{
+	height: 100px;
+}
