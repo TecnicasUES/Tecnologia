@@ -20,11 +20,10 @@
 		background: url('../../img/to-top1.png') no-repeat 0px 0px;
 	}
 </style>
-
 </head>
 <body>
 	<header>
-		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
 			<a class="navbar-brand" href="#">MENU BASICO</a>
 			<button class="navbar-toggler" type="button" 
 			data-toggle="collapse" 
@@ -37,21 +36,20 @@
 		<div class="collapse navbar-collapse float-right" id="cafeconpan">
 			<ul class="navbar-nav ml-auto"> <!-- al padre se le coloco float-right y al hijo ml-auto -->
 				<li class="nav-item active">
-					<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+					<a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Features</a>
+					<a class="nav-link" href="#sec1">Seccion1</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Pricing01</a>
+					<a class="nav-link" href="#sec2">Seccion2</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Pricing02</a>
+					<a class="nav-link" href="#sec3">Seccion3</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#">Pricing03</a>
 				</li>
-
 			</ul>
 		</div>
 	</nav>
@@ -79,7 +77,6 @@
 				<span class="sr-only">Next</span>
 			</a>
 		</div>
-
 	</article>
 	<br>
 	<article id="sec1">
@@ -100,7 +97,6 @@
 	<article id="sec2">
 		<div class="container">
 			<div class="row">
-
 				<div class="col-lg-5">
 					<img src="../../img/ipad.png" class="img-fluid">
 				</div>
@@ -146,10 +142,13 @@
 </footer>
 <script type="text/javascript"  src="../../js/jquery-1.12.4.js"></script>
 <script type="text/javascript"  src="../../js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../../js/smooth-scroll.polyfills.js"></script>
 <script>
-	$('.carousel').carousel({
-		interval: 2000
+	$('.carousel').carousel({interval: 2000
 	})
+</script>
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]');
 </script>
 </body>
 </html>
