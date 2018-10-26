@@ -1,1 +1,4 @@
 @charset "utf-8";
+.bg-dark {
+	background-color: #b65a0c !important;
+}
