@@ -13,9 +13,9 @@
 		bottom: 14px;
 		right: 3%;
 		overflow: hidden;
-		width: 40%;
-		height: 40%;
-		background: url('../../img/top-Top.png') no-repeat 0px 0px;
+		width: 40px;
+		height: 40px;
+		background: url('../../img/to-top1.png') no-repeat 0px 0px;
 		text-indent: 100%;
 		border: none;
 		}
@@ -39,13 +39,13 @@
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
+        <a class="nav-link" href="#sec1">Features</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
+        <a class="nav-link" href="#sec2">Pricing</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
+        <a class="nav-link disabled" href="#sec3">Disabled</a>
       </li>
     </ul>
   </div>
@@ -89,20 +89,78 @@
 				</p>
 				
 				</div>
-			<div class="col-lg-5"></div>
+			<div class="col-lg-5">
+				<img src="../../img/ipad.png" class="img-fluid">
+			</div>
 		</div>
 		</div>
 	</article>
 </section>
+<article id="sec2">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-5">
+				<img src="../../img/ipad.png" class="img-fluid">
+			</div>
+				<div class="col-lg-7">
+					<hr>
+				<h1 class="section_heading">Titulo-1</h1>
+				<br>
+				<p class="lead">vapevapevapevapevapevapevapevapevapevapevapevape
+				vapevapevapevapevapevapevapevapevapevapevapevape
+				</p>
+				
+				</div>
+			
+		</div>
+		</div>
+	</article>
+	<article id="sec3">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7">
+					<hr>
+				<h1 class="section_heading">Titulo-1</h1>
+				<br>
+				<p class="lead">vapevapevapevapevapevapevapevapevapevapevapevape
+				vapevapevapevapevapevapevapevapevapevapevapevape
+				</p>
+				
+				</div>
+			<div class="col-lg-5">
+				<img src="../../img/ipad.png" class="img-fluid">
+			</div>
+		</div>
+		</div>
+	</article>
 
-<footer></footer>
+<footer id=	"pie">
+	<div class="container-fluid bg-dark altura">
+		<div class="row">
+			<div class="col-lg-12">
+				<p class="text-white text-center"> ejercicio final</p>
+			</div>
+		</div>
+	</div>
+	<div name="top">
+			<a href="#" id="toTop" style="display:block">
+				<span id="toTopHover" style="opacity:1"></span>
+			</a>
+	</div>
+
+</footer>
+<script type="text/javascript" src="../../js/jquery-1.12.4.js"></script>
+<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+<script type="text/javascript"  src="../../js/smooth-scroll.polyfills.js
+"></script>
 <script>
 	$('.carousel').carousel({
 		interval: 2000
 	})
 </script>
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]');
+</script>
 
 </body>
-<script type="text/javascript" src="../../js/jquery-1.12.4.js"></script>
-<script type="text/javascript" src="../../js/bootstrap.min.js"></script
 </html>
