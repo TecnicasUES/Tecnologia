@@ -3,3 +3,13 @@
 .bg-dark {
 	background-color: #f33011 !important;
 }
+
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+	word-wrap: break-word; 
+}
+
+.altura{
+	height: 100px;
+}
