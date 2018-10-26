@@ -2,3 +2,12 @@
 .bg-dark {
 	background-color: #1a2f8a !important;
 }
+.lead{
+	font-size: 1.25rem;
+	font-weight: 300;
+	word-wrap: break-word;
+	text-align: center;
+}
+.altura{
+	height: 75px;
+}
