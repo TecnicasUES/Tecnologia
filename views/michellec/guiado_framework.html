@@ -23,7 +23,7 @@
 </head>
 <body>
 	<header>
-		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
 			<a class="navbar-brand" href="#">Navbar</a>
 			<button class="navbar-toggler" type="button" 
 			data-toggle="collapse" 
@@ -39,13 +39,13 @@
 						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Features</a>
+						<a class="nav-link" href="#sec1">Sección 1</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#">Pricing</a>
+						<a class="nav-link" href="#sec2">Sección 2</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link disabled" href="#">Disabled</a>
+						<a class="nav-link disabled" href="#sec3">Sección 3</a>
 					</li>
 				</ul>
 			</div>
@@ -75,12 +75,77 @@
 				</a>
 			</div>
 		</article>
+		<br>
+		<article id="sec1">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-7">
+						<hr>
+						<h1 class="section-heading">Título 1</h1>
+						<br>
+						<p class="lead">All API methods are asynchronous and start a transition. They return to the caller as soon as the transition is started but before it ends. In addition, a method call on a transitioning component will be ignored.</p>
+					</div>
+					<div class="col-lg-5">
+						<img src="../../img/ipad.png" class="img-fluid">
+					</div>
+				</div>
+			</div>
+		</article>
+				<article id="sec2">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5">
+						<img src="../../img/ipad.png" class="img-fluid">
+					</div>
+					<div class="col-lg-7">
+						<hr>
+						<h1 class="section-heading">Título 2</h1>
+						<br>
+						<p class="lead">All API methods are asynchronous and start a transition. They return to the caller as soon as the transition is started but before it ends. In addition, a method call on a transitioning component will be ignored.</p>
+					</div>
+				</div>
+			</div>
+		</article>
+				<article id="sec3">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-7">
+						<hr>
+						<h1 class="section-heading">Título 3</h1>
+						<br>
+						<p class="lead">All API methods are asynchronous and start a transition. They return to the caller as soon as the transition is started but before it ends. In addition, a method call on a transitioning component will be ignored.</p>
+					</div>
+					<div class="col-lg-5">
+						<img src="../../img/ipad.png" class="img-fluid">
+					</div>
+				</div>
+			</div>
+		</article>
 	</section>
-	<footer></footer>
+	<br>
+	<footer id="pie">
+		<div class="container-fluid bg-dark altura">
+			<div class="row">
+				<div class="col-lg-12">
+					<br>
+					<p class="text-warning text-center">Ejercicio Guiado</p>
+				</div>
+			</div>
+		</div>
+		<div name="top">
+			<a href="#" id="toTop" style="display: block">
+				<span id="toTopHover" style="opacity: 1"></span>
+			</a>
+		</div>
+	</footer>
 
-<script type="text/javascript"  src="../../js/jquery-1.12.4.js"></script> <script type="text/javascript"  src="../../js/bootstrap.min.js"></script>
-<script>$('.carousel').carousel({
-	interval: 3000
-})</script>
+	<script type="text/javascript"  src="../../js/jquery-1.12.4.js"></script> <script type="text/javascript"  src="../../js/bootstrap.min.js"></script>
+	<script type="text/javascript"  src="../../js/smooth-scroll.polyfills.js"></script>
+	<script>$('.carousel').carousel({
+		interval: 3000
+	})</script>
+	<script>
+		var scroll = new SmoothScroll('a[href*="#"]')
+	</script>
 </body>
 </html>
