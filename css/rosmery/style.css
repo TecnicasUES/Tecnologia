@@ -9,3 +9,11 @@
 	font-weight: 300;
 	word-break: break-all !important;
 }
+
+#secciones{
+	background:  #260e3b !important;
+	color: white;
+}
+.col-lg-6{
+	margin-top: 50px;
+}
