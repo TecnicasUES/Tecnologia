@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+header{
+	border-bottom: color  solid #89cbca 3px;
+}
+
+.bg-dark{
+  background-color: #212b2b !important;
+}
+
+
+.col-lg-7{
+  background-color: #353839 !important;
+}
+
+.row{
+	background-color: #16181b;
+	
+
+}
+
+	
