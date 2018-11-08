@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>tarea5_xiomara</title>
+	<link rel="stylesheet" type="text/css" href="../../css/xiomara/bootstrap.css">
+	<link rel="stylesheet" href="../../css/xiomara/style.css">
+
+	<style>
+		#toTop{
+			display: none;
+			text-decoration: none;
+			position: fixed;
+			bottom: 14px;
+			right: 3%;
+			overflow: hidden;
+			width: 40px;
+			height: 40px;
+			background: url('../../img/to-top1.png') no-repeat 0px 0px;
+			text-indent: 100%;
+			border: none;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+			<a class="navbar-brand" href="#">Xiomara Serrano</a>
+			<button class="navbar-toggler" type="button" 
+			data-toggle="collapse" 
+			data-target="#navbarNav" 
+			aria-controls="navbarNav" 
+			aria-expanded="false" 
+			aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse float-right" id="navbarNav">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#sec1">Muestra de Trabajos</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#sec2">Ilustración</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#sec3">Fotografía</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#sec3">Diseño</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+	<section>
+		<article name="carousel">
+			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img class="d-block w-100" src="../../img/xiomara_img/banner1.jpg" alt="First slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="../../img/xiomara_img/banner2.jpg" alt="Second slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="../../img/xiomara_img/banner3.jpg" alt="Third slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="../../img/xiomara_img/banner4.jpg" alt="Fourth slide">
+					</div>
+				</div>
+				<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+				</a>
+				<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+				</a>
+			</div>
+		</article>
+		<br>
+		<article id="sec1">
+			<div class="container">
+					<div class="row">
+						<div class="col-lg-7">
+							<hr>
+							<h1 class="section-heading">Ilustración</h1>
+							<br>
+							<p class="lead"> Ilustración digital de la princesa Zelda del videojuego The Leyend of Zelda Breath of the Wild.</p>
+						</div>
+						<div class="col-lg-5">
+							<img src="../../img/xiomara_img/trabajo1.jpg" class="img-fluid">
+						</div>
+				</div>
+			</article>
+			<br>
+			<article id="primero">
+			<div class="container">
+					<div class="row">
+						<div class="col-lg-5">
+							<img src="../../img/xiomara_img/trabajo2.jpg" class="img-fluid">
+						</div>
+						<div class="col-lg-7">
+							<hr>
+							<h1 class="section-heading">Branding Corporativo</h1>
+							<br>
+							<p class="lead"> Diseño de logo y creación de branding corporativo para la escuela Casa del Origami.</p>
+						</div>
+				</div>
+			</article>
+			<br>
+			<article id="segundo">
+			<div class="container">
+					<div class="row">
+						<div class="col-lg-7">
+							<hr>
+							<h1 class="section-heading">Diseño Editorial</h1>
+							<br>
+							<p class="lead"> Diseño de la revista ecológica Eco Magazine.</p>
+						</div>
+						<div class="col-lg-5">
+							<img src="../../img/xiomara_img/trabajo3.jpg" class="img-fluid">
+						</div>
+				</div>
+			</article>
+	</section>
+	<footer class="pie">
+		<div class="container-fluid bg-dark altur">
+			<div class="row">
+				<div class="col-lg-12">
+					<p class="text-white text-center">FS14005</p>
+				</div>
+			</div>
+		</div>
+			<div name="top">
+				<a href="#" id="toTop" style="display: block;">
+					<span id="toTopHover" style="opacity: 1;"></span>
+				</a>
+			</div>
+	</footer>
+	<script type="text/javascript"  src="../../js/jquery-1.12.4.js"></script>
+<script type="text/javascript"  src="../../js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../../js/smooth-scroll.polyfills.js"></script>
+<script type="text/javascript">
+	$('.carousel').carousel({
+  		interval: 3000
+    })
+</script>
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]');
+</script>
+</body>
+</html>
