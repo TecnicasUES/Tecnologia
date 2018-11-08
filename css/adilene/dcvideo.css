@@ -8,10 +8,10 @@ header{
   background-color: #212b2b !important;
 }
 
-@media(min-width: 768px){
-	a{
-		color: #9ec8c8;
-	}
+.navbar-light .navbar-brand {
+
+    color: #9ec8c8 !important; 
+
 }
 
 .col-lg-7{
