@@ -11,5 +11,12 @@
 }
 
 .altura{
-	height: 100px;
+	height: 50px;
 }
+
+.col-lg-12{
+	color: white;
+	top: 10px;
+
+}
+
