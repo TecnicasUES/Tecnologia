@@ -3,7 +3,9 @@
 
 h1 {
 	font-family: hype;
+	font-size: 36pt;
 }
+
 p{
 	font-weight: lighter;
 }
@@ -13,4 +15,22 @@ p{
 
 .altura{
 	height: 75px;
+}
+button{
+	text-decoration: none;
+	border: 1px solid gray;
+	height: 30px;
+	border-radius: 5px;
+	width: 15%;
+	background: white;
+	text-align: center;
+	margin-left: 85%;
+	font-family: calibri;
+}
+
+button:hover{
+	background: #cccccc !important;
+}
+.container{
+	height: 400px;
 }
