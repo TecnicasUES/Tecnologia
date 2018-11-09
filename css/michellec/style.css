@@ -1,9 +1,12 @@
 @charset "utf-8";
 
-body{
-	font-family: arial;
-}
 
+h1 {
+	font-family: hype;
+}
+p{
+	font-weight: lighter;
+}
 .bg-dark {
 	background-color: #505a72 !important;
 }
