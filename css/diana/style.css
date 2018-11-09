@@ -1,5 +1,8 @@
 @charset "utf-8";
 
+.bg-dark {
+	background-color: #2e2d55 !important;
+}
 .navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
 
     color: #ffff !important;
