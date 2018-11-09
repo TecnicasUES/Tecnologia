@@ -3,3 +3,10 @@
 .bg-dark {
 	background-color: #070935 !important;
 }
+
+.background{
+	width: 1663px;
+	height: 70px;
+	background: black;
+	color: white;
+}
