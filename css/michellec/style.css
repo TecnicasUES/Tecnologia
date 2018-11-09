@@ -1,11 +1,8 @@
 @charset "utf-8";
 
-.container{
-	height: 400px;
-}
+
 h1 {
 	font-family: hype;
-	font-size: 36pt;
 	font-weight: bolder;
 }
 p{
@@ -17,7 +14,7 @@ p{
 .altura{
 	height: 65px;
 }
-button{
+.internos{
 	text-decoration: none;
 	border: 1px solid gray;
 	height: 30px;
@@ -27,7 +24,21 @@ button{
 	text-align: center;
 	margin-left: 85%;
 	font-family: calibri;
+	margin-bottom: 20px;
 }
 button:hover{
 	background: #cccccc !important;
+}
+@media (min-width: 200px){
+	h1{
+		font-size: 24pt;
+	}
+}
+@media (min-width: 200px){
+	.internos{
+		width: 25%;
+		margin-left: 70%;
+		height: 40px;
+		font-size: 10pt;
+	}
 }
