@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+.bg-dark{
+  background-color: #094a63 !important;
+}
+
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+  word-wrap: break-word;
+}
+
+	#toTop{
+		display:none; 
+		text-decoration: none;
+		position: fixed;
+		bottom: 14px;
+		right: 3%;
+		overflow: hidden;
+		width: 40px;
+		height: 40px;
+		border: none;
+		text-indent: 100%;
+		background: url("../../img/adilene_img/toTop.png") no-repeat 0px 0px;
+	}
+
+.bg-light {
+
+    background-color: #212220 !important;
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+
+    color: rgba(255, 255, 255, 0.9);
+
+}

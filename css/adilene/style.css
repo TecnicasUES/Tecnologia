@@ -1,7 +1,7 @@
 @charset "utf-8";
 
-.bg-dark{
-  background-color: #094a63 !important;
+.bg-light{
+  background-color: #d8c3a7 !important;
 }
 
 .lead {
@@ -9,3 +9,4 @@
 	font-weight: 300;
   word-wrap: break-word;
 }
+
