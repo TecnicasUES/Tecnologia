@@ -10,3 +10,20 @@
 	background: black;
 	color: white;
 }
+
+@media (min-width: 576px){h1{
+	color: #0B0C38;
+	font-size: 30pt;
+}
+
+@media (min-width: 768px){h1{
+	color: #0B0C38;
+	font-size: 50pt;
+}
+
+@media (min-width: 992px){h1{
+	color: #0B0C38;
+	font-size: 60pt;
+}
+	
+
