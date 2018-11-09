@@ -2,3 +2,10 @@
 .bg-dark{
 	background-color: #322F38 !important;	
 }
+.alto{
+	height: 60px;
+}
+h1{
+	font-family: Calibri;
+	font-weight: bolder;
+}
