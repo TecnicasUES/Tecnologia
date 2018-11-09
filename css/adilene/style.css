@@ -10,3 +10,14 @@
   word-wrap: break-word;
 }
 
+header{
+	border-bottom: 3px solid #5f473d !important;
+}
+
+.btn-outline-success {
+	color: #7c7e7d;
+    background-color: transparent;
+    background-image: none;
+    border-color: #181a18;
+
+}
