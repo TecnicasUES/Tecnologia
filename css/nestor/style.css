@@ -8,3 +8,12 @@
 .altura2{
 	height: 70px;
 }
+.section-heading{
+	font-weight: bolder;
+	color: #bf0c2c;
+	font-family: altair;
+}
+.lead{
+	color: #02173e;
+
+}
