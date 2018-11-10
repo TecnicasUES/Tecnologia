@@ -9,10 +9,10 @@
 	src:url(../../fonts/ElegantLux-Mager.otf);
 }
 
-.portafolio1{
+.porta1{
 	font-family: ElegantLux-Mager;
     font-size: 18pt;
-	color: white;
+	color: white !important;
 
 }
 
