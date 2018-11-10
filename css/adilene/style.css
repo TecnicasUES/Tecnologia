@@ -13,5 +13,10 @@ header{
     background-color: transparent;
     background-image: none;
     border-color: white;
+}
 
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #cd9c2e;
+    border-color: #cd9c2e;
 }
