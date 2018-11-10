@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.bg-dark {
+	background-color: #aa1018 !important;
+}
+
+@font-face{
+	font-family: ElegantLux-Mager ;
+	src:url(../../fonts/ElegantLux-Mager.otf);
+}
+
+.portafolio1{
+	font-family: ElegantLux-Mager;
+    font-size: 18pt;
+	color: white;
+
+}

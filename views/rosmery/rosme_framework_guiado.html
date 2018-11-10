@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>rosme ejercicio guiado</title>
+	<title>ROSME FRAMEWORK</title>
 	<link rel="stylesheet" type="text/css" href="../../css/rosmery/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="../../css/rosmery/style.css">
 	<link rel="shortcut icon" href="../../img/rosmery_img/rosme.png" type="image/x-icon">
@@ -23,6 +23,8 @@
 	}
 </style>
 </head>
+
+
 <body>
 	<header>
 		<nav class="navbar navbar-expand-lg navbar-light bg-dark fixed-t">
@@ -39,18 +41,20 @@
 		<div class="collapse navbar-collapse float-right" id="navbarNav">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item active">
-					<a class="nav-link" href="#">EDICIÓN FOTOGRÁFICA<span class="sr-only">(current)</span></a>
+					<a class="nav-link" href="#sec1">EDICIÓN FOTOGRÁFICA<span class="sr-only">(current)</span></a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">3D LETTERING</a>
+					<a class="nav-link" href="#sec2">3D LETTERING</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">MULTIMEDIA</a>
+					<a class="nav-link" href="#sec3">MULTIMEDIA</a>
 				</li>
 			</ul>
 		</div>
 	</nav>
 </header>
+
+
 <section>
 	<article id="banner">
 		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -143,15 +147,19 @@
 				</div>
 			</div>
 		</div>
-
 	</article>
 </section>
+
 <footer>
-	<div class="container-fluid bg-dark alturita">
+	<div>
+		<img src="../../img/rosmery_img/footer-01.jpg">
+	</div>
+	<div class="container-fluid bg-dark">
 		<div class="row">
 			<div class="col-lg-12">
-				<p class="text-white text-center"> 
-					Ejercicio Final
+				<p class="text-white text-center">
+					<br><br><br><br>
+					Rosmery De León DH14002
 				</p>
 			</div>
 		</div>
@@ -160,14 +168,20 @@
 		<a href="#" id="toTop" style="display: block">
 			<span id="toTopHover" style="opacity: 1"></span>
 		</a>
-	</div>	
+	</div>		
 </footer>
+
+
 <script type="text/javascript" src="../../js/jquery-1.12.4.js"></script>
 <script type="text/javascript" src="../../js/bootstrap.min.js"></script>
 <script type="text/javascript" src="../../js/smooth-scroll.polyfills.js"></script>
+
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]');
+</script>
+
 <script>$('.carousel').carousel({
 	interval: 2000
 })</script>
-
 </body>
 </html>

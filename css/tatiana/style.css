@@ -2,3 +2,19 @@
 .bg-dark{
 	background-color: #322F38 !important;	
 }
+.alto{
+	height: 60px;
+}
+@font-face{
+	font-family: trado;
+	src:url(../../fonts/trado.ttf);
+}
+h1{
+	font-family: trado;
+	color: #322F38;
+	letter-spacing: 5pt;
+	font-size: 30pt;
+}
+p{
+	font-weight: lighter;
+}

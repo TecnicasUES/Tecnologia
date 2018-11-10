@@ -1,0 +1,10 @@
+@charset "utf-8";
+.bg-dark {
+	background-color: #ee8b2f !important;
+}
+.altura{
+	height: 80px;
+}
+.col-lg-12{
+	color: white;
+}

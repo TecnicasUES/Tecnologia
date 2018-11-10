@@ -2,8 +2,9 @@
 
 
 h1 {
-	font-family: hype;
 	font-weight: bolder;
+	letter-spacing: 1pt;
+	font-size: 30pt;
 }
 p{
 	font-weight: lighter;
@@ -12,7 +13,7 @@ p{
 	background-color: #505a72 !important;
 }
 .altura{
-	height: 65px;
+	height: 115px;
 }
 .internos{
 	text-decoration: none;
@@ -29,11 +30,7 @@ p{
 button:hover{
 	background: #cccccc !important;
 }
-@media (min-width: 200px){
-	h1{
-		font-size: 24pt;
-	}
-}
+
 @media (min-width: 200px){
 	.internos{
 		width: 25%;
