@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.bg-dark {
+
+    background-color: #272b2c !important;
+
+}
+
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+  word-wrap: break-word;
+}
