@@ -1,0 +1,12 @@
+@font-face { 
+    /* Cambiar rutas a los archivos de fuentes. Asumo que creará una carpeta llamada fonts
+       así como se ilustra en las rutas de este ejemplo */
+    font-family: 'jelytta'; 
+    src: url('../../fonts/jelytta.eot'); 
+    src: url('../../fonts/jelytta.eot?#iefix') format('embedded-opentype'), 
+         url('../../fonts/jelytta.woff') format('woff'), 
+         url('../../fonts/jelytta.ttf') format('truetype'), 
+         url('../../fonts/jelytta.svg#LeagueGothic') format('svg'); 
+    font-weight: normal; 
+    font-style: normal; 
+}
