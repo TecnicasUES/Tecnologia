@@ -20,7 +20,28 @@
     background: #dc1822;
 }
 
-.nav-item1{
-	background-color: #aa1018 !important;
-	margin-right: %;
-	}
+.row{
+    background: #aa1018;
+}
+
+.l1{
+    background: white !important;
+}
+
+h1{
+   font-family: Elegantlux-Mager;
+   color: white;
+   text-align: center;
+}
+
+p{
+   font-family: Elegantlux-Mager;
+   color: gray;
+   text-align: center;
+}
+
+h2{
+   font-family: Elegantlux-Mager;
+   color: black;
+   text-align: center;
+}
