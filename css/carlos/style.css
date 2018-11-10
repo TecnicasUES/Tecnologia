@@ -1,4 +1,9 @@
 @charset "utf-8";
 .bg-dark {
-	background-color: black !important ;
+	background-color:#282828 !important ;
+}
+h2{
+	font-size: 32pt;
+	font-weight: bold;
+	color:#e0344c;
 }
