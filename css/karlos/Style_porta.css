@@ -15,3 +15,12 @@
 	color: white;
 
 }
+
+.navbar-nav>li:hover{
+    background: #dc1822;
+}
+
+.nav-item1{
+	background-color: #aa1018 !important;
+	margin-right: %;
+	}
