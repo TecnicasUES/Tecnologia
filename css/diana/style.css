@@ -14,3 +14,47 @@
     color: #ffff !important;
 
 }
+
+.section-heading{
+	font-family: Mohave;
+}
+
+
+h1, .h1 {
+	font-size: 3.5rem !important;
+}
+
+p, .lead{
+	font-size: 1.5rem !important;
+}
+
+a, .nav-link{
+	font-size: 1.2rem !important;
+
+}
+
+@media (min-width: 576px){
+	h1{
+		font-size: 30pt !important;
+	}
+}
+
+@media (min-width: 576px){
+	p{
+		font-size: 12pt !important;
+	}
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	margin-bottom: 0.5rem;
+	font-family: inherit;
+	font-weight: 600;
+	line-height: 1.2;
+	color: #2d2c4e;
+}
+
+section{
+	background: url('../../img/diana_img/fondo.jpg');
+	color: black;
+	opacity: 40%;
+}
