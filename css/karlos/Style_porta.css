@@ -25,6 +25,7 @@ h1{
    font-family: Elegantlux-Mager;
    color: black;
    text-align: center;
+   margin-top: 40px;
 }
 
 p{
@@ -39,4 +40,23 @@ p{
 
 .pie2{
 	background: black;
+}
+
+button{
+    background: #aa1018;
+    height: 40px;
+    width: 20%;
+    font-family: Elegantlux-Mager;
+    font-size: 15pt;
+    font-weight: lighter;
+    margin-left: 78%;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: 1px solid #aa1018;
+    text-align: center;
+    color:white;
+}
+
+button:hover{
+   background: #dc1822;
 }
