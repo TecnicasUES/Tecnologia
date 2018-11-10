@@ -1,0 +1,178 @@
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Alex Alonzo ejercicio guiado</title>
+		<link rel="stylesheet" type="text/css" href="../../css/alonzo/bootstrap.css">
+		<link rel="stylesheet" href="../../css/alonzo/style.css">
+		<style>
+		#toTop{
+			display: none;
+			text-decoration: none;
+			position: fixed;
+			bottom: 14px;
+			right: 3%;
+			overflow: hidden;
+			width: 40px;
+			height: 40px;
+			border: none;
+			text-indent: 100%;
+			background: url('../../img/to-top1.png') no-repeat 0px 0px;
+		}
+	</style>
+	</head>
+	<body>
+		<header>
+		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+			<a class="navbar-brand" href="#"><img src="../../img/alex_img/logo1.png" width="ml-auto" height="35px"></a>
+			<a class="navbar-brand" href="#">Portafolio</a>
+			<button class="navbar-toggler" type="button"
+			data-toggle="collapse"
+			data-target="#navbarNav"
+			aria-controls="navbarNav"
+			aria-expanded="false"
+			aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse float-right" id="navbarNav">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#sec1">Ilustración</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#sec2">Modelado 3D</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#sec3">Fotografía</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+	<section>
+		<section>
+		<article name="carousel">
+			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img class="d-block w-100" src="../../img/alex_img/banner.jpg" alt="First slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="../../img/alex_img/banner2.jpg" alt="Second slide">
+					</div>
+					<div class="carousel-item">
+						<img class="d-block w-100" src="../../img/alex_img/banner3.jpg" alt="Third slide">
+					</div>
+				</div>
+				<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+				</a>
+				<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+				</a>
+			</div>
+		</article>
+	</section>
+	<br>
+	<br>
+	<section>
+		<article class="container" id="sec1">
+			<div class="row">
+				<div class="col-lg-7">
+					<hr>
+					<h1 class="section-heading">ILUSTRACIÓN</h1>
+					<br>
+					<p class="lead"> 
+						<h3>Título: Butterfly.</h3>
+						<br>
+						Proyecto personal.
+						<br>
+						Programas: Photoshop
+						<br>
+						Año: 2018
+					</p>
+				</div>
+				<div class="col-lg-5">
+					<img src="../../img/alex_img/ilustracion1.jpg" class="img-fluid">
+				</div>
+			</div>	
+		</article>
+		<br>
+		<article class="container" id="sec2">
+			<div class="row">
+				<div class="col-lg-5">
+					<img src="../../img//alex_img/lowpoly.jpg" class="img-fluid">
+				</div>			
+			<div class="col-lg-7">
+				<hr>
+				<h1 class="section-heading">MODELADO 3D</h1>
+				<br>
+				<p class="lead">
+					<h3>Título: Navio.</h3>
+					<br>
+					Proyecto Académico.
+					<br>
+					Programas: Blender.
+					<br>
+					Año: 2018</p>
+			</div>
+			</div>
+		</article>
+		<br>
+		<article class="container" id="sec3">
+			<div class="row">
+				<div class="col-lg-7">
+					<hr>
+					<h1 class="section-heading">FOTOGRAFíA</h1>
+					<br>
+					<p class="lead">
+						<h3>Título: Lagartija.</h3>
+						<br>
+						Proyecto Académico.
+						<br>
+						Pais: El Salvador.
+						<br>
+						Año: 2018</p>
+					</p>
+				</div>
+				<div class="col-lg-5">
+					<img src="../../img/alex_img/fotografia.jpg" class="img-fluid">
+				</div>
+			</div>	
+		</article>
+	</section>
+	</section>
+	<footer>		
+		<div name="top">
+			<a href="#" id="toTop" style="display: block">
+				<span id="toTopHover" style="opacity: 1"></span>
+			</a>
+		</div>
+		<div>
+			<br>
+			<div class="agradecimiento">
+				<img class="d-block w-100" src="../../img/alex_img/gracias.jpg">
+			</div>
+		</div>
+		<div id="pie">
+			<div class="container-fluid bg-dark alturita">
+				<div class="row">
+					<div class="col-lg-12">
+						<p class="text-white text-center"> 
+							AP12027
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</footer>
+	<script type="text/javascript" src="../../js/jquery-1.12.4.js"></script>
+	<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../../js/smooth-scroll.polyfills.js"></script>
+	</body>
+	</html>
