@@ -20,17 +20,10 @@
     background: #dc1822;
 }
 
-.row{
-    background: #aa1018;
-}
-
-.l1{
-    background: white !important;
-}
 
 h1{
    font-family: Elegantlux-Mager;
-   color: white;
+   color: black;
    text-align: center;
 }
 
@@ -40,8 +33,10 @@ p{
    text-align: center;
 }
 
-h2{
-   font-family: Elegantlux-Mager;
-   color: black;
-   text-align: center;
+.pie1{
+	background: #801d20;
+}
+
+.pie2{
+	background: black;
 }
