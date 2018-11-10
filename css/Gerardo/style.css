@@ -1,6 +1,6 @@
 @charset "utf-8";
 .bg-dark {
-	background-color: black !important;
+	background-color: #f63700 !important;
 }
 
 .lead {
@@ -9,7 +9,7 @@
 	word-wrap: break-word;}
 
 	body{
-		background: url('../../img/gerardo_img/fondo1.png');
+		background: url('../../img/gerardo_img/fondo1.jpg');
 		color: white;
 		opacity: 50%;
 	}
