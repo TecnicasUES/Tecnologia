@@ -1,0 +1,17 @@
+@charset "utf-8";
+.bg-dark {
+	background-color: black !important;
+}
+
+.lead {
+	font-size: 1.25rem;
+	font-weight: 300;
+	word-wrap: break-word;}
+
+	body{
+		background: url('../../img/gerardo_img/fondo1.png');
+		color: white;
+		opacity: 50%;
+	}
+
+	
