@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+.altura{
+	height: 50px;
+}
+
+hr{
+	width: 90%;
+	height: 2px;
+	background-color: purple;
+}

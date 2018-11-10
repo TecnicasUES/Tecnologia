@@ -4,36 +4,37 @@
 	<meta charset="UTF-8">
 	<title>Agencia de Motos</title>
 	<link rel="stylesheet " type="text/css" href="../../css/moimartinez/bootstrap.css">
-	<link rel="stylesheet" href="../../css/moimartinez/style.css">
+	<link rel="stylesheet" href="../../css/moimartinez/stylemotos.css">
 
 	<style>
-			#toTop{
-				display: none;
-				text-decoration: none;
-				position: fixed;
-				bottom: 14px;
-				right: 3%;
-				overflow: hidden;
-				width: 40px;
-				height: 40px;
-				background: url('../../img/to-top1.png') no-repeat 0px 0px;
-				text-indent: 100%;
-				border:none;
-			}
-		</style>
+		#toTop{
+			display: none;
+			text-decoration: none;
+			position: fixed;
+			bottom: 14px;
+			right: 3%;
+			overflow: hidden;
+			width: 40px;
+			height: 40px;
+			background: url('../../img/to-top1.png') no-repeat 0px 0px;
+			text-indent: 100%;
+			border: none;
+		}
+	</style>
 
 </head>
 <body>
+
 	<header>
 		<div name="menu">
 			<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-				<a class="navbar-brand" href="#"><img src="../../img/motos1/logomoto-1.png" width="120px" height="38px" alt=""></a>
+				<a class="navbar-brand" href="#"><img src="../../img/motos1/logomoto-1.png" alt=""></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="collapse navbar-collapse float-right" id="navbarNav">
 					<ul class="navbar-nav ml-auto">
-						<li class="nav-item">
+						<li class="nav-item active">
 							<a class="nav-link" href="#sec1">BMW<span class="sr-only">(current)</span></a>
 						</li>
 						<li class="nav-item">
@@ -80,14 +81,11 @@
 		</article>
 
 		<br>
-		<hr>
-		<br>
-
 		<article class="container" id="sec1">
 			<div class="row">
 				<div class="col-lg-5">
 					<h1>BMW</h1>
-					<p>The BMW S 1000 RR led to a revolution in the supersport motorcycle category right from the outset. In the time since, the bike continued to be developed, its tried and tested concept being honed even further and the latest technology added. Because of its impressive power curve and performance, one constant factor remains: it is still a trailblazer today.</p>
+					<p>The BMW S 1000 RR led to a revolution in the supersport motorcycle category right from the outset. In the time since, the bike continued to be developed, its tried and tested concept being honed even further and the latest technology added. Because of its impressive power curve and performance, one constant factor remains: it is still a trailblazer today. The S 1000 RR now comes with DTC (Dynamic Traction Control) as standard for even greater riding dynamics and road safety. It is a thoroughbred among sport bikes – whether on the road or on the racing circuit, and its innovative technology allows you to experience its performance with greater intensity and immediacy than ever.</p>
 				</div>
 				<div class="col-lg-7">
 					<img src="../../img/motos1/bmw-s1000.jpg" class="img-fluid">
@@ -117,12 +115,11 @@
 			<div class="row">
 				<div class="col-lg-5">
 					<h1>HONDA</h1>
-					<p>Una motocicleta para una conducción deportiva sin olvidarse del mundo real.
-					<br/>
-					La nueva Honda CBR1000RR Fireblade es más ligera, más potente y cuenta con sistema electrónico muy avanzado, más todavía que el de su predecesora, que ofrece un rendimiento excepcional en todas las condiciones.</p>
+					<p>Completamente equipada para la carretera y para la pista.
+					Una de las numerosas funciones de la CBR1000RR son los tres modos de conducción seleccionables que te permiten adaptar la moto a las diferentes condiciones. Puedes programarla para un trayecto cómodo y fácil, o para un recorrido que te haga descargar toda la adrenalina.</p>
 				</div>
 				<div class="col-lg-7">
-					<img src="../../img/motos1/honda-cbr.jpg" class="img-fluid">
+					<img src="../../img/motos1/bmw-s1000.jpg" class="img-fluid">
 				</div>
 			</div>
 		</article>
@@ -142,22 +139,26 @@
 		</article>
 	</section>
 
+		<br>
+		<hr>
+		<br>
 	<footer>
 		<article name="visita">
 			<img src="../../img/motos1/gracias.png" class="img-fluid">
 		</article>
-		<div class="container-fluid bg-dark alturita">
+		<div class="container-fluid bg-dark altura">
 			<div class="col-lg-12">
-				<p class="text-white text-center">La mera Berengena</p>
+				<p class="text-white text-center">Moisés - Fernando - Jimmy</p>
 			</div>
 		</div>
 		<DIV name="top">
-				<a href="#" id="toTop" style="display: block;">
-					<span id="toTopHover" style="opacity: 1"></span>
-				</a>
-			</DIV>
+			<a href="#" id="toTop" style="display: block;">
+				<span id="toTopHover" style="opacity: 1"></span>
+			</a>
+		</DIV>
 	</footer>
 	
+
 	<script type="text/javascript" src="../../js/jquery-1.12.4.js"></script>
 	<script type="text/javascript" src="../../js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="../../js/smooth-scroll.polyfills.js"></script>
@@ -168,7 +169,7 @@
 		})
 	</script>
 	<script>
-		var scroll = new SmoothScroll('a[href*="#"]');
+		var scroll = new SmoothScroll ('a[href*="#"]');
 	</script>
 
 </body>
