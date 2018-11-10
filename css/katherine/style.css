@@ -9,14 +9,11 @@ body{
 
 }
 
-.section-heading{
-	font-family: myriad pro;
+.section-heading:{
+	font-family:myriad pro;
 	letter-spacing: 2px;
 	 color: #0f2536;
 	 font-size: 40pt;
 	 font-style: bold;
 }
 
-.navbar-brand{
-	font-family: amarillo;
-	

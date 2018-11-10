@@ -78,12 +78,10 @@ hr {
   height: 0;
   overflow: visible;
 }
-
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
-
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -5935,7 +5933,7 @@ button.close {
 .carousel-control-prev,
 .carousel-control-next {
   position: absolute;
-  top: 0;
+  top:0 ;
   bottom: 0;
   display: -ms-flexbox;
   display: flex;
@@ -5943,7 +5941,7 @@ button.close {
   align-items: center;
   -ms-flex-pack: center;
   justify-content: center;
-  width: 15%;
+  width: 5%;
   color: #fff;
   text-align: center;
   opacity: 0.5;
