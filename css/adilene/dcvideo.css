@@ -23,6 +23,18 @@ header{
     color: #9ec8c8 !important; 
 }
 
+body {
+    font-family: arial;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #77ccc8;
+    text-align: center;
+    letter-spacing: 1pt
+    font-size: 14.01pt;
+    font-weight: bold;
+}
+
 .form-control {
     display: block;
     width: 100%;
@@ -84,7 +96,7 @@ header{
 
 h1{
 	width: 100%;
-	height: 45px;
+	height: 100px;
 	font-family: arial;
 	letter-spacing: 3pt;
 	background: none;
@@ -151,7 +163,7 @@ p{
 	padding-top: 25px;
 	padding-bottom: 55px; 
 	background-color: #16181b;
-	}
+}
 
 .superman{
 	position: relative;
@@ -161,3 +173,25 @@ p{
 	float: left;
 	margin-left: 10%;
 	background: url('../../img/adilene_img/superman.jpg');
+}
+
+.banner{
+	height: 674px;
+	width: 100%;
+	background: url('../../img/adilene_img/Banner1.png') no-repeat;
+	margin-top: 20px;
+	padding: 0 !important;
+	margin: 0;
+	display: block;
+	margin-top: 20px;
+}
+
+.contenedor{
+	height: auto;
+	width: 40%;
+	float: left;
+	margin-top: 50px;
+	padding: 0 !important;
+	margin: auto;
+	background: cyan;
+}
