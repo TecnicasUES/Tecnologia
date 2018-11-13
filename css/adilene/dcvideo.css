@@ -132,7 +132,7 @@ p{
 	border-color: #06847a;
 }
 
-.col-lg-4{
+.justice{
 	position: relative;
 	top: -45px;
 	height: 338px;
@@ -152,3 +152,12 @@ p{
 	padding-bottom: 55px; 
 	background-color: #16181b;
 	}
+
+.superman{
+	position: relative;
+	top: -45px;
+	height: 338px;
+	width: 270px;
+	float: left;
+	margin-left: 10%;
+	background: url('../../img/adilene_img/superman.jpg');
