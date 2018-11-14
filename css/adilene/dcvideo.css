@@ -4,7 +4,7 @@ body{
 }
 
 header{
-	border-bottom: 3px solid #89cbca !important;
+	border-bottom: 5px solid #89cbca !important;
 }
 
 .bg-dark{
@@ -103,6 +103,19 @@ h1{
 	text-shadow: 5px 5px 5px #000;
 	float: left;
 	margin-left: 2%;
+	
+}
+
+h2{
+	width: 100%;
+	height: 40px;
+	font-family: arial;
+	letter-spacing: 3pt;
+	background: none;
+	color: #89cbca;
+	font-size: 20pt;
+	text-shadow: 5px 5px 5px #000;
+	float: center;
 }
 
 p{
@@ -181,6 +194,7 @@ p{
    width: 100%;
    text-align: center;
    margin-top: 20px;
+   border-bottom: 5px solid #89cbca !important;
 }
 
 .col-lg-4{
@@ -205,4 +219,14 @@ p{
     color: #b3dcda;
     background-color: #05847a;
     border-color: #05847a;
+}
+
+.contactanos {
+    background: #212b2b;
+    text-align: center;
+    height: 125px;		
+}
+
+.col-lg-11{
+	margin-top: 5px;
 }
