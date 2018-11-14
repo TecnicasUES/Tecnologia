@@ -92,6 +92,8 @@ body {
 	margin-top: 10px;
 }
 
+
+
 h1{
 	width: 100%;
 	height: 100px;
@@ -118,7 +120,6 @@ p{
 	letter-spacing: 1pt;
 	text-align: justify;
 }
-
 .col-lg-7{
 	background: none;
 	float: right;
@@ -129,9 +130,9 @@ p{
     background-color: #b3dcda;
     background-image: #b3dcda;
     border-color: #b3dcda;
-	font: arial;
+	  font: arial;
     letter-spacing: 1pt;
-	font-weight: bold;	
+	  font-weight: bold;	
 }
 
 .btn-outline-primary:hover {
@@ -196,13 +197,11 @@ p{
     color: #74908f;
     background-color: #213137;
     border-color: #213137;
-    font-family: arial;
-	letter-spacing: 1pt;
-	font-weight: bold	
 }
 
 .btn-primary:hover {
     color: #b3dcda;
     background-color: #05847a;
     border-color: #05847a;
+
 }
