@@ -1036,6 +1036,7 @@ pre code {
     -ms-flex: 0 0 41.666667%;
     flex: 0 0 41.666667%;
     max-width: 41.666667%;
+    height: 100px;
   }
   .col-md-6 {
     -ms-flex: 0 0 50%;
